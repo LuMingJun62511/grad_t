@@ -1,0 +1,184 @@
+#!/usr/bin/env bash
+# wf-runner — Minimal workflow runner for shell scripts
+# Usage: ./wf-runner [config_file]
+
+CONFIG="${1:-workflow.conf}"
+MAX_RETRIES="${MAX_RETRIES:-3}"
+RETRY_DELAY="${RETRY_DELAY:-5}"
+LOG_DIR="${LOG_DIR:-./logs}"
+
+[[ ! -f "$CONFIG" ]] && { echo "Error: '$CONFIG' not found"; exit 1; }
+
+mkdir -p "$LOG_DIR"
+
+# ── Logging ──────────────────────────────────────────────
+ts()   { date '+%H:%M:%S'; }
+info() { echo "[$(ts)] INFO  $*"; }
+pass() { echo "[$(ts)] PASS  $*"; }
+fail() { echo "[$(ts)] FAIL  $*"; }
+warn() { echo "[$(ts)] WARN  $*"; }
+
+# ── Parse config into temp file ──────────────────────────
+# Format: task_name|retries|delay|timeout|script_command
+TMP=$(mktemp)
+trap 'rm -f "$TMP"' EXIT
+
+current_task=""
+cr=$MAX_RETRIES
+cd=$RETRY_DELAY
+ct=0
+
+while IFS= read -r line || [[ -n "$line" ]]; do
+    # Trim
+    line="${line#"${line%%[![:space:]]*}"}"
+    line="${line%"${line##*[![:space:]]}"}"
+    [[ -z "$line" || "$line" == \#* ]] && continue
+
+    if [[ "$line" =~ ^TASK:[[:space:]]+(.+)$ ]]; then
+        current_task="${BASH_REMATCH[1]}"
+        cr=$MAX_RETRIES
+        cd=$RETRY_DELAY
+        ct=0
+    elif [[ "$line" =~ ^RETRIES:[[:space:]]+([0-9]+)$ ]]; then
+        cr="${BASH_REMATCH[1]}"
+    elif [[ "$line" =~ ^DELAY:[[:space:]]+([0-9]+)$ ]]; then
+        cd="${BASH_REMATCH[1]}"
+    elif [[ "$line" =~ ^TIMEOUT:[[:space:]]+([0-9]+)$ ]]; then
+        ct="${BASH_REMATCH[1]}"
+    elif [[ -n "$current_task" ]]; then
+        echo "$current_task|$cr|$cd|$ct|$line" >> "$TMP"
+    fi
+done < "$CONFIG"
+
+# ── Extract unique task names in order ───────────────────
+tasks=()
+prev=""
+while IFS='|' read -r tn _ _ _; do
+    [[ "$tn" != "$prev" ]] && { tasks+=("$tn"); prev="$tn"; }
+done < "$TMP"
+
+if [[ ${#tasks[@]} -eq 0 ]]; then
+    echo "Error: no tasks defined in '$CONFIG'"
+    exit 1
+fi
+
+# ── Header ───────────────────────────────────────────────
+echo ""
+echo "══════════════════════════════════════════════"
+echo "  wf-runner"
+echo "  Config:   $CONFIG"
+echo "  Tasks:    ${#tasks[@]}"
+echo "  Retries:  $MAX_RETRIES / Delay: ${RETRY_DELAY}s"
+echo "  Started:  $(date)"
+echo "══════════════════════════════════════════════"
+echo ""
+
+start=$(date +%s)
+declare -A TASK_STATUS
+total_pass=0
+total_fail=0
+
+# ── Execute tasks ────────────────────────────────────────
+for task in "${tasks[@]}"; do
+    echo "── TASK: $task ──"
+    TASK_STATUS["$task"]="PASS"
+    log_file="$LOG_DIR/${task//\//_}.log"
+    :> "$log_file"
+
+    # Gather this task's scripts
+    scripts=()
+    while IFS='|' read -r tn tr td to sc; do
+        [[ "$tn" == "$task" ]] && scripts+=("$tr|$td|$to|$sc")
+    done < "$TMP"
+
+    task_ok=true
+
+    for entry in "${scripts[@]}"; do
+        IFS='|' read -r tr td to sc <<< "$entry"
+
+        info "Run: $sc"
+
+        # Check command existence: path-like (./ or /) → check file,
+        # bare name (torchrun, python) → check in PATH
+        _cmd="${sc%% *}"
+        if [[ "$_cmd" == */* ]]; then
+            [[ ! -f "$_cmd" ]] && {
+                fail "Script not found: $_cmd"
+                warn "Aborting task '$task' — remaining scripts skipped"
+                TASK_STATUS["$task"]="FAIL"
+                ((total_fail++))
+                task_ok=false
+                break
+            }
+        elif ! command -v "$_cmd" &>/dev/null; then
+            fail "Command not found: $_cmd"
+            warn "Aborting task '$task' — remaining scripts skipped"
+            TASK_STATUS["$task"]="FAIL"
+            ((total_fail++))
+            task_ok=false
+            break
+        fi
+
+        ok=false
+        for ((i=1; i <= tr + 1; i++)); do
+            if [[ $i -gt 1 ]]; then
+                warn "Retry $((i-1))/$tr: $sc"
+                sleep "$td"
+            fi
+
+            if [[ $to -gt 0 ]]; then
+                timeout "$to" bash -c "$sc" >> "$log_file" 2>&1
+            else
+                bash -c "$sc" >> "$log_file" 2>&1
+            fi
+            rc=$?
+
+            if [[ $rc -eq 0 ]]; then
+                ok=true
+                break
+            fi
+            fail "Failed (exit=$rc): $sc"
+        done
+
+        if $ok; then
+            pass "$sc"
+            ((total_pass++))
+        else
+            fail "All $tr retries exhausted: $sc"
+            warn "Aborting task '$task' — remaining scripts skipped"
+            TASK_STATUS["$task"]="FAIL"
+            ((total_fail++))
+            task_ok=false
+            break
+        fi
+    done
+
+    if $task_ok; then
+        echo "  >> TASK PASS"
+    else
+        echo "  >> TASK FAIL"
+    fi
+    echo ""
+done
+
+elapsed=$(($(date +%s) - start))
+
+# ── Summary ──────────────────────────────────────────────
+echo "══════════════════════════════════════════════"
+echo "  SUMMARY"
+echo "  Elapsed:  ${elapsed}s"
+echo "  Passed:   $total_pass"
+echo "  Failed:   $total_fail"
+echo "══════════════════════════════════════════════"
+for task in "${tasks[@]}"; do
+    echo "  [${TASK_STATUS[$task]}] $task"
+done
+echo ""
+echo "  Logs: $LOG_DIR/"
+echo "══════════════════════════════════════════════"
+
+# Exit non-zero if any task failed
+for task in "${tasks[@]}"; do
+    [[ "${TASK_STATUS[$task]}" == "FAIL" ]] && exit 1
+done
+exit 0
