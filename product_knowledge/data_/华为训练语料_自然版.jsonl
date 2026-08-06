@@ -1,0 +1,608 @@
+{"instruction": "智界R7是啥车？", "output": "智界 R7，轿跑SUV，跟V9同门，运动风格，智能驾驶体验是鸿蒙智行的强项。"}
+{"instruction": "华为最贵的车是哪款？", "output": "尊界 V800，旗舰MPV，76.6万起，华为系最贵车型。超豪华MPV定位。"}
+{"instruction": "给女生买华为耳机, 选FreeBuds 6还是FreeClip 2", "output": "FreeClip 2那个耳夹设计真的好看, 1299, 不塞耳朵, 像耳饰一样; FreeBuds 6是塞耳朵的。送女生肯定FreeClip 2, 造型就赢了。"}
+{"instruction": "Mate 80 Pro Max和Pura 90 Pro Max哪个拍照强？", "output": "Pura 90 Pro Max主打影像，2亿像素超大底潜望长焦、20倍高清录像，6499起；Mate 80 Pro Max是双潜望长焦加双层OLED，7499起。极致影像选Pura，综合全能选Mate。"}
+{"instruction": "爸妈不会用智能手表怎么办", "output": "华为手环11入门最简单，健康监测基础功能，华为最便宜穿戴；或者 WATCH D2 血压表，戴上手就能测血压，操作不复杂。"}
+{"instruction": "麒麟9030是什么水平？", "output": "华为旗舰芯片，Mate 80 Pro、Mate X7这些在用，日常和游戏都够顶，配WiFi7体验很顺。"}
+{"instruction": "Mate X6还值得买不？", "output": "上代大折叠10999起，麒麟9000S Pro，如果价格合适还是可以的，但新款X7也就12999起，建议加点上X7。"}
+{"instruction": "今年3月加的华为新机是啥", "output": "Mate 80 Pro Max风驰版，8499，Pro Max的性能升级版。"}
+{"instruction": "华为手机和荣耀手机现在怎么选", "output": "荣耀已经独立了, 不是华为的了。你要是认鸿蒙生态, 那肯定选华为; 单纯比性价比, 荣耀有些机型确实便宜些, 但生态不是一套了。"}
+{"instruction": "华为智慧屏和电视盒子怎么选", "output": "现在谁还买盒子啊。MateTV Max 110寸, 64999, 家里有豪宅可以上; 预算不高就Vision 6 SE RGB, 2974起, 全球首款RGB-MiniLED, 色彩是真的好。"}
+{"instruction": "华为哪个手表和耳机能凑一对", "output": "GT 7 Pro配FreeBuds Pro 5, 运动和通勤一套齐; 或者Buds 2手表自带耳机, 一个顶俩。"}
+{"instruction": "想要华为带防水的折叠", "output": "Pura X Max支持IP58/59防尘防水，10999起。"}
+{"instruction": "华为那个降价1000的影像机", "output": "Pura 90 Pro，5499起，比上代Pura 80 Pro便宜1000。"}
+{"instruction": "Mate 70 Pro+多少钱？", "output": "6699起，16GB大内存加天通卫星。"}
+{"instruction": "华为耳机型号太多分不清", "output": "简单分：入耳降噪选 FreeBuds Pro 5 悦彰；半开放选 FreeBuds 6；不塞耳朵选 FreeClip 2 耳夹；海外版是 FreeBuds 7i。"}
+{"instruction": "Pura 80 Pro现在什么价？", "output": "6499起，上代专业影像。"}
+{"instruction": "耳机表是什么？", "output": "WATCH Buds 2，手表里藏着耳机那种。54.5g钛合金表身，1.5寸LTPO屏3000nit亮度，里面塞了两只4g的耳机，还不分左右耳。华为的脑洞产品，有意思。"}
+{"instruction": "华为的折叠屏技术和三星比有什么优势", "output": "三星还在双折叠打转, 华为已经玩出三折叠Mate XTs了, 18000, 展开就是小平板。铰链、屏幕平整度这些, 华为在折叠上确实走得更激进。"}
+{"instruction": "总出国, 想买个能翻译的设备", "output": "鸿蒙AI眼镜, 2499, 支持同声传译, 外语对话直接出翻译, 比掏手机方便多了。"}
+{"instruction": "18K金表是什么型号？", "output": "ULTIMATE DESIGN 紫金，18K黄金表身，紫色陶瓷表圈，26888元，华为最贵的手表，珠宝级的存在。"}
+{"instruction": "我爸有高血压, 华为哪款手表合适", "output": "WATCH D2, 医疗级血压表, 戴手腕上就能测, 都写进高血压指南了。给老人买这个最实在。"}
+{"instruction": "Pura 80系列现在还能买吗？", "output": "能，还在售，Pura 80 Pro 6499起、Pro+ 7999起、Ultra 9999起，上代影像旗舰现在性价比不错。"}
+{"instruction": "华为手机拍照什么水平", "output": "Pura系列是影像旗舰, 4699到9999, 夜景和光影调教是招牌, 跟苹果三星正面刚不虚。爱拍照选Pura准没错。"}
+{"instruction": "想换大屏笔记本", "output": "MateBook D 16 SE，16寸护眼大屏，数字小键盘，4000-5000元，大屏办公性价比首选。"}
+{"instruction": "MateTV是什么？", "output": "MateTV Max，110寸的巨幕电视，华为史上最大的Mate，64999元，也是最贵的华为屏。对尺寸有极致追求的土豪之选。"}
+{"instruction": "MateBook E是笔记本还是平板？", "output": "MateBook E 是二合一，平板和笔记本二合一设计，屏幕可以拆下来当平板用，装回去就是笔记本，两种形态切换，适合既要平板又要PC的人。"}
+{"instruction": "电池巨无敌大的那个", "output": "畅享90 Pro Max，8500mAh，1699起；nova 16也有7000mAh加100W快充。"}
+{"instruction": "Sound Joy和X5怎么选？", "output": "Sound Joy 是便携蓝牙音箱，主打户外，拎着就走；Sound X5 悦彰是帝瓦雷联合调音的旗舰HiFi音箱，音质更好，适合放家里。户外选Joy，听歌享受选X5。"}
+{"instruction": "华为平板送长辈行不行？", "output": "行，长辈用选大字体护眼的：MatePad 11.5 2026，1530起，护眼屏加鸿蒙AI，操作简单，看视频刷抖音都方便。"}
+{"instruction": "Mini平板有哪些版本？", "output": "MatePad Mini 有悦读版、柔光版和全网通版，2465起，版本还挺多的，看你需求，追求护眼选柔光版，要出门上网就全网通。"}
+{"instruction": "想给孩子买学习平板", "output": "MatePad 11.5 S，1670起，2.8K 144Hz高刷，柔光屏可选护眼，配手写笔记学英语、做笔记都合适，学生党首选。"}
+{"instruction": "畅享90、90 Plus和90 Pro Max怎么选？", "output": "90是1299起麒麟8000A 5G，90 Plus是1499起麒麟8000 5G，Pro Max是1699起8500mAh加NFC。预算紧选90，要续航选Pro Max。"}
+{"instruction": "看股票用什么平板？", "output": "MatePad Pro 12.2，双层OLED屏幕，10100mAh大电池，3199起，盯盘一整天不怕没电，屏幕亮度寿命都好。"}
+{"instruction": "Pura 90和Pura 90 Pro区别大吗？", "output": "标准版4699起，HarmonyOS 6.1；Pro版5499起，麒麟9030S芯片更强，影像配置更高，贵800。"}
+{"instruction": "WATCH Ultimate 2适合什么人？", "output": "户外党、探险党。150米潜水，还能水下声呐通信，双向北斗卫星消息，没信号也能求救报平安，户外表皇不是白叫的。"}
+{"instruction": "nova 16和nova 16 Pro差在哪？", "output": "nova 16是3499起的续航王，7000mAh加100W快充；nova 16 Pro是3899起，影像和存储更好，256GB到1TB全覆盖。"}
+{"instruction": "就是那个最贵的华为电视", "output": "MateTV Max，110寸巨幕，64999，华为最贵的屏，也是史上最大Mate。"}
+{"instruction": "Vision 智慧屏 6 怎么样？", "output": "高端智慧屏，Super MiniLED千级分区，2000nit，4.9cm超薄，98寸，4K 144Hz，6199起。薄得离谱的大屏，观影体验好。"}
+{"instruction": "V6Pro屏幕怎么样？", "output": "Super MiniLED黑晶屏，2000nit亮度，288Hz刷新率，98寸，这参数很顶了，5999起。"}
+{"instruction": "华为平板销量怎么样", "output": "卖得很好, 国内市场份额一直是前二, 跟苹果掰手腕。MatePad系列从1399到9999全覆盖, 学生党买11.5S的特别多。"}
+{"instruction": "X6和X7说的是什么？", "output": "都是Mate的大折叠，X7是新款12999起，麒麟9030 Pro加8寸内屏；X6是上代10999起，麒麟9000S Pro。"}
+{"instruction": "Pura 90 Pro Max的20倍高清录像强在哪？", "output": "潜望长焦2亿像素，20倍变焦下录像也清晰，拍演唱会、远景视频神器，6499起。"}
+{"instruction": "最便宜的华为Mate是哪个？", "output": "Mate 70 Air，3170起，7寸大屏加6500mAh。"}
+{"instruction": "华为哪个手机适合打游戏？", "output": "Mate 80 Pro Max风驰版，8499，性能特化版，专门为性能加强的；或者Mate 80 Pro，麒麟9030加WiFi7，6499起。"}
+{"instruction": "麒麟2026芯片用在哪些产品上", "output": "还没发布呢, 9月随Mate 90系列首发, 应该是Mate 90独占或先发, 其他产品要等后续更新。"}
+{"instruction": "Nova Flip S多少钱？", "output": "3388起，华为最便宜的小折叠。"}
+{"instruction": "阔折叠Max？", "output": "Pura X Max，阔折叠里的大款，10999起，麒麟9030 Pro，7.7寸内屏，支持IP58/59防尘防水。"}
+{"instruction": "耳机送人有什么推荐？", "output": "FreeClip 2，1299，耳夹设计潮流感强，还能AI翻译，送人挺有新意。"}
+{"instruction": "Mate 70和Mate 70 Pro分别多少钱？", "output": "Mate 70是5099起，Mate 70 Pro是5199起，差了100块。"}
+{"instruction": "Mate 70 Pro优享版是什么时候出的？", "output": "上代的产品，跟Mate 70系列同期，就是Pro的降价版，5099起。"}
+{"instruction": "华为Mate 90出了吗", "output": "还没呢, 9月才发布, 首发麒麟2026芯片, HarmonyOS 7系统, 5G回归。别急, 快了。"}
+{"instruction": "畅享超大杯是啥？", "output": "畅享90 Pro Max，1699起，8500mAh的怪兽电池，6.84寸OLED屏还有NFC，千元续航王。"}
+{"instruction": "华为耳机哪款最值得买", "output": "FreeBuds Pro 5, 旗舰降噪, 通勤神器; 不习惯塞耳朵就FreeClip 2, 1299, 耳夹式戴着跟没戴一样。看你能不能接受入耳。"}
+{"instruction": "华为汽车和手机能联动吗", "output": "能, 鸿蒙座舱跟手机无缝衔接, 导航、音乐、电话上车就续上。问界、享界、智界都是鸿蒙座舱, 开门上车手机就自动连上了。"}
+{"instruction": "最便宜的华为平板是哪个？", "output": "MatePad SE 标准版11寸，1399起，骁龙685加7700mAh电池，千元价位网课追剧神器，是华为最便宜的平板之一。"}
+{"instruction": "华为MateBook X Pro办公怎么样", "output": "办公完全够, Ultra9处理器, Windows系统, 办公软件随便装, 旗舰做工。商务办公选它没毛病, Fold那种花活留给有需要的人。"}
+{"instruction": "户外露营带什么音箱？", "output": "Sound Joy 系列，便携蓝牙音箱，户外用的，轻便好带，露营野餐带着很合适。"}
+{"instruction": "MatePad Air 2026有什么亮点？", "output": "Air 2026 主打 PaperMatte 柔光屏，看文档看小说不反光，护眼一绝，配的是麒麟T93C。办公学习党买它，眼睛舒服很多。"}
+{"instruction": "M8和M7怎么选？", "output": "M8是大型SUV，定位走量主力，尺寸更大；M7是中大型SUV。家里人多、要空间选M8，M7尺寸稍小点但也不差。"}
+{"instruction": "RGB电视是什么？", "output": "Vision 智慧屏 6 SE RGB，全球首款RGB-MiniLED电视，三原色独立发光，105% BT.2020色域，300Hz刷新率，2974起。色彩革命的产物。"}
+{"instruction": "MatePad Air 12怎么样？", "output": "Air 12 是中高端定位，12寸2.8K 144Hz高刷屏，麒麟900，10100mAh电池，2125起。轻办公加手绘都行，性价比不错。"}
+{"instruction": "华子现在有啥好手机", "output": "华子就是华为啊, 现在旗舰是Mate和Pura系列, 折叠屏有四款形态。9月还要发Mate 90, 麒麟2026、鸿蒙7, 5G回归, 可以等等。"}
+{"instruction": "华为有没有一万以内的笔记本？", "output": "多了：MateBook 14 鸿蒙版6599起，D 16 SE四千多，Pro S标准版7999起，MateBook X Pro旗舰档，丰俭由人。"}
+{"instruction": "Pura 80 Ultra什么价位？", "output": "9999起，万元影像机皇。"}
+{"instruction": "华为MatePad SE值得买吗", "output": "1399起, 千元价位, 给孩子上网课、老人看视频够用了。别指望性能多强, 但便宜耐用, 摔了也不心疼。"}
+{"instruction": "有没有100W以上快充的华为手机？", "output": "nova 16，7000mAh加100W快充，3499起；Pura 80 Pro也是100W快充，6499起。"}
+{"instruction": "畅享90 Pro Max的8500mAh能撑多久？", "output": "日常用两三天问题不大，1699起，千元续航王，出差不用带充电宝。"}
+{"instruction": "学生想买人生第一台笔记本, 4000左右", "output": "MateBook D16 SE, 4000到5000, 屏幕大, 写论文做PPT够用, 入门首选。"}
+{"instruction": "为什么Pura 90 Pro能降价1000？", "output": "Pura 90 Pro 5499起，比上代Pura 80 Pro的6499降了1000，估计是为了走量，现在入手挺划算。"}
+{"instruction": "健身用啥手表？", "output": "WATCH GT 7 46mm，21天续航，骑行模拟功率，1588起；FIT 5，27g轻便，14天续航，也适合。"}
+{"instruction": "华为哪款适合女生用？", "output": "Pocket 2小折叠7999起，小巧；Nova Flip 2竖折叠4999；nova 16系列主打年轻潮流，3499起。"}
+{"instruction": "客厅电视预算6000左右", "output": "Vision 智慧屏 6 Pro，5999起，Super MiniLED黑晶屏，98寸，2000nit，288Hz，这价位能买到98寸旗舰很值。"}
+{"instruction": "华为的平板和手机之间文件怎么传", "output": "一碰传, 超级中转站, 拖一下就过去了。同一个华为账号, 多屏协同, 手机屏幕直接投到平板上操作, 方便得离谱。"}
+{"instruction": "Mate 80多少钱？", "output": "3999起，Mate 80标准版，首配3D人脸的直屏旗舰。"}
+{"instruction": "Mate XT2发布了没？", "output": "还没，2026年9月发布，U型三折叠，麒麟9050，还有独立外屏。"}
+{"instruction": "智界有哪些车？", "output": "智界有轿跑SUV V9 和 R7，还有轿车新S7，鸿蒙智行旗下，年轻运动取向。"}
+{"instruction": "Flip2是什么手机？", "output": "Nova Flip 2，nova首款新折叠，2026年6月刚发的竖向小折叠，麒麟8030，4999块。"}
+{"instruction": "MateTV Max 和 6 Pro 怎么选？", "output": "MateTV Max 110寸巨幕，64999，极致观影；6 Pro 98寸，5999起，Super MiniLED黑晶屏加130W Hi-Fi音响，性价比高得多。客厅不够大就6 Pro。"}
+{"instruction": "折叠屏笔记本会成为主流吗？", "output": "现在还是尝鲜阶段，华为 MateBook Fold 非凡大师24999的价格说明它还不是大众产品，但18寸折叠巨幕这种形态，等价格下来真可能改变办公本形态。"}
+{"instruction": "智慧屏6Pro能拿来开会吗？", "output": "能，Vision 智慧屏 6 Pro 支持触控书写，98寸大屏，130W Hi-Fi音响，会议室用它演示写写画画很带感，5999起。"}
+{"instruction": "潜水手表推荐", "output": "WATCH Ultimate 2，150米潜水，水下声呐通信，还能音频记录，潜水专业户就它了。"}
+{"instruction": "华为哪些产品有卫星通信？", "output": "平板里有 MatePad Pro 2026 支持北斗卫星通讯；手表里 WATCH Ultimate 2 是双向北斗卫星，还能发语音消息，户外无信号环境很实用。"}
+{"instruction": "华为小折叠哪个值得买？", "output": "预算充足Pocket 2，7999起玄武水滴铰链；想要新和便宜选Nova Flip 2，4999；最便宜是Nova Flip S，3388起。"}
+{"instruction": "华为车, 尊界和享界有什么区别", "output": "尊界是MPV, 64.8万到76.6万, 商务接待那种; 享界G9是硬派SUV, 43.98万, 对标奔驰大G。一个载老板, 一个玩越野。"}
+{"instruction": "华为MateBook Fold跟普通笔记本比有啥优势", "output": "它是折叠PC, 24999, 屏幕能折起来当平板用, 开会展开就是一块大屏。适合高管、经常演示方案的人, 普通人真没必要, 7999的Pro S更实在。"}
+{"instruction": "出差经常背电脑，Pro S值得买吗？", "output": "太值得了，Pro S就那个798g的超轻本，出差背一整天肩膀都不酸。麒麟XE90性能也不差，14.2寸屏办公看文档刚好。7999起，典藏版最贵到14999，看你要不要顶配。"}
+{"instruction": "华为平板做手账方便吗？", "output": "方便，MatePad Air 12，2125起，2.8K 144Hz屏，配手写笔做电子手账，贴纸素材随便贴，比纸质的好整理。"}
+{"instruction": "华为是不是有个平板能卫星通信", "output": "你说的是MatePad Pro, 3199起那款, 支持北斗卫星消息, 没信号也能发消息。"}
+{"instruction": "华为汽车哪些卖得好？", "output": "问界系列是走量主力，M8是大型SUV里的销量担当；尊界V800是旗舰标杆，76.6万起，华为系最贵车型。"}
+{"instruction": "想买个不塞耳朵的耳机", "output": "那必是 FreeClip 2，C形耳夹设计，单只5.1克，夹耳朵上一点不疼。AI翻译、38小时续航，1299。跑步、通勤、办公戴都合适。"}
+{"instruction": "华子的优享版是什么？", "output": "Mate 70 Pro优享版，就是Pro的性价比版本，芯片换成了麒麟9020A降频版，价格更友好，5099起。"}
+{"instruction": "华为Mate XTs和iPad怎么选", "output": "这俩完全不同, XTs是三折叠, 18000, 手机变平板, 合上放口袋; iPad就一块平板。有折叠预算买XTs, 纯平板需求买MatePad。"}
+{"instruction": "V680和V800差多少？", "output": "都是尊界的超豪华MPV，V800是旗舰，76.6万起；V680算入门，64.8万起。预算紧张点就V680，顶配就V800。"}
+{"instruction": "FB6是啥？", "output": "FreeBuds 6，华为半开放旗舰，悦彰系列首款半开放，11mm动圈加微平板单元，2.3Mbps无损传输。"}
+{"instruction": "Mate 70 Pro+怎么样？", "output": "上代顶配直屏，16GB大内存、2K直屏、天通卫星通信，6699起，要直屏又要卫星功能选它。"}
+{"instruction": "MateBook 14 Linux版便宜多少？", "output": "比Windows版便宜300块，1.31kg的轻薄机身，开发党买它自己装系统，香。"}
+{"instruction": "nova Flip S是啥？", "output": "nova的竖向小折叠，3388起，是华为最便宜的折叠屏。"}
+{"instruction": "华为那个7999的本叫X Pro吧", "output": "不是, X Pro是Windows旗舰, Ultra9处理器那款; 7999起超轻的是MateBook Pro S, 798克。"}
+{"instruction": "华为MateBook Fold是给谁用的", "output": "24999的折叠PC, 展开是15寸大屏, 开会、看图纸、演示设计稿都方便。适合预算充足、天天移动办公的高管和设计师, 普通打工人看看就好。"}
+{"instruction": "最轻的华为手表？", "output": "WATCH FIT 5，27克极致轻，1.74寸屏，14天续航。戴手上跟没戴一样，时尚轻便。"}
+{"instruction": "S9轿车值得买吗？", "output": "享界 S9和S9T 是豪华轿车，鸿蒙智行出品，智能座舱和智驾是强项，商务行政用车可以重点考虑。"}
+{"instruction": "双层OLED平板是什么？", "output": "MatePad Pro 12.2 2025，双层OLED技术，亮度寿命都更好，华为管它叫画质旗舰。10100mAh电池也大，3199起。"}
+{"instruction": "华子那个三折的", "output": "你说的是Mate XTs非凡大师吧，三折叠，18000起，展开10.1寸当平板用。"}
+{"instruction": "Pura X多少钱？", "output": "7499起，阔折叠里算亲民的。"}
+{"instruction": "华为MateBook 14鸿蒙版和普通版有啥区别", "output": "14鸿蒙版6599起, 装的是鸿蒙系统, 跟手机、平板共享文件特别方便; 普通版是Windows。你设备都是华为的, 鸿蒙版体验好得多。"}
+{"instruction": "MateBook X Pro和MateBook Fold哪个更适合办公", "output": "天天坐着办公选X Pro, Ultra9处理器, Windows生态兼容性也好。Fold那种折叠PC是给常年出差、开会要演示的人准备的, 但24999的价格真不是一般人能接受的。"}
+{"instruction": "华为那个110寸电视叫什么Mate来着", "output": "MateTV Max, 110寸, 64999。记住了, 是MateTV不是Mate电视。"}
+{"instruction": "Mate 80 Pro Max风驰版和Mate 80 RS怎么选？", "output": "风驰版8499是性能特化直板，Pro Max升级版；RS是11999的超高端，全金属玄武架构、双潜望、卫星通信。要性价比性能选风驰，要排面选RS。"}
+{"instruction": "华为那个一万三大折叠", "output": "Mate X7，12999起，麒麟9030 Pro、8寸内屏、第二代红枫。"}
+{"instruction": "我妈老丢耳机, 给她买啥", "output": "FreeClip 2, 耳夹式夹在耳朵上, 1299, 不塞耳朵不掉不丢, 特别适合容易丢三落四的人。"}
+{"instruction": "Mate 80系列3999起步是不是很值？", "output": "挺值的，标准版3999起，商务直屏旗舰，还首配3D人脸，比上代Mate 70的5099还便宜。"}
+{"instruction": "华为现在手机业务恢复了吗", "output": "恢复得差不多了, 高端Mate、Pura回归, 折叠屏还是独一档, 马上Mate 90要首发麒麟2026和鸿蒙7。跟巅峰期比可能还有差距, 但已经满血复活了。"}
+{"instruction": "华为5G回归是什么意思？", "output": "Mate 90系列预计2026年9月发布，首发麒麟2026，支持5G，算是5G回归。"}
+{"instruction": "华为小折叠Flip值得买吗", "output": "3388起, 算是折叠屏里最亲民的了, 小巧好看, 女生用很合适。性能肯定不如同价直板机, 但颜值和形态值这个价。"}
+{"instruction": "华为有没有比手环高级一点的", "output": "有啊, GT 7 Pro, 2488, 长续航, 运动健康功能全; 更顶的是Ultimate 2, 能卫星通信能潜水。"}
+{"instruction": "华为手环11多少钱？", "output": "手环11是华为最便宜的穿戴设备，入门健康监测，价格很亲民，想体验华为穿戴的可以先从它入门。"}
+{"instruction": "程序员笔记本推荐", "output": "想便宜加开发就 MateBook 14 Linux版，1.31kg，比Win版便宜300；要性能就 MateBook X Pro，酷睿Ultra9加32GB+2TB。"}
+{"instruction": "n16U是什么？", "output": "nova 16 Ultra，nova系列的顶配，4699起，nova里影像最强的。"}
+{"instruction": "MatePad Pro 12.2 和 Air 12 怎么选？", "output": "Pro 12.2 是3199起的画质旗舰，双层OLED；Air 12 是2125起的中高端，2.8K 144Hz加10100mAh。要顶级画质选Pro，性价比选Air。"}
+{"instruction": "FreeBuds 7i是什么？", "output": "FreeBuds 7i 是华为在海外主打的一款半开放耳机，海外主力机型，国内的话主要看其他几款。"}
+{"instruction": "折叠笔记本实用吗？会不会很容易坏？", "output": "折叠本其实技术已经很成熟了，华为这款 MateBook Fold 非凡大师用的是玄武水滴铰链，开合很顺，还配了双层OLED屏幕，显示效果拉满。系统是鸿蒙的，跟手机平板联动很爽。就是价格感人，24999，适合不差钱想尝鲜的大佬。"}
+{"instruction": "为什么华为手机越来越贵了", "output": "制裁之后自研芯片成本高啊, 麒麟是纯自研, 良率成本都摊在售价里。加上现在定位高端, Mate系列3999起, 折叠屏都是上万。东西是真好, 价格也是真贵。"}
+{"instruction": "Mate 80 Pro什么价？", "output": "6499起，麒麟9030加WiFi7。"}
+{"instruction": "nova 16的7000mAh靠谱吗？", "output": "靠谱，还有100W快充，3499起，年轻人重度用手机很合适。"}
+{"instruction": "经常坐地铁通勤, 想买个降噪耳机", "output": "FreeBuds Pro 5, 华为降噪旗舰, 地铁上一戴, 世界就安静了。"}
+{"instruction": "公司开会演示PPT用啥本？", "output": "MateBook D 16 SE，16寸护眼大屏，数字小键盘，4000-5000价位，演示PPT、处理表格都方便。"}
+{"instruction": "享界G9和坦克300哪个好？", "output": "享界 G9 定位更高，对标的是奔驰大G，43.98万起，硬派SUV，智能化和座舱体验是华为的强项。坦克300更便宜更硬核越野，看你预算和用途，家用舒适加智能选G9。"}
+{"instruction": "Mate X7是今年新出的？", "output": "是，最新的横向大折叠，12999起，麒麟9030 Pro、8寸内屏、第二代红枫。"}
+{"instruction": "华为手机, Mate系列和折叠屏怎么选", "output": "折叠屏是真贵, X7要12999, XTs要18000。Mate系列3999到11999, 折不折, 先看钱包。商务装点门面、预算充足上折叠; 实用主义就Mate。"}
+{"instruction": "华为的智能手表旗舰是啥", "output": "旗舰是WATCH Ultimate 2, 北斗卫星加潜水; 顶奢是ULTIMATE DESIGN, 26888起, 带钻的。"}
+{"instruction": "快开学了, 给孩子买点啥数码", "output": "平板11.5 S, 1670, 学习追剧都行; 笔记本D16 SE, 4000多; 预算够就两个都上, 大学四年够用了。"}
+{"instruction": "想买个7寸左右大屏的华为手机", "output": "Mate 70 Air，7寸大屏加6500mAh，3170起；或者阔折叠Pura X Max，7.7寸内屏，10999起。"}
+{"instruction": "华为问界是轿跑吧", "output": "反了, 问界是SUV, M8、M7、M6都是SUV; 轿跑是智界, 年轻轿跑是尚界。"}
+{"instruction": "华为最近有什么值得关注的新品", "output": "9月Mate 90系列是重头戏, 麒麟2026加鸿蒙7, 5G回归。还有110寸的MateTV Max, 64999, 就是贵。手表、眼镜、耳机这些新品也不少。"}
+{"instruction": "华为手表为什么卖这么贵", "output": "贵的都是专业的, Ultimate 2有北斗卫星和潜水, ULTIMATE DESIGN是珠宝表, 26888带钻的。日常用的GT 7 Pro也就2488, 真不算贵。"}
+{"instruction": "7口之家买什么车？", "output": "尊界 V800 或 V680，旗舰MPV，空间大；预算40万左右看问界 M8，大型SUV，走量主力。"}
+{"instruction": "畅享90 Pro Max和nova 16哪个续航长？", "output": "畅享90 Pro Max是8500mAh、1699起；nova 16是7000mAh加100W快充、3499起。论绝对续航畅享赢，论充电速度nova快。"}
+{"instruction": "畅享90系列还在卖吗？", "output": "在卖，90是1299起，90 Plus 1499起，90 Pro Max 1699起，华为千元机主力。"}
+{"instruction": "Mate 80风驰版什么时候加的？", "output": "2026年3月加推的，在Pro Max基础上做了性能特化。"}
+{"instruction": "M80RS非凡大师是？", "output": "Mate 80 RS非凡大师，华为最贵的直板Mate，11999起步，全金属玄武架构、双潜望长焦还有卫星通信。"}
+{"instruction": "学生党买平板预算2000以内", "output": "MatePad 11.5 S，1670起，2.8K 144Hz高刷，柔光屏可选，记笔记上网课都舒服，学生党首选。"}
+{"instruction": "4.9cm超薄的电视是哪款？", "output": "Vision 智慧屏 6，98寸，Super MiniLED千级分区，2000nit亮度，4K 144Hz，机身才4.9cm厚，6199起。"}
+{"instruction": "华为Mate XTs为什么卖18000", "output": "三折叠, 全球独一份, 展开是10英寸小平板, 合上是手机。技术含量高、产量少, 自然贵。这价位买的是体验和排面。"}
+{"instruction": "公司接待用车推荐", "output": "享界 S9或S9T 豪华轿车，鸿蒙智行出品，商务行政定位；要更排场就尊界 V800 MPV，76.6万起。"}
+{"instruction": "屏幕阔阔的那个", "output": "阔折叠Pura X，16:10阔型屏，7499起；大的Pura X Max是10999起。"}
+{"instruction": "华为笔记本和苹果笔记本怎么选", "output": "你要是已经在华为手机加平板生态里, 那MateBook 14鸿蒙版联动起来比苹果还方便, 6599起。要是你吃的是苹果生态, 那就别折腾了, 该买Mac买Mac。"}
+{"instruction": "余承东为什么叫大嘴", "output": "他说话爱放狠话, 发布会上动不动就遥遥领先、史上最大, 大家就叫他大嘴。不过话说回来, 他吹的牛大部分还真实现了。"}
+{"instruction": "华为MatePad Mini适合谁", "output": "2465块, 8寸多, 单手握得住, 适合躺床上看小说刷视频、随身带着走的人。要记笔记写作业还是买大屏的。"}
+{"instruction": "华为手表和手机健康数据能互通吗", "output": "能, 手表测的数据自动同步到华为运动健康App, 手机上随时看, 还能给家人共享, 尤其适合给老人设个健康关注。"}
+{"instruction": "MatePad Edge 9999值吗？", "output": "24GB+1TB，二合一形态，能平板能PC，万元价位里配置拉满，重度生产力用户值得；轻度用家会觉得贵。"}
+{"instruction": "MatePad 11.5 S 和 11.5 2026 区别？", "output": "11.5 S 是中端，1670起，2.8K 144Hz高刷加柔光屏可选，学生笔记党首选；11.5 2026是入门，1530起，护眼屏加鸿蒙AI，追剧网课用。追求屏幕素质选S。"}
+{"instruction": "华为和苹果谁更保值", "output": "手机二手行情都还行, 华为Mate、Pura高端款保值率不输苹果。但折叠屏一手贵二手折得多, 想保值别买折叠。"}
+{"instruction": "星钻表有什么功能？", "output": "ULTIMATE DESIGN 星钻，98颗天然钻石，前LV珠宝总监操刀，刘雯同款。功能也不含糊，ECG心电图，血糖血压风险评估都有。"}
+{"instruction": "Mate大杯和超大杯差在哪", "output": "大杯是Mate 80 Pro，6499起；超大杯是Mate 80 Pro Max，7499起，多了双潜望长焦和双层OLED屏。"}
+{"instruction": "半开放耳机推荐哪个？", "output": "FreeBuds 6，首款半开放悦彰，11mm动圈加微平板，2.3Mbps无损传输，音质好又不堵耳朵。"}
+{"instruction": "华为110寸电视摆得下吗", "output": "MateTV Max 110寸巨幕，64999，买之前先量电梯和客厅墙，一般家庭真摆不下，摆得下就是影院级体验。"}
+{"instruction": "Air平板和Pro差在哪？", "output": "Air定位中高端，Pro是旗舰。Air 12 屏幕是2.8K 144Hz，麒麟900，10100mAh，2125起；Pro 13.2 是柔性OLED加麒麟9010，4350起。预算有限又想要高刷就Air，追求极致体验就Pro。"}
+{"instruction": "想要华为最新款的手机", "output": "直板看Mate 80系列和Pura 90系列，折叠看Mate X7、Pura X Max，还有2026年6月刚发的Nova Flip 2。"}
+{"instruction": "华为有电竞电视吗？", "output": "不算专门的电竞电视，但 Vision 智慧屏 6 SE RGB 有300Hz刷新率，6 Pro有288Hz，打游戏都够用了。"}
+{"instruction": "想给孩子买个平板上网课", "output": "MatePad SE, 1399起, 千元价位, 上网课看动画完全够, 坏了也不心疼。"}
+{"instruction": "MatePad Pro 2026什么时候出的？", "output": "MatePad Pro 2026 是新一代旗舰，12寸OLED屏，4.7mm超薄，麒麟T93芯片，最大的亮点是支持北斗卫星通讯，没信号也能报平安，户外党福音。"}
+{"instruction": "华为的RS非凡大师到底强在哪？", "output": "超高端定位，Mate 80 RS 11999起，全金属玄武架构、双潜望长焦、卫星通信，用料和设计都是顶配，主打身份感。"}
+{"instruction": "我天天在外跑业务, 手机和平板都想带", "output": "笔记本选MateBook Pro S, 798克, 天天背没压力; 平板选MatePad Mini, 2465, 放包里不占地。"}
+{"instruction": "畅享90 Plus多少钱？", "output": "1499起，麒麟8000 5G。"}
+{"instruction": "Mate XTs非凡大师好用吗？", "output": "三折叠展开10.1寸，能当平板用，还能跑PC级应用，18000起步，贵是贵，折叠屏天花板没得说。"}
+{"instruction": "千元出头华为手机", "output": "畅享90，1299起，千元5G，6620mAh电池。"}
+{"instruction": "给爸妈买个华为千元机", "output": "畅享90，1299起，6620mAh电池用一天没问题；畅享90 Plus 1499起，5G更稳；要大字大屏就畅享90 Pro Max，1699起。"}
+{"instruction": "华为手机都能连华为手表吗", "output": "鸿蒙系统的都能, 包括老款; 其他安卓手机也能连, 但功能有阉割。想体验完整的, 还是华为配华为。"}
+{"instruction": "畅享90 Pro Max是新的吗？", "output": "是畅享系列的新款，1699起，8500mAh的千元续航王。"}
+{"instruction": "手环11能干嘛？", "output": "华为手环11，入门健康监测，心率睡眠这些基础功能都有，价格是华为穿戴里最便宜的，性价比之选。"}
+{"instruction": "华为智慧屏值得买吗", "output": "值得, Vision 6 SE RGB是全世界第一款RGB-MiniLED电视, 2974起, 色彩比普通MiniLED强一截。预算无上限就MateTV Max, 110寸, 64999。"}
+{"instruction": "Mate X6现在什么价？", "output": "10999起，上代大折叠。"}
+{"instruction": "华为大G是哪台车？", "output": "享界 G9，硬派SUV，对标奔驰大G那种，43.98万起。硬朗的方盒子造型，越野风格拉满，想花小钱装大G的看它。"}
+{"instruction": "户外工作者需要什么穿戴？", "output": "WATCH Ultimate 2，双向北斗卫星消息加语音，150米潜水带音频，水下声呐通信，没信号也能求助，户外工作必备。"}
+{"instruction": "想买直屏的华为旗舰", "output": "Mate 80标准版，3999起，直屏旗舰；上代Mate 70 Pro+是2K直屏，6699起；Pura 80也是6.6寸直屏，Pura里唯一的直屏。"}
+{"instruction": "余承东发布会上说的史上最大Mate是啥", "output": "就是9月要发的Mate 90系列, 大嘴说这是史上最大的Mate, 首发麒麟2026, 装HarmonyOS 7, 5G也回来了。这次是把看家本领都拿出来了。"}
+{"instruction": "新S7是轿车吗？", "output": "对，智界新S7是轿车，鸿蒙智行旗下，主打运动轿车路线。"}
+{"instruction": "华为有5折手机吗", "output": "你是不是想说折叠屏啊? 华为折叠屏有四种形态: 三折叠XTs 18000、大折叠X7 12999、阔折叠Pura X 7499、小折叠Flip 3388起, 没有5折的手机。"}
+{"instruction": "电视打游戏选哪款？", "output": "Vision 智慧屏 6 SE RGB，300Hz刷新率，2974起，全球首款RGB-MiniLED，色彩刷新率都适合游戏；或者6 Pro，288Hz。"}
+{"instruction": "MatePad Air 2026上市了吗？", "output": "Air 2026 主打PaperMatte柔光屏和麒麟T93C，是新一代中高端，跟2025款Air 12比，升级点主要在柔光屏护眼上。"}
+{"instruction": "华为从被制裁到现在怎么样", "output": "可以说是绝地反击, 芯片自己搞出来了, 手机重回高端, 汽车也做起来了, 问界、智界、享界、尊界全系上阵。现在连5G都要回归了, 这翻身仗打得漂亮。"}
+{"instruction": "华为现在最值得买的产品是什么", "output": "我觉得是GT 7 Pro手表, 2488, 十几天续航, 或者FreeClip 2耳机, 1299, 体验都很顶。手机可以等9月Mate 90, 现在买有点亏。"}
+{"instruction": "MateBook X Pro多少钱？", "output": "X Pro 具体价格官方没标，但配置摆在那：酷睿Ultra9、3.1K OLED柔性屏、140W超级快充、32GB+2TB，肯定旗舰价位。"}
+{"instruction": "Mate 80 Pro Max和风驰版选哪个？", "output": "风驰版是2026年3月加推的性能特化版，8499，比Pro Max的7499贵1000；追求极致性能选风驰版，普通用Pro Max就够了。"}
+{"instruction": "想买个能跟手机无缝传文件的笔记本", "output": "MateBook 14 鸿蒙版，6599起，首款数字系列鸿蒙PC，跟华为手机互传文件、多屏协同都很顺滑。"}
+{"instruction": "那个带卫星的小直板", "output": "Mate 70 Pro+，6699起，2K直屏加天通卫星；Pura 80 Pro+也有，天通加北斗双卫星，7999起。"}
+{"instruction": "Pura X Max是新款吗？", "output": "是的，阔折叠里的大号，10999起，麒麟9030 Pro，属于最新一代折叠。"}
+{"instruction": "我经常开车, 手机支架老挡视线", "output": "换个思路, 华为车配鸿蒙座舱, 导航直接上中控屏, 手机自动流转, 支架钱都省了。"}
+{"instruction": "想买个华为手表送老爸, 买GT 7 Pro还是D2", "output": "看老爸血压有没有问题。有高血压就D2, 那是医疗级血压表, 都写进高血压指南了; 只是日常戴戴, GT 7 Pro更划算, 2488能用十几天。"}
+{"instruction": "万元二合一平板有推荐吗？", "output": "MatePad Edge，24GB+1TB，9999元。华为的二合一平板，平板和PC形态随意切换，重度办公加创作党可以考虑。"}
+{"instruction": "家里刚装修, 想买个大电视", "output": "预算够就MateTV Max, 110寸, 64999, 但要量好电梯能不能进; 务实点Vision 6 SE RGB, 2974起, RGB-MiniLED画质已经很顶了。"}
+{"instruction": "华为阔折叠是什么创新？", "output": "16:10的阔型屏幕，比普通手机宽，阅读和分屏体验好，Pura X 7499起，Pura X Max 10999起。"}
+{"instruction": "Mate70超大杯？", "output": "Mate 70 Pro+，6699起，16GB大内存、2K直屏，还带天通卫星通信。"}
+{"instruction": "Mate 80 Pro Max怎么样？", "output": "华为现在拍照最强的直板机之一，双潜望长焦加双层OLED，6000mAh电池，7499起步，喜欢拍照直接冲。"}
+{"instruction": "FIT5和FIT5 Pro选哪个？", "output": "FIT 5 更轻，27g极致轻，1.74寸屏，14天续航；FIT 5 Pro 屏幕更大1.92寸，多了ECG和血糖风险评估，7天续航。要极轻长续航选FIT 5，要健康功能全选Pro。"}
+{"instruction": "华为还在卖Mate 70 RS吗？", "output": "在卖，11999起，上代非凡大师，双层OLED微曲屏加5700mAh。"}
+{"instruction": "开会做同声传译的设备", "output": "鸿蒙AI眼镜支持同声传译，戴上看对方说话实时翻译，商务人士神器，2499。"}
+{"instruction": "华为平板买Air还是11.5S", "output": "预算够就Air, 2125起还有柔光屏, 看电子书眼睛舒服。11.5S是1670块的学生党首选, 追剧记笔记都够。差几百块, 就看你看书多不多。"}
+{"instruction": "考研党平板推荐", "output": "MatePad 11.5 S 吧，1670起，2.8K 144Hz屏，柔光版护眼，配合手写笔记看网课效率高，考研复习利器。"}
+{"instruction": "Pura X和Pura X Max有啥区别？", "output": "都是阔折叠，X是6.3寸16:10阔屏、麒麟9020，7499起；Max是7.7寸、麒麟9030 Pro，还支持IP58/59，10999起。要更大更稳选Max。"}
+{"instruction": "华为FreeClip 2和普通TWS耳机怎么选", "output": "如果接受不了塞耳朵的异物感, FreeClip 2耳夹式不塞耳, 1299, 戴得久又不怕掉。要降噪要音质, 还是FreeBuds Pro 5。"}
+{"instruction": "Ultimate 2能潜水吗？", "output": "能，150米潜水，还支持水下声呐通信，加上北斗卫星语音消息，潜水户外全能。潜水佬值得看看。"}
+{"instruction": "华为那个798克的笔记本", "output": "MateBook Pro S, 才798克, 比你一瓶矿泉水还轻, 7999起, 出差党神器。"}
+{"instruction": "想给老爸买个轻薄本, 他炒股用", "output": "MateBook 14鸿蒙版, 6599起, 屏幕舒服系统流畅, 还能跟手机传文件, 比他自己折腾强。"}
+{"instruction": "Pura 80 Ultra怎么样？", "output": "万元影像机皇，9999起，一镜双目双焦段长焦，100倍变焦，拍照发烧友闭眼入。"}
+{"instruction": "华为手表能刷门禁和地铁吗", "output": "能, 华为手表的NFC公交卡、门禁卡功能做了好多年了, GT 7 Pro这些都支持, 出门连钱包都不用带了。"}
+{"instruction": "尊界V800多少钱？", "output": "76.6万起，尊界旗舰MPV，也是华为系最贵的车型，超豪华定位。"}
+{"instruction": "买华为折叠屏, X7和Pura X怎么选", "output": "一个是传统大折叠, 12999, 展开是平板体验; Pura X是阔折叠, 7499, 屏占比更高, 展开像个小彩电。预算充足、想要大屏办公选X7, 想尝新形态又省钱选Pura X。"}
+{"instruction": "Mate Air是啥型号？", "output": "Mate 70 Air，3170起，华为最便宜的Mate，7寸大屏加6500mAh电池，主打大屏长续航。"}
+{"instruction": "想要支持北斗的华为手机", "output": "Pura 80 Pro+，天通加北斗双卫星，7999起。"}
+{"instruction": "华为发布会的门票怎么拿", "output": "一般是媒体、花粉、合作伙伴有邀请, 普通用户主要看直播。余承东的发布会可比看综艺有意思, 各种金句。"}
+{"instruction": "798g笔记本是哪个？", "output": "那是 MateBook Pro S，798克，轻得离谱，拿手上跟没拿一样。麒麟XE90处理器，镁锂合金一体机身，14.2寸屏，标准版7999起，顶配典藏版到14999。"}
+{"instruction": "Mate80大杯和超大杯分别是谁？", "output": "大杯是Mate 80 Pro，6499起；超大杯是Mate 80 Pro Max，7499起，双潜望长焦加双层OLED屏。"}
+{"instruction": "P80P是哪个手机？", "output": "Pura 80 Pro，上代专业影像机，1寸大底RYYB传感器，100W快充，6499起步。"}
+{"instruction": "想体验鸿蒙生态，从什么入手？", "output": "便宜点从平板入手，MatePad 11.5 2026，1530起，鸿蒙AI护眼屏；预算多就 MateBook 14 鸿蒙版，6599起，手机平板电脑全套联动。"}
+{"instruction": "华为表太多型号了，怎么选？", "output": "简单说：户外探险选 WATCH Ultimate 2，专业运动选 GT Runner 2，长续航全能选 GT 7，健康监测要血压选 WATCH D2，时尚轻量选 FIT 5或FIT 5 Pro，奢华送人选 ULTIMATE DESIGN，预算少就手环11。"}
+{"instruction": "nova 16 Ultra和Mate 80哪个好？", "output": "定位不同，nova 16 Ultra是4699起的nova顶配影像，Mate 80是3999起的商务直屏旗舰，首配3D人脸。商务选Mate，时尚年轻选nova。"}
+{"instruction": "MateBook Pro和Pro S有什么区别？", "output": "Pro S 是798克极致轻那款，7999起，镁锂合金一体机身；MateBook Pro 是970g，麒麟X90 Plus，40W性能释放，性能更强些。一个比轻一个比性能。"}
+{"instruction": "想买台折叠笔记本，华为有吗？", "output": "有，MateBook Fold 非凡大师，18寸折叠巨幕，双层OLED屏配玄武水滴铰链，跑鸿蒙系统。折叠形态的顶级PC，不过价格也挺顶级，24999，预算够的话很值得体验。"}
+{"instruction": "nova和Mate系列有什么区别？", "output": "Mate是商务旗舰，定位高端，3999到一万多；nova是中端潮流，主打年轻人，2000多到4699，主打影像和续航。"}
+{"instruction": "华为那个14寸的鸿蒙电脑", "output": "MateBook 14鸿蒙版, 6599起, 跟手机平板互通特别方便, 传文件拖一下就完事。"}
+{"instruction": "Mate 70标准版怎么样？", "output": "上代商务标准版，麒麟9020加5200mAh，5099起，现在看挺稳的。"}
+{"instruction": "Mate 70 Air现在多少钱？", "output": "3170起，最便宜的Mate，7寸大屏6500mAh。"}
+{"instruction": "Mate XT2的U型三折叠是什么？", "output": "下一代三折叠的铰链形态，更薄更好收纳，还有独立外屏，2026年9月发布。"}
+{"instruction": "华为拍照最好的手机是哪个？", "output": "直板机看Mate 80 Pro Max，7499起，双潜望长焦；要极致就Pura 80 Ultra，9999起，100倍变焦的影像机皇。"}
+{"instruction": "Mate 80系列是华为最新的直板机吗？", "output": "对，Mate 80系列是目前最新的直板旗舰，标准版3999起到RS非凡大师11999起。"}
+{"instruction": "折叠屏里拍照好的是哪个？", "output": "Mate X7，第二代红枫影像，12999起；或者影像更顶的选Mate 80 Pro Max直板机，双潜望，7499起。"}
+{"instruction": "华为有没有2000以内的手机？", "output": "有，畅享90才1299起，畅享90 Plus 1499起，畅享90 Pro Max 1699起，都是入门实用款。"}
+{"instruction": "Nova Flip 2怎么样？", "output": "2026年6月刚发的nova首款新折叠，麒麟8030，4999，竖向小折叠里价格挺实在的。"}
+{"instruction": "MatePad Pro 13.2怎么样？", "output": "13.2寸Pro啊，专业旗舰平板，13.2寸柔性OLED屏，麒麟9010，还支持88W快充，4350起。创意生产力、画画剪片都顶，是华为平板里的天花板之一。"}
+{"instruction": "拍照最强的那个Pura", "output": "Pura 80 Ultra吧，9999起的影像机皇，100倍变焦；最新的Pura 90 Pro Max也不错，6499起，2亿像素潜望长焦。"}
+{"instruction": "华为耳机哪款音质好？", "output": "FreeBuds 6，半开放悦彰，11mm动圈加微平板，2.3Mbps无损传输，音质在华为耳机里很顶；要降噪就Pro 5悦彰。"}
+{"instruction": "华为手表哪款适合长辈用？", "output": "长辈的话推荐 WATCH D2，医疗级动态血压监测，血压记录准确又专业，还进了中国高血压防治指南，买给爸妈最合适。"}
+{"instruction": "手表能测血压的是哪款？", "output": "华为 WATCH D2，医疗级动态血压监测，还写进了中国高血压防治指南，专业度直接拉满。"}
+{"instruction": "想给老婆买个礼物, 华为有什么推荐的", "output": "FreeClip 2, 1299, 耳夹式像耳饰, 颜值高又不塞耳朵; 或者小折叠nova Flip, 3388起, 送女生错不了。"}
+{"instruction": "GT 7 Pro 和 GT 7 怎么选？", "output": "GT 7 Pro 是户外旗舰，2488起，钛合金加蓝宝石表镜，专业登山潜水模式；GT 7 是长续航运动款，1588起，21天续航，还有骑行模拟功率。玩户外选Pro，日常运动选GT 7。"}
+{"instruction": "华为平板和苹果iPad怎么选？", "output": "华为平板胜在性价比和鸿蒙生态，比如 MatePad 11.5 S 1670起就有2.8K 144Hz高刷；iPad胜在应用生态。预算有限选华为，重度创作选iPad。"}
+{"instruction": "Mate 80 Pro怎么样？", "output": "挺好的，商务全能旗舰，麒麟9030、WiFi7、6.9寸微曲屏，6499起步，日常用和拍照都兼顾，屏幕党也可以考虑。"}
+{"instruction": "华为那个能打电话的手表", "output": "华为手表都能独立通话, GT 7 Pro这些都有eSIM, 出门跑步不带手机也能接电话。"}
+{"instruction": "华为耳机最新的Pro是6代吧", "output": "不是, 旗舰降噪是FreeBuds Pro 5, FreeBuds 6是半开放式的, 两个定位不一样。"}
+{"instruction": "华为哪款手机电池最大？", "output": "畅享90 Pro Max，8500mAh，1699起；折叠里Mate X8要做6000mAh+，还没发布。"}
+{"instruction": "华为手表Ultimate 2为什么卖这么贵", "output": "因为它能干的事别的表干不了: 北斗卫星消息, 没信号也能发; 还支持潜水。户外顶配, 值这个价。"}
+{"instruction": "华为哪台是性能特化版", "output": "Mate 80 Pro Max风驰版，8499，2026年3月加推的。"}
+{"instruction": "华为手机怎么还分直屏微曲屏？", "output": "Mate 80标准版是直屏，Pro是6.9寸微曲屏，看个人喜欢，直屏党选标准版就行。"}
+{"instruction": "华子那个RS是什么意思？", "output": "RS是非凡大师系列，华为的超高端商务机，比如Mate 80 RS非凡大师，全金属玄武架构加双潜望，11999起步，还有卫星通信。"}
+{"instruction": "MatePad 11.5 2026是什么定位？", "output": "入门款，1530起，护眼屏加鸿蒙AI，追剧上网课够用，还有柔光版和全网通可选。预算不多又想要华为平板的看它。"}
+{"instruction": "华为那个宝石手表, 好几万的", "output": "ULTIMATE DESIGN, 紫金款26888, 还有星钻钻石款, 珠宝表, 戴的是身份。"}
+{"instruction": "刘雯同款手表是哪个？", "output": "ULTIMATE DESIGN 星钻，98颗天然钻石，前LV珠宝总监设计，刘雯代言，支持ECG和血糖血压评估。高级珠宝手表，贵气拉满。"}
+{"instruction": "Pocket 2是不是过时了？", "output": "不算过时，7999起还在售，不过新出的Nova Flip 2只要4999，小折叠可以二选一。"}
+{"instruction": "想换华为，选直板还是折叠？", "output": "直板看Mate 80系列和Pura 90系列，商务选Mate、拍照选Pura；折叠的话三折叠Mate XTs是天花板，大折叠看Mate X7，入门折叠Nova Flip S只要3388起。"}
+{"instruction": "华为Mate 80 Pro Max值得等风驰版吗？", "output": "不急可以等，风驰版8499性能更强，2026年3月已经开售，直接买也行。"}
+{"instruction": "Nova Flip 2是新出的吗？", "output": "对，2026年6月刚发布，nova首款新折叠，4999。"}
+{"instruction": "三折叠的下一代是啥", "output": "Mate XT2，U型三折叠，麒麟9050，独立外屏，2026年9月发布。"}
+{"instruction": "华为那个跟手机一样大的平板", "output": "华为MatePad Mini, 2465块, 8寸多, 单手能握, 主打随身刷剧看书。"}
+{"instruction": "公司配了华为手机, 想买个配套平板", "output": "MatePad Air或11.5 S都行, 多屏协同手机平板互通, 文件一拖就走, 配合特别顺。"}
+{"instruction": "Mate XTs上市了吗？", "output": "早就上市了，18000起，三折叠，华为最贵的手机。"}
+{"instruction": "华为那个一万二的直板机是啥？", "output": "Mate 80 RS非凡大师，11999起，全金属玄武架构、双潜望加卫星通信，最贵直板Mate。"}
+{"instruction": "Nova Flip 2和Nova Flip S买哪个？", "output": "Flip 2是新款4999，麒麟8030，2026年6月才发；Flip S是3388起最便宜折叠。要新功能选Flip 2，要便宜选Flip S。"}
+{"instruction": "GT7Pro是啥材质？", "output": "WATCH GT 7 Pro 46mm，钛合金表身加蓝宝石表镜，耐造，专业登山和潜水模式都配齐了，2488起。户外玩家看它。"}
+{"instruction": "Mate XTs为什么是最贵华为手机？", "output": "18000起，三折叠形态独一份，10.1寸大屏加PC级应用，工艺成本高，旗舰里的天花板。"}
+{"instruction": "想换华为手机, 是选Mate还是Pura", "output": "看你拍照多不多。Pura是影像旗舰, 4699起, 主打拍照; Mate是商务旗舰, 3999起, 综合均衡、信号续航更好。爱拍照选Pura, 商务人士选Mate。"}
+{"instruction": "华为D16 SE适合什么人群", "output": "入门办公本, 4000到5000, 学生和轻办公人士首选。配置不发烧, 但屏幕大、价格实在, 写论文做PPT绰绰有余。"}
+{"instruction": "华为手环和手表选哪个", "output": "就看看消息记记步, FIT 5手环就行, 27克跟没戴一样还便宜; 想要心率、血氧、睡眠这些深度数据, 或者要长续航, 上GT 7 Pro。"}
+{"instruction": "华为手表的表带能换吗", "output": "能换, 原装和第三方表带都很多, GT 7 Pro、FIT 5换表带很轻松, 换个颜色又是新手表。这点做得很贴心。"}
+{"instruction": "MateBook Pro 2026适合程序员吗？", "output": "可以，970g重量很轻，麒麟X90 Plus加40W性能释放，写代码、跑编译问题不大，就是别指望它干特别重的活。通勤背着很舒服。"}
+{"instruction": "Mate 80 Pro Max风驰版是啥来头？", "output": "2026年3月加推的版本，比普通Pro Max更强的性能特化版，8499，追求极致性能可以冲。"}
+{"instruction": "出差住酒店想带个轻的电脑", "output": "MateBook Pro S，798g，14.2寸，镁锂合金一体机身，7999起，塞进行李箱毫无存在感，出差党神器。"}
+{"instruction": "Mate大杯是什么？", "output": "大杯一般指Mate 80 Pro，6499起步，麒麟9030加WiFi7，6.9寸微曲屏；超大杯就是Mate 80 Pro Max，7499起步，影像更强。"}
+{"instruction": "Pura X Max如何？", "output": "阔折叠里的大号，7.7寸16:10阔屏，麒麟9030 Pro，10999起，还支持IP58/59防尘防水，追剧办公都爽。"}
+{"instruction": "可拆笔记本是啥？", "output": "就是 MateBook E / E GO，屏幕能拆下来当平板，装回去是笔记本，二合一设计。想一台设备搞定平板和PC需求的可以看。"}
+{"instruction": "余承东叫啥来着, 那个大嘴", "output": "余承东, 华为终端BG的掌门人, 发布会金句制造机, 大家爱叫他大嘴。"}
+{"instruction": "Pura 80 Ultra还有货吗？", "output": "在售，9999起，影像机皇，不过后面有Pura 90 Pro Max了，可以对比着看。"}
+{"instruction": "华为手机能用谷歌吗", "output": "海外版有些型号可以, 但国行没有谷歌框架。国内生态全转鸿蒙了, 谷歌那套在国内反正也用不上。"}
+{"instruction": "华为最便宜的折叠是多少", "output": "Nova Flip S，3388起。"}
+{"instruction": "Vision智慧屏6 Pro和6有什么区别？", "output": "6 Pro 是旗舰，5999起，Super MiniLED黑晶屏，130W Hi-Fi音响，2000nit亮度，288Hz，98寸，还支持触控书写；6 是高端款，6199起，Super MiniLED千级分区，2000nit，4.9cm超薄，4K 144Hz。一个极致画质加触控，一个更薄。"}
+{"instruction": "华为的手表和手环有什么区别? 我只要看消息和记步", "output": "只看消息记步的话, 手环完全够, FIT 5才27克, 跟没戴一样。手表强在健康和户外, GT 7 Pro能十几天不充电, D2能测血压, 看你要不要这些了。"}
+{"instruction": "华为畅享是高端机吧", "output": "反了, 畅享是千元入门, 1299到1699; 高端是Mate和Pura, 中端是nova。畅享是给预算有限的人准备的。"}
+{"instruction": "我是设计师, 经常要给客户看方案", "output": "MateBook Fold, 24999, 展开就是大屏, 直接给客户展示设计稿, 那效果, 客户当场就记住了。"}
+{"instruction": "Mate 70 Pro+和Mate 80 Pro选哪个？", "output": "Mate 70 Pro+上代顶配直屏6699起，16GB大内存加天通卫星；Mate 80 Pro新款6499起，麒麟9030加WiFi7。要卫星选70 Pro+，要新款选80 Pro。"}
+{"instruction": "为什么三折叠那么贵？", "output": "Mate XTs 18000起，贵在工艺和形态，10.1寸展开当平板用，还支持PC级应用，加上产能成本高，华为最贵手机就是它。"}
+{"instruction": "970g本怎么样？", "output": "MateBook Pro 2026，970克的全能轻薄本，麒麟X90 Plus处理器，40W性能释放，轻办公加轻度创作都能扛，是性能和轻薄平衡得不错的一款。"}
+{"instruction": "华为那个不塞耳朵的耳机", "output": "FreeClip 2, 耳夹式, 1299, 不塞进耳道, 夹在耳朵上, 长时间戴不难受。"}
+{"instruction": "GT7女款是哪款？", "output": "WATCH GT 7 41mm，1488起，小巧的女款设计，14天续航，颜值在线。"}
+{"instruction": "P90PM是哪款？", "output": "Pura 90 Pro Max，顶配影像，2亿像素超大底潜望长焦，20倍高清录像，6499起。"}
+{"instruction": "血压手表准不准？", "output": "华为 WATCH D2 是医疗级动态血压监测，准度有专业背书，还写进了中国高血压防治指南，比普通手表的心率血氧功能严谨多了。"}
+{"instruction": "大嘴说的那个110寸电视", "output": "大嘴说的是MateTV Max, 110寸, 64999, 得豪宅才放得下。预算没那么猛的话看看Vision 6 SE RGB, 2974起。"}
+{"instruction": "华为为什么要做汽车", "output": "手机市场见顶了, 智能汽车是下一个大蛋糕。华为做的是智选车模式, 乾崑智驾ADS 4.0确实是第一梯队, 问界、享界这些卖得都不错。"}
+{"instruction": "Mate 70 Air和nova 16哪个续航强？", "output": "Air是6500mAh、3170起，nova 16是7000mAh加100W快充、3499起。电池nova大一点，充电还快。"}
+{"instruction": "华为手环和手表怎么选？", "output": "预算低就手环11，入门健康监测，华为最便宜穿戴；要屏幕、功能全就手表，入门款GT 7 41mm，1488起。"}
+{"instruction": "音乐发烧友买什么华为设备？", "output": "音箱选 Sound X5 悦彰，帝瓦雷联合调音，HiFi旗舰；耳机选 FreeBuds 6，11mm动圈加微平板单元，2.3Mbps无损传输。"}
+{"instruction": "鸿蒙系统现在跑在哪些设备上", "output": "手机、平板、手表、14鸿蒙版笔记本、鸿蒙AI眼镜、智慧屏、汽车座舱, 全家桶都是鸿蒙, 这也是华为最值钱的东西。"}
+{"instruction": "Pura 80 Pro如何？", "output": "上代专业影像，1寸大底RYYB传感器，100W快充，6499起步，现在买价格有惊喜。"}
+{"instruction": "11.5S是学生平板？", "output": "对，MatePad 11.5 S 就是学生平板，1670起，2.8K 144Hz高刷，柔光屏可选，记笔记、上网课都合适，学生党首选不是吹的。"}
+{"instruction": "跑步手表买哪款？", "output": "WATCH GT Runner 2，专为跑步设计，轻量化加专业跑步指标，配速、步频、心率区间这些跑步数据都很专业。"}
+{"instruction": "华为车那个最年轻的轿跑是啥牌子", "output": "尚界, 年轻轿跑, 华为那几界里最年轻时尚的, 适合小年轻开。"}
+{"instruction": "华为手机和三星手机哪个拍照好", "output": "同价位很难说谁绝对好, 华为Pura系列光影调色很讨喜, 尤其夜景; 三星色彩更艳。不过华为那个XTs三折叠, 三星还真拿不出来。"}
+{"instruction": "想买个小的平板，华为有什么？", "output": "MatePad Mini，小尺寸平板，2465起，有悦读版、柔光版、全网通好几个版本可选。阅读、娱乐、出门带着都方便。"}
+{"instruction": "MatePad Pro 12.2和13.2怎么选？", "output": "13.2寸的是柔性OLED，麒麟9010加88W快充，4350起；12.2寸的便宜些，3199起，主打双层OLED，画质很能打，还有10100mAh大电池。要极致大屏选13.2，看重画质和续航选12.2。"}
+{"instruction": "运动健身手表推荐", "output": "WATCH FIT 5，27g轻，14天续航，时尚轻便；要专业就 GT Runner 2，跑步数据专业。"}
+{"instruction": "FreeBuds Pro 5悦彰怎么样？", "output": "Pro 5 悦彰是2025年11月发布的降噪旗舰，入耳式降噪天花板，音质也讲究，华为的降噪旗舰就它。"}
+{"instruction": "华为折叠屏到底有几种？", "output": "三种形态吧：横向大折叠像Mate X7、X6，竖向小折叠像Pocket 2、Nova Flip系列，还有阔折叠Pura X，再就是天花板三折叠Mate XTs。"}
+{"instruction": "华为手机现在还能买吗", "output": "能啊, 当然能。Mate、Pura系列现货充足, 9月还有Mate 90。被制裁那几年缺货的日子早过去了, 想买随时买。"}
+{"instruction": "D16SE适合财务用吗？", "output": "适合，16寸护眼屏，带数字小键盘，做表格输数字不要太爽，4000-5000的价位，入门办公本里很实在。"}
+{"instruction": "华为手环能测血压吧", "output": "手环测不了血压, 能测血压的是手表WATCH D2, 医疗级的。手环只能测心率、血氧、睡眠这些。"}
+{"instruction": "预算6000多, 买Mate 80 Pro还是MatePad Pro?", "output": "这俩不是一个赛道啊。6000多买Mate系列只能摸到中配, 但买MatePad Pro能上高配还带北斗卫星。要是你主力机已经有了, 平板能补个大屏; 要是手机该换了, 那先换手机, 平板不急。"}
+{"instruction": "Mate 80和Mate 70选哪个？", "output": "Mate 80最新，3999起首配3D人脸；Mate 70上代5099起，麒麟9020。价格上Mate 80反而更便宜，还更新，肯定选80。"}
+{"instruction": "Mate 70 Pro停产了吗？", "output": "没有停产，还在售，5199起。"}
+{"instruction": "给公司买办公笔记本，批量那种", "output": "MateBook D 16 SE，4000-5000价位，16寸护眼大屏配数字小键盘，办公需求全覆盖，批量采购成本也友好。"}
+{"instruction": "商务宴请用什么华为手机有面子？", "output": "Mate 80 RS非凡大师，11999起，全金属玄武架构；或者Mate XTs三折叠，18000起，掏出来全场注目。"}
+{"instruction": "平板Pro2026升级了什么？", "output": "主要升级在北斗卫星通讯和4.7mm超薄机身，12寸OLED屏配麒麟T93。户外没信号也能通讯，轻薄得不像平板。"}
+{"instruction": "想买华为那个V8", "output": "你是说尊界V800还是V680? 尊界是华为的MPV, 64.8万到76.6万, 两个版本别搞混了。"}
+{"instruction": "华为平板怎么选？", "output": "预算一千多：MatePad SE 1399起或MatePad 11.5 2026，1530起；学生党：11.5 S，1670起；轻办公：Air 12，2125起；旗舰画画创作：Pro 13.2，4350起，或者Pro 12.2，3199起。"}
+{"instruction": "华为最牛的那个三折的, 叫啥来着", "output": "华为Mate XTs, 三折叠, 18000, 展开跟小平板似的, 华为独一份, 三星都没这形态。"}
+{"instruction": "华为ULTIMATE DESIGN和GT 7 Pro手表选哪个", "output": "差着十倍价呢。ULTIMATE DESIGN是26888的珠宝表, 紫金款带钻, 是奢侈品逻辑; GT 7 Pro是2488的工具表。送人装门面买前者, 自己用后者。"}
+{"instruction": "商务宴请开什么车有面子？", "output": "尊界 V800，超豪华旗舰MPV，76.6万起，华为系最贵车型，接待排面直接拉满；轿车就享界 S9，豪华商务定位。"}
+{"instruction": "华为四五千块拍照机", "output": "Pura 90，4699起，HarmonyOS 6.1；nova 16 Ultra也4699起，nova最强影像。"}
+{"instruction": "华为平板和笔记本买哪个", "output": "大屏追剧、记笔记、轻办公买平板; 写代码、做表格、跑专业软件买笔记本。预算有限别硬拿平板当电脑, 性能是两码事。"}
+{"instruction": "华为手机里最贵的是？", "output": "Mate XTs非凡大师，18000起的三折叠。"}
+{"instruction": "大屏手机替代品，平板有推荐吗？", "output": "MatePad Mini，2465起的小尺寸平板，有全网通版本能插卡，比手机大、比大平板小，通勤阅读都合适。"}
+{"instruction": "华为音箱放客厅用", "output": "Sound X5 悦彰，帝瓦雷联合调音，HiFi旗舰，客厅放音乐有面子又有音质。"}
+{"instruction": "nova里的影像天花板", "output": "nova 16 Ultra，4699起，nova最强影像。"}
+{"instruction": "华为平板能打电话吗？", "output": "MatePad Mini 有全网通版本，2465起，能插卡上网打电话；MatePad 11.5 2026也有全网通可选，1530起。"}
+{"instruction": "12.2寸Pro值得买吗？", "output": "值得，MatePad Pro 12.2 2025，双层OLED画质旗舰，10100mAh大电池，3199起。爱追剧爱看片、对屏幕有要求的选它没错。"}
+{"instruction": "华为那个一万多的折叠手机", "output": "华为Mate X7, 大折叠, 12999, 展开是平板体验。要是三折的那个是18000的XTs, 别记混了。"}
+{"instruction": "鸿蒙智行有哪些品牌？", "output": "鸿蒙智行旗下有尊界（超豪华MPV）、享界（豪华轿车和SUV）、问界（SUV）、智界（轿跑和轿车）、尚界（年轻轿跑），覆盖挺全的。"}
+{"instruction": "Mate 80 RS非凡大师价格？", "output": "11999起，最贵直板Mate。"}
+{"instruction": "华为眼镜能拍照吗？", "output": "鸿蒙AI眼镜带1200万像素摄像头，能拍，还能AI指向问答，问它你看到的东西，2499。"}
+{"instruction": "畅享90怎么样？", "output": "千元5G主力，1299起，麒麟8000A 5G，6620mAh大电池，基础需求完全够。"}
+{"instruction": "Pura奥创是哪个？", "output": "就是Pura 80 Ultra，影像机皇，一镜双目双焦段长焦、100倍变焦，9999起步。"}
+{"instruction": "鸿蒙笔记本有哪些？", "output": "MateBook Fold 非凡大师、MateBook Pro S、MateBook Pro、MateBook 14 鸿蒙版，都是鸿蒙PC，价位从6599到24999都有。"}
+{"instruction": "华为的车和手机哪个是主业", "output": "手机是主业, 汽车是第二曲线, 但华为的终极目标是鸿蒙生态, 所有设备都是生态的一环, 车只是其中一块屏。"}
+{"instruction": "游泳能戴的手表", "output": "WATCH Ultimate 2，150米潜水都行还带音频记录，游泳小意思；GT 7 Pro 也有专业潜水模式，2488起。"}
+{"instruction": "想买华为的二合一产品", "output": "两条路：MateBook E或E GO，可拆卸二合一笔记本，装回去是PC拆下来是平板；或者 MatePad Edge，24GB+1TB的万元二合一平板，9999。"}
+{"instruction": "D2是什么表？", "output": "D2就是华为 WATCH D2，主打医疗级动态血压监测，能记录全天血压变化，专业程度是写进中国高血压防治指南的那种，健康监测党闭眼冲。"}
+{"instruction": "Pocket 2用起来怎么样？", "output": "竖向小折叠，7999起，玄武水滴铰链，折痕控制不错，小巧精致，适合喜欢口袋机的人。"}
+{"instruction": "写论文用什么笔记本？", "output": "MateBook 14 鸿蒙版，6599起，首款数字系列鸿蒙PC，写论文够用，还能跟手机平板互传资料，方便得很。"}
+{"instruction": "110寸电视值得买吗？", "output": "MateTV Max那台110寸巨幕，值不值得看你家客厅。观影沉浸感没得说，64999的价格也是华为屏里最贵的。预算够、客厅大，它就是家庭影院天花板。"}
+{"instruction": "笔记本续航重要还是重量重要？", "output": "都重要，MateBook Pro S 是两者兼顾的答案，798g极致轻，麒麟XE90功耗控制好，14.2寸屏，7999起。"}
+{"instruction": "Pocket 2多少钱？", "output": "7999起，竖向小折叠。"}
+{"instruction": "大平层客厅装什么电视？", "output": "MateTV Max，110寸巨幕，64999，史上最大Mate，够壕；预算省点就 Vision 智慧屏6，98寸6199起。"}
+{"instruction": "华为Mate 60现在卖多少钱", "output": "老款现在不多了, 现在主力是Mate系列新品, 3999到11999, 9月还有Mate 90。想买新的就等9月。"}
+{"instruction": "FreeClip 2好用吗？", "output": "好用，不塞耳朵，夹着就行，5.1克一只轻得没感觉。AI能力提升了不少，算力说是提升10倍，翻译场景很实用，总续航38小时，1299块。"}
+{"instruction": "华为的芯片是自己造的吗", "output": "设计是华为自己的, 麒麟2026就是自家设计的。生产是代工, 但这几年能顶住制裁把旗舰芯片做回来, 已经很不容易了。"}
+{"instruction": "华为学生党手机是哪个系列", "output": "nova系列, 2000到4700, 中端潮流, 年轻人买得多; 千元入门还有畅享系列, 1299到1699。"}
+{"instruction": "畅享90 Pro Max多少钱？", "output": "1699起，8500mAh续航王。"}
+{"instruction": "喜欢跑步游泳, 买个什么华为手表", "output": "GT 7 Pro, 2488, 运动模式全, 续航半个月; 要是还玩潜水、户外探险, 直接上Ultimate 2。"}
+{"instruction": "预算4000左右，华为有什么推荐？", "output": "Mate 80标准版3999起，首配3D人脸，商务直屏；或者nova 16 Pro 3899起，年轻影像。"}
+{"instruction": "鸿蒙和Windows笔记本哪个好？", "output": "看你生态：手机平板都是华为，鸿蒙PC联动体验更好，比如MateBook 14鸿蒙版6599起；需要Windows软件生态就X Pro或14 Linux版。"}
+{"instruction": "Mate系列里最便宜的", "output": "Mate 70 Air，3170起；新Mate 80标准版也只要3999起。"}
+{"instruction": "Pura 90 Pro Max怎么样？", "output": "影像顶配，2亿像素超大底潜望长焦，20倍高清录像，6499起，拍视频拍长焦都顶级。"}
+{"instruction": "nova 16 SE值得买吗？", "output": "年轻影像入门，2000到3000价位，第一代红枫影像，拍人像有惊喜，学生党可以看。"}
+{"instruction": "问界M8是走量的？", "output": "对，问界 M8 是大型SUV，鸿蒙智行的走量主力，空间大、配置全，是问界里卖得最好的之一。"}
+{"instruction": "智界V9是轿车还是SUV？", "output": "V9 是轿跑SUV，年轻运动造型，鸿蒙智行出品，喜欢轿跑姿态的可以看。"}
+{"instruction": "想给刚上大学的弟弟买礼物, 选啥", "output": "nova系列, 2000到4700, 年轻人爱用; 或者MatePad 11.5 S, 1670, 学习娱乐两不误。"}
+{"instruction": "两个人想买情侣装备", "output": "FreeClip 2一人一个颜色, 1299一个; 或者手表GT 7和FIT 5配一对, 运动数据还能互相分享。"}
+{"instruction": "华为折叠屏还会降价吗", "output": "折叠屏整体都在降价, 小折叠Flip都3388起了, Pura X阔折叠7499。但三折叠XTs 18000那种短期降不了, 太稀缺了。"}
+{"instruction": "一万以内的华为影像机", "output": "Pura 80 Ultra 9999起刚好在一万内，或者Pura 90 Pro Max 6499起也不错。"}
+{"instruction": "华为的智慧屏哪款性价比高？", "output": "Vision 智慧屏 6 SE RGB，2974起，全球首款RGB-MiniLED，105% BT.2020色域，这个价位这画质很难得。"}
+{"instruction": "红枫影像是什么？", "output": "华为的影像调教，nova 16 SE是第一代红枫影像，Mate X7是第二代，拍人像色彩讨喜。"}
+{"instruction": "白天在办公室戴耳机, 怕耳朵疼", "output": "FreeBuds 6半开放, 不闷耳; 更舒服就FreeClip 2, 根本不进耳朵, 戴一天都没感觉。"}
+{"instruction": "电视挂墙上要薄的", "output": "Vision 智慧屏 6，4.9cm超薄，98寸，Super MiniLED千级分区，6199起，贴墙跟画框一样。"}
+{"instruction": "Mate 70 RS非凡大师如何？", "output": "上代奢华旗舰，双层OLED微曲屏、5700mAh电池，11999起，现在买相对保值又便宜些。"}
+{"instruction": "Pura 90 Pro呢？", "output": "全能影像旗舰，麒麟9030S，5499起，比上代Pura 80 Pro降了1000块，性价比一下子出来了。"}
+{"instruction": "Mate 70 Pro优享版什么价？", "output": "5099起，比Pro便宜100，芯片是9020A降频版。"}
+{"instruction": "支持双卫星的是哪款", "output": "Pura 80 Pro+，天通加北斗双卫星，7999起。"}
+{"instruction": "想买辆车, 家里两个孩子, 华为哪个合适", "output": "问界M8或M7, SUV空间大, 鸿蒙座舱孩子上车能看动画, 乾崑智驾ADS 4.0开长途也省心。"}
+{"instruction": "Mate 70和Mate 70 Pro差什么？", "output": "Mate 70是5099起，Pro是5199起，贵100块，屏幕升级成6.9寸LTPO，还多了微距长焦。"}
+{"instruction": "大屏平板买哪个？", "output": "大屏就 MatePad Pro 13.2 2025，13.2寸柔性OLED，看视频画画都是享受，麒麟9010性能也强，88W快充，4350起。"}
+{"instruction": "Buds2手表能放歌吗？", "output": "WATCH Buds 2 本身就是手表加耳机的二合一，耳机藏在表里，54.5g钛合金，1.5寸LTPO屏3000nit亮度，耳机单只4g不分左右耳，掏出来就听歌。"}
+{"instruction": "给女朋友买表，GT 7 41mm怎么样？", "output": "可以，41mm小尺寸专为女生设计，1488起，14天续航不用老充电，颜值功能都在线。"}
+{"instruction": "华为那个能装耳机的表", "output": "你说的是WATCH Buds 2, 手表里藏着一对耳机, 打开表盘就能拿出来戴, 华为的独门创意。"}
+{"instruction": "MatePad Mini 和 11.5 2026 怎么选？", "output": "Mini 是2465起的小尺寸便携款，阅读娱乐随身带；11.5 2026 是1530起的11.5寸入门款，屏幕更大适合追剧网课。要便携选Mini，要大屏选11.5。"}
+{"instruction": "X7和X6有什么区别？", "output": "X7是新款，麒麟9030 Pro加8寸内屏、第二代红枫影像，12999起；X6是上代，麒麟9000S Pro、分布式玄武架构，10999起。预算够上X7。"}
+{"instruction": "想在公司年会上抽个大奖级礼物", "output": "ULTIMATE DESIGN紫金款, 26888, 珠宝表, 抽到的人当场就哭了, 没抽到的人也记住了你。"}
+{"instruction": "设计师用什么平板？", "output": "MatePad Pro 13.2 2025，13.2寸柔性OLED，麒麟9010，4350起，创意生产力旗舰，画画做设计首选。"}
+{"instruction": "华为那个能测血压的玩意儿叫啥", "output": "你说的应该是华为WATCH D2, 医疗级血压表, 戴在手腕上就能测, 都写进高血压指南了, 给爸妈买挺合适。"}
+{"instruction": "Mate XTs和Mate X7怎么选？", "output": "XTs是三折叠，18000起，展开10.1寸当平板用，还有PC级应用；X7是传统大折叠12999起。要极致形态选XTs，实用大屏选X7。"}
+{"instruction": "SE平板能玩什么？", "output": "MatePad SE 11寸，1399起，千元入门，骁龙685，7700mAh大电池，刷剧、网课、看小说完全够，玩游戏就别指望了。"}
+{"instruction": "健身房的装备推荐", "output": "WATCH FIT 5，27g轻便戴着手感好，14天续航；配 FreeClip 2 耳夹耳机，不堵耳朵不闷汗，1299，健身搭档齐活。"}
+{"instruction": "HarmonyOS 7什么时候能用上？", "output": "要等Mate 90系列，2026年9月发布，首发HarmonyOS 7，还说是5G回归。"}
+{"instruction": "Pocket 2是不是小折叠？", "output": "对，华为的竖向小折叠Pocket 2，7999起，玄武水滴铰链那个。"}
+{"instruction": "Mate 70 Pro现在还买吗？", "output": "可以买，5199起，麒麟9020加6.9寸LTPO屏，微距长焦拍照也有意思，上代旗舰现在性价比反而高。"}
+{"instruction": "华为Ultimate 2和GT 7 Pro哪个值得买", "output": "Ultimate 2是户外顶配, 能北斗卫星通信、能潜水, 价格也顶。你只是跑步健身, GT 7 Pro 2488完全够, 别多花冤枉钱。"}
+{"instruction": "华为最贵的10款产品是什么", "output": "大致是: 尊界MPV 76.6万顶配、MateTV Max 64999、ULTIMATE DESIGN手表26888、MateBook Fold 24999、XTs 18000、X7 12999、Mate系列顶配11999、MatePad Pro顶配9999、Pura系列顶配9999、Ultimate 2手表。排下来基本就这些。"}
+{"instruction": "华为那个跟手机连起来的车是哪个牌子", "output": "华为智选车那几界: 问界、智界、享界、尊界、尚界, 都是鸿蒙座舱, 手机一上车全自动连上。"}
+{"instruction": "年轻人第一台轿跑", "output": "尚界 Z7和Z7T，年轻人轿跑，运动造型，鸿蒙智行旗下，性价比也不错。"}
+{"instruction": "Mate 70 Air这台手机咋样？", "output": "主打大屏长续航，7寸屏加6500mAh电池，3170起，是华为最便宜的Mate，预算有限又要续航可以看它。"}
+{"instruction": "风驰版是啥手机？", "output": "Mate 80 Pro Max风驰版，2026年3月加推的，可以理解为Pro Max的性能升级版，8499块。"}
+{"instruction": "Pura 90和Pura 80买哪个？", "output": "买新不买旧，Pura 90 4699起，Pura 80是上代直屏影像；Pura 90 Pro 5499起还比上代Pro降了1000，直接上Pura 90 Pro最划算。"}
+{"instruction": "跑步数据要求专业的选什么表？", "output": "WATCH GT Runner 2，专为跑者设计，轻量化机身加专业跑步指标，配速步频心率区间都是跑者向的。"}
+{"instruction": "Mate 80 RS和Mate X7怎么选？", "output": "RS是直板旗舰11999起，双潜望加卫星通信，全金属玄武架构；X7是大折叠12999起，8寸内屏。要排面和卫星选RS，要大屏办公选X7。"}
+{"instruction": "华为做笔记本有几年了", "output": "好多年了, MateBook系列从2016年就开始做。现在产品线很全, 7999的Pro S、24999的Fold, 从轻办公到旗舰都有。"}
+{"instruction": "最便宜的华为穿戴是什么？", "output": "华为手环11，入门健康监测，华为最便宜的穿戴设备，预算不多想体验健康监测的选它。"}
+{"instruction": "M70P是哪台？", "output": "Mate 70 Pro，上代大杯，5199起，麒麟9020，6.9寸LTPO屏，还有微距长焦。"}
+{"instruction": "华为手机里WIFI7有啥用？", "output": "网速更快延迟更低，Mate 80 Pro这些新款旗舰都支持，配个好路由器体验提升明显。"}
+{"instruction": "华为的汽车智驾靠谱吗", "output": "乾崑智驾ADS 4.0现在是国内第一梯队, 问界M8这些在路上跑了很久, 高速领航、城市智驾都挺成熟。不过再成熟也别松方向盘啊。"}
+{"instruction": "Pocket 2和Nova Flip 2选哪个？", "output": "Pocket 2是高端小折叠，7999起，玄武水滴铰链；Nova Flip 2是nova首款新折叠，4999，麒麟8030，价格差3000。预算多上Pocket 2，省钱选Flip 2。"}
+{"instruction": "Mate 80 Pro Max和Pura 80 Ultra哪个强？", "output": "双潜望长焦的Mate 80 Pro Max 7499起更全面，双层OLED屏也好；Pura 80 Ultra是100倍变焦影像机皇9999起。变焦党选Ultra。"}
+{"instruction": "学生党适合哪款华为手机？", "output": "nova 16 SE，2000到3000价位，第一代红枫影像；nova 16 Pro 3899起，256GB起步；或者nova Flip S 3388起的小折叠，个性拉满。"}
+{"instruction": "Clip2是什么耳机？", "output": "FreeClip 2，华为的耳夹耳机，不塞耳朵的开放式设计，单只5.1克，AI算力比上代提升10倍，支持AI翻译，总续航38小时，1299元。"}
+{"instruction": "想买个1000多块的平板追剧", "output": "MatePad SE 11寸，1399起，或者 MatePad 11.5 2026，1530起。一个骁龙685大电池，一个护眼屏加鸿蒙AI，追剧都香。"}
+{"instruction": "华为现在和荣耀还有关系吗", "output": "荣耀2020年就独立出去了, 跟华为只是血缘关系。现在荣耀用的不是鸿蒙生态, 别再混为一谈了。"}
+{"instruction": "华为FreeBuds Pro 5和FreeBuds 6哪个好", "output": "Pro 5是入耳式旗舰, 降噪最强; 6是半开放, 戴久了耳朵不闷。通勤地铁多选Pro 5, 办公室戴一天选6。"}
+{"instruction": "华为那个三千多的折叠是啥", "output": "那是nova Flip, 小折叠, 3388起, 折叠屏里最便宜的, 小巧好看, 女生用得多。"}
+{"instruction": "给孩子买平板上网课", "output": "MatePad 11.5 2026，1530起，护眼屏加鸿蒙AI，柔光版可选，上网课对眼睛友好；预算再紧就MatePad SE，1399起。"}
+{"instruction": "六寸多屏幕的Pura直屏", "output": "Pura 80，6.6寸，Pura系列里唯一的直屏，麒麟9010S，5600mAh。"}
+{"instruction": "想换手机, 就喜欢拍照, 预算一万以内", "output": "Pura系列, 4699到9999, 影像旗舰, 夜景光影是招牌, 一万以内能选到很好的配置。"}
+{"instruction": "华子平板13寸那个多少钱", "output": "MatePad Pro 13.2 2025，13.2寸柔性OLED，麒麟9010，88W快充，4350起。"}
+{"instruction": "Pura 90多少钱？", "output": "4699起，HarmonyOS 6.1的影像机。"}
+{"instruction": "想买无线耳机降噪好的", "output": "FreeBuds Pro 5 悦彰，2025年11月发布的降噪旗舰，入耳式降噪天花板。"}
+{"instruction": "学生党, 预算2000, 买个华为平板追剧记笔记", "output": "MatePad 11.5 S, 1670, 学生党首选, 追剧记笔记都够, 剩下的钱还能买个壳和笔。"}
+{"instruction": "华为为什么做手表藏耳机这种奇怪的东西", "output": "华为WATCH Buds 2, 手表里藏了一副耳机, 出门少带一个充电盒。华为在可穿戴上就爱搞这种创新的小东西, 挺有意思的。"}
+{"instruction": "华为MateBook Pro S和14鸿蒙版怎么选", "output": "Pro S是798克, 轻得离谱, 7999起, 天天背着跑的人选它; 14鸿蒙版6599起, 便宜些, 但强项是跟鸿蒙设备联动。出差多选Pro S, 预算紧选14。"}
+{"instruction": "Mate 80 Pro和Pura 90 Pro怎么选？", "output": "Mate 80 Pro偏商务全能，麒麟9030、WiFi7、6.9寸微曲屏，6499起；Pura 90 Pro偏影像，麒麟9030S，5499起还降了1000。商务办公选Mate，拍照选Pura。"}
+{"instruction": "华为为什么不出小屏手机了", "output": "市场没需求了呗, 现在都是大屏, 唯一的小尺寸就剩小折叠Flip, 3388起。华为折叠屏形态最全, 想要小的就它了。"}
+{"instruction": "Sound X5 悦彰为什么叫发布会音响担当？", "output": "因为它跟帝瓦雷联合调音，发布会现场放音乐全靠它撑场面，音质口碑很好，是华为的旗舰HiFi智能音箱。"}
+{"instruction": "华为手机上那个鸿蒙系统和安卓什么关系", "output": "早期鸿蒙兼容安卓应用, 现在鸿蒙NEXT之后是纯血鸿蒙, 完全不依赖安卓了。9月Mate 90上HarmonyOS 7, 应用生态越来越全。"}
+{"instruction": "Mate 70现在还值得买吗？", "output": "值得，上代旗舰现在价格实在，Mate 70是5099起，Pro是5199起，Pro+带卫星6699起，功能都还不过时。"}
+{"instruction": "Pura 90 Pro要多少？", "output": "5499起，麒麟9030S，比上代Pura 80 Pro便宜了1000。"}
+{"instruction": "华为哪些产品是跨界创新的", "output": "手表藏耳机Buds 2、耳夹耳机FreeClip 2、折叠PC MateBook Fold、三折叠XTs、AI眼镜、110寸MateTV Max, 华为最爱干这种别人没干过的事。"}
+{"instruction": "13.2寸Pro是什么型号？", "output": "MatePad Pro 13.2 2025，华为的专业旗舰平板，13.2寸柔性OLED屏，麒麟9010，88W快充，4350元起。大屏旗舰就它了。"}
+{"instruction": "尚界Z7是给年轻人准备的吗？", "output": "尚界 Z7 就是年轻人的轿跑，运动造型，Z7T是衍生版，追求个性轿跑的可看。"}
+{"instruction": "哪个华为手机外屏可以独立用？", "output": "等Mate XT2，下一代三折叠，带独立外屏，2026年9月发布。"}
+{"instruction": "华为有没有适合商务用的手机？", "output": "Mate系列都是商务向，Mate 80 3999起，Mate 80 Pro 6499起，要排面就Mate 80 RS非凡大师11999起，还有三折叠Mate XTs 18000起。"}
+{"instruction": "用鸿蒙手机的买什么笔记本？", "output": "肯定 MateBook 14 鸿蒙版，6599起，首款数字系列鸿蒙PC，跟手机互传、多屏协同太顺手了；预算多就MateBook Pro系列。"}
+{"instruction": "MateBook 14 鸿蒙版怎么样？", "output": "MateBook 14 鸿蒙版是首款数字系列的鸿蒙PC，6599起。跟华为手机平板生态打通，传文件、多屏协同特别顺，鸿蒙生态用户闭眼入。"}
+{"instruction": "华为MateBook Pro 799克那个", "output": "是798克, 不是799, 就轻那么一克, 哈哈。MateBook Pro S, 7999起。"}
+{"instruction": "nova 16怎么样？", "output": "年轻人的续航王，7000mAh超大电池加100W快充，麒麟9010S，3499起，重度用户很合适。"}
+{"instruction": "华为有没有适合女生的笔记本？", "output": "MateBook Pro S 典藏版，顶配到14999，轻便颜值高；或者 MateBook 14 鸿蒙版，6599起，轻薄均衡，也适合女生。"}
+{"instruction": "北斗平板是哪个？", "output": "MatePad Pro 2026，支持北斗卫星通讯的平板，4.7mm超薄机身，12寸OLED，麒麟T93。没信号的地方也能发消息，这功能绝了。"}
+{"instruction": "追剧平板哪个好？", "output": "MatePad Pro 12.2，双层OLED画质旗舰，3199起，看剧颜色正；预算低就MatePad SE，1399起，或者11.5 2026，1530起。"}
+{"instruction": "nova 16 Pro咋样？", "output": "中高端年轻影像，3899起，256GB到1TB全覆盖，容量党友好。"}
+{"instruction": "畅享90 Pro Max咋样？", "output": "千元续航王，8500mAh怪兽级电池，6.84寸OLED屏还有NFC，1699起，给老人用或者当备用机都行。"}
+{"instruction": "GT 7续航多久？", "output": "WATCH GT 7 46mm 是21天续航，1588起，还有骑行模拟功率功能，长续航全能表，充一次顶三周。"}
+{"instruction": "Mate 80 Pro和Pura 80 Pro比怎么样？", "output": "Mate 80 Pro新款6499起，麒麟9030加WiFi7；Pura 80 Pro上代6499起，1寸大底影像。同为6499起步，新款选Mate 80 Pro，拍照选Pura。"}
+{"instruction": "Mate 80 RS非凡大师怎么样？", "output": "超高端商务旗舰，全金属玄武架构、双潜望长焦、卫星通信都齐了，11999起步，是华为最贵的直板Mate，气场这块拉满。"}
+{"instruction": "Pura 80 Pro和Pura 80 Ultra怎么选？", "output": "Pro是6499起，1寸大底RYYB加100W快充；Ultra是9999起，一镜双目双焦段长焦、100倍变焦。预算够直接Ultra，影像机皇。"}
+{"instruction": "Mate 70 Air现在还卖吗？", "output": "在卖，3170起，最便宜Mate，7寸大屏加6500mAh，现在性价比很高。"}
+{"instruction": "商务接待配什么手表？", "output": "WATCH GT 7 Pro，钛合金蓝宝石材质有质感，2488起；要更奢华就 ULTIMATE DESIGN 星钻或紫金，珠宝级排面。"}
+{"instruction": "预算3000左右买华为手表", "output": "WATCH GT 7 Pro 46mm，2488起，钛合金蓝宝石，专业登山潜水模式，3000预算能拿个中配；或者加点上 ULTIMATE 系列的珠宝表。"}
+{"instruction": "Mate 70 Air为什么叫Air？", "output": "虽然7寸大屏，但主打轻量化大屏长续航，3170起，最便宜Mate。"}
+{"instruction": "华为Mate 90和Pura 90怎么选", "output": "都还没上市呢, 9月先发Mate 90, 首发麒麟2026芯片、HarmonyOS 7, 5G回归。Pura 90后续才来。等Mate 90出来看评测再定, 影像党再等等Pura。"}
+{"instruction": "Mate标准版说的是？", "output": "Mate 80标准版，3999起，商务直屏旗舰，首配3D人脸识别，价格挺亲民。"}
+{"instruction": "华为那个能翻译的眼镜", "output": "鸿蒙AI眼镜, 2499, 支持同声传译, 还有AI问答, 出差见外国客户挺好使。"}
+{"instruction": "Mate 80 Pro Max的双潜望是什么？", "output": "就是两颗潜望式长焦镜头，拍远景更强，远近都能拉，配合双层OLED屏，7499起。"}
+{"instruction": "FreeBuds 6和Pro 5选哪个？", "output": "FreeBuds 6 是半开放旗舰，首款半开放悦彰，11mm动圈加微平板单元，2.3Mbps无损传输，戴着透气；Pro 5悦彰是入耳降噪旗舰，2025年11月发布，降噪更强。要降噪选Pro 5，要佩戴舒适选6。"}
+{"instruction": "三折叠是啥？", "output": "就是Mate XTs非凡大师，华为那个能折两下、展开10.1寸当平板用的手机，18000起步，是华为最贵的手机。"}
+{"instruction": "就是那个能夹在耳朵上的, 华为的", "output": "那是FreeClip 2, 耳夹式开放式耳机, 1299, 不塞进耳朵, 夹在耳廓上, 戴着跟耳饰一样。"}
+{"instruction": "大G平替是啥？", "output": "享界 G9，43.98万起，硬派SUV对标奔驰大G，造型硬朗，鸿蒙智行的智驾座舱都拉满，平替大G就它。"}
+{"instruction": "华为那个柔光屏平板是啥", "output": "MatePad Air, 2125起, 柔光屏看电子书不反光不累眼, 学生党和爱看书的人喜欢。"}
+{"instruction": "Pura 90 Pro Max多少钱？", "output": "6499起，2亿像素潜望长焦那台。"}
+{"instruction": "华为MatePad Pro能替代笔记本吗", "output": "轻度办公可以, 3199到9999的价位, 键盘笔一配, 写文档回邮件没问题。但要跑大型软件、重度办公还得笔记本, 买前想清楚自己干啥用。"}
+{"instruction": "那台展开很大的手机", "output": "Mate XTs非凡大师，三折叠展开10.1寸，能当平板用，18000起。"}
+{"instruction": "华为那个能潜水的表", "output": "华为WATCH Ultimate 2, 户外顶配, 能潜水, 还有北斗卫星消息, 没信号也能联系上。"}
+{"instruction": "Mate 80 Pro Max风驰版多少钱？", "output": "8499，2026年3月加推的性能版。"}
+{"instruction": "X5音箱是华为的吗？", "output": "是，Sound X5 悦彰，帝瓦雷联合调音的旗舰智能音箱，华为自家的HiFi担当。"}
+{"instruction": "华为汽车问界和智界怎么选", "output": "问界是SUV, M8、M7、M6, 家用大空间; 智界是轿跑, 要操控和颜值。一家老小选问界, 自己开得爽选智界。"}
+{"instruction": "尊界是华为的吗？", "output": "尊界是鸿蒙智行旗下的超豪华MPV品牌，V800旗舰76.6万起，V680入门64.8万起。"}
+{"instruction": "户外探险带什么表？", "output": "WATCH Ultimate 2，双向北斗卫星消息，150米潜水带音频，水下声呐通信，户外表皇，探险场景全是它的主场。"}
+{"instruction": "华为最近有什么新机发布？", "output": "2026年6月刚发了Nova Flip 2，接下来9月会有Mate 90系列、Mate X8、Mate XT2这些。"}
+{"instruction": "V6SE值不值得买？", "output": "Vision 智慧屏 6 SE RGB 2974起，全球首款RGB-MiniLED，三原色独立发光，105% BT.2020色域，300Hz。追求色彩和性价比的可以冲。"}
+{"instruction": "华为手机和华为眼镜配不配", "output": "鸿蒙AI眼镜跟手机联动很自然, 35.5克戴着没负担, 消息直接在镜片上看到, 还能AI问答、同声传译, 2499。出差多的人挺合适。"}
+{"instruction": "想买个续航长的华为手机", "output": "续航怪兽的话，畅享90 Pro Max 8500mAh只要1699起；Mate里Mate 70 Air 6500mAh、3170起；nova 16也有7000mAh加100W快充。"}
+{"instruction": "学生买什么平板好？", "output": "学生党首推 MatePad 11.5 S，1670起，2.8K 144Hz高刷屏，还能选柔光屏护眼，记笔记看网课都顺滑，性价比很高。"}
+{"instruction": "Pura X Max价格？", "output": "10999起，7.7寸阔折叠。"}
+{"instruction": "经常出差的笔记本推荐", "output": "MateBook Pro S，798g超轻本，出差包里一塞没负担，麒麟XE90，7999起。"}
+{"instruction": "柔光屏Air是啥？", "output": "MatePad Air 2026，PaperMatte柔光屏，屏幕像纸质书一样不反光不刺眼，长时间看对眼睛友好，麒麟T93C芯片，护眼办公定位。"}
+{"instruction": "Mate 90出了吗？", "output": "还没，预计2026年9月发布，首发麒麟2026芯片，还带HarmonyOS 7，说是5G回归，值得等。"}
+{"instruction": "能发卫星消息的手表", "output": "WATCH Ultimate 2，双向北斗卫星，还能发语音消息，没信号也能联系上，户外保命神器。"}
+{"instruction": "华为手表能不能连苹果手机", "output": "能连, 但功能砍掉一半, 很多健康功能用不了。要是苹果手机就别折腾华为手表了, 体验不完整, 换Apple Watch吧。"}
+{"instruction": "华为发布会一般什么时候开", "output": "一般9月发Mate系列, 春季发Pura系列和折叠屏。今年9月就是Mate 90, 大嘴说了, 是史上最大。"}
+{"instruction": "M80PM指的是哪个？", "output": "Mate 80 Pro Max，华为的顶配影像直板机，双潜望长焦那个，7499起步。"}
+{"instruction": "耳夹耳机和入耳式比有什么优势？", "output": "最大的优势就是不堵耳朵，通勤戴一天耳朵都不难受。华为 FreeClip 2 单只才5.1克，还能AI翻译，38小时总续航，1299。舒适度和听感自然感是强项，缺点就是降噪肯定不如入耳。"}
+{"instruction": "经常出差, 轻便第一, 华为哪款本适合", "output": "MateBook Pro S, 798克, 真离谱, 比你手里那瓶矿泉水还轻, 7999起, 出差带着毫无负担。"}
+{"instruction": "MateBook Pro S怎么样？", "output": "一句话：轻。798克，14.2寸屏，镁锂合金一体机身，麒麟XE90。办公党通勤党首选，包里塞着跟没带一样。标准版7999起。"}
+{"instruction": "Mate 90会支持5G吗？", "output": "按目前的消息，Mate 90系列5G回归，2026年9月发布。"}
+{"instruction": "华为有个电脑能折叠成平板的", "output": "MateBook Fold, 折叠PC, 24999, 屏幕能对折, 展开15寸, 办公演示神器。"}
+{"instruction": "双层OLED是什么屏幕？", "output": "发光层做双层，亮度高寿命长，Mate 80 Pro Max和Mate 70 RS非凡大师用的都是这个。"}
+{"instruction": "享界S9是什么车？", "output": "享界 S9 是鸿蒙智行的豪华轿车，S9T是衍生版本，豪华定位，主打商务和行政。"}
+{"instruction": "预算一万左右买什么华为电脑？", "output": "MateBook Pro S，7999起，798g极致轻薄，顶配到14999的典藏版，跨度正好覆盖一万档；要Windows就 MateBook X Pro 旗舰本。"}
+{"instruction": "Mate X8什么时候出？", "output": "即将发布，8.15寸内屏、麒麟9050 Pro、6000mAh+大电池，可以蹲一波。"}
+{"instruction": "野餐带啥放歌？", "output": "Sound Joy 系列，便携蓝牙音箱，户外用的，拎着就走，野餐露营音乐氛围组担当。"}
+{"instruction": "华子家那个最轻的手环", "output": "华为手环FIT 5, 27克, 跟没戴一样, 女生戴很合适。"}
+{"instruction": "华为平板和iPad怎么选", "output": "你在华为生态就选MatePad, 多屏协同用起来太爽了; 用惯了iOS就iPad。纯看性价比, MatePad Pro 3199起能摸到iPad Pro的边。"}
+{"instruction": "送男朋友手表买哪个？", "output": "看预算：GT 7 Pro 2488起，钛合金蓝宝石耐造；Ultimate 2 户外旗舰，150米潜水加北斗卫星；预算无上限就 ULTIMATE DESIGN 紫金，18K金表。"}
+{"instruction": "华为手机里哪个屏幕最大？", "output": "三折叠Mate XTs，展开10.1寸当平板用；大折叠里Mate X8要出8.15寸内屏；直板大屏看Mate 70 Air的7寸。"}
+{"instruction": "华为的折叠屏笔记本靠谱吗", "output": "MateBook Fold 非凡大师，18寸折叠巨幕，双层OLED，玄武水滴铰链，鸿蒙系统，24999。形态很酷，质量有玄武铰链背书，就是贵。"}
+{"instruction": "华为鸿蒙AI眼镜好用吗", "output": "挺好用的, 35.5克轻得没存在感, AI问答、同声传译都是实用功能, 2499。出差见客户、旅游都合适, 就是续航一般, 一天一充。"}
+{"instruction": "阔折叠是哪种？", "output": "就是Pura X和Pura X Max，屏幕是16:10的阔型比例，像个小平板，Pura X 7499起步，X Max 10999起。"}
+{"instruction": "华为鸿蒙生态现在怎么样了", "output": "现在铺得很广, 手机、平板、手表、眼镜、车机全打通, 多屏协同是招牌。9月Mate 90上HarmonyOS 7又是一波大更新, 生态黏性是越来越强。"}
+{"instruction": "华为现在重心是手机还是汽车", "output": "都重要, 手机是基本盘, 汽车是第二增长曲线。鸿蒙生态把手机、车、平板全串起来了, 华为想做的从来不是单品, 是整个生态。"}
+{"instruction": "华为最贵的手表是哪块？", "output": "ULTIMATE DESIGN 紫金，26888，10段18K黄金表身，紫色陶瓷表圈，带eSIM。最贵华为表，也是珠宝级的奢华腕表。"}
+{"instruction": "Pura X Max和Mate X7选哪个？", "output": "都在10999到12999区间，X Max是阔折叠7.7寸、IP58/59，10999起；X7是8寸大折叠、第二代红枫影像，12999起。要防水选Max，要影像选X7。"}
+{"instruction": "公司开会多, 想买个能记事的设备", "output": "MatePad Air, 柔光屏加手写笔, 2125起, 开会记笔记看文件都舒服, 拿手上也不重。"}
+{"instruction": "G9是华为的车吗？", "output": "是的，享界 G9，鸿蒙智行旗下，硬派SUV，对标奔驰大G，43.98万起。"}
+{"instruction": "华为Mate 90大概多少钱", "output": "按Mate系列3999到11999的定价, Mate 90应该在这个区间往上探, 毕竟是史上最大Mate, 首发麒麟2026。具体等9月发布会, 大嘴肯定要吹一波。"}
+{"instruction": "那个方方正正展开是平板的", "output": "Mate XTs，三折叠，展开10.1寸跟平板似的，18000起。"}
+{"instruction": "七千块华为折叠有推荐吗", "output": "Pura X阔折叠7499起，或者Pocket 2小折叠7999起，都在这个区间。"}
+{"instruction": "华为有个MPV很贵那个", "output": "尊界, MPV, 64.8万到76.6万, 商务接待顶配, 那排面不是一般车能比的。"}
+{"instruction": "Pro5是什么耳机？", "output": "FreeBuds Pro 5 悦彰，华为的旗舰降噪入耳耳机，2025年11月发布的，降噪音质都是旗舰水准。"}
+{"instruction": "华为那个可以戴在脸上的智能设备是啥", "output": "那是鸿蒙AI眼镜, 2499, 35.5克, 眼镜腿上直接AI问答、同声传译, 不是电脑, 是智能眼镜。"}
+{"instruction": "想减肥, 买华为手表有用吗", "output": "有用, GT 7能监测心率、热量消耗, 1588, 价格也友好。但主要是记录, 减不减肥还得看你迈不迈腿。"}
+{"instruction": "华为跟大奔G对着干的那款车", "output": "享界G9, 硬派SUV, 43.98万, 从造型到定位都是对标奔驰大G的。"}
+{"instruction": "华为平板Pro是不是都能卫星通话", "output": "只有MatePad Pro支持北斗卫星消息, 其他Air、Mini、11.5S这些都不支持, 别买错了。"}
+{"instruction": "华为AI眼镜怎么样？", "output": "鸿蒙AI眼镜，35.5g比Meta还轻，6.25mm超薄镜腿，1200万像素摄像头，支持AI指向问答和同声传译，光学镜和太阳镜两个版本，2499。"}
+{"instruction": "华为5G手机有推荐吗？", "output": "千元5G看畅享90，1299起，麒麟8000A 5G；要更快的5G就畅享90 Plus，1499起；旗舰新机配置都拉满。"}
+{"instruction": "华为最便宜的折叠屏是哪个？", "output": "Nova Flip S，3388起，竖向小折叠，是华为目前最便宜的折叠屏。"}
+{"instruction": "华为的耳机和手表能一起用吗", "output": "当然能, 都是同一个生态。手表上控制播放、耳机接电话, 运动时手表记录、耳机语音播报, FreeBuds Pro 5配GT 7 Pro用起来特别顺。"}
+{"instruction": "千元5G说的哪台？", "output": "畅享90，1299起，麒麟8000A 5G加6620mAh电池，华为千元5G的主力。"}
+{"instruction": "智慧屏和普通电视有啥区别？", "output": "华为的智慧屏强在鸿蒙生态，跟手机平板联动，像 Vision 智慧屏 6 Pro 还能触控书写，会议、网课场景都用得上。"}
+{"instruction": "我要跑马拉松, 手表要求轻和准", "output": "FIT 5, 27克, 跟没戴一样, 配速心率都准; 或者GT 7 Pro, 续航顶, 跑全程不用充电。"}
+{"instruction": "华为车哪款卖得最好", "output": "问界M7、M8销量最猛, SUV本来就好卖, 加上鸿蒙座舱和ADS 4.0智驾加持。尊界那种64万起的MPV是形象产品, 走量的还是问界。"}
+{"instruction": "Mate 90系列和Mate 80系列啥关系？", "output": "Mate 90是新一代年度旗舰，2026年9月发布，首发麒麟2026、HarmonyOS 7、5G回归；Mate 80是目前在售的最新款。"}
+{"instruction": "华为还有个一万八的啥来着", "output": "华为Mate XTs, 三折叠, 18000, 华为最贵的手机了。"}
+{"instruction": "华为Ultimate是手表还是耳机", "output": "是手表, WATCH Ultimate 2, 户外顶配, 能潜水能卫星通信。耳机叫FreeBuds, 别混了。"}
+{"instruction": "轻办公买平板还是笔记本？", "output": "轻度用平板就行，MatePad Air 12，2125起，2.8K 144Hz加10100mAh，还能配键盘；要键盘手感写代码做表格，就 MateBook 14 鸿蒙版，6599起。"}
+{"instruction": "华为手机和平板的联动体验怎么样", "output": "挺强的, 同一个华为账号下, 手机上的文件直接拖到平板上, 来电话平板也能接。多屏协同这块华为做得最早也最成熟, 尤其配上鸿蒙, 顺手得很。"}
+{"instruction": "MateBook X Pro怎么样？", "output": "X Pro 是Windows旗舰，酷睿Ultra9处理器，3.1K OLED柔性屏，140W超级快充，32GB+2TB顶配。Windows阵营里妥妥的旗舰本。"}
+{"instruction": "Edge平板能当笔记本用吗？", "output": "能，MatePad Edge 本来就是二合一设计，24GB+1TB的配置干生产力活没问题，9999块。轻办公完全能替代笔记本。"}
+{"instruction": "华为的智驾、座舱、芯片是同一套吗", "output": "不完全是: 座舱和智驾是鸿蒙加乾崑ADS 4.0, 手机电脑用麒麟芯片, 但它们都靠鸿蒙生态串起来, 这就是华为的护城河。"}
+{"instruction": "想要台Windows旗舰本", "output": "MateBook X Pro，酷睿Ultra9，3.1K OLED柔性屏，140W快充，32GB+2TB，Windows旗舰本的天花板之一。"}
+{"instruction": "nova 16系列是第几代？", "output": "nova 16系列是在售最新一代，SE、16、Pro、Ultra四款都在卖。"}
+{"instruction": "华为AI眼镜和VR眼镜一样吗", "output": "不一样, AI眼镜是日常戴的, 35.5克, 有AI问答、同声传译, 2499; VR是虚拟现实, 戴头盔那种。华为现在主打的是这个轻量AI眼镜。"}
+{"instruction": "剪视频用什么平板？", "output": "MatePad Pro 13.2 2025，麒麟9010加13.2寸柔性OLED，4350起，剪片调色屏幕大看得清，平板里的生产力旗舰。"}
+{"instruction": "华为平板学生买哪款", "output": "11.5S, 1670, 学生党首选, 追剧记笔记都够用。别一上来就MatePad Pro, 学生没必要, 省下的钱吃顿好的。"}
+{"instruction": "华为最贵的笔记本电脑是哪款？", "output": "MateBook Fold 非凡大师，18寸折叠巨幕那款，24999，也是华为目前最贵的PC。想要折叠形态、又要旗舰体验的，就它了。"}
+{"instruction": "AI眼镜能翻译吗？", "output": "能，鸿蒙AI眼镜支持同声传译，还有AI指向问答，1200万摄像头，35.5g超轻，6.25mm超薄镜腿，2499块。"}
+{"instruction": "Fold PC是什么？", "output": "Fold PC就是华为的折叠笔记本，官方叫 MateBook Fold 非凡大师。18寸折叠巨幕，双层OLED，玄武水滴铰链，鸿蒙系统，24999块，华为最贵的PC就是它。"}
+{"instruction": "华为哪个手机变焦最猛？", "output": "Pura 80 Ultra，一镜双目双焦段长焦，100倍变焦，9999起；Pura 90 Pro Max的2亿像素潜望长焦也很猛，6499起。"}
+{"instruction": "Linux笔记本有推荐吗？", "output": "MateBook 14 Linux 版，1.31kg轻薄，比Windows版便宜300块，开发者友好。自己装Linux开发用很合适，性价比也高。"}
+{"instruction": "想买个千元内的华为穿戴", "output": "华为手环11，入门健康监测，华为最便宜的穿戴，预算千元内就它了。"}
+{"instruction": "华为眼镜和Meta眼镜比怎么样？", "output": "鸿蒙AI眼镜35.5g，比Meta的还轻，6.25mm超薄镜腿，1200万摄像头，AI指向问答、同声传译都有，2499，光学镜和太阳镜两个版本可选。"}
+{"instruction": "华为哪个产品线最赚钱", "output": "手机肯定是第一, Mate和Pura高端撑起利润; 汽车走量, 问界销量猛; 平板和手表是基本盘, 都不差。"}
+{"instruction": "华为最大最贵的电视是哪台？", "output": "MateTV Max，110寸巨幕，64999块。史上最大Mate，最贵华为屏，客厅够大就是家庭影院天花板。"}
+{"instruction": "想要带卫星通信的华为手机", "output": "Mate 80 RS非凡大师有卫星通信，11999起；上代Mate 70 Pro+带天通卫星，6699起；Pura 80 Pro+更全，天通加北斗双卫星，7999起。"}
+{"instruction": "问界M6是什么定位？", "output": "问界 M6 是中型SUV，比M7小一档，价格也更友好，适合城市通勤加周末出行。"}
+{"instruction": "血压表是华为哪款？", "output": "WATCH D2，华为的医疗级血压表，支持动态血压监测，而且是写进中国高血压防治指南的，给家里老人买血压监测就选它。"}
+{"instruction": "预算4000多买啥笔记本？", "output": "MateBook D 16 SE，4000-5000价位，16寸护眼大屏，还有数字小键盘，办公算账输密码都方便，入门大屏办公本首选。"}
+{"instruction": "学生上网课用什么设备好？", "output": "平板选 MatePad 11.5 S，1670起，高刷屏上网课流畅；笔记本选 MateBook D 16 SE，16寸大屏4000多，看网课做笔记都舒服。"}
+{"instruction": "华为耳机和不是华为的手机能配吗", "output": "能配, 蓝牙都能连, 但华为手机配华为耳机有低延迟、弹窗、空间音频这些加成, 体验差不少。用华为手机还是配华为耳机。"}
+{"instruction": "华为的卫星通信有什么用？", "output": "没信号的地方也能求救联系，Mate 80 RS、Mate 70 Pro+、Pura 80 Pro+这些带卫星功能的，户外党很实用。"}
+{"instruction": "华为的笔记本和手机是怎么互通的", "output": "多屏协同, 手机屏幕直接拖到笔记本上操作, 文件互传、剪贴板共享, 鸿蒙版笔记本更彻底, 14鸿蒙版6599起。"}
+{"instruction": "三折叠展开能干什么？", "output": "Mate XTs展开10.1寸，当平板用，跑PC级应用，办公、看文档、看视频都爽，18000起。"}
+{"instruction": "想买个10000左右的华为手机", "output": "Mate X6大折叠10999起，Pura X Max阔折叠10999起，Mate 80 RS非凡大师11999起，Pura 80 Ultra影像机皇9999起。"}
+{"instruction": "14鸿蒙和Windows版怎么选？", "output": "14鸿蒙版是首款数字系列鸿蒙PC，6599起，生态联动顺滑；想要Windows系统的话，同系列还有Linux版，1.31kg，比Windows版便宜300。看你的软件生态需求。"}
+{"instruction": "华为那个能折叠的笔记本多少钱？", "output": "你说的是 MateBook Fold 非凡大师吧，18寸的折叠巨幕，打开就是个大屏，折起来跟普通本差不多。价格不便宜，24999，是目前华为最贵的PC。"}
+{"instruction": "想换新能源SUV", "output": "看预算和尺寸：问界 M6 中型SUV入门合适；M7中大型；要空间就M8大型SUV；硬派越野就享界G9，43.98万起对标大G。"}
+{"instruction": "骑行爱好者手表推荐", "output": "WATCH GT 7 46mm，1588起，有骑行模拟功率功能，长续航21天，骑行党福音。"}
+{"instruction": "华为手机为什么叫风驰版？", "output": "Mate 80 Pro Max风驰版，2026年3月加推的性能特化版，强调速度性能，8499。"}
+{"instruction": "平板手写体验哪家强？", "output": "华为旗舰的话，MatePad Pro 13.2 2025 手写画画体验一流，柔性OLED加麒麟9010，4350起；预算低点就11.5 S，1670起，柔光屏手写也舒服。"}
+{"instruction": "华为手表FIT 5和GT 7怎么选", "output": "FIT 5主打轻, 27克, 纯时尚轻运动; GT 7是1588, 长续航加更多运动模式。女生选FIT 5, 要功能选GT 7。"}
+{"instruction": "做生意的人, 想买个有排面的手机", "output": "折叠屏, X7大折叠12999, 掏出来展开那一下就有气场; 不差钱就三折叠XTs, 18000, 全场焦点。"}
+{"instruction": "爸妈手机旧了, 预算1500以内", "output": "畅享系列, 1299到1699, 老人用微信刷视频完全够, 别买太贵的。"}
+{"instruction": "Mate 70 RS非凡大师还卖多少？", "output": "11999起，上代奢华旗舰。"}
+{"instruction": "华为哪些产品支持卫星通信", "output": "手机Mate系列旗舰和部分Pura, 平板MatePad Pro, 手表Ultimate 2, 都能发北斗卫星消息, 没信号也能联系上。"}
+{"instruction": "Mate 80 Pro Max多少钱？", "output": "7499起，双潜望长焦加双层OLED那个。"}
+{"instruction": "WATCH FIT 5 Pro有什么功能？", "output": "FIT 5 Pro 是方形表Pro，1.92寸LTPO屏，ECG心电图，血糖风险评估，7天续航。功能全，轻量时尚。"}
+{"instruction": "就是那个110寸的大电视", "output": "你说的是 MateTV Max，110寸巨幕，华为史上最大的Mate产品，64999，也是最贵的华为屏。家里够大就上，电影院直接搬回家。"}
+{"instruction": "nova 16 Ultra怎么样？", "output": "nova顶配，4699起，nova家族里影像最强的一台。"}
+{"instruction": "华为最贵的手机是哪款？", "output": "Mate XTs非凡大师，三折叠，18000起，华为最贵。"}
+{"instruction": "2000左右华为买啥", "output": "nova 16 SE，2000到3000价位，第一代红枫影像；或者畅享90 Pro Max 1699起，续航猛。"}
+{"instruction": "MateBook Pro 2026出了吗？", "output": "MateBook Pro 2026，970g，麒麟X90 Plus，40W性能释放，是华为新一代全能轻薄本。"}
+{"instruction": "Runner2和GT 7哪个适合跑步？", "output": "跑步选 GT Runner 2，专业跑步指标更细；日常全能加长续航就 GT 7，21天续航，1588起。跑者选Runner2。"}
+{"instruction": "Mate XTs多少钱？", "output": "Mate XTs非凡大师，18000起，华为最贵的手机。"}
+{"instruction": "鸿蒙平板有哪些？", "output": "华为的平板基本都是鸿蒙系统，从 MatePad SE 1399起到 Pro 13.2 的4350，全系覆盖。"}
+{"instruction": "Mate 70 RS和Mate 80 RS有啥区别？", "output": "80 RS是新一代11999起，全金属玄武架构；70 RS是上代11999起，双层OLED微曲屏加5700mAh。同价当然选新款。"}
+{"instruction": "Pura 100什么时候出", "output": "目前没有Pura 100, 华为影像旗舰是Pura系列, 最新是Pura 90系列。你是不是记混了?"}
+{"instruction": "华为手机配华为车还是配别的车好", "output": "手机和车联动, 华为做的是鸿蒙座舱, 问界、智界这些才是完全体。别的车也能连手机, 但做不到导航无缝流转、数字车钥匙这些。"}
+{"instruction": "Pura X这台机器如何？", "output": "华为的阔折叠，16:10阔型屏，麒麟9020，7499起，折叠屏里算亲民的。"}
+{"instruction": "XPro用的什么CPU？", "output": "MateBook X Pro 是酷睿Ultra9，配3.1K OLED柔性屏，140W超级快充，32GB+2TB存储，Windows旗舰本的配置。"}
+{"instruction": "给老人测心率血压的手表", "output": "WATCH D2，医疗级动态血压监测，进中国高血压防治指南那种，老人健康监测就它。"}
+{"instruction": "那个手表里能藏耳机的", "output": "WATCH Buds 2，手表加耳机二合一，54.5g钛合金，1.5寸LTPO 3000nit屏，耳机4g一只还不分左右。"}
+{"instruction": "Nova Flip 2卖多少？", "output": "4999，2026年6月新发的小折叠。"}
+{"instruction": "商务人士用什么笔记本？", "output": "MateBook X Pro，Windows旗舰，3.1K OLED柔性屏，140W快充，32GB+2TB，商务场合拿出手有面子。"}
+{"instruction": "nova 16多少钱？", "output": "3499起，7000mAh加100W快充。"}
+{"instruction": "华为哪款产品保值率最高", "output": "Mate和Pura系列旗舰, 高端机市场认可度高; 折叠屏和手表保值一般。真想保值, 买直板旗舰。"}
+{"instruction": "通勤带电脑太重了怎么办", "output": "换 MateBook Pro S，798g超轻本，14.2寸，镁锂合金一体机身，麒麟XE90，7999起。通勤轻松太多。"}
+{"instruction": "华为最轻的笔记本是哪个？", "output": "MateBook Pro S，只有798克，业内都算很能打的了。14.2寸屏做到这个重量，还是镁锂合金一体机身，轻薄办公党直接闭眼入。"}
+{"instruction": "Mate 80 Pro Max风驰版现在能买到吗？", "output": "能，8499，2026年3月开售的。"}
+{"instruction": "想买个车, 预算40多万, 喜欢硬派越野", "output": "享界G9, 43.98万, 硬派SUV, 对标奔驰大G, 这个价位它没对手。"}
+{"instruction": "妈妈过生日送什么表？", "output": "WATCH GT 7 41mm，1488起，小巧女款14天续航；预算高就 ULTIMATE DESIGN 星钻，98颗钻石，前LV珠宝总监设计，档次拉满。"}
+{"instruction": "华为产品里哪些是独一份的技术", "output": "三折叠XTs, 全球独有; 110寸MateTV Max; 医疗级血压表D2; 手表藏耳机的Buds 2; 还有旗舰机的卫星通信, 别家都没有。"}
+{"instruction": "Pura系列是什么定位？", "output": "Pura是华为的影像旗舰系列，从4699的Pura 90到9999的Pura 80 Ultra，拍照是核心卖点。"}
+{"instruction": "XT是啥？", "output": "XT一般说三折叠Mate XTs非凡大师，10.1寸展开能当平板用，18000起；也有说XT2的，那是下一代三折叠，还没发。"}
+{"instruction": "紫金表是金的吗？", "output": "ULTIMATE DESIGN 紫金，10段18K黄金，紫色陶瓷表圈，支持eSIM，26888块。真金，奢华定位，送礼天花板。"}
+{"instruction": "华为眼镜和耳机怎么选", "output": "眼镜是戴脸上的, 耳机是挂耳朵的。眼镜35.5克, 适合不想被耳机打扰、又想要消息提醒和翻译的人; 听歌打电话就买耳机, FreeBuds Pro 5降噪更沉浸。"}
+{"instruction": "想给爸妈买块能测血压的手表", "output": "那就华为 WATCH D2，医疗级动态血压监测，全天候监测那种，还写进了中国高血压防治指南，给长辈用靠谱。"}
+{"instruction": "智界新S7和享界S9怎么选？", "output": "新S7是智界的运动轿车，年轻化；享界S9是豪华轿车，商务行政定位。要运动个性选S7，要商务稳重选S9。"}
+{"instruction": "买齐华为全家桶大概多少钱", "output": "手机按Mate系列7999算, 平板MatePad Pro 3199, 笔记本Pro S 7999, 手表GT 7 Pro 2488, 耳机FreeBuds Pro 5, 眼镜2499, 加一块两万六左右, 还没算车和电视。"}
+{"instruction": "那个9月份要出的华为", "output": "Mate 90系列、Mate X8、Mate XT2都是2026年9月那波，Mate 90首发麒麟2026，5G回归。"}
+{"instruction": "经常去没信号的地方出差, 手机有什么推荐", "output": "华为旗舰基本都带北斗卫星消息; 想更保险, 再配一块Ultimate 2手表, 双保险。"}
+{"instruction": "有人用过Pura 90吗？", "output": "Pura 90是影像旗舰，4699起，预装HarmonyOS 6.1，主打时尚影像，这个价位拍照挺能打的。"}
+{"instruction": "华为产品这么贵, 值不值", "output": "贵有贵的道理, 麒麟芯片、鸿蒙生态、卫星通信这些是别家没有的。但值不值看需求, 经常出差、多设备联动的人会觉得超值, 只用微信抖音的话千元机也够。"}
+{"instruction": "想买台硬派SUV，华为有吗？", "output": "享界 G9 就是，硬派SUV，直接对标奔驰大G，43.98万起。硬朗造型，越野范儿，性价比拉满。"}
+{"instruction": "华为超轻本和MacBook Air比哪个轻？", "output": "华为的 MateBook Pro S 798克，比MacBook Air还轻一截。麒麟XE90配镁锂合金一体机身，14.2寸屏，7999起，喜欢极致轻便又用鸿蒙生态的就选它。"}
+{"instruction": "nova 16 Ultra多少？", "output": "4699起，nova里影像最强。"}
+{"instruction": "Mate 80标准版如何？", "output": "商务直屏旗舰，首配3D人脸识别，3999起，这个价位能买到Mate旗舰还挺值的。"}
+{"instruction": "Mate X7值得入手吗？", "output": "大折叠里很能打，麒麟9030 Pro、8寸内屏、第二代红枫影像，12999起，商务人士用挺合适。"}
+{"instruction": "看演唱会想带个小设备录像", "output": "鸿蒙AI眼镜，1200万像素摄像头，戴在头上视角跟人眼一样，2499，看演出随手记录还解放双手。"}
+{"instruction": "Mate X7多少钱？", "output": "12999起，麒麟9030 Pro加8寸内屏的大折叠。"}
+{"instruction": "华为手表Buds是耳机吧", "output": "你说的是WATCH Buds 2, 是手表, 但手表里藏了一副耳机, 所以名字带Buds。"}
+{"instruction": "nova 16 Pro多少钱？", "output": "3899起，256GB起步到1TB。"}
+{"instruction": "Pura 90 Pro是今年的新机吗？", "output": "是，Pura 90系列是最新款，Pro版5499起，比上代降了1000块。"}
+{"instruction": "华子那个耳夹耳机", "output": "FreeClip 2，夹在耳朵上的，不塞耳道，单只才5.1克，戴着跟没戴一样。AI翻译、38小时总续航，1299。潮流穿戴，通勤党最爱。"}
+{"instruction": "MatePad Edge是什么定位？", "output": "MatePad Edge 是华为的二合一平板，24GB+1TB的顶级配置，9999块，妥妥的万元级二合一。能当平板用也能接键盘当电脑用，生产力拉满。"}
+{"instruction": "户外表皇是哪款？", "output": "WATCH Ultimate 2，非凡大师手表，150米潜水带音频记录，水下声呐通信，双向北斗卫星，户外探险的天花板。"}
+{"instruction": "RS非凡大师和非凡大师是一回事吗？", "output": "是，RS就是非凡大师，华为的超高端商务系列，Mate 80 RS、Mate 70 RS都是。"}
+{"instruction": "Mate 70 Pro和优享版怎么选？", "output": "优享版5099起，比Pro的5199便宜100，芯片换成9020A降频版，日常感知不强；预算敏感选优享版。"}

@@ -1,0 +1,692 @@
+{"input": "什么叫GT7Pro?", "output": {"company": "华为", "entities": {"GT7Pro": "WATCH GT 7 Pro 46mm"}}, "_generator": "别名直接查询"}
+{"input": "什么叫上代RS?", "output": {"company": "华为", "entities": {"上代RS": "Mate 70 RS 非凡大师"}}, "_generator": "别名直接查询"}
+{"input": "Mate Pro是什么产品?", "output": {"company": "华为", "entities": {"Mate Pro": "Mate 80 Pro"}}, "_generator": "别名直接查询"}
+{"input": "什么叫悦彰耳机?", "output": {"company": "华为", "entities": {"悦彰耳机": "FreeBuds Pro 5 悦彰"}}, "_generator": "别名直接查询"}
+{"input": "经常看到华为粉丝说「PXMax」, 指的是什么?", "output": {"company": "华为", "entities": {"PXMax": "Pura X Max"}}, "_generator": "别名直接查询"}
+{"input": "XTs是什么产品?", "output": {"company": "华为", "entities": {"XTs": "Mate XTs 非凡大师"}}, "_generator": "别名直接查询"}
+{"input": "Mate大折叠, 这说的是哪款?", "output": {"company": "华为", "entities": {"Mate大折叠": "Mate X7"}}, "_generator": "别名直接查询"}
+{"input": "请问P90是华为的什么产品?", "output": {"company": "华为", "entities": {"P90": "Pura 90"}}, "_generator": "别名直接查询"}
+{"input": "什么叫Pro5?", "output": {"company": "华为", "entities": {"Pro5": "FreeBuds Pro 5 悦彰"}}, "_generator": "别名直接查询"}
+{"input": "什么叫Mate70超大杯?", "output": {"company": "华为", "entities": {"Mate70超大杯": "Mate 70 Pro+"}}, "_generator": "别名直接查询"}
+{"input": "请问医疗表是华为的什么产品?", "output": {"company": "华为", "entities": {"医疗表": "WATCH D2"}}, "_generator": "别名直接查询"}
+{"input": "悦彰耳机, 这说的是哪款?", "output": {"company": "华为", "entities": {"悦彰耳机": "FreeBuds Pro 5 悦彰"}}, "_generator": "别名直接查询"}
+{"input": "尊界MPV, 这说的是哪款?", "output": {"company": "华为", "entities": {"尊界MPV": "尊界 V800"}}, "_generator": "别名直接查询"}
+{"input": "Windows旗舰本, 这说的是哪款?", "output": {"company": "华为", "entities": {"Windows旗舰本": "MateBook X Pro"}}, "_generator": "别名直接查询"}
+{"input": "什么叫M70P优享版?", "output": {"company": "华为", "entities": {"M70P优享版": "Mate 70 Pro 优享版"}}, "_generator": "别名直接查询"}
+{"input": "什么叫可拆笔记本?", "output": {"company": "华为", "entities": {"可拆笔记本": "MateBook E / E GO"}}, "_generator": "别名直接查询"}
+{"input": "请问平板Pro2026是华为的什么产品?", "output": {"company": "华为", "entities": {"平板Pro2026": "MatePad Pro 2026"}}, "_generator": "别名直接查询"}
+{"input": "请问M80PM是华为的什么产品?", "output": {"company": "华为", "entities": {"M80PM": "Mate 80 Pro Max"}}, "_generator": "别名直接查询"}
+{"input": "M80PM是什么产品?", "output": {"company": "华为", "entities": {"M80PM": "Mate 80 Pro Max"}}, "_generator": "别名直接查询"}
+{"input": "M70P+是什么产品?", "output": {"company": "华为", "entities": {"M70P+": "Mate 70 Pro+"}}, "_generator": "别名直接查询"}
+{"input": "大折叠, 这说的是哪款?", "output": {"company": "华为", "entities": {"大折叠": "Mate X7"}}, "_generator": "别名直接查询"}
+{"input": "上代大折叠, 这说的是哪款?", "output": {"company": "华为", "entities": {"上代大折叠": "Mate X6"}}, "_generator": "别名直接查询"}
+{"input": "请问折叠笔记本是华为的什么产品?", "output": {"company": "华为", "entities": {"折叠笔记本": "MateBook Fold 非凡大师"}}, "_generator": "别名直接查询"}
+{"input": "经常看到华为粉丝说「非凡大师手表」, 指的是什么?", "output": {"company": "华为", "entities": {"非凡大师手表": "WATCH Ultimate 2"}}, "_generator": "别名直接查询"}
+{"input": "请问Mate Pro是华为的什么产品?", "output": {"company": "华为", "entities": {"Mate Pro": "Mate 80 Pro"}}, "_generator": "别名直接查询"}
+{"input": "什么叫14Linux?", "output": {"company": "华为", "entities": {"14Linux": "MateBook 14 Linux 版"}}, "_generator": "别名直接查询"}
+{"input": "P80U, 这说的是哪款?", "output": {"company": "华为", "entities": {"P80U": "Pura 80 Ultra"}}, "_generator": "别名直接查询"}
+{"input": "Runner2, 这说的是哪款?", "output": {"company": "华为", "entities": {"Runner2": "WATCH GT Runner 2"}}, "_generator": "别名直接查询"}
+{"input": "长续航表是什么产品?", "output": {"company": "华为", "entities": {"长续航表": "WATCH GT 7 46mm"}}, "_generator": "别名直接查询"}
+{"input": "方形表Pro, 这说的是哪款?", "output": {"company": "华为", "entities": {"方形表Pro": "WATCH FIT 5 Pro"}}, "_generator": "别名直接查询"}
+{"input": "什么叫双层OLED平板?", "output": {"company": "华为", "entities": {"双层OLED平板": "MatePad Pro 12.2 2025"}}, "_generator": "别名直接查询"}
+{"input": "Mate大折叠是什么产品?", "output": {"company": "华为", "entities": {"Mate大折叠": "Mate X7"}}, "_generator": "别名直接查询"}
+{"input": "什么叫Air平板?", "output": {"company": "华为", "entities": {"Air平板": "MatePad Air 12 2025"}}, "_generator": "别名直接查询"}
+{"input": "可拆笔记本, 这说的是哪款?", "output": {"company": "华为", "entities": {"可拆笔记本": "MateBook E / E GO"}}, "_generator": "别名直接查询"}
+{"input": "什么叫PXMax?", "output": {"company": "华为", "entities": {"PXMax": "Pura X Max"}}, "_generator": "别名直接查询"}
+{"input": "便携音箱, 这说的是哪款?", "output": {"company": "华为", "entities": {"便携音箱": "Sound Joy 系列"}}, "_generator": "别名直接查询"}
+{"input": "华为眼镜是什么产品?", "output": {"company": "华为", "entities": {"华为眼镜": "鸿蒙 AI 眼镜"}}, "_generator": "别名直接查询"}
+{"input": "经常看到华为粉丝说「Mate80标准版」, 指的是什么?", "output": {"company": "华为", "entities": {"Mate80标准版": "Mate 80"}}, "_generator": "别名直接查询"}
+{"input": "请问FB6是华为的什么产品?", "output": {"company": "华为", "entities": {"FB6": "FreeBuds 6"}}, "_generator": "别名直接查询"}
+{"input": "便携音箱是什么产品?", "output": {"company": "华为", "entities": {"便携音箱": "Sound Joy 系列"}}, "_generator": "别名直接查询"}
+{"input": "P90PM, 这说的是哪款?", "output": {"company": "华为", "entities": {"P90PM": "Pura 90 Pro Max"}}, "_generator": "别名直接查询"}
+{"input": "什么叫FIT5Pro?", "output": {"company": "华为", "entities": {"FIT5Pro": "WATCH FIT 5 Pro"}}, "_generator": "别名直接查询"}
+{"input": "n16SE, 这说的是哪款?", "output": {"company": "华为", "entities": {"n16SE": "nova 16 SE"}}, "_generator": "别名直接查询"}
+{"input": "什么叫Pura90大杯?", "output": {"company": "华为", "entities": {"Pura90大杯": "Pura 90 Pro"}}, "_generator": "别名直接查询"}
+{"input": "大折叠是什么产品?", "output": {"company": "华为", "entities": {"大折叠": "Mate X7"}}, "_generator": "别名直接查询"}
+{"input": "智界轿跑SUV是什么产品?", "output": {"company": "华为", "entities": {"智界轿跑SUV": "智界 V9"}}, "_generator": "别名直接查询"}
+{"input": "经常看到华为粉丝说「半开放悦彰」, 指的是什么?", "output": {"company": "华为", "entities": {"半开放悦彰": "FreeBuds 6"}}, "_generator": "别名直接查询"}
+{"input": "什么叫最便宜折叠?", "output": {"company": "华为", "entities": {"最便宜折叠": "Nova Flip S"}}, "_generator": "别名直接查询"}
+{"input": "什么叫优享版?", "output": {"company": "华为", "entities": {"优享版": "Mate 70 Pro 优享版"}}, "_generator": "别名直接查询"}
+{"input": "什么叫畅享90?", "output": {"company": "华为", "entities": {"畅享90": "畅享 90"}}, "_generator": "别名直接查询"}
+{"input": "什么叫M70P+?", "output": {"company": "华为", "entities": {"M70P+": "Mate 70 Pro+"}}, "_generator": "别名直接查询"}
+{"input": "请问n16P是华为的什么产品?", "output": {"company": "华为", "entities": {"n16P": "nova 16 Pro"}}, "_generator": "别名直接查询"}
+{"input": "请问V6SE是华为的什么产品?", "output": {"company": "华为", "entities": {"V6SE": "Vision 智慧屏 6 SE RGB"}}, "_generator": "别名直接查询"}
+{"input": "请问nova16SE是华为的什么产品?", "output": {"company": "华为", "entities": {"nova16SE": "nova 16 SE"}}, "_generator": "别名直接查询"}
+{"input": "非凡大师手表, 这说的是哪款?", "output": {"company": "华为", "entities": {"非凡大师手表": "WATCH Ultimate 2"}}, "_generator": "别名直接查询"}
+{"input": "XT2是什么产品?", "output": {"company": "华为", "entities": {"XT2": "Mate XT2"}}, "_generator": "别名直接查询"}
+{"input": "经常看到华为粉丝说「便携音箱」, 指的是什么?", "output": {"company": "华为", "entities": {"便携音箱": "Sound Joy 系列"}}, "_generator": "别名直接查询"}
+{"input": "什么叫Pro Max?", "output": {"company": "华为", "entities": {"Pro Max": "Mate 80 Pro Max"}}, "_generator": "别名直接查询"}
+{"input": "请问华为手环是华为的什么产品?", "output": {"company": "华为", "entities": {"华为手环": "华为手环 11"}}, "_generator": "别名直接查询"}
+{"input": "Mini平板是什么产品?", "output": {"company": "华为", "entities": {"Mini平板": "MatePad Mini"}}, "_generator": "别名直接查询"}
+{"input": "什么叫970g本?", "output": {"company": "华为", "entities": {"970g本": "MateBook Pro"}}, "_generator": "别名直接查询"}
+{"input": "请问M90是华为的什么产品?", "output": {"company": "华为", "entities": {"M90": "Mate 90 系列"}}, "_generator": "别名直接查询"}
+{"input": "经常看到华为粉丝说「智界轿车」, 指的是什么?", "output": {"company": "华为", "entities": {"智界轿车": "智界 新S7"}}, "_generator": "别名直接查询"}
+{"input": "什么叫硬派SUV?", "output": {"company": "华为", "entities": {"硬派SUV": "享界 G9"}}, "_generator": "别名直接查询"}
+{"input": "请问畅享90是华为的什么产品?", "output": {"company": "华为", "entities": {"畅享90": "畅享 90"}}, "_generator": "别名直接查询"}
+{"input": "M70P是什么产品?", "output": {"company": "华为", "entities": {"M70P": "Mate 70 Pro"}}, "_generator": "别名直接查询"}
+{"input": "鸿蒙笔记本是什么产品?", "output": {"company": "华为", "entities": {"鸿蒙笔记本": "MateBook 14 鸿蒙版"}}, "_generator": "别名直接查询"}
+{"input": "小阔折叠是什么产品?", "output": {"company": "华为", "entities": {"小阔折叠": "Pura X"}}, "_generator": "别名直接查询"}
+{"input": "什么叫V6Pro?", "output": {"company": "华为", "entities": {"V6Pro": "Vision 智慧屏 6 Pro"}}, "_generator": "别名直接查询"}
+{"input": "钻石表, 这说的是哪款?", "output": {"company": "华为", "entities": {"钻石表": "ULTIMATE DESIGN 星钻"}}, "_generator": "别名直接查询"}
+{"input": "金表, 这说的是哪款?", "output": {"company": "华为", "entities": {"金表": "ULTIMATE DESIGN 紫金"}}, "_generator": "别名直接查询"}
+{"input": "经常看到华为粉丝说「V800」, 指的是什么?", "output": {"company": "华为", "entities": {"V800": "尊界 V800"}}, "_generator": "别名直接查询"}
+{"input": "请问AI眼镜是华为的什么产品?", "output": {"company": "华为", "entities": {"AI眼镜": "鸿蒙 AI 眼镜"}}, "_generator": "别名直接查询"}
+{"input": "nova16Pro是什么产品?", "output": {"company": "华为", "entities": {"nova16Pro": "nova 16 Pro"}}, "_generator": "别名直接查询"}
+{"input": "经常看到华为粉丝说「E系列」, 指的是什么?", "output": {"company": "华为", "entities": {"E系列": "MateBook E / E GO"}}, "_generator": "别名直接查询"}
+{"input": "经常看到华为粉丝说「Pura80超大杯」, 指的是什么?", "output": {"company": "华为", "entities": {"Pura80超大杯": "Pura 80 Pro+"}}, "_generator": "别名直接查询"}
+{"input": "经常看到华为粉丝说「FIT5」, 指的是什么?", "output": {"company": "华为", "entities": {"FIT5": "WATCH FIT 5"}}, "_generator": "别名直接查询"}
+{"input": "经常看到华为粉丝说「RS」, 指的是什么?", "output": {"company": "华为", "entities": {"RS": "Mate 80 RS 非凡大师"}}, "_generator": "别名直接查询"}
+{"input": "经常看到华为粉丝说「M80PM风驰版」, 指的是什么?", "output": {"company": "华为", "entities": {"M80PM风驰版": "Mate 80 Pro Max 风驰版"}}, "_generator": "别名直接查询"}
+{"input": "请问小尺寸GT是华为的什么产品?", "output": {"company": "华为", "entities": {"小尺寸GT": "WATCH GT 7 41mm"}}, "_generator": "别名直接查询"}
+{"input": "纠结要不要买nova翻盖", "output": {"company": "华为", "entities": {"nova翻盖": "Nova Flip 2"}}, "_generator": "别名在句中使用"}
+{"input": "纠结要不要买12.2寸Pro", "output": {"company": "华为", "entities": {"12.2寸Pro": "MatePad Pro 12.2 2025"}}, "_generator": "别名在句中使用"}
+{"input": "入手了M70Air, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"M70Air": "Mate 70 Air"}}, "_generator": "别名在句中使用"}
+{"input": "想换个最便宜折叠, 不知道值不值", "output": {"company": "华为", "entities": {"最便宜折叠": "Nova Flip S"}}, "_generator": "别名在句中使用"}
+{"input": "有人用过Pura90标准版吗, 体验怎么样", "output": {"company": "华为", "entities": {"Pura90标准版": "Pura 90"}}, "_generator": "别名在句中使用"}
+{"input": "Windows旗舰本真的香", "output": {"company": "华为", "entities": {"Windows旗舰本": "MateBook X Pro"}}, "_generator": "别名在句中使用"}
+{"input": "入手了畅享超大杯, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"畅享超大杯": "畅享 90 Pro Max"}}, "_generator": "别名在句中使用"}
+{"input": "纠结要不要买GT7", "output": {"company": "华为", "entities": {"GT7": "WATCH GT 7 46mm"}}, "_generator": "别名在句中使用"}
+{"input": "看了发布会, 尊界入门有点心动", "output": {"company": "华为", "entities": {"尊界入门": "尊界 V680"}}, "_generator": "别名在句中使用"}
+{"input": "798g笔记本这个价位还有对手吗", "output": {"company": "华为", "entities": {"798g笔记本": "MateBook Pro S"}}, "_generator": "别名在句中使用"}
+{"input": "纠结要不要买上代大折叠", "output": {"company": "华为", "entities": {"上代大折叠": "Mate X6"}}, "_generator": "别名在句中使用"}
+{"input": "入手了Pro2026, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"Pro2026": "MateBook Pro"}}, "_generator": "别名在句中使用"}
+{"input": "看了发布会, 折叠笔记本有点心动", "output": {"company": "华为", "entities": {"折叠笔记本": "MateBook Fold 非凡大师"}}, "_generator": "别名在句中使用"}
+{"input": "入手了Pocket2, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"Pocket2": "Pocket 2"}}, "_generator": "别名在句中使用"}
+{"input": "想换个智界轿跑SUV, 不知道值不值", "output": {"company": "华为", "entities": {"智界轿跑SUV": "智界 V9"}}, "_generator": "别名在句中使用"}
+{"input": "想换个千元5G, 不知道值不值", "output": {"company": "华为", "entities": {"千元5G": "畅享 90"}}, "_generator": "别名在句中使用"}
+{"input": "看了发布会, 智界轿车有点心动", "output": {"company": "华为", "entities": {"智界轿车": "智界 新S7"}}, "_generator": "别名在句中使用"}
+{"input": "纠结要不要买S9", "output": {"company": "华为", "entities": {"S9": "享界 S9 / S9T"}}, "_generator": "别名在句中使用"}
+{"input": "看了发布会, Mate70超大杯有点心动", "output": {"company": "华为", "entities": {"Mate70超大杯": "Mate 70 Pro+"}}, "_generator": "别名在句中使用"}
+{"input": "华为眼镜真的香", "output": {"company": "华为", "entities": {"华为眼镜": "鸿蒙 AI 眼镜"}}, "_generator": "别名在句中使用"}
+{"input": "尊界入门这个价位还有对手吗", "output": {"company": "华为", "entities": {"尊界入门": "尊界 V680"}}, "_generator": "别名在句中使用"}
+{"input": "想换个XTs, 不知道值不值", "output": {"company": "华为", "entities": {"XTs": "Mate XTs 非凡大师"}}, "_generator": "别名在句中使用"}
+{"input": "半开放悦彰真的香", "output": {"company": "华为", "entities": {"半开放悦彰": "FreeBuds 6"}}, "_generator": "别名在句中使用"}
+{"input": "纠结要不要买n16", "output": {"company": "华为", "entities": {"n16": "nova 16"}}, "_generator": "别名在句中使用"}
+{"input": "上代大折叠这个价位还有对手吗", "output": {"company": "华为", "entities": {"上代大折叠": "Mate X6"}}, "_generator": "别名在句中使用"}
+{"input": "小尺寸GT真的香", "output": {"company": "华为", "entities": {"小尺寸GT": "WATCH GT 7 41mm"}}, "_generator": "别名在句中使用"}
+{"input": "想换个Windows旗舰本, 不知道值不值", "output": {"company": "华为", "entities": {"Windows旗舰本": "MateBook X Pro"}}, "_generator": "别名在句中使用"}
+{"input": "看了发布会, 千元5G有点心动", "output": {"company": "华为", "entities": {"千元5G": "畅享 90"}}, "_generator": "别名在句中使用"}
+{"input": "华为大G真的香", "output": {"company": "华为", "entities": {"华为大G": "享界 G9"}}, "_generator": "别名在句中使用"}
+{"input": "入手了尚界轿跑, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"尚界轿跑": "尚界 Z7 / Z7T"}}, "_generator": "别名在句中使用"}
+{"input": "看了发布会, 帝瓦雷音箱有点心动", "output": {"company": "华为", "entities": {"帝瓦雷音箱": "Sound X5 悦彰"}}, "_generator": "别名在句中使用"}
+{"input": "Flip2真的香", "output": {"company": "华为", "entities": {"Flip2": "Nova Flip 2"}}, "_generator": "别名在句中使用"}
+{"input": "入手了Z7, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"Z7": "尚界 Z7 / Z7T"}}, "_generator": "别名在句中使用"}
+{"input": "看了发布会, Mini平板有点心动", "output": {"company": "华为", "entities": {"Mini平板": "MatePad Mini"}}, "_generator": "别名在句中使用"}
+{"input": "入手了M70P, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"M70P": "Mate 70 Pro"}}, "_generator": "别名在句中使用"}
+{"input": "想换个FlipS, 不知道值不值", "output": {"company": "华为", "entities": {"FlipS": "Nova Flip S"}}, "_generator": "别名在句中使用"}
+{"input": "入手了M80PM风驰版, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"M80PM风驰版": "Mate 80 Pro Max 风驰版"}}, "_generator": "别名在句中使用"}
+{"input": "入手了Air2026, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"Air2026": "MatePad Air 2026"}}, "_generator": "别名在句中使用"}
+{"input": "入手了入门大屏本, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"入门大屏本": "MateBook D 16 SE"}}, "_generator": "别名在句中使用"}
+{"input": "入手了千元5G, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"千元5G": "畅享 90"}}, "_generator": "别名在句中使用"}
+{"input": "入手了M70P+, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"M70P+": "Mate 70 Pro+"}}, "_generator": "别名在句中使用"}
+{"input": "Pocket2这个价位还有对手吗", "output": {"company": "华为", "entities": {"Pocket2": "Pocket 2"}}, "_generator": "别名在句中使用"}
+{"input": "看了发布会, 便携音箱有点心动", "output": {"company": "华为", "entities": {"便携音箱": "Sound Joy 系列"}}, "_generator": "别名在句中使用"}
+{"input": "想换个Air2026, 不知道值不值", "output": {"company": "华为", "entities": {"Air2026": "MatePad Air 2026"}}, "_generator": "别名在句中使用"}
+{"input": "小折叠真的香", "output": {"company": "华为", "entities": {"小折叠": "Pocket 2"}}, "_generator": "别名在句中使用"}
+{"input": "M8这个价位还有对手吗", "output": {"company": "华为", "entities": {"M8": "问界 M8"}}, "_generator": "别名在句中使用"}
+{"input": "想换个Runner2, 不知道值不值", "output": {"company": "华为", "entities": {"Runner2": "WATCH GT Runner 2"}}, "_generator": "别名在句中使用"}
+{"input": "Linux本这个价位还有对手吗", "output": {"company": "华为", "entities": {"Linux本": "MateBook 14 Linux 版"}}, "_generator": "别名在句中使用"}
+{"input": "想换个硬派SUV, 不知道值不值", "output": {"company": "华为", "entities": {"硬派SUV": "享界 G9"}}, "_generator": "别名在句中使用"}
+{"input": "GT7女款真的香", "output": {"company": "华为", "entities": {"GT7女款": "WATCH GT 7 41mm"}}, "_generator": "别名在句中使用"}
+{"input": "Pura80Ultra这个价位还有对手吗", "output": {"company": "华为", "entities": {"Pura80Ultra": "Pura 80 Ultra"}}, "_generator": "别名在句中使用"}
+{"input": "有人用过畅享90吗, 体验怎么样", "output": {"company": "华为", "entities": {"畅享90": "畅享 90"}}, "_generator": "别名在句中使用"}
+{"input": "P80U这个价位还有对手吗", "output": {"company": "华为", "entities": {"P80U": "Pura 80 Ultra"}}, "_generator": "别名在句中使用"}
+{"input": "nova16真的香", "output": {"company": "华为", "entities": {"nova16": "nova 16"}}, "_generator": "别名在句中使用"}
+{"input": "Joy真的香", "output": {"company": "华为", "entities": {"Joy": "Sound Joy 系列"}}, "_generator": "别名在句中使用"}
+{"input": "纠结要不要买Clip2", "output": {"company": "华为", "entities": {"Clip2": "FreeClip 2"}}, "_generator": "别名在句中使用"}
+{"input": "看了发布会, nova16Ultra有点心动", "output": {"company": "华为", "entities": {"nova16Ultra": "nova 16 Ultra"}}, "_generator": "别名在句中使用"}
+{"input": "想换个V6, 不知道值不值", "output": {"company": "华为", "entities": {"V6": "Vision 智慧屏 6"}}, "_generator": "别名在句中使用"}
+{"input": "入手了18K金表, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"18K金表": "ULTIMATE DESIGN 紫金"}}, "_generator": "别名在句中使用"}
+{"input": "智慧屏6Pro这个价位还有对手吗", "output": {"company": "华为", "entities": {"智慧屏6Pro": "Vision 智慧屏 6 Pro"}}, "_generator": "别名在句中使用"}
+{"input": "D16SE这个价位还有对手吗", "output": {"company": "华为", "entities": {"D16SE": "MateBook D 16 SE"}}, "_generator": "别名在句中使用"}
+{"input": "看了发布会, ProS有点心动", "output": {"company": "华为", "entities": {"ProS": "MateBook Pro S"}}, "_generator": "别名在句中使用"}
+{"input": "有人用过P80U吗, 体验怎么样", "output": {"company": "华为", "entities": {"P80U": "Pura 80 Ultra"}}, "_generator": "别名在句中使用"}
+{"input": "想换个华为手环, 不知道值不值", "output": {"company": "华为", "entities": {"华为手环": "华为手环 11"}}, "_generator": "别名在句中使用"}
+{"input": "入手了FIT5, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"FIT5": "WATCH FIT 5"}}, "_generator": "别名在句中使用"}
+{"input": "纠结要不要买Mate90", "output": {"company": "华为", "entities": {"Mate90": "Mate 90 系列"}}, "_generator": "别名在句中使用"}
+{"input": "非凡大师这个价位还有对手吗", "output": {"company": "华为", "entities": {"非凡大师": "Mate 80 RS 非凡大师"}}, "_generator": "别名在句中使用"}
+{"input": "想换个P90PM, 不知道值不值", "output": {"company": "华为", "entities": {"P90PM": "Pura 90 Pro Max"}}, "_generator": "别名在句中使用"}
+{"input": "大折叠这个价位还有对手吗", "output": {"company": "华为", "entities": {"大折叠": "Mate X7"}}, "_generator": "别名在句中使用"}
+{"input": "纠结要不要买华为MPV", "output": {"company": "华为", "entities": {"华为MPV": "尊界 V800"}}, "_generator": "别名在句中使用"}
+{"input": "X6这个价位还有对手吗", "output": {"company": "华为", "entities": {"X6": "Mate X6"}}, "_generator": "别名在句中使用"}
+{"input": "想换个智界轿车, 不知道值不值", "output": {"company": "华为", "entities": {"智界轿车": "智界 新S7"}}, "_generator": "别名在句中使用"}
+{"input": "有人用过非凡大师手表吗, 体验怎么样", "output": {"company": "华为", "entities": {"非凡大师手表": "WATCH Ultimate 2"}}, "_generator": "别名在句中使用"}
+{"input": "有人用过RGB电视吗, 体验怎么样", "output": {"company": "华为", "entities": {"RGB电视": "Vision 智慧屏 6 SE RGB"}}, "_generator": "别名在句中使用"}
+{"input": "纠结要不要买优享版", "output": {"company": "华为", "entities": {"优享版": "Mate 70 Pro 优享版"}}, "_generator": "别名在句中使用"}
+{"input": "纠结要不要买14鸿蒙", "output": {"company": "华为", "entities": {"14鸿蒙": "MateBook 14 鸿蒙版"}}, "_generator": "别名在句中使用"}
+{"input": "纠结要不要买Windows旗舰本", "output": {"company": "华为", "entities": {"Windows旗舰本": "MateBook X Pro"}}, "_generator": "别名在句中使用"}
+{"input": "入手了RGB电视, 兄弟们冲不冲", "output": {"company": "华为", "entities": {"RGB电视": "Vision 智慧屏 6 SE RGB"}}, "_generator": "别名在句中使用"}
+{"input": "看了发布会, D2有点心动", "output": {"company": "华为", "entities": {"D2": "WATCH D2"}}, "_generator": "别名在句中使用"}
+{"input": "海外版这个价位还有对手吗", "output": {"company": "华为", "entities": {"海外版": "FreeBuds 7i"}}, "_generator": "别名在句中使用"}
+{"input": "入门实用的手机有哪些?", "output": {"company": "华为", "entities": {"入门实用": "畅享 90、畅享 90 Plus、畅享 90 Pro Max"}}, "_generator": "定位标签反查"}
+{"input": "华为高级珠宝手表的有哪些款?", "output": {"company": "华为", "entities": {"高级珠宝手表": "ULTIMATE DESIGN 星钻"}}, "_generator": "定位标签反查"}
+{"input": "尊界旗舰的手机有哪些?", "output": {"company": "华为", "entities": {"尊界旗舰": "尊界 V800"}}, "_generator": "定位标签反查"}
+{"input": "华为轿跑SUV的有哪些款?", "output": {"company": "华为", "entities": {"轿跑SUV": "智界 V9、智界 R7"}}, "_generator": "定位标签反查"}
+{"input": "全能旗舰的手机有哪些?", "output": {"company": "华为", "entities": {"全能旗舰": "Mate 80 Pro"}}, "_generator": "定位标签反查"}
+{"input": "旗舰入耳降噪的手机有哪些?", "output": {"company": "华为", "entities": {"旗舰入耳降噪": "FreeBuds Pro 5 悦彰"}}, "_generator": "定位标签反查"}
+{"input": "音质半开放的手机有哪些?", "output": {"company": "华为", "entities": {"音质半开放": "FreeBuds 6"}}, "_generator": "定位标签反查"}
+{"input": "华为专业影像的有哪些款?", "output": {"company": "华为", "entities": {"专业影像": "Pura 80 Pro"}}, "_generator": "定位标签反查"}
+{"input": "轿跑SUV的手机有哪些?", "output": {"company": "华为", "entities": {"轿跑SUV": "智界 V9、智界 R7"}}, "_generator": "定位标签反查"}
+{"input": "豪华硬派SUV的手机有哪些?", "output": {"company": "华为", "entities": {"豪华硬派SUV": "享界 G9"}}, "_generator": "定位标签反查"}
+{"input": "华为奢华腕表的有哪些款?", "output": {"company": "华为", "entities": {"奢华腕表": "ULTIMATE DESIGN 紫金、ULTIMATE DESIGN 星钻"}}, "_generator": "定位标签反查"}
+{"input": "HiFi音箱的手机有哪些?", "output": {"company": "华为", "entities": {"HiFi音箱": "Sound X5 悦彰"}}, "_generator": "定位标签反查"}
+{"input": "大屏5G的手机有哪些?", "output": {"company": "华为", "entities": {"大屏5G": "畅享 90 Plus"}}, "_generator": "定位标签反查"}
+{"input": "户外音乐的手机有哪些?", "output": {"company": "华为", "entities": {"户外音乐": "Sound Joy 系列"}}, "_generator": "定位标签反查"}
+{"input": "潮流轻便的手机有哪些?", "output": {"company": "华为", "entities": {"潮流轻便": "WATCH FIT 5"}}, "_generator": "定位标签反查"}
+{"input": "华为护眼办公的有哪些款?", "output": {"company": "华为", "entities": {"护眼办公": "MatePad Air 2026"}}, "_generator": "定位标签反查"}
+{"input": "专业影像的手机有哪些?", "output": {"company": "华为", "entities": {"专业影像": "Pura 80 Pro"}}, "_generator": "定位标签反查"}
+{"input": "华为创意生产力的有哪些款?", "output": {"company": "华为", "entities": {"创意生产力": "MatePad Pro 13.2 2025"}}, "_generator": "定位标签反查"}
+{"input": "华为极致便携的有哪些款?", "output": {"company": "华为", "entities": {"极致便携": "MateBook Pro S"}}, "_generator": "定位标签反查"}
+{"input": "高端时尚的手机有哪些?", "output": {"company": "华为", "entities": {"高端时尚": "Pura X Max、Pura X、Pocket 2"}}, "_generator": "定位标签反查"}
+{"input": "顶级屏幕的手机有哪些?", "output": {"company": "华为", "entities": {"顶级屏幕": "MateBook X Pro"}}, "_generator": "定位标签反查"}
+{"input": "直屏旗舰的手机有哪些?", "output": {"company": "华为", "entities": {"直屏旗舰": "Mate 80"}}, "_generator": "定位标签反查"}
+{"input": "华为中型SUV的有哪些款?", "output": {"company": "华为", "entities": {"中型SUV": "问界 M6"}}, "_generator": "定位标签反查"}
+{"input": "华为超豪华MPV的有哪些款?", "output": {"company": "华为", "entities": {"超豪华MPV": "尊界 V680"}}, "_generator": "定位标签反查"}
+{"input": "华为千元5G的有哪些款?", "output": {"company": "华为", "entities": {"千元5G": "畅享 90"}}, "_generator": "定位标签反查"}
+{"input": "二合一平板PC的手机有哪些?", "output": {"company": "华为", "entities": {"二合一平板PC": "MateBook E / E GO"}}, "_generator": "定位标签反查"}
+{"input": "华为便携蓝牙音箱的有哪些款?", "output": {"company": "华为", "entities": {"便携蓝牙音箱": "Sound Joy 系列"}}, "_generator": "定位标签反查"}
+{"input": "华为竖向小折叠的有哪些款?", "output": {"company": "华为", "entities": {"竖向小折叠": "Pocket 2、Nova Flip 2、Nova Flip S"}}, "_generator": "定位标签反查"}
+{"input": "华为二合一平板PC的有哪些款?", "output": {"company": "华为", "entities": {"二合一平板PC": "MateBook E / E GO"}}, "_generator": "定位标签反查"}
+{"input": "华为直屏影像的有哪些款?", "output": {"company": "华为", "entities": {"直屏影像": "Pura 80"}}, "_generator": "定位标签反查"}
+{"input": "时尚轻量的手机有哪些?", "output": {"company": "华为", "entities": {"时尚轻量": "WATCH FIT 5 Pro、WATCH FIT 5"}}, "_generator": "定位标签反查"}
+{"input": "画质旗舰的手机有哪些?", "output": {"company": "华为", "entities": {"画质旗舰": "MatePad Pro 12.2 2025"}}, "_generator": "定位标签反查"}
+{"input": "华为全功能轻量的有哪些款?", "output": {"company": "华为", "entities": {"全功能轻量": "WATCH FIT 5 Pro"}}, "_generator": "定位标签反查"}
+{"input": "华为曲面屏的有哪些款?", "output": {"company": "华为", "entities": {"曲面屏": "MateView GT"}}, "_generator": "定位标签反查"}
+{"input": "华为医疗级穿戴的有哪些款?", "output": {"company": "华为", "entities": {"医疗级穿戴": "WATCH D2"}}, "_generator": "定位标签反查"}
+{"input": "中低端潮流的手机有哪些?", "output": {"company": "华为", "entities": {"中低端潮流": "nova 16 SE"}}, "_generator": "定位标签反查"}
+{"input": "华为折叠屏天花板的有哪些款?", "output": {"company": "华为", "entities": {"折叠屏天花板": "Mate XTs 非凡大师"}}, "_generator": "定位标签反查"}
+{"input": "华为学生笔记的有哪些款?", "output": {"company": "华为", "entities": {"学生笔记": "MatePad 11.5 S"}}, "_generator": "定位标签反查"}
+{"input": "华为超豪华旗舰MPV的有哪些款?", "output": {"company": "华为", "entities": {"超豪华旗舰MPV": "尊界 V800"}}, "_generator": "定位标签反查"}
+{"input": "华为高端时尚的有哪些款?", "output": {"company": "华为", "entities": {"高端时尚": "Pura X Max、Pura X、Pocket 2"}}, "_generator": "定位标签反查"}
+{"input": "珠宝手表的手机有哪些?", "output": {"company": "华为", "entities": {"珠宝手表": "ULTIMATE DESIGN 紫金"}}, "_generator": "定位标签反查"}
+{"input": "华为巨幕旗舰的有哪些款?", "output": {"company": "华为", "entities": {"巨幕旗舰": "MateTV Max"}}, "_generator": "定位标签反查"}
+{"input": "华为探险旗舰的有哪些款?", "output": {"company": "华为", "entities": {"探险旗舰": "WATCH Ultimate 2"}}, "_generator": "定位标签反查"}
+{"input": "尊界入门的手机有哪些?", "output": {"company": "华为", "entities": {"尊界入门": "尊界 V680"}}, "_generator": "定位标签反查"}
+{"input": "华为健康监测的有哪些款?", "output": {"company": "华为", "entities": {"健康监测": "WATCH D2"}}, "_generator": "定位标签反查"}
+{"input": "中高端平板的手机有哪些?", "output": {"company": "华为", "entities": {"中高端平板": "MatePad Air 12 2025、MatePad Air 2026"}}, "_generator": "定位标签反查"}
+{"input": "华为入门轻薄本的有哪些款?", "output": {"company": "华为", "entities": {"入门轻薄本": "MateBook D 16 SE"}}, "_generator": "定位标签反查"}
+{"input": "顶配影像的手机有哪些?", "output": {"company": "华为", "entities": {"顶配影像": "Mate 80 Pro Max、Pura 90 Pro Max"}}, "_generator": "定位标签反查"}
+{"input": "华为对标大G的有哪些款?", "output": {"company": "华为", "entities": {"对标大G": "享界 G9"}}, "_generator": "定位标签反查"}
+{"input": "中端性价比平板的手机有哪些?", "output": {"company": "华为", "entities": {"中端性价比平板": "MatePad 11.5 S"}}, "_generator": "定位标签反查"}
+{"input": "卫星平板的手机有哪些?", "output": {"company": "华为", "entities": {"卫星平板": "MatePad Pro 2026"}}, "_generator": "定位标签反查"}
+{"input": "华为年轻影像Pro的有哪些款?", "output": {"company": "华为", "entities": {"年轻影像Pro": "nova 16 Pro"}}, "_generator": "定位标签反查"}
+{"input": "性价比版的手机有哪些?", "output": {"company": "华为", "entities": {"性价比版": "Mate 70 Pro 优享版"}}, "_generator": "定位标签反查"}
+{"input": "便携蓝牙音箱的手机有哪些?", "output": {"company": "华为", "entities": {"便携蓝牙音箱": "Sound Joy 系列"}}, "_generator": "定位标签反查"}
+{"input": "华为专业运动的有哪些款?", "output": {"company": "华为", "entities": {"专业运动": "WATCH GT 7 Pro 46mm"}}, "_generator": "定位标签反查"}
+{"input": "年度旗舰的手机有哪些?", "output": {"company": "华为", "entities": {"年度旗舰": "Mate 90 系列"}}, "_generator": "定位标签反查"}
+{"input": "华为年度旗舰的有哪些款?", "output": {"company": "华为", "entities": {"年度旗舰": "Mate 90 系列"}}, "_generator": "定位标签反查"}
+{"input": "华为耳夹开放式的有哪些款?", "output": {"company": "华为", "entities": {"耳夹开放式": "FreeClip 2"}}, "_generator": "定位标签反查"}
+{"input": "入门轻薄本的手机有哪些?", "output": {"company": "华为", "entities": {"入门轻薄本": "MateBook D 16 SE"}}, "_generator": "定位标签反查"}
+{"input": "华为顶配直屏的有哪些款?", "output": {"company": "华为", "entities": {"顶配直屏": "Mate 70 Pro+"}}, "_generator": "定位标签反查"}
+{"input": "奢华腕表的手机有哪些?", "output": {"company": "华为", "entities": {"奢华腕表": "ULTIMATE DESIGN 紫金、ULTIMATE DESIGN 星钻"}}, "_generator": "定位标签反查"}
+{"input": "影像机皇的手机有哪些?", "output": {"company": "华为", "entities": {"影像机皇": "Pura 80 Ultra"}}, "_generator": "定位标签反查"}
+{"input": "超豪华MPV的手机有哪些?", "output": {"company": "华为", "entities": {"超豪华MPV": "尊界 V680"}}, "_generator": "定位标签反查"}
+{"input": "轻量运动的手机有哪些?", "output": {"company": "华为", "entities": {"轻量运动": "WATCH GT Runner 2"}}, "_generator": "定位标签反查"}
+{"input": "华为鸿蒙入门PC的有哪些款?", "output": {"company": "华为", "entities": {"鸿蒙入门PC": "MateBook 14 鸿蒙版"}}, "_generator": "定位标签反查"}
+{"input": "高级珠宝手表的手机有哪些?", "output": {"company": "华为", "entities": {"高级珠宝手表": "ULTIMATE DESIGN 星钻"}}, "_generator": "定位标签反查"}
+{"input": "阔折叠的手机有哪些?", "output": {"company": "华为", "entities": {"阔折叠": "Pura X Max、Pura X"}}, "_generator": "定位标签反查"}
+{"input": "华为尊界旗舰的有哪些款?", "output": {"company": "华为", "entities": {"尊界旗舰": "尊界 V800"}}, "_generator": "定位标签反查"}
+{"input": "华为旗舰智慧屏的有哪些款?", "output": {"company": "华为", "entities": {"旗舰智慧屏": "Vision 智慧屏 6 Pro"}}, "_generator": "定位标签反查"}
+{"input": "华为智能穿戴眼镜的有哪些款?", "output": {"company": "华为", "entities": {"智能穿戴眼镜": "鸿蒙 AI 眼镜"}}, "_generator": "定位标签反查"}
+{"input": "鸿蒙超轻薄本的手机有哪些?", "output": {"company": "华为", "entities": {"鸿蒙超轻薄本": "MateBook Pro S、MateBook Pro"}}, "_generator": "定位标签反查"}
+{"input": "中端潮流的手机有哪些?", "output": {"company": "华为", "entities": {"中端潮流": "nova 16"}}, "_generator": "定位标签反查"}
+{"input": "华为高端智慧屏的有哪些款?", "output": {"company": "华为", "entities": {"高端智慧屏": "Vision 智慧屏 6、Vision 智慧屏 6 SE RGB"}}, "_generator": "定位标签反查"}
+{"input": "华为中低端潮流的有哪些款?", "output": {"company": "华为", "entities": {"中低端潮流": "nova 16 SE"}}, "_generator": "定位标签反查"}
+{"input": "华为卫星平板的有哪些款?", "output": {"company": "华为", "entities": {"卫星平板": "MatePad Pro 2026"}}, "_generator": "定位标签反查"}
+{"input": "网课追剧的手机有哪些?", "output": {"company": "华为", "entities": {"网课追剧": "MatePad SE 标准版 11寸"}}, "_generator": "定位标签反查"}
+{"input": "专业跑步的手机有哪些?", "output": {"company": "华为", "entities": {"专业跑步": "WATCH GT Runner 2"}}, "_generator": "定位标签反查"}
+{"input": "画质突破的手机有哪些?", "output": {"company": "华为", "entities": {"画质突破": "Vision 智慧屏 6 SE RGB"}}, "_generator": "定位标签反查"}
+{"input": "全能轻薄的手机有哪些?", "output": {"company": "华为", "entities": {"全能轻薄": "MateBook Pro"}}, "_generator": "定位标签反查"}
+{"input": "户外顶配的手机有哪些?", "output": {"company": "华为", "entities": {"户外顶配": "WATCH Ultimate 2"}}, "_generator": "定位标签反查"}
+{"input": "数字小键盘的笔记本是哪个?", "output": {"company": "华为", "entities": {"数字小键盘": "MateBook D 16 SE"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品麒麟9030S?", "output": {"company": "华为", "entities": {"麒麟9030S": "Pura 90 Pro"}}, "_generator": "话题锚点反查"}
+{"input": "麒麟8030的手机是哪个?", "output": {"company": "华为", "entities": {"麒麟8030": "Nova Flip 2"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品麒麟9030 Pro?", "output": {"company": "华为", "entities": {"麒麟9030 Pro": "Pura X Max"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款手机能麒麟9020, 是哪款?", "output": {"company": "华为", "entities": {"麒麟9020": "Mate 70"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款平板能PaperMatte柔光屏, 是哪款?", "output": {"company": "华为", "entities": {"PaperMatte柔光屏": "MatePad Air 2026"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品双潜望长焦?", "output": {"company": "华为", "entities": {"双潜望长焦": "Mate 80 Pro Max"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品轻量化?", "output": {"company": "华为", "entities": {"轻量化": "WATCH GT Runner 2"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品写入中国高血压防治指南?", "output": {"company": "华为", "entities": {"写入中国高血压防治指南": "WATCH D2"}}, "_generator": "话题锚点反查"}
+{"input": "IP58/59的手机是哪个?", "output": {"company": "华为", "entities": {"IP58/59": "Pura X Max"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品独立外屏?", "output": {"company": "华为", "entities": {"独立外屏": "Mate XT2"}}, "_generator": "话题锚点反查"}
+{"input": "麒麟9030的手机是哪个?", "output": {"company": "华为", "entities": {"麒麟9030": "Mate 80 Pro"}}, "_generator": "话题锚点反查"}
+{"input": "微距长焦的手机是哪个?", "output": {"company": "华为", "entities": {"微距长焦": "Mate 70 Pro"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款智能眼镜能同声传译, 是哪款?", "output": {"company": "华为", "entities": {"同声传译": "鸿蒙 AI 眼镜"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款耳机能AI算力提升10倍, 是哪款?", "output": {"company": "华为", "entities": {"AI算力提升10倍": "FreeClip 2"}}, "_generator": "话题锚点反查"}
+{"input": "麒麟9020的手机是哪个?", "output": {"company": "华为", "entities": {"麒麟9020": "Mate 70"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品麒麟9020?", "output": {"company": "华为", "entities": {"麒麟9020": "Mate 70 Pro"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品Pro Max升级版?", "output": {"company": "华为", "entities": {"Pro Max升级版": "Mate 80 Pro Max 风驰版"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品麒麟900?", "output": {"company": "华为", "entities": {"麒麟900": "MatePad Air 12 2025"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款智能手表能ECG, 是哪款?", "output": {"company": "华为", "entities": {"ECG": "ULTIMATE DESIGN 星钻"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品麒麟9020?", "output": {"company": "华为", "entities": {"麒麟9020": "Pura X"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品nova最强影像?", "output": {"company": "华为", "entities": {"nova最强影像": "nova 16 Ultra"}}, "_generator": "话题锚点反查"}
+{"input": "Super MiniLED黑晶屏的智慧屏是哪个?", "output": {"company": "华为", "entities": {"Super MiniLED黑晶屏": "Vision 智慧屏 6 Pro"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款智能手表能双向北斗卫星, 是哪款?", "output": {"company": "华为", "entities": {"双向北斗卫星": "WATCH Ultimate 2"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品麒麟9050?", "output": {"company": "华为", "entities": {"麒麟9050": "Mate XT2"}}, "_generator": "话题锚点反查"}
+{"input": "小巧女款的智能手表是哪个?", "output": {"company": "华为", "entities": {"小巧女款": "WATCH GT 7 41mm"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品麒麟9010S?", "output": {"company": "华为", "entities": {"麒麟9010S": "Pura 80"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品旗舰MPV?", "output": {"company": "华为", "entities": {"旗舰MPV": "尊界 V800"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品不分左右耳?", "output": {"company": "华为", "entities": {"不分左右耳": "WATCH Buds 2"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品ECG?", "output": {"company": "华为", "entities": {"ECG": "WATCH FIT 5 Pro"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款智能手表能北斗卫星语音消息, 是哪款?", "output": {"company": "华为", "entities": {"北斗卫星语音消息": "WATCH Ultimate 2"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品玄武水滴铰链?", "output": {"company": "华为", "entities": {"玄武水滴铰链": "Pocket 2"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款智能汽车能轿跑SUV, 是哪款?", "output": {"company": "华为", "entities": {"轿跑SUV": "智界 V9"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品鸿蒙系统?", "output": {"company": "华为", "entities": {"鸿蒙系统": "MateBook Fold 非凡大师"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品PC级应用?", "output": {"company": "华为", "entities": {"PC级应用": "Mate XTs 非凡大师"}}, "_generator": "话题锚点反查"}
+{"input": "双层OLED微曲屏的手机是哪个?", "output": {"company": "华为", "entities": {"双层OLED微曲屏": "Mate 70 RS 非凡大师"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品双层OLED微曲屏?", "output": {"company": "华为", "entities": {"双层OLED微曲屏": "Mate 70 RS 非凡大师"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品户外用?", "output": {"company": "华为", "entities": {"户外用": "Sound Joy 系列"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品麒麟X90 Plus?", "output": {"company": "华为", "entities": {"麒麟X90 Plus": "MateBook Pro"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品柔光屏可选?", "output": {"company": "华为", "entities": {"柔光屏可选": "MatePad 11.5 S"}}, "_generator": "话题锚点反查"}
+{"input": "标准版到14999典藏版的笔记本是哪个?", "output": {"company": "华为", "entities": {"标准版到14999典藏版": "MateBook Pro S"}}, "_generator": "话题锚点反查"}
+{"input": "麒麟XE90的笔记本是哪个?", "output": {"company": "华为", "entities": {"麒麟XE90": "MateBook Pro S"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款笔记本能平板笔记本二合一, 是哪款?", "output": {"company": "华为", "entities": {"平板笔记本二合一": "MateBook E / E GO"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品华为系最贵车型?", "output": {"company": "华为", "entities": {"华为系最贵车型": "尊界 V800"}}, "_generator": "话题锚点反查"}
+{"input": "最贵直板Mate的手机是哪个?", "output": {"company": "华为", "entities": {"最贵直板Mate": "Mate 80 RS 非凡大师"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款智慧屏能Super MiniLED黑晶屏, 是哪款?", "output": {"company": "华为", "entities": {"Super MiniLED黑晶屏": "Vision 智慧屏 6 Pro"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品便携蓝牙?", "output": {"company": "华为", "entities": {"便携蓝牙": "Sound Joy 系列"}}, "_generator": "话题锚点反查"}
+{"input": "发布会音响担当的音箱是哪个?", "output": {"company": "华为", "entities": {"发布会音响担当": "Sound X5 悦彰"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款手机能双层OLED微曲屏, 是哪款?", "output": {"company": "华为", "entities": {"双层OLED微曲屏": "Mate 70 RS 非凡大师"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品麒麟9020?", "output": {"company": "华为", "entities": {"麒麟9020": "Mate 70"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款笔记本能玄武水滴铰链, 是哪款?", "output": {"company": "华为", "entities": {"玄武水滴铰链": "MateBook Fold 非凡大师"}}, "_generator": "话题锚点反查"}
+{"input": "华为系最贵车型的智能汽车是哪个?", "output": {"company": "华为", "entities": {"华为系最贵车型": "尊界 V800"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品年轻人轿跑?", "output": {"company": "华为", "entities": {"年轻人轿跑": "尚界 Z7 / Z7T"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品HarmonyOS 7?", "output": {"company": "华为", "entities": {"HarmonyOS 7": "Mate 90 系列"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品麒麟8030?", "output": {"company": "华为", "entities": {"麒麟8030": "Nova Flip 2"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款手机能PC级应用, 是哪款?", "output": {"company": "华为", "entities": {"PC级应用": "Mate XTs 非凡大师"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品骑行模拟功率?", "output": {"company": "华为", "entities": {"骑行模拟功率": "WATCH GT 7 46mm"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品比Win版便宜300?", "output": {"company": "华为", "entities": {"比Win版便宜300": "MateBook 14 Linux 版"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款手机能麒麟9020, 是哪款?", "output": {"company": "华为", "entities": {"麒麟9020": "Pura 80 Pro"}}, "_generator": "话题锚点反查"}
+{"input": "麒麟9050 Pro的手机是哪个?", "output": {"company": "华为", "entities": {"麒麟9050 Pro": "Mate X8"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款笔记本能可拆卸设计, 是哪款?", "output": {"company": "华为", "entities": {"可拆卸设计": "MateBook E / E GO"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款手机能微距长焦, 是哪款?", "output": {"company": "华为", "entities": {"微距长焦": "Mate 70 Pro"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品首款数字系列鸿蒙PC?", "output": {"company": "华为", "entities": {"首款数字系列鸿蒙PC": "MateBook 14 鸿蒙版"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款智能手表能医疗级动态血压监测, 是哪款?", "output": {"company": "华为", "entities": {"医疗级动态血压监测": "WATCH D2"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品卫星通信?", "output": {"company": "华为", "entities": {"卫星通信": "Mate 80 RS 非凡大师"}}, "_generator": "话题锚点反查"}
+{"input": "便携蓝牙的音箱是哪个?", "output": {"company": "华为", "entities": {"便携蓝牙": "Sound Joy 系列"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品WiFi7?", "output": {"company": "华为", "entities": {"WiFi7": "Mate 80 Pro"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款手机能天通卫星, 是哪款?", "output": {"company": "华为", "entities": {"天通卫星": "Mate 70 Pro+"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品豪华轿车?", "output": {"company": "华为", "entities": {"豪华轿车": "享界 S9 / S9T"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品第二代红枫?", "output": {"company": "华为", "entities": {"第二代红枫": "Mate X7"}}, "_generator": "话题锚点反查"}
+{"input": "双向北斗卫星的智能手表是哪个?", "output": {"company": "华为", "entities": {"双向北斗卫星": "WATCH Ultimate 2"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品玄武水滴铰链?", "output": {"company": "华为", "entities": {"玄武水滴铰链": "MateBook Fold 非凡大师"}}, "_generator": "话题锚点反查"}
+{"input": "第二代红枫的手机是哪个?", "output": {"company": "华为", "entities": {"第二代红枫": "Mate X7"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款平板能柔光版/全网通可选, 是哪款?", "output": {"company": "华为", "entities": {"柔光版/全网通可选": "MatePad 11.5 2026"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品首配3D人脸?", "output": {"company": "华为", "entities": {"首配3D人脸": "Mate 80"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品最便宜华为平板之一?", "output": {"company": "华为", "entities": {"最便宜华为平板之一": "MatePad SE 标准版 11寸"}}, "_generator": "话题锚点反查"}
+{"input": "第一代红枫影像的手机是哪个?", "output": {"company": "华为", "entities": {"第一代红枫影像": "nova 16 SE"}}, "_generator": "话题锚点反查"}
+{"input": "华为哪款产品数字小键盘?", "output": {"company": "华为", "entities": {"数字小键盘": "MateBook D 16 SE"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款手机能麒麟8000A 5G, 是哪款?", "output": {"company": "华为", "entities": {"麒麟8000A 5G": "畅享 90"}}, "_generator": "话题锚点反查"}
+{"input": "听说有款智慧屏能三原色独立发光, 是哪款?", "output": {"company": "华为", "entities": {"三原色独立发光": "Vision 智慧屏 6 SE RGB"}}, "_generator": "话题锚点反查"}
+{"input": "WATCH GT 7 46mm价格", "output": {"company": "华为", "entities": {"WATCH GT 7 46mm": "¥1588起"}}, "_generator": "价格查询"}
+{"input": "Vision 智慧屏 6 Pro多少钱?", "output": {"company": "华为", "entities": {"Vision 智慧屏 6 Pro": "¥5999起"}}, "_generator": "价格查询"}
+{"input": "MatePad Air 12 2025价格", "output": {"company": "华为", "entities": {"MatePad Air 12 2025": "¥2125起"}}, "_generator": "价格查询"}
+{"input": "MateBook 14 鸿蒙版多少钱?", "output": {"company": "华为", "entities": {"MateBook 14 鸿蒙版": "¥6599起"}}, "_generator": "价格查询"}
+{"input": "WATCH GT 7 Pro 46mm价格", "output": {"company": "华为", "entities": {"WATCH GT 7 Pro 46mm": "¥2488起"}}, "_generator": "价格查询"}
+{"input": "畅享 90 Pro Max多少钱?", "output": {"company": "华为", "entities": {"畅享 90 Pro Max": "¥1699起"}}, "_generator": "价格查询"}
+{"input": "Mate 70 RS 非凡大师价格", "output": {"company": "华为", "entities": {"Mate 70 RS 非凡大师": "¥11999起"}}, "_generator": "价格查询"}
+{"input": "Pura 90 Pro多少钱?", "output": {"company": "华为", "entities": {"Pura 90 Pro": "¥5499起"}}, "_generator": "价格查询"}
+{"input": "Mate X6价格", "output": {"company": "华为", "entities": {"Mate X6": "¥10999起"}}, "_generator": "价格查询"}
+{"input": "Pura 90 Pro Max价格", "output": {"company": "华为", "entities": {"Pura 90 Pro Max": "¥6499起"}}, "_generator": "价格查询"}
+{"input": "Mate 80 Pro Max 风驰版价格", "output": {"company": "华为", "entities": {"Mate 80 Pro Max 风驰版": "¥8499"}}, "_generator": "价格查询"}
+{"input": "MatePad 11.5 S多少钱?", "output": {"company": "华为", "entities": {"MatePad 11.5 S": "¥1670起"}}, "_generator": "价格查询"}
+{"input": "WATCH GT 7 41mm多少钱?", "output": {"company": "华为", "entities": {"WATCH GT 7 41mm": "¥1488起"}}, "_generator": "价格查询"}
+{"input": "MatePad Edge价格", "output": {"company": "华为", "entities": {"MatePad Edge": "¥9999"}}, "_generator": "价格查询"}
+{"input": "Vision 智慧屏 6价格", "output": {"company": "华为", "entities": {"Vision 智慧屏 6": "¥6199起"}}, "_generator": "价格查询"}
+{"input": "WATCH GT 7 41mm价格", "output": {"company": "华为", "entities": {"WATCH GT 7 41mm": "¥1488起"}}, "_generator": "价格查询"}
+{"input": "Pura X Max多少钱?", "output": {"company": "华为", "entities": {"Pura X Max": "¥10999起"}}, "_generator": "价格查询"}
+{"input": "MateTV Max价格", "output": {"company": "华为", "entities": {"MateTV Max": "¥64999"}}, "_generator": "价格查询"}
+{"input": "Mate 80 Pro Max 风驰版多少钱?", "output": {"company": "华为", "entities": {"Mate 80 Pro Max 风驰版": "¥8499"}}, "_generator": "价格查询"}
+{"input": "Vision 智慧屏 6多少钱?", "output": {"company": "华为", "entities": {"Vision 智慧屏 6": "¥6199起"}}, "_generator": "价格查询"}
+{"input": "畅享 90 Plus价格", "output": {"company": "华为", "entities": {"畅享 90 Plus": "¥1499起"}}, "_generator": "价格查询"}
+{"input": "MatePad Pro 13.2 2025多少钱?", "output": {"company": "华为", "entities": {"MatePad Pro 13.2 2025": "¥4350起"}}, "_generator": "价格查询"}
+{"input": "MatePad Pro 12.2 2025价格", "output": {"company": "华为", "entities": {"MatePad Pro 12.2 2025": "¥3199起"}}, "_generator": "价格查询"}
+{"input": "Mate 70 Air多少钱?", "output": {"company": "华为", "entities": {"Mate 70 Air": "¥3170起"}}, "_generator": "价格查询"}
+{"input": "FreeClip 2多少钱?", "output": {"company": "华为", "entities": {"FreeClip 2": "¥1299"}}, "_generator": "价格查询"}
+{"input": "MatePad Pro 13.2 2025价格", "output": {"company": "华为", "entities": {"MatePad Pro 13.2 2025": "¥4350起"}}, "_generator": "价格查询"}
+{"input": "Mate 70多少钱?", "output": {"company": "华为", "entities": {"Mate 70": "¥5099起"}}, "_generator": "价格查询"}
+{"input": "Pura 90价格", "output": {"company": "华为", "entities": {"Pura 90": "¥4699起"}}, "_generator": "价格查询"}
+{"input": "Mate 80 RS 非凡大师多少钱?", "output": {"company": "华为", "entities": {"Mate 80 RS 非凡大师": "¥11999起"}}, "_generator": "价格查询"}
+{"input": "MatePad 11.5 2026多少钱?", "output": {"company": "华为", "entities": {"MatePad 11.5 2026": "¥1530起"}}, "_generator": "价格查询"}
+{"input": "MateBook 14 鸿蒙版价格", "output": {"company": "华为", "entities": {"MateBook 14 鸿蒙版": "¥6599起"}}, "_generator": "价格查询"}
+{"input": "Pura 80 Pro+多少钱?", "output": {"company": "华为", "entities": {"Pura 80 Pro+": "¥7999起"}}, "_generator": "价格查询"}
+{"input": "nova 16 SE价格", "output": {"company": "华为", "entities": {"nova 16 SE": "¥2000-3000"}}, "_generator": "价格查询"}
+{"input": "Mate 70 Pro 优享版价格", "output": {"company": "华为", "entities": {"Mate 70 Pro 优享版": "¥5099起"}}, "_generator": "价格查询"}
+{"input": "MatePad Mini多少钱?", "output": {"company": "华为", "entities": {"MatePad Mini": "¥2465起"}}, "_generator": "价格查询"}
+{"input": "Pura 80 Pro+价格", "output": {"company": "华为", "entities": {"Pura 80 Pro+": "¥7999起"}}, "_generator": "价格查询"}
+{"input": "Vision 智慧屏 6 Pro价格", "output": {"company": "华为", "entities": {"Vision 智慧屏 6 Pro": "¥5999起"}}, "_generator": "价格查询"}
+{"input": "尊界 V680多少钱?", "output": {"company": "华为", "entities": {"尊界 V680": "¥64.8万起"}}, "_generator": "价格查询"}
+{"input": "Mate 80 Pro Max价格", "output": {"company": "华为", "entities": {"Mate 80 Pro Max": "¥7499起"}}, "_generator": "价格查询"}
+{"input": "MateBook D 16 SE价格", "output": {"company": "华为", "entities": {"MateBook D 16 SE": "¥4000-5000"}}, "_generator": "价格查询"}
+{"input": "nova 16价格", "output": {"company": "华为", "entities": {"nova 16": "¥3499起"}}, "_generator": "价格查询"}
+{"input": "MatePad SE 标准版 11寸价格", "output": {"company": "华为", "entities": {"MatePad SE 标准版 11寸": "¥1399起"}}, "_generator": "价格查询"}
+{"input": "MatePad Pro 12.2 2025多少钱?", "output": {"company": "华为", "entities": {"MatePad Pro 12.2 2025": "¥3199起"}}, "_generator": "价格查询"}
+{"input": "FreeClip 2价格", "output": {"company": "华为", "entities": {"FreeClip 2": "¥1299"}}, "_generator": "价格查询"}
+{"input": "Pura 80 Ultra价格", "output": {"company": "华为", "entities": {"Pura 80 Ultra": "¥9999起"}}, "_generator": "价格查询"}
+{"input": "Pura 90 Pro Max多少钱?", "output": {"company": "华为", "entities": {"Pura 90 Pro Max": "¥6499起"}}, "_generator": "价格查询"}
+{"input": "MatePad Air 12 2025多少钱?", "output": {"company": "华为", "entities": {"MatePad Air 12 2025": "¥2125起"}}, "_generator": "价格查询"}
+{"input": "MateBook Pro S多少钱?", "output": {"company": "华为", "entities": {"MateBook Pro S": "¥7999起"}}, "_generator": "价格查询"}
+{"input": "享界 G9多少钱?", "output": {"company": "华为", "entities": {"享界 G9": "¥43.98万起"}}, "_generator": "价格查询"}
+{"input": "nova 16 SE多少钱?", "output": {"company": "华为", "entities": {"nova 16 SE": "¥2000-3000"}}, "_generator": "价格查询"}
+{"input": "Mate 70 Pro+多少钱?", "output": {"company": "华为", "entities": {"Mate 70 Pro+": "¥6699起"}}, "_generator": "价格查询"}
+{"input": "Pura X多少钱?", "output": {"company": "华为", "entities": {"Pura X": "¥7499起"}}, "_generator": "价格查询"}
+{"input": "Pura X Max价格", "output": {"company": "华为", "entities": {"Pura X Max": "¥10999起"}}, "_generator": "价格查询"}
+{"input": "鸿蒙 AI 眼镜价格", "output": {"company": "华为", "entities": {"鸿蒙 AI 眼镜": "¥2499"}}, "_generator": "价格查询"}
+{"input": "Pura 80 Pro价格", "output": {"company": "华为", "entities": {"Pura 80 Pro": "¥6499起"}}, "_generator": "价格查询"}
+{"input": "WATCH GT 7 Pro 46mm多少钱?", "output": {"company": "华为", "entities": {"WATCH GT 7 Pro 46mm": "¥2488起"}}, "_generator": "价格查询"}
+{"input": "Nova Flip S多少钱?", "output": {"company": "华为", "entities": {"Nova Flip S": "¥3388起"}}, "_generator": "价格查询"}
+{"input": "Mate 80 Pro Max多少钱?", "output": {"company": "华为", "entities": {"Mate 80 Pro Max": "¥7499起"}}, "_generator": "价格查询"}
+{"input": "Mate 80多少钱?", "output": {"company": "华为", "entities": {"Mate 80": "¥3999起"}}, "_generator": "价格查询"}
+{"input": "畅享 90价格", "output": {"company": "华为", "entities": {"畅享 90": "¥1299起"}}, "_generator": "价格查询"}
+{"input": "Mate XTs 非凡大师价格", "output": {"company": "华为", "entities": {"Mate XTs 非凡大师": "¥18000起"}}, "_generator": "价格查询"}
+{"input": "Mate X6多少钱?", "output": {"company": "华为", "entities": {"Mate X6": "¥10999起"}}, "_generator": "价格查询"}
+{"input": "MateTV Max多少钱?", "output": {"company": "华为", "entities": {"MateTV Max": "¥64999"}}, "_generator": "价格查询"}
+{"input": "nova 16 Ultra多少钱?", "output": {"company": "华为", "entities": {"nova 16 Ultra": "¥4699起"}}, "_generator": "价格查询"}
+{"input": "Mate X7多少钱?", "output": {"company": "华为", "entities": {"Mate X7": "¥12999起"}}, "_generator": "价格查询"}
+{"input": "Mate 70 Pro价格", "output": {"company": "华为", "entities": {"Mate 70 Pro": "¥5199起"}}, "_generator": "价格查询"}
+{"input": "Pura 80 Ultra多少钱?", "output": {"company": "华为", "entities": {"Pura 80 Ultra": "¥9999起"}}, "_generator": "价格查询"}
+{"input": "畅享 90 Pro Max价格", "output": {"company": "华为", "entities": {"畅享 90 Pro Max": "¥1699起"}}, "_generator": "价格查询"}
+{"input": "MateBook Pro S价格", "output": {"company": "华为", "entities": {"MateBook Pro S": "¥7999起"}}, "_generator": "价格查询"}
+{"input": "Pura 90多少钱?", "output": {"company": "华为", "entities": {"Pura 90": "¥4699起"}}, "_generator": "价格查询"}
+{"input": "WATCH GT 7 46mm多少钱?", "output": {"company": "华为", "entities": {"WATCH GT 7 46mm": "¥1588起"}}, "_generator": "价格查询"}
+{"input": "MateBook Fold 非凡大师多少钱?", "output": {"company": "华为", "entities": {"MateBook Fold 非凡大师": "¥24999"}}, "_generator": "价格查询"}
+{"input": "MateBook D 16 SE多少钱?", "output": {"company": "华为", "entities": {"MateBook D 16 SE": "¥4000-5000"}}, "_generator": "价格查询"}
+{"input": "Mate 70 RS 非凡大师多少钱?", "output": {"company": "华为", "entities": {"Mate 70 RS 非凡大师": "¥11999起"}}, "_generator": "价格查询"}
+{"input": "MatePad 11.5 2026价格", "output": {"company": "华为", "entities": {"MatePad 11.5 2026": "¥1530起"}}, "_generator": "价格查询"}
+{"input": "Pura 80 Pro多少钱?", "output": {"company": "华为", "entities": {"Pura 80 Pro": "¥6499起"}}, "_generator": "价格查询"}
+{"input": "Nova Flip S价格", "output": {"company": "华为", "entities": {"Nova Flip S": "¥3388起"}}, "_generator": "价格查询"}
+{"input": "畅享 90 Plus多少钱?", "output": {"company": "华为", "entities": {"畅享 90 Plus": "¥1499起"}}, "_generator": "价格查询"}
+{"input": "ULTIMATE DESIGN 紫金多少钱?", "output": {"company": "华为", "entities": {"ULTIMATE DESIGN 紫金": "¥26888"}}, "_generator": "价格查询"}
+{"input": "nova 16 Pro价格", "output": {"company": "华为", "entities": {"nova 16 Pro": "¥3899起"}}, "_generator": "价格查询"}
+{"input": "华为手机有哪些产品?", "output": {"company": "华为", "entities": {"手机": "Mate 80、Mate 80 Pro、Mate 80 Pro Max、Mate 80 Pro Max 风驰版、Mate 80 RS 非凡大师、Mate 70、Mate 70 Pro、Mate 70 Pro 优享版、Mate 70 Pro+、Mate 70 RS 非凡大师"}}, "_generator": "品类枚举"}
+{"input": "华为平板有哪些产品?", "output": {"company": "华为", "entities": {"平板": "MatePad Pro 13.2 2025、MatePad Pro 12.2 2025、MatePad Pro 2026、MatePad Edge、MatePad Air 12 2025、MatePad Air 2026、MatePad Mini、MatePad 11.5 S、MatePad 11.5 2026、MatePad SE 标准版 11寸"}}, "_generator": "品类枚举"}
+{"input": "华为笔记本有哪些产品?", "output": {"company": "华为", "entities": {"笔记本": "MateBook Fold 非凡大师、MateBook Pro S、MateBook Pro、MateBook X Pro、MateBook 14 鸿蒙版、MateBook 14 Linux 版、MateBook D 16 SE、MateBook E / E GO"}}, "_generator": "品类枚举"}
+{"input": "华为智能手表有哪些产品?", "output": {"company": "华为", "entities": {"智能手表": "WATCH Ultimate 2、ULTIMATE DESIGN 紫金、ULTIMATE DESIGN 星钻、WATCH GT 7 Pro 46mm、WATCH GT 7 46mm、WATCH GT 7 41mm、WATCH D2、WATCH Buds 2、WATCH FIT 5 Pro、WATCH FIT 5"}}, "_generator": "品类枚举"}
+{"input": "华为耳机有哪些产品?", "output": {"company": "华为", "entities": {"耳机": "FreeBuds Pro 5 悦彰、FreeBuds 7i、FreeBuds 6、FreeClip 2"}}, "_generator": "品类枚举"}
+{"input": "华为音箱有哪些产品?", "output": {"company": "华为", "entities": {"音箱": "Sound X5 悦彰、Sound Joy 系列"}}, "_generator": "品类枚举"}
+{"input": "华为智慧屏有哪些产品?", "output": {"company": "华为", "entities": {"智慧屏": "MateTV Max、Vision 智慧屏 6 Pro、Vision 智慧屏 6、Vision 智慧屏 6 SE RGB"}}, "_generator": "品类枚举"}
+{"input": "华为智能眼镜有哪些产品?", "output": {"company": "华为", "entities": {"智能眼镜": "鸿蒙 AI 眼镜"}}, "_generator": "品类枚举"}
+{"input": "华为显示器有哪些产品?", "output": {"company": "华为", "entities": {"显示器": "MateView GT"}}, "_generator": "品类枚举"}
+{"input": "华为智能汽车有哪些产品?", "output": {"company": "华为", "entities": {"智能汽车": "尊界 V800、尊界 V680、享界 G9、享界 S9 / S9T、问界 M8、问界 M7、问界 M6、智界 V9、智界 R7、智界 新S7"}}, "_generator": "品类枚举"}
+{"input": "华为Mate 系列包含哪些?", "output": {"company": "华为", "entities": {"Mate 系列": "Mate 80、Mate 80 Pro、Mate 80 Pro Max、Mate 80 Pro Max 风驰版、Mate 80 RS 非凡大师、Mate 70、Mate 70 Pro、Mate 70 Pro 优享版"}}, "_generator": "品类枚举"}
+{"input": "华为Pura 系列包含哪些?", "output": {"company": "华为", "entities": {"Pura 系列": "Pura 90、Pura 90 Pro、Pura 90 Pro Max、Pura 80、Pura 80 Pro、Pura 80 Pro+、Pura 80 Ultra"}}, "_generator": "品类枚举"}
+{"input": "华为折叠屏包含哪些?", "output": {"company": "华为", "entities": {"折叠屏": "Mate X7、Mate X6、Mate X8、Mate XTs 非凡大师、Mate XT2、Pura X Max、Pura X、Pocket 2"}}, "_generator": "品类枚举"}
+{"input": "华为nova 系列包含哪些?", "output": {"company": "华为", "entities": {"nova 系列": "nova 16 SE、nova 16、nova 16 Pro、nova 16 Ultra"}}, "_generator": "品类枚举"}
+{"input": "华为畅享系列包含哪些?", "output": {"company": "华为", "entities": {"畅享系列": "畅享 90、畅享 90 Plus、畅享 90 Pro Max"}}, "_generator": "品类枚举"}
+{"input": "华为MatePad Pro 系列包含哪些?", "output": {"company": "华为", "entities": {"MatePad Pro 系列": "MatePad Pro 13.2 2025、MatePad Pro 12.2 2025、MatePad Pro 2026、MatePad Edge"}}, "_generator": "品类枚举"}
+{"input": "华为MatePad Air 系列包含哪些?", "output": {"company": "华为", "entities": {"MatePad Air 系列": "MatePad Air 12 2025、MatePad Air 2026"}}, "_generator": "品类枚举"}
+{"input": "华为MatePad Mini 系列包含哪些?", "output": {"company": "华为", "entities": {"MatePad Mini 系列": "MatePad Mini"}}, "_generator": "品类枚举"}
+{"input": "华为MatePad 11.5 S 系列包含哪些?", "output": {"company": "华为", "entities": {"MatePad 11.5 S 系列": "MatePad 11.5 S"}}, "_generator": "品类枚举"}
+{"input": "华为MatePad 数字系列包含哪些?", "output": {"company": "华为", "entities": {"MatePad 数字系列": "MatePad 11.5 2026"}}, "_generator": "品类枚举"}
+{"input": "华为MatePad SE 系列包含哪些?", "output": {"company": "华为", "entities": {"MatePad SE 系列": "MatePad SE 标准版 11寸"}}, "_generator": "品类枚举"}
+{"input": "华为MateBook Fold 系列包含哪些?", "output": {"company": "华为", "entities": {"MateBook Fold 系列": "MateBook Fold 非凡大师"}}, "_generator": "品类枚举"}
+{"input": "华为MateBook Pro 系列包含哪些?", "output": {"company": "华为", "entities": {"MateBook Pro 系列": "MateBook Pro S、MateBook Pro"}}, "_generator": "品类枚举"}
+{"input": "华为MateBook X Pro 系列包含哪些?", "output": {"company": "华为", "entities": {"MateBook X Pro 系列": "MateBook X Pro"}}, "_generator": "品类枚举"}
+{"input": "华为MateBook 数字系列包含哪些?", "output": {"company": "华为", "entities": {"MateBook 数字系列": "MateBook 14 鸿蒙版、MateBook 14 Linux 版"}}, "_generator": "品类枚举"}
+{"input": "华为MateBook D 系列包含哪些?", "output": {"company": "华为", "entities": {"MateBook D 系列": "MateBook D 16 SE"}}, "_generator": "品类枚举"}
+{"input": "华为MateBook E 系列包含哪些?", "output": {"company": "华为", "entities": {"MateBook E 系列": "MateBook E / E GO"}}, "_generator": "品类枚举"}
+{"input": "华为WATCH Ultimate 系列包含哪些?", "output": {"company": "华为", "entities": {"WATCH Ultimate 系列": "WATCH Ultimate 2、ULTIMATE DESIGN 紫金、ULTIMATE DESIGN 星钻"}}, "_generator": "品类枚举"}
+{"input": "华为WATCH GT 系列包含哪些?", "output": {"company": "华为", "entities": {"WATCH GT 系列": "WATCH GT 7 Pro 46mm、WATCH GT 7 46mm、WATCH GT 7 41mm"}}, "_generator": "品类枚举"}
+{"input": "华为WATCH D 系列包含哪些?", "output": {"company": "华为", "entities": {"WATCH D 系列": "WATCH D2"}}, "_generator": "品类枚举"}
+{"input": "华为WATCH Buds 系列包含哪些?", "output": {"company": "华为", "entities": {"WATCH Buds 系列": "WATCH Buds 2"}}, "_generator": "品类枚举"}
+{"input": "华为WATCH FIT 系列包含哪些?", "output": {"company": "华为", "entities": {"WATCH FIT 系列": "WATCH FIT 5 Pro、WATCH FIT 5"}}, "_generator": "品类枚举"}
+{"input": "华为WATCH GT Runner 系列包含哪些?", "output": {"company": "华为", "entities": {"WATCH GT Runner 系列": "WATCH GT Runner 2"}}, "_generator": "品类枚举"}
+{"input": "华为手环系列包含哪些?", "output": {"company": "华为", "entities": {"手环系列": "华为手环 11"}}, "_generator": "品类枚举"}
+{"input": "华为FreeBuds Pro 系列包含哪些?", "output": {"company": "华为", "entities": {"FreeBuds Pro 系列": "FreeBuds Pro 5 悦彰"}}, "_generator": "品类枚举"}
+{"input": "华为FreeBuds 数字系列包含哪些?", "output": {"company": "华为", "entities": {"FreeBuds 数字系列": "FreeBuds 7i、FreeBuds 6"}}, "_generator": "品类枚举"}
+{"input": "华为FreeClip 系列包含哪些?", "output": {"company": "华为", "entities": {"FreeClip 系列": "FreeClip 2"}}, "_generator": "品类枚举"}
+{"input": "华为Sound 系列包含哪些?", "output": {"company": "华为", "entities": {"Sound 系列": "Sound X5 悦彰"}}, "_generator": "品类枚举"}
+{"input": "华为Sound Joy 系列包含哪些?", "output": {"company": "华为", "entities": {"Sound Joy 系列": "Sound Joy 系列"}}, "_generator": "品类枚举"}
+{"input": "华为Vision 系列包含哪些?", "output": {"company": "华为", "entities": {"Vision 系列": "MateTV Max、Vision 智慧屏 6 Pro、Vision 智慧屏 6、Vision 智慧屏 6 SE RGB"}}, "_generator": "品类枚举"}
+{"input": "华为鸿蒙 AI 眼镜包含哪些?", "output": {"company": "华为", "entities": {"鸿蒙 AI 眼镜": "鸿蒙 AI 眼镜"}}, "_generator": "品类枚举"}
+{"input": "华为MateView 系列包含哪些?", "output": {"company": "华为", "entities": {"MateView 系列": "MateView GT"}}, "_generator": "品类枚举"}
+{"input": "华为尊界包含哪些?", "output": {"company": "华为", "entities": {"尊界": "尊界 V800、尊界 V680"}}, "_generator": "品类枚举"}
+{"input": "华为享界包含哪些?", "output": {"company": "华为", "entities": {"享界": "享界 G9、享界 S9 / S9T"}}, "_generator": "品类枚举"}
+{"input": "华为问界包含哪些?", "output": {"company": "华为", "entities": {"问界": "问界 M8、问界 M7、问界 M6"}}, "_generator": "品类枚举"}
+{"input": "华为智界包含哪些?", "output": {"company": "华为", "entities": {"智界": "智界 V9、智界 R7、智界 新S7"}}, "_generator": "品类枚举"}
+{"input": "华为尚界包含哪些?", "output": {"company": "华为", "entities": {"尚界": "尚界 Z7 / Z7T"}}, "_generator": "品类枚举"}
+{"input": "智界 V9还在卖吗?", "output": {"company": "华为", "entities": {"智界 V9": "在售"}}, "_generator": "状态查询"}
+{"input": "Sound X5 悦彰还在卖吗?", "output": {"company": "华为", "entities": {"Sound X5 悦彰": "在售"}}, "_generator": "状态查询"}
+{"input": "MatePad Pro 2026还在卖吗?", "output": {"company": "华为", "entities": {"MatePad Pro 2026": "在售"}}, "_generator": "状态查询"}
+{"input": "问界 M6还在卖吗?", "output": {"company": "华为", "entities": {"问界 M6": "在售"}}, "_generator": "状态查询"}
+{"input": "Pura 90 Pro还在卖吗?", "output": {"company": "华为", "entities": {"Pura 90 Pro": "在售"}}, "_generator": "状态查询"}
+{"input": "Pura 80 Pro+还在卖吗?", "output": {"company": "华为", "entities": {"Pura 80 Pro+": "在售"}}, "_generator": "状态查询"}
+{"input": "畅享 90还在卖吗?", "output": {"company": "华为", "entities": {"畅享 90": "在售"}}, "_generator": "状态查询"}
+{"input": "Pura 90 Pro Max还在卖吗?", "output": {"company": "华为", "entities": {"Pura 90 Pro Max": "在售"}}, "_generator": "状态查询"}
+{"input": "尚界 Z7 / Z7T还在卖吗?", "output": {"company": "华为", "entities": {"尚界 Z7 / Z7T": "在售"}}, "_generator": "状态查询"}
+{"input": "智界 新S7还在卖吗?", "output": {"company": "华为", "entities": {"智界 新S7": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate X7还在卖吗?", "output": {"company": "华为", "entities": {"Mate X7": "在售"}}, "_generator": "状态查询"}
+{"input": "畅享 90 Plus还在卖吗?", "output": {"company": "华为", "entities": {"畅享 90 Plus": "在售"}}, "_generator": "状态查询"}
+{"input": "MatePad Pro 13.2 2025还在卖吗?", "output": {"company": "华为", "entities": {"MatePad Pro 13.2 2025": "在售"}}, "_generator": "状态查询"}
+{"input": "Pocket 2还在卖吗?", "output": {"company": "华为", "entities": {"Pocket 2": "在售"}}, "_generator": "状态查询"}
+{"input": "MatePad 11.5 S还在卖吗?", "output": {"company": "华为", "entities": {"MatePad 11.5 S": "在售"}}, "_generator": "状态查询"}
+{"input": "Vision 智慧屏 6 SE RGB还在卖吗?", "output": {"company": "华为", "entities": {"Vision 智慧屏 6 SE RGB": "在售"}}, "_generator": "状态查询"}
+{"input": "问界 M8还在卖吗?", "output": {"company": "华为", "entities": {"问界 M8": "在售"}}, "_generator": "状态查询"}
+{"input": "WATCH GT Runner 2还在卖吗?", "output": {"company": "华为", "entities": {"WATCH GT Runner 2": "在售"}}, "_generator": "状态查询"}
+{"input": "WATCH FIT 5 Pro还在卖吗?", "output": {"company": "华为", "entities": {"WATCH FIT 5 Pro": "在售"}}, "_generator": "状态查询"}
+{"input": "nova 16 Ultra还在卖吗?", "output": {"company": "华为", "entities": {"nova 16 Ultra": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate 70 Pro还在卖吗?", "output": {"company": "华为", "entities": {"Mate 70 Pro": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate 90 系列什么时候出?", "output": {"company": "华为", "entities": {"Mate 90 系列": "即将发布"}}, "_generator": "状态查询"}
+{"input": "WATCH Ultimate 2还在卖吗?", "output": {"company": "华为", "entities": {"WATCH Ultimate 2": "在售"}}, "_generator": "状态查询"}
+{"input": "畅享 90 Pro Max还在卖吗?", "output": {"company": "华为", "entities": {"畅享 90 Pro Max": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate 70还在卖吗?", "output": {"company": "华为", "entities": {"Mate 70": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate 80还在卖吗?", "output": {"company": "华为", "entities": {"Mate 80": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate X8什么时候出?", "output": {"company": "华为", "entities": {"Mate X8": "即将发布"}}, "_generator": "状态查询"}
+{"input": "MateBook X Pro还在卖吗?", "output": {"company": "华为", "entities": {"MateBook X Pro": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate 70 Pro+还在卖吗?", "output": {"company": "华为", "entities": {"Mate 70 Pro+": "在售"}}, "_generator": "状态查询"}
+{"input": "MatePad Air 12 2025还在卖吗?", "output": {"company": "华为", "entities": {"MatePad Air 12 2025": "在售"}}, "_generator": "状态查询"}
+{"input": "Pura 80 Pro还在卖吗?", "output": {"company": "华为", "entities": {"Pura 80 Pro": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate 70 Air还在卖吗?", "output": {"company": "华为", "entities": {"Mate 70 Air": "在售"}}, "_generator": "状态查询"}
+{"input": "MateBook Pro S还在卖吗?", "output": {"company": "华为", "entities": {"MateBook Pro S": "在售"}}, "_generator": "状态查询"}
+{"input": "Nova Flip S还在卖吗?", "output": {"company": "华为", "entities": {"Nova Flip S": "在售"}}, "_generator": "状态查询"}
+{"input": "华为手环 11还在卖吗?", "output": {"company": "华为", "entities": {"华为手环 11": "在售"}}, "_generator": "状态查询"}
+{"input": "MatePad SE 标准版 11寸还在卖吗?", "output": {"company": "华为", "entities": {"MatePad SE 标准版 11寸": "在售"}}, "_generator": "状态查询"}
+{"input": "Nova Flip 2还在卖吗?", "output": {"company": "华为", "entities": {"Nova Flip 2": "在售"}}, "_generator": "状态查询"}
+{"input": "FreeBuds Pro 5 悦彰还在卖吗?", "output": {"company": "华为", "entities": {"FreeBuds Pro 5 悦彰": "在售"}}, "_generator": "状态查询"}
+{"input": "WATCH FIT 5还在卖吗?", "output": {"company": "华为", "entities": {"WATCH FIT 5": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate 70 Pro 优享版还在卖吗?", "output": {"company": "华为", "entities": {"Mate 70 Pro 优享版": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate 80 RS 非凡大师还在卖吗?", "output": {"company": "华为", "entities": {"Mate 80 RS 非凡大师": "在售"}}, "_generator": "状态查询"}
+{"input": "MatePad 11.5 2026还在卖吗?", "output": {"company": "华为", "entities": {"MatePad 11.5 2026": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate 70 RS 非凡大师还在卖吗?", "output": {"company": "华为", "entities": {"Mate 70 RS 非凡大师": "在售"}}, "_generator": "状态查询"}
+{"input": "MateView GT还在卖吗?", "output": {"company": "华为", "entities": {"MateView GT": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate 80 Pro Max还在卖吗?", "output": {"company": "华为", "entities": {"Mate 80 Pro Max": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate XT2什么时候出?", "output": {"company": "华为", "entities": {"Mate XT2": "即将发布"}}, "_generator": "状态查询"}
+{"input": "MatePad Pro 12.2 2025还在卖吗?", "output": {"company": "华为", "entities": {"MatePad Pro 12.2 2025": "在售"}}, "_generator": "状态查询"}
+{"input": "MateBook 14 Linux 版还在卖吗?", "output": {"company": "华为", "entities": {"MateBook 14 Linux 版": "在售"}}, "_generator": "状态查询"}
+{"input": "MateBook Fold 非凡大师还在卖吗?", "output": {"company": "华为", "entities": {"MateBook Fold 非凡大师": "在售"}}, "_generator": "状态查询"}
+{"input": "MateBook D 16 SE还在卖吗?", "output": {"company": "华为", "entities": {"MateBook D 16 SE": "在售"}}, "_generator": "状态查询"}
+{"input": "WATCH D2还在卖吗?", "output": {"company": "华为", "entities": {"WATCH D2": "在售"}}, "_generator": "状态查询"}
+{"input": "ULTIMATE DESIGN 星钻还在卖吗?", "output": {"company": "华为", "entities": {"ULTIMATE DESIGN 星钻": "在售"}}, "_generator": "状态查询"}
+{"input": "尊界 V800还在卖吗?", "output": {"company": "华为", "entities": {"尊界 V800": "在售"}}, "_generator": "状态查询"}
+{"input": "Vision 智慧屏 6还在卖吗?", "output": {"company": "华为", "entities": {"Vision 智慧屏 6": "在售"}}, "_generator": "状态查询"}
+{"input": "MatePad Mini还在卖吗?", "output": {"company": "华为", "entities": {"MatePad Mini": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate XTs 非凡大师还在卖吗?", "output": {"company": "华为", "entities": {"Mate XTs 非凡大师": "在售"}}, "_generator": "状态查询"}
+{"input": "享界 G9还在卖吗?", "output": {"company": "华为", "entities": {"享界 G9": "在售"}}, "_generator": "状态查询"}
+{"input": "Pura 80还在卖吗?", "output": {"company": "华为", "entities": {"Pura 80": "在售"}}, "_generator": "状态查询"}
+{"input": "尊界 V680还在卖吗?", "output": {"company": "华为", "entities": {"尊界 V680": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate 80 Pro Max 风驰版还在卖吗?", "output": {"company": "华为", "entities": {"Mate 80 Pro Max 风驰版": "在售"}}, "_generator": "状态查询"}
+{"input": "FreeBuds 7i还在卖吗?", "output": {"company": "华为", "entities": {"FreeBuds 7i": "在售"}}, "_generator": "状态查询"}
+{"input": "Pura X Max还在卖吗?", "output": {"company": "华为", "entities": {"Pura X Max": "在售"}}, "_generator": "状态查询"}
+{"input": "问界 M7还在卖吗?", "output": {"company": "华为", "entities": {"问界 M7": "在售"}}, "_generator": "状态查询"}
+{"input": "FreeClip 2还在卖吗?", "output": {"company": "华为", "entities": {"FreeClip 2": "在售"}}, "_generator": "状态查询"}
+{"input": "鸿蒙 AI 眼镜还在卖吗?", "output": {"company": "华为", "entities": {"鸿蒙 AI 眼镜": "在售"}}, "_generator": "状态查询"}
+{"input": "MatePad Air 2026还在卖吗?", "output": {"company": "华为", "entities": {"MatePad Air 2026": "在售"}}, "_generator": "状态查询"}
+{"input": "MateBook Pro还在卖吗?", "output": {"company": "华为", "entities": {"MateBook Pro": "在售"}}, "_generator": "状态查询"}
+{"input": "WATCH Buds 2还在卖吗?", "output": {"company": "华为", "entities": {"WATCH Buds 2": "在售"}}, "_generator": "状态查询"}
+{"input": "Sound Joy 系列还在卖吗?", "output": {"company": "华为", "entities": {"Sound Joy 系列": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate X6还在卖吗?", "output": {"company": "华为", "entities": {"Mate X6": "在售"}}, "_generator": "状态查询"}
+{"input": "Pura X还在卖吗?", "output": {"company": "华为", "entities": {"Pura X": "在售"}}, "_generator": "状态查询"}
+{"input": "MateBook 14 鸿蒙版还在卖吗?", "output": {"company": "华为", "entities": {"MateBook 14 鸿蒙版": "在售"}}, "_generator": "状态查询"}
+{"input": "MatePad Edge还在卖吗?", "output": {"company": "华为", "entities": {"MatePad Edge": "在售"}}, "_generator": "状态查询"}
+{"input": "WATCH GT 7 Pro 46mm还在卖吗?", "output": {"company": "华为", "entities": {"WATCH GT 7 Pro 46mm": "在售"}}, "_generator": "状态查询"}
+{"input": "Pura 90还在卖吗?", "output": {"company": "华为", "entities": {"Pura 90": "在售"}}, "_generator": "状态查询"}
+{"input": "FreeBuds 6还在卖吗?", "output": {"company": "华为", "entities": {"FreeBuds 6": "在售"}}, "_generator": "状态查询"}
+{"input": "享界 S9 / S9T还在卖吗?", "output": {"company": "华为", "entities": {"享界 S9 / S9T": "在售"}}, "_generator": "状态查询"}
+{"input": "nova 16 Pro还在卖吗?", "output": {"company": "华为", "entities": {"nova 16 Pro": "在售"}}, "_generator": "状态查询"}
+{"input": "nova 16 SE还在卖吗?", "output": {"company": "华为", "entities": {"nova 16 SE": "在售"}}, "_generator": "状态查询"}
+{"input": "MateTV Max还在卖吗?", "output": {"company": "华为", "entities": {"MateTV Max": "在售"}}, "_generator": "状态查询"}
+{"input": "Mate 80是最新一代吗?", "output": {"company": "华为", "entities": {"Mate 80": "最新款"}}, "_generator": "代际查询"}
+{"input": "Mate 80 Pro是最新一代吗?", "output": {"company": "华为", "entities": {"Mate 80 Pro": "最新款"}}, "_generator": "代际查询"}
+{"input": "Mate 80 Pro Max是最新一代吗?", "output": {"company": "华为", "entities": {"Mate 80 Pro Max": "最新款"}}, "_generator": "代际查询"}
+{"input": "Mate 80 Pro Max 风驰版是最新一代吗?", "output": {"company": "华为", "entities": {"Mate 80 Pro Max 风驰版": "最新款"}}, "_generator": "代际查询"}
+{"input": "Mate 80 RS 非凡大师是最新一代吗?", "output": {"company": "华为", "entities": {"Mate 80 RS 非凡大师": "最新款"}}, "_generator": "代际查询"}
+{"input": "Mate 70是上一代吗?", "output": {"company": "华为", "entities": {"Mate 70": "上代"}}, "_generator": "代际查询"}
+{"input": "Mate 70 Pro是上一代吗?", "output": {"company": "华为", "entities": {"Mate 70 Pro": "上代"}}, "_generator": "代际查询"}
+{"input": "Mate 70 Pro 优享版是上一代吗?", "output": {"company": "华为", "entities": {"Mate 70 Pro 优享版": "上代"}}, "_generator": "代际查询"}
+{"input": "Mate 70 Pro+是上一代吗?", "output": {"company": "华为", "entities": {"Mate 70 Pro+": "上代"}}, "_generator": "代际查询"}
+{"input": "Mate 70 RS 非凡大师是上一代吗?", "output": {"company": "华为", "entities": {"Mate 70 RS 非凡大师": "上代"}}, "_generator": "代际查询"}
+{"input": "Mate 70 Air是上一代吗?", "output": {"company": "华为", "entities": {"Mate 70 Air": "上代"}}, "_generator": "代际查询"}
+{"input": "Mate 90 系列是还没发布的新品吗?", "output": {"company": "华为", "entities": {"Mate 90 系列": "即将发布"}}, "_generator": "代际查询"}
+{"input": "Pura 90是最新一代吗?", "output": {"company": "华为", "entities": {"Pura 90": "最新款"}}, "_generator": "代际查询"}
+{"input": "Pura 90 Pro是最新一代吗?", "output": {"company": "华为", "entities": {"Pura 90 Pro": "最新款"}}, "_generator": "代际查询"}
+{"input": "Pura 90 Pro Max是最新一代吗?", "output": {"company": "华为", "entities": {"Pura 90 Pro Max": "最新款"}}, "_generator": "代际查询"}
+{"input": "Pura 80是上一代吗?", "output": {"company": "华为", "entities": {"Pura 80": "上代"}}, "_generator": "代际查询"}
+{"input": "Pura 80 Pro是上一代吗?", "output": {"company": "华为", "entities": {"Pura 80 Pro": "上代"}}, "_generator": "代际查询"}
+{"input": "Pura 80 Pro+是上一代吗?", "output": {"company": "华为", "entities": {"Pura 80 Pro+": "上代"}}, "_generator": "代际查询"}
+{"input": "Pura 80 Ultra是上一代吗?", "output": {"company": "华为", "entities": {"Pura 80 Ultra": "上代"}}, "_generator": "代际查询"}
+{"input": "Mate X7是最新一代吗?", "output": {"company": "华为", "entities": {"Mate X7": "最新款"}}, "_generator": "代际查询"}
+{"input": "Mate X6是上一代吗?", "output": {"company": "华为", "entities": {"Mate X6": "上代"}}, "_generator": "代际查询"}
+{"input": "Mate X8是还没发布的新品吗?", "output": {"company": "华为", "entities": {"Mate X8": "即将发布"}}, "_generator": "代际查询"}
+{"input": "Mate XTs 非凡大师是最新一代吗?", "output": {"company": "华为", "entities": {"Mate XTs 非凡大师": "最新款"}}, "_generator": "代际查询"}
+{"input": "Mate XT2是还没发布的新品吗?", "output": {"company": "华为", "entities": {"Mate XT2": "即将发布"}}, "_generator": "代际查询"}
+{"input": "Pura X Max是最新一代吗?", "output": {"company": "华为", "entities": {"Pura X Max": "最新款"}}, "_generator": "代际查询"}
+{"input": "Pura X是最新一代吗?", "output": {"company": "华为", "entities": {"Pura X": "最新款"}}, "_generator": "代际查询"}
+{"input": "Nova Flip 2是最新一代吗?", "output": {"company": "华为", "entities": {"Nova Flip 2": "最新款"}}, "_generator": "代际查询"}
+{"input": "nova 16 SE是最新一代吗?", "output": {"company": "华为", "entities": {"nova 16 SE": "最新款"}}, "_generator": "代际查询"}
+{"input": "nova 16是最新一代吗?", "output": {"company": "华为", "entities": {"nova 16": "最新款"}}, "_generator": "代际查询"}
+{"input": "nova 16 Pro是最新一代吗?", "output": {"company": "华为", "entities": {"nova 16 Pro": "最新款"}}, "_generator": "代际查询"}
+{"input": "nova 16 Ultra是最新一代吗?", "output": {"company": "华为", "entities": {"nova 16 Ultra": "最新款"}}, "_generator": "代际查询"}
+{"input": "畅享 90是最新一代吗?", "output": {"company": "华为", "entities": {"畅享 90": "最新款"}}, "_generator": "代际查询"}
+{"input": "畅享 90 Plus是最新一代吗?", "output": {"company": "华为", "entities": {"畅享 90 Plus": "最新款"}}, "_generator": "代际查询"}
+{"input": "畅享 90 Pro Max是最新一代吗?", "output": {"company": "华为", "entities": {"畅享 90 Pro Max": "最新款"}}, "_generator": "代际查询"}
+{"input": "MatePad Pro 2026是最新一代吗?", "output": {"company": "华为", "entities": {"MatePad Pro 2026": "最新款"}}, "_generator": "代际查询"}
+{"input": "MatePad Air 2026是最新一代吗?", "output": {"company": "华为", "entities": {"MatePad Air 2026": "最新款"}}, "_generator": "代际查询"}
+{"input": "MatePad 11.5 2026是最新一代吗?", "output": {"company": "华为", "entities": {"MatePad 11.5 2026": "最新款"}}, "_generator": "代际查询"}
+{"input": "MateBook Fold 非凡大师是最新一代吗?", "output": {"company": "华为", "entities": {"MateBook Fold 非凡大师": "最新款"}}, "_generator": "代际查询"}
+{"input": "MateBook Pro S是最新一代吗?", "output": {"company": "华为", "entities": {"MateBook Pro S": "最新款"}}, "_generator": "代际查询"}
+{"input": "MateBook Pro是最新一代吗?", "output": {"company": "华为", "entities": {"MateBook Pro": "最新款"}}, "_generator": "代际查询"}
+{"input": "MateBook 14 鸿蒙版是最新一代吗?", "output": {"company": "华为", "entities": {"MateBook 14 鸿蒙版": "最新款"}}, "_generator": "代际查询"}
+{"input": "MateBook 14 Linux 版是最新一代吗?", "output": {"company": "华为", "entities": {"MateBook 14 Linux 版": "最新款"}}, "_generator": "代际查询"}
+{"input": "WATCH Ultimate 2是最新一代吗?", "output": {"company": "华为", "entities": {"WATCH Ultimate 2": "最新款"}}, "_generator": "代际查询"}
+{"input": "ULTIMATE DESIGN 星钻是最新一代吗?", "output": {"company": "华为", "entities": {"ULTIMATE DESIGN 星钻": "最新款"}}, "_generator": "代际查询"}
+{"input": "WATCH GT 7 Pro 46mm是最新一代吗?", "output": {"company": "华为", "entities": {"WATCH GT 7 Pro 46mm": "最新款"}}, "_generator": "代际查询"}
+{"input": "WATCH GT 7 46mm是最新一代吗?", "output": {"company": "华为", "entities": {"WATCH GT 7 46mm": "最新款"}}, "_generator": "代际查询"}
+{"input": "WATCH GT 7 41mm是最新一代吗?", "output": {"company": "华为", "entities": {"WATCH GT 7 41mm": "最新款"}}, "_generator": "代际查询"}
+{"input": "WATCH D2是最新一代吗?", "output": {"company": "华为", "entities": {"WATCH D2": "最新款"}}, "_generator": "代际查询"}
+{"input": "WATCH Buds 2是最新一代吗?", "output": {"company": "华为", "entities": {"WATCH Buds 2": "最新款"}}, "_generator": "代际查询"}
+{"input": "WATCH FIT 5 Pro是最新一代吗?", "output": {"company": "华为", "entities": {"WATCH FIT 5 Pro": "最新款"}}, "_generator": "代际查询"}
+{"input": "WATCH FIT 5是最新一代吗?", "output": {"company": "华为", "entities": {"WATCH FIT 5": "最新款"}}, "_generator": "代际查询"}
+{"input": "WATCH GT Runner 2是最新一代吗?", "output": {"company": "华为", "entities": {"WATCH GT Runner 2": "最新款"}}, "_generator": "代际查询"}
+{"input": "华为手环 11是最新一代吗?", "output": {"company": "华为", "entities": {"华为手环 11": "最新款"}}, "_generator": "代际查询"}
+{"input": "FreeBuds Pro 5 悦彰是最新一代吗?", "output": {"company": "华为", "entities": {"FreeBuds Pro 5 悦彰": "最新款"}}, "_generator": "代际查询"}
+{"input": "FreeBuds 7i是最新一代吗?", "output": {"company": "华为", "entities": {"FreeBuds 7i": "最新款"}}, "_generator": "代际查询"}
+{"input": "FreeBuds 6是最新一代吗?", "output": {"company": "华为", "entities": {"FreeBuds 6": "最新款"}}, "_generator": "代际查询"}
+{"input": "FreeClip 2是最新一代吗?", "output": {"company": "华为", "entities": {"FreeClip 2": "最新款"}}, "_generator": "代际查询"}
+{"input": "Sound X5 悦彰是最新一代吗?", "output": {"company": "华为", "entities": {"Sound X5 悦彰": "最新款"}}, "_generator": "代际查询"}
+{"input": "MateTV Max是最新一代吗?", "output": {"company": "华为", "entities": {"MateTV Max": "最新款"}}, "_generator": "代际查询"}
+{"input": "Vision 智慧屏 6 Pro是最新一代吗?", "output": {"company": "华为", "entities": {"Vision 智慧屏 6 Pro": "最新款"}}, "_generator": "代际查询"}
+{"input": "Vision 智慧屏 6是最新一代吗?", "output": {"company": "华为", "entities": {"Vision 智慧屏 6": "最新款"}}, "_generator": "代际查询"}
+{"input": "Vision 智慧屏 6 SE RGB是最新一代吗?", "output": {"company": "华为", "entities": {"Vision 智慧屏 6 SE RGB": "最新款"}}, "_generator": "代际查询"}
+{"input": "鸿蒙 AI 眼镜是最新一代吗?", "output": {"company": "华为", "entities": {"鸿蒙 AI 眼镜": "最新款"}}, "_generator": "代际查询"}
+{"input": "尊界 V800是最新一代吗?", "output": {"company": "华为", "entities": {"尊界 V800": "最新款"}}, "_generator": "代际查询"}
+{"input": "尊界 V680是最新一代吗?", "output": {"company": "华为", "entities": {"尊界 V680": "最新款"}}, "_generator": "代际查询"}
+{"input": "享界 G9是最新一代吗?", "output": {"company": "华为", "entities": {"享界 G9": "最新款"}}, "_generator": "代际查询"}
+{"input": "Mate 70 Pro 优享版和Mate 70 RS 非凡大师有什么区别?", "output": {"company": "华为", "entities": {"Mate 70 Pro 优享版": {"name": "Mate 70 Pro 优享版", "category": "手机", "series": "Mate 系列", "price": "¥5099起"}, "Mate 70 RS 非凡大师": {"name": "Mate 70 RS 非凡大师", "category": "手机", "series": "Mate 系列", "price": "¥11999起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70对比Mate 70 RS 非凡大师怎么选?", "output": {"company": "华为", "entities": {"Mate 70": {"name": "Mate 70", "category": "手机", "series": "Mate 系列", "price": "¥5099起"}, "Mate 70 RS 非凡大师": {"name": "Mate 70 RS 非凡大师", "category": "手机", "series": "Mate 系列", "price": "¥11999起"}}}, "_generator": "同系列对比"}
+{"input": "畅享 90对比畅享 90 Plus怎么选?", "output": {"company": "华为", "entities": {"畅享 90": {"name": "畅享 90", "category": "手机", "series": "畅享系列", "price": "¥1299起"}, "畅享 90 Plus": {"name": "畅享 90 Plus", "category": "手机", "series": "畅享系列", "price": "¥1499起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 80 Pro对比Mate 80 Pro Max怎么选?", "output": {"company": "华为", "entities": {"Mate 80 Pro": {"name": "Mate 80 Pro", "category": "手机", "series": "Mate 系列", "price": "¥6499起"}, "Mate 80 Pro Max": {"name": "Mate 80 Pro Max", "category": "手机", "series": "Mate 系列", "price": "¥7499起"}}}, "_generator": "同系列对比"}
+{"input": "WATCH Ultimate 2和ULTIMATE DESIGN 紫金有什么区别?", "output": {"company": "华为", "entities": {"WATCH Ultimate 2": {"name": "WATCH Ultimate 2", "category": "智能手表", "series": "WATCH Ultimate 系列", "price": "待补充"}, "ULTIMATE DESIGN 紫金": {"name": "ULTIMATE DESIGN 紫金", "category": "智能手表", "series": "WATCH Ultimate 系列", "price": "¥26888"}}}, "_generator": "同系列对比"}
+{"input": "Pura 80和Pura 80 Pro有什么区别?", "output": {"company": "华为", "entities": {"Pura 80": {"name": "Pura 80", "category": "手机", "series": "Pura 系列", "price": "待补充"}, "Pura 80 Pro": {"name": "Pura 80 Pro", "category": "手机", "series": "Pura 系列", "price": "¥6499起"}}}, "_generator": "同系列对比"}
+{"input": "Pura 90对比Pura 90 Pro怎么选?", "output": {"company": "华为", "entities": {"Pura 90": {"name": "Pura 90", "category": "手机", "series": "Pura 系列", "price": "¥4699起"}, "Pura 90 Pro": {"name": "Pura 90 Pro", "category": "手机", "series": "Pura 系列", "price": "¥5499起"}}}, "_generator": "同系列对比"}
+{"input": "MateBook Pro S对比MateBook Pro怎么选?", "output": {"company": "华为", "entities": {"MateBook Pro S": {"name": "MateBook Pro S", "category": "笔记本", "series": "MateBook Pro 系列", "price": "¥7999起"}, "MateBook Pro": {"name": "MateBook Pro", "category": "笔记本", "series": "MateBook Pro 系列", "price": "待公布"}}}, "_generator": "同系列对比"}
+{"input": "nova 16 SE对比nova 16 Ultra怎么选?", "output": {"company": "华为", "entities": {"nova 16 SE": {"name": "nova 16 SE", "category": "手机", "series": "nova 系列", "price": "¥2000-3000"}, "nova 16 Ultra": {"name": "nova 16 Ultra", "category": "手机", "series": "nova 系列", "price": "¥4699起"}}}, "_generator": "同系列对比"}
+{"input": "Pocket 2和Nova Flip 2有什么区别?", "output": {"company": "华为", "entities": {"Pocket 2": {"name": "Pocket 2", "category": "手机", "series": "折叠屏", "price": "¥7999起"}, "Nova Flip 2": {"name": "Nova Flip 2", "category": "手机", "series": "折叠屏", "price": "¥4999"}}}, "_generator": "同系列对比"}
+{"input": "Pura 80和Pura 80 Pro+有什么区别?", "output": {"company": "华为", "entities": {"Pura 80": {"name": "Pura 80", "category": "手机", "series": "Pura 系列", "price": "待补充"}, "Pura 80 Pro+": {"name": "Pura 80 Pro+", "category": "手机", "series": "Pura 系列", "price": "¥7999起"}}}, "_generator": "同系列对比"}
+{"input": "Pura 80对比Pura 80 Pro怎么选?", "output": {"company": "华为", "entities": {"Pura 80": {"name": "Pura 80", "category": "手机", "series": "Pura 系列", "price": "待补充"}, "Pura 80 Pro": {"name": "Pura 80 Pro", "category": "手机", "series": "Pura 系列", "price": "¥6499起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 80和Mate 80 RS 非凡大师有什么区别?", "output": {"company": "华为", "entities": {"Mate 80": {"name": "Mate 80", "category": "手机", "series": "Mate 系列", "price": "¥3999起"}, "Mate 80 RS 非凡大师": {"name": "Mate 80 RS 非凡大师", "category": "手机", "series": "Mate 系列", "price": "¥11999起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70 RS 非凡大师对比Mate 70 Air怎么选?", "output": {"company": "华为", "entities": {"Mate 70 RS 非凡大师": {"name": "Mate 70 RS 非凡大师", "category": "手机", "series": "Mate 系列", "price": "¥11999起"}, "Mate 70 Air": {"name": "Mate 70 Air", "category": "手机", "series": "Mate 系列", "price": "¥3170起"}}}, "_generator": "同系列对比"}
+{"input": "MatePad Pro 13.2 2025和MatePad Pro 12.2 2025有什么区别?", "output": {"company": "华为", "entities": {"MatePad Pro 13.2 2025": {"name": "MatePad Pro 13.2 2025", "category": "平板", "series": "MatePad Pro 系列", "price": "¥4350起"}, "MatePad Pro 12.2 2025": {"name": "MatePad Pro 12.2 2025", "category": "平板", "series": "MatePad Pro 系列", "price": "¥3199起"}}}, "_generator": "同系列对比"}
+{"input": "nova 16 SE和nova 16有什么区别?", "output": {"company": "华为", "entities": {"nova 16 SE": {"name": "nova 16 SE", "category": "手机", "series": "nova 系列", "price": "¥2000-3000"}, "nova 16": {"name": "nova 16", "category": "手机", "series": "nova 系列", "price": "¥3499起"}}}, "_generator": "同系列对比"}
+{"input": "Mate X7对比Mate X8怎么选?", "output": {"company": "华为", "entities": {"Mate X7": {"name": "Mate X7", "category": "手机", "series": "折叠屏", "price": "¥12999起"}, "Mate X8": {"name": "Mate X8", "category": "手机", "series": "折叠屏", "price": "待公布"}}}, "_generator": "同系列对比"}
+{"input": "Mate 80 Pro Max对比Mate 80 RS 非凡大师怎么选?", "output": {"company": "华为", "entities": {"Mate 80 Pro Max": {"name": "Mate 80 Pro Max", "category": "手机", "series": "Mate 系列", "price": "¥7499起"}, "Mate 80 RS 非凡大师": {"name": "Mate 80 RS 非凡大师", "category": "手机", "series": "Mate 系列", "price": "¥11999起"}}}, "_generator": "同系列对比"}
+{"input": "Vision 智慧屏 6对比Vision 智慧屏 6 SE RGB怎么选?", "output": {"company": "华为", "entities": {"Vision 智慧屏 6": {"name": "Vision 智慧屏 6", "category": "智慧屏", "series": "Vision 系列", "price": "¥6199起"}, "Vision 智慧屏 6 SE RGB": {"name": "Vision 智慧屏 6 SE RGB", "category": "智慧屏", "series": "Vision 系列", "price": "¥2974起"}}}, "_generator": "同系列对比"}
+{"input": "问界 M8对比问界 M6怎么选?", "output": {"company": "华为", "entities": {"问界 M8": {"name": "问界 M8", "category": "智能汽车", "series": "问界", "price": "待补充"}, "问界 M6": {"name": "问界 M6", "category": "智能汽车", "series": "问界", "price": "待补充"}}}, "_generator": "同系列对比"}
+{"input": "WATCH GT 7 46mm和WATCH GT 7 41mm有什么区别?", "output": {"company": "华为", "entities": {"WATCH GT 7 46mm": {"name": "WATCH GT 7 46mm", "category": "智能手表", "series": "WATCH GT 系列", "price": "¥1588起"}, "WATCH GT 7 41mm": {"name": "WATCH GT 7 41mm", "category": "智能手表", "series": "WATCH GT 系列", "price": "¥1488起"}}}, "_generator": "同系列对比"}
+{"input": "尊界 V800对比尊界 V680怎么选?", "output": {"company": "华为", "entities": {"尊界 V800": {"name": "尊界 V800", "category": "智能汽车", "series": "尊界", "price": "¥76.6万起"}, "尊界 V680": {"name": "尊界 V680", "category": "智能汽车", "series": "尊界", "price": "¥64.8万起"}}}, "_generator": "同系列对比"}
+{"input": "MateTV Max对比Vision 智慧屏 6 Pro怎么选?", "output": {"company": "华为", "entities": {"MateTV Max": {"name": "MateTV Max", "category": "智慧屏", "series": "Vision 系列", "price": "¥64999"}, "Vision 智慧屏 6 Pro": {"name": "Vision 智慧屏 6 Pro", "category": "智慧屏", "series": "Vision 系列", "price": "¥5999起"}}}, "_generator": "同系列对比"}
+{"input": "尊界 V800和尊界 V680有什么区别?", "output": {"company": "华为", "entities": {"尊界 V800": {"name": "尊界 V800", "category": "智能汽车", "series": "尊界", "price": "¥76.6万起"}, "尊界 V680": {"name": "尊界 V680", "category": "智能汽车", "series": "尊界", "price": "¥64.8万起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 80对比Mate 80 RS 非凡大师怎么选?", "output": {"company": "华为", "entities": {"Mate 80": {"name": "Mate 80", "category": "手机", "series": "Mate 系列", "price": "¥3999起"}, "Mate 80 RS 非凡大师": {"name": "Mate 80 RS 非凡大师", "category": "手机", "series": "Mate 系列", "price": "¥11999起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70对比Mate 70 Air怎么选?", "output": {"company": "华为", "entities": {"Mate 70": {"name": "Mate 70", "category": "手机", "series": "Mate 系列", "price": "¥5099起"}, "Mate 70 Air": {"name": "Mate 70 Air", "category": "手机", "series": "Mate 系列", "price": "¥3170起"}}}, "_generator": "同系列对比"}
+{"input": "Pura 80 Pro+和Pura 80 Ultra有什么区别?", "output": {"company": "华为", "entities": {"Pura 80 Pro+": {"name": "Pura 80 Pro+", "category": "手机", "series": "Pura 系列", "price": "¥7999起"}, "Pura 80 Ultra": {"name": "Pura 80 Ultra", "category": "手机", "series": "Pura 系列", "price": "¥9999起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70 Pro+对比Mate 70 RS 非凡大师怎么选?", "output": {"company": "华为", "entities": {"Mate 70 Pro+": {"name": "Mate 70 Pro+", "category": "手机", "series": "Mate 系列", "price": "¥6699起"}, "Mate 70 RS 非凡大师": {"name": "Mate 70 RS 非凡大师", "category": "手机", "series": "Mate 系列", "price": "¥11999起"}}}, "_generator": "同系列对比"}
+{"input": "Pura 80 Pro+对比Pura 80 Ultra怎么选?", "output": {"company": "华为", "entities": {"Pura 80 Pro+": {"name": "Pura 80 Pro+", "category": "手机", "series": "Pura 系列", "price": "¥7999起"}, "Pura 80 Ultra": {"name": "Pura 80 Ultra", "category": "手机", "series": "Pura 系列", "price": "¥9999起"}}}, "_generator": "同系列对比"}
+{"input": "智界 V9和智界 新S7有什么区别?", "output": {"company": "华为", "entities": {"智界 V9": {"name": "智界 V9", "category": "智能汽车", "series": "智界", "price": "待补充"}, "智界 新S7": {"name": "智界 新S7", "category": "智能汽车", "series": "智界", "price": "待补充"}}}, "_generator": "同系列对比"}
+{"input": "智界 R7和智界 新S7有什么区别?", "output": {"company": "华为", "entities": {"智界 R7": {"name": "智界 R7", "category": "智能汽车", "series": "智界", "price": "待补充"}, "智界 新S7": {"name": "智界 新S7", "category": "智能汽车", "series": "智界", "price": "待补充"}}}, "_generator": "同系列对比"}
+{"input": "MatePad Pro 12.2 2025对比MatePad Edge怎么选?", "output": {"company": "华为", "entities": {"MatePad Pro 12.2 2025": {"name": "MatePad Pro 12.2 2025", "category": "平板", "series": "MatePad Pro 系列", "price": "¥3199起"}, "MatePad Edge": {"name": "MatePad Edge", "category": "平板", "series": "MatePad Pro 系列", "price": "¥9999"}}}, "_generator": "同系列对比"}
+{"input": "nova 16 SE和nova 16 Ultra有什么区别?", "output": {"company": "华为", "entities": {"nova 16 SE": {"name": "nova 16 SE", "category": "手机", "series": "nova 系列", "price": "¥2000-3000"}, "nova 16 Ultra": {"name": "nova 16 Ultra", "category": "手机", "series": "nova 系列", "price": "¥4699起"}}}, "_generator": "同系列对比"}
+{"input": "Pocket 2和Nova Flip S有什么区别?", "output": {"company": "华为", "entities": {"Pocket 2": {"name": "Pocket 2", "category": "手机", "series": "折叠屏", "price": "¥7999起"}, "Nova Flip S": {"name": "Nova Flip S", "category": "手机", "series": "折叠屏", "price": "¥3388起"}}}, "_generator": "同系列对比"}
+{"input": "WATCH FIT 5 Pro和WATCH FIT 5有什么区别?", "output": {"company": "华为", "entities": {"WATCH FIT 5 Pro": {"name": "WATCH FIT 5 Pro", "category": "智能手表", "series": "WATCH FIT 系列", "price": "待补充"}, "WATCH FIT 5": {"name": "WATCH FIT 5", "category": "智能手表", "series": "WATCH FIT 系列", "price": "待补充"}}}, "_generator": "同系列对比"}
+{"input": "MateTV Max和Vision 智慧屏 6有什么区别?", "output": {"company": "华为", "entities": {"MateTV Max": {"name": "MateTV Max", "category": "智慧屏", "series": "Vision 系列", "price": "¥64999"}, "Vision 智慧屏 6": {"name": "Vision 智慧屏 6", "category": "智慧屏", "series": "Vision 系列", "price": "¥6199起"}}}, "_generator": "同系列对比"}
+{"input": "畅享 90和畅享 90 Pro Max有什么区别?", "output": {"company": "华为", "entities": {"畅享 90": {"name": "畅享 90", "category": "手机", "series": "畅享系列", "price": "¥1299起"}, "畅享 90 Pro Max": {"name": "畅享 90 Pro Max", "category": "手机", "series": "畅享系列", "price": "¥1699起"}}}, "_generator": "同系列对比"}
+{"input": "MatePad Air 12 2025对比MatePad Air 2026怎么选?", "output": {"company": "华为", "entities": {"MatePad Air 12 2025": {"name": "MatePad Air 12 2025", "category": "平板", "series": "MatePad Air 系列", "price": "¥2125起"}, "MatePad Air 2026": {"name": "MatePad Air 2026", "category": "平板", "series": "MatePad Air 系列", "price": "待公布"}}}, "_generator": "同系列对比"}
+{"input": "Mate X6对比Mate X8怎么选?", "output": {"company": "华为", "entities": {"Mate X6": {"name": "Mate X6", "category": "手机", "series": "折叠屏", "price": "¥10999起"}, "Mate X8": {"name": "Mate X8", "category": "手机", "series": "折叠屏", "price": "待公布"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70和Mate 70 Pro+有什么区别?", "output": {"company": "华为", "entities": {"Mate 70": {"name": "Mate 70", "category": "手机", "series": "Mate 系列", "price": "¥5099起"}, "Mate 70 Pro+": {"name": "Mate 70 Pro+", "category": "手机", "series": "Mate 系列", "price": "¥6699起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70 Pro和Mate 70 Pro+有什么区别?", "output": {"company": "华为", "entities": {"Mate 70 Pro": {"name": "Mate 70 Pro", "category": "手机", "series": "Mate 系列", "price": "¥5199起"}, "Mate 70 Pro+": {"name": "Mate 70 Pro+", "category": "手机", "series": "Mate 系列", "price": "¥6699起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 80对比Mate 80 Pro Max 风驰版怎么选?", "output": {"company": "华为", "entities": {"Mate 80": {"name": "Mate 80", "category": "手机", "series": "Mate 系列", "price": "¥3999起"}, "Mate 80 Pro Max 风驰版": {"name": "Mate 80 Pro Max 风驰版", "category": "手机", "series": "Mate 系列", "price": "¥8499"}}}, "_generator": "同系列对比"}
+{"input": "nova 16和nova 16 Pro有什么区别?", "output": {"company": "华为", "entities": {"nova 16": {"name": "nova 16", "category": "手机", "series": "nova 系列", "price": "¥3499起"}, "nova 16 Pro": {"name": "nova 16 Pro", "category": "手机", "series": "nova 系列", "price": "¥3899起"}}}, "_generator": "同系列对比"}
+{"input": "Pura 90 Pro对比Pura 90 Pro Max怎么选?", "output": {"company": "华为", "entities": {"Pura 90 Pro": {"name": "Pura 90 Pro", "category": "手机", "series": "Pura 系列", "price": "¥5499起"}, "Pura 90 Pro Max": {"name": "Pura 90 Pro Max", "category": "手机", "series": "Pura 系列", "price": "¥6499起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 80和Mate 80 Pro有什么区别?", "output": {"company": "华为", "entities": {"Mate 80": {"name": "Mate 80", "category": "手机", "series": "Mate 系列", "price": "¥3999起"}, "Mate 80 Pro": {"name": "Mate 80 Pro", "category": "手机", "series": "Mate 系列", "price": "¥6499起"}}}, "_generator": "同系列对比"}
+{"input": "MateTV Max对比Vision 智慧屏 6 SE RGB怎么选?", "output": {"company": "华为", "entities": {"MateTV Max": {"name": "MateTV Max", "category": "智慧屏", "series": "Vision 系列", "price": "¥64999"}, "Vision 智慧屏 6 SE RGB": {"name": "Vision 智慧屏 6 SE RGB", "category": "智慧屏", "series": "Vision 系列", "price": "¥2974起"}}}, "_generator": "同系列对比"}
+{"input": "MatePad Pro 13.2 2025对比MatePad Pro 12.2 2025怎么选?", "output": {"company": "华为", "entities": {"MatePad Pro 13.2 2025": {"name": "MatePad Pro 13.2 2025", "category": "平板", "series": "MatePad Pro 系列", "price": "¥4350起"}, "MatePad Pro 12.2 2025": {"name": "MatePad Pro 12.2 2025", "category": "平板", "series": "MatePad Pro 系列", "price": "¥3199起"}}}, "_generator": "同系列对比"}
+{"input": "Mate X7和Mate X6有什么区别?", "output": {"company": "华为", "entities": {"Mate X7": {"name": "Mate X7", "category": "手机", "series": "折叠屏", "price": "¥12999起"}, "Mate X6": {"name": "Mate X6", "category": "手机", "series": "折叠屏", "price": "¥10999起"}}}, "_generator": "同系列对比"}
+{"input": "nova 16 SE对比nova 16 Pro怎么选?", "output": {"company": "华为", "entities": {"nova 16 SE": {"name": "nova 16 SE", "category": "手机", "series": "nova 系列", "price": "¥2000-3000"}, "nova 16 Pro": {"name": "nova 16 Pro", "category": "手机", "series": "nova 系列", "price": "¥3899起"}}}, "_generator": "同系列对比"}
+{"input": "nova 16和nova 16 Ultra有什么区别?", "output": {"company": "华为", "entities": {"nova 16": {"name": "nova 16", "category": "手机", "series": "nova 系列", "price": "¥3499起"}, "nova 16 Ultra": {"name": "nova 16 Ultra", "category": "手机", "series": "nova 系列", "price": "¥4699起"}}}, "_generator": "同系列对比"}
+{"input": "nova 16 Pro和nova 16 Ultra有什么区别?", "output": {"company": "华为", "entities": {"nova 16 Pro": {"name": "nova 16 Pro", "category": "手机", "series": "nova 系列", "price": "¥3899起"}, "nova 16 Ultra": {"name": "nova 16 Ultra", "category": "手机", "series": "nova 系列", "price": "¥4699起"}}}, "_generator": "同系列对比"}
+{"input": "MatePad Pro 2026对比MatePad Edge怎么选?", "output": {"company": "华为", "entities": {"MatePad Pro 2026": {"name": "MatePad Pro 2026", "category": "平板", "series": "MatePad Pro 系列", "price": "待公布"}, "MatePad Edge": {"name": "MatePad Edge", "category": "平板", "series": "MatePad Pro 系列", "price": "¥9999"}}}, "_generator": "同系列对比"}
+{"input": "nova 16 SE对比nova 16怎么选?", "output": {"company": "华为", "entities": {"nova 16 SE": {"name": "nova 16 SE", "category": "手机", "series": "nova 系列", "price": "¥2000-3000"}, "nova 16": {"name": "nova 16", "category": "手机", "series": "nova 系列", "price": "¥3499起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70对比Mate 70 Pro+怎么选?", "output": {"company": "华为", "entities": {"Mate 70": {"name": "Mate 70", "category": "手机", "series": "Mate 系列", "price": "¥5099起"}, "Mate 70 Pro+": {"name": "Mate 70 Pro+", "category": "手机", "series": "Mate 系列", "price": "¥6699起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70 Pro+和Mate 70 Air有什么区别?", "output": {"company": "华为", "entities": {"Mate 70 Pro+": {"name": "Mate 70 Pro+", "category": "手机", "series": "Mate 系列", "price": "¥6699起"}, "Mate 70 Air": {"name": "Mate 70 Air", "category": "手机", "series": "Mate 系列", "price": "¥3170起"}}}, "_generator": "同系列对比"}
+{"input": "智界 V9对比智界 R7怎么选?", "output": {"company": "华为", "entities": {"智界 V9": {"name": "智界 V9", "category": "智能汽车", "series": "智界", "price": "待补充"}, "智界 R7": {"name": "智界 R7", "category": "智能汽车", "series": "智界", "price": "待补充"}}}, "_generator": "同系列对比"}
+{"input": "Mate 80 Pro和Mate 80 Pro Max有什么区别?", "output": {"company": "华为", "entities": {"Mate 80 Pro": {"name": "Mate 80 Pro", "category": "手机", "series": "Mate 系列", "price": "¥6499起"}, "Mate 80 Pro Max": {"name": "Mate 80 Pro Max", "category": "手机", "series": "Mate 系列", "price": "¥7499起"}}}, "_generator": "同系列对比"}
+{"input": "WATCH GT 7 Pro 46mm对比WATCH GT 7 41mm怎么选?", "output": {"company": "华为", "entities": {"WATCH GT 7 Pro 46mm": {"name": "WATCH GT 7 Pro 46mm", "category": "智能手表", "series": "WATCH GT 系列", "price": "¥2488起"}, "WATCH GT 7 41mm": {"name": "WATCH GT 7 41mm", "category": "智能手表", "series": "WATCH GT 系列", "price": "¥1488起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70 Pro 优享版和Mate 70 Air有什么区别?", "output": {"company": "华为", "entities": {"Mate 70 Pro 优享版": {"name": "Mate 70 Pro 优享版", "category": "手机", "series": "Mate 系列", "price": "¥5099起"}, "Mate 70 Air": {"name": "Mate 70 Air", "category": "手机", "series": "Mate 系列", "price": "¥3170起"}}}, "_generator": "同系列对比"}
+{"input": "Pocket 2对比Nova Flip 2怎么选?", "output": {"company": "华为", "entities": {"Pocket 2": {"name": "Pocket 2", "category": "手机", "series": "折叠屏", "price": "¥7999起"}, "Nova Flip 2": {"name": "Nova Flip 2", "category": "手机", "series": "折叠屏", "price": "¥4999"}}}, "_generator": "同系列对比"}
+{"input": "智界 R7对比智界 新S7怎么选?", "output": {"company": "华为", "entities": {"智界 R7": {"name": "智界 R7", "category": "智能汽车", "series": "智界", "price": "待补充"}, "智界 新S7": {"name": "智界 新S7", "category": "智能汽车", "series": "智界", "price": "待补充"}}}, "_generator": "同系列对比"}
+{"input": "MateTV Max和Vision 智慧屏 6 SE RGB有什么区别?", "output": {"company": "华为", "entities": {"MateTV Max": {"name": "MateTV Max", "category": "智慧屏", "series": "Vision 系列", "price": "¥64999"}, "Vision 智慧屏 6 SE RGB": {"name": "Vision 智慧屏 6 SE RGB", "category": "智慧屏", "series": "Vision 系列", "price": "¥2974起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 80 Pro Max对比Mate 80 Pro Max 风驰版怎么选?", "output": {"company": "华为", "entities": {"Mate 80 Pro Max": {"name": "Mate 80 Pro Max", "category": "手机", "series": "Mate 系列", "price": "¥7499起"}, "Mate 80 Pro Max 风驰版": {"name": "Mate 80 Pro Max 风驰版", "category": "手机", "series": "Mate 系列", "price": "¥8499"}}}, "_generator": "同系列对比"}
+{"input": "MatePad Air 12 2025和MatePad Air 2026有什么区别?", "output": {"company": "华为", "entities": {"MatePad Air 12 2025": {"name": "MatePad Air 12 2025", "category": "平板", "series": "MatePad Air 系列", "price": "¥2125起"}, "MatePad Air 2026": {"name": "MatePad Air 2026", "category": "平板", "series": "MatePad Air 系列", "price": "待公布"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70 Pro 优享版和Mate 70 Pro+有什么区别?", "output": {"company": "华为", "entities": {"Mate 70 Pro 优享版": {"name": "Mate 70 Pro 优享版", "category": "手机", "series": "Mate 系列", "price": "¥5099起"}, "Mate 70 Pro+": {"name": "Mate 70 Pro+", "category": "手机", "series": "Mate 系列", "price": "¥6699起"}}}, "_generator": "同系列对比"}
+{"input": "Pura 80 Pro和Pura 80 Ultra有什么区别?", "output": {"company": "华为", "entities": {"Pura 80 Pro": {"name": "Pura 80 Pro", "category": "手机", "series": "Pura 系列", "price": "¥6499起"}, "Pura 80 Ultra": {"name": "Pura 80 Ultra", "category": "手机", "series": "Pura 系列", "price": "¥9999起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70 Pro 优享版对比Mate 70 Pro+怎么选?", "output": {"company": "华为", "entities": {"Mate 70 Pro 优享版": {"name": "Mate 70 Pro 优享版", "category": "手机", "series": "Mate 系列", "price": "¥5099起"}, "Mate 70 Pro+": {"name": "Mate 70 Pro+", "category": "手机", "series": "Mate 系列", "price": "¥6699起"}}}, "_generator": "同系列对比"}
+{"input": "MatePad Pro 13.2 2025和MatePad Edge有什么区别?", "output": {"company": "华为", "entities": {"MatePad Pro 13.2 2025": {"name": "MatePad Pro 13.2 2025", "category": "平板", "series": "MatePad Pro 系列", "price": "¥4350起"}, "MatePad Edge": {"name": "MatePad Edge", "category": "平板", "series": "MatePad Pro 系列", "price": "¥9999"}}}, "_generator": "同系列对比"}
+{"input": "Pura 90和Pura 90 Pro Max有什么区别?", "output": {"company": "华为", "entities": {"Pura 90": {"name": "Pura 90", "category": "手机", "series": "Pura 系列", "price": "¥4699起"}, "Pura 90 Pro Max": {"name": "Pura 90 Pro Max", "category": "手机", "series": "Pura 系列", "price": "¥6499起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70 Pro 优享版对比Mate 70 RS 非凡大师怎么选?", "output": {"company": "华为", "entities": {"Mate 70 Pro 优享版": {"name": "Mate 70 Pro 优享版", "category": "手机", "series": "Mate 系列", "price": "¥5099起"}, "Mate 70 RS 非凡大师": {"name": "Mate 70 RS 非凡大师", "category": "手机", "series": "Mate 系列", "price": "¥11999起"}}}, "_generator": "同系列对比"}
+{"input": "问界 M7对比问界 M6怎么选?", "output": {"company": "华为", "entities": {"问界 M7": {"name": "问界 M7", "category": "智能汽车", "series": "问界", "price": "待补充"}, "问界 M6": {"name": "问界 M6", "category": "智能汽车", "series": "问界", "price": "待补充"}}}, "_generator": "同系列对比"}
+{"input": "Vision 智慧屏 6 Pro和Vision 智慧屏 6 SE RGB有什么区别?", "output": {"company": "华为", "entities": {"Vision 智慧屏 6 Pro": {"name": "Vision 智慧屏 6 Pro", "category": "智慧屏", "series": "Vision 系列", "price": "¥5999起"}, "Vision 智慧屏 6 SE RGB": {"name": "Vision 智慧屏 6 SE RGB", "category": "智慧屏", "series": "Vision 系列", "price": "¥2974起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70 Pro对比Mate 70 Air怎么选?", "output": {"company": "华为", "entities": {"Mate 70 Pro": {"name": "Mate 70 Pro", "category": "手机", "series": "Mate 系列", "price": "¥5199起"}, "Mate 70 Air": {"name": "Mate 70 Air", "category": "手机", "series": "Mate 系列", "price": "¥3170起"}}}, "_generator": "同系列对比"}
+{"input": "Mate X7和Mate X8有什么区别?", "output": {"company": "华为", "entities": {"Mate X7": {"name": "Mate X7", "category": "手机", "series": "折叠屏", "price": "¥12999起"}, "Mate X8": {"name": "Mate X8", "category": "手机", "series": "折叠屏", "price": "待公布"}}}, "_generator": "同系列对比"}
+{"input": "Mate 80 Pro Max和Mate 80 RS 非凡大师有什么区别?", "output": {"company": "华为", "entities": {"Mate 80 Pro Max": {"name": "Mate 80 Pro Max", "category": "手机", "series": "Mate 系列", "price": "¥7499起"}, "Mate 80 RS 非凡大师": {"name": "Mate 80 RS 非凡大师", "category": "手机", "series": "Mate 系列", "price": "¥11999起"}}}, "_generator": "同系列对比"}
+{"input": "ULTIMATE DESIGN 紫金和ULTIMATE DESIGN 星钻有什么区别?", "output": {"company": "华为", "entities": {"ULTIMATE DESIGN 紫金": {"name": "ULTIMATE DESIGN 紫金", "category": "智能手表", "series": "WATCH Ultimate 系列", "price": "¥26888"}, "ULTIMATE DESIGN 星钻": {"name": "ULTIMATE DESIGN 星钻", "category": "智能手表", "series": "WATCH Ultimate 系列", "price": "待补充"}}}, "_generator": "同系列对比"}
+{"input": "Pura 90对比Pura 90 Pro Max怎么选?", "output": {"company": "华为", "entities": {"Pura 90": {"name": "Pura 90", "category": "手机", "series": "Pura 系列", "price": "¥4699起"}, "Pura 90 Pro Max": {"name": "Pura 90 Pro Max", "category": "手机", "series": "Pura 系列", "price": "¥6499起"}}}, "_generator": "同系列对比"}
+{"input": "畅享 90和畅享 90 Plus有什么区别?", "output": {"company": "华为", "entities": {"畅享 90": {"name": "畅享 90", "category": "手机", "series": "畅享系列", "price": "¥1299起"}, "畅享 90 Plus": {"name": "畅享 90 Plus", "category": "手机", "series": "畅享系列", "price": "¥1499起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70 RS 非凡大师和Mate 70 Air有什么区别?", "output": {"company": "华为", "entities": {"Mate 70 RS 非凡大师": {"name": "Mate 70 RS 非凡大师", "category": "手机", "series": "Mate 系列", "price": "¥11999起"}, "Mate 70 Air": {"name": "Mate 70 Air", "category": "手机", "series": "Mate 系列", "price": "¥3170起"}}}, "_generator": "同系列对比"}
+{"input": "Mate 70和Mate 70 Pro 优享版有什么区别?", "output": {"company": "华为", "entities": {"Mate 70": {"name": "Mate 70", "category": "手机", "series": "Mate 系列", "price": "¥5099起"}, "Mate 70 Pro 优享版": {"name": "Mate 70 Pro 优享版", "category": "手机", "series": "Mate 系列", "price": "¥5099起"}}}, "_generator": "同系列对比"}
+{"input": "798g的笔记本是哪款?", "output": {"company": "华为", "entities": {"798g": "MateBook Pro S"}}, "_generator": "极限数字反查"}
+{"input": "970g的笔记本是哪款?", "output": {"company": "华为", "entities": {"970g": "MateBook Pro"}}, "_generator": "极限数字反查"}
+{"input": "54.5g的智能手表是哪款?", "output": {"company": "华为", "entities": {"54.5g": "WATCH Buds 2"}}, "_generator": "极限数字反查"}
+{"input": "4g的智能手表是哪款?", "output": {"company": "华为", "entities": {"4g": "WATCH Buds 2"}}, "_generator": "极限数字反查"}
+{"input": "27g的智能手表是哪款?", "output": {"company": "华为", "entities": {"27g": "WATCH FIT 5"}}, "_generator": "极限数字反查"}
+{"input": "5.1g的耳机是哪款?", "output": {"company": "华为", "entities": {"5.1g": "FreeClip 2"}}, "_generator": "极限数字反查"}
+{"input": "35.5g的智能眼镜是哪款?", "output": {"company": "华为", "entities": {"35.5g": "鸿蒙 AI 眼镜"}}, "_generator": "极限数字反查"}
+{"input": "华为手机里最便宜的是哪款?", "output": {"company": "华为", "entities": {"最便宜": "畅享 90"}}, "_generator": "极限数字反查"}
+{"input": "华为手机里最贵的是哪款?", "output": {"company": "华为", "entities": {"最贵": "Mate XTs 非凡大师"}}, "_generator": "极限数字反查"}
+{"input": "华为平板里最便宜的是哪款?", "output": {"company": "华为", "entities": {"最便宜": "MatePad SE 标准版 11寸"}}, "_generator": "极限数字反查"}
+{"input": "华为平板里最贵的是哪款?", "output": {"company": "华为", "entities": {"最贵": "MatePad Edge"}}, "_generator": "极限数字反查"}
+{"input": "华为笔记本里最便宜的是哪款?", "output": {"company": "华为", "entities": {"最便宜": "MateBook D 16 SE"}}, "_generator": "极限数字反查"}
+{"input": "华为笔记本里最贵的是哪款?", "output": {"company": "华为", "entities": {"最贵": "MateBook Fold 非凡大师"}}, "_generator": "极限数字反查"}
+{"input": "华为智能手表里最便宜的是哪款?", "output": {"company": "华为", "entities": {"最便宜": "WATCH GT 7 41mm"}}, "_generator": "极限数字反查"}
+{"input": "华为智能手表里最贵的是哪款?", "output": {"company": "华为", "entities": {"最贵": "ULTIMATE DESIGN 紫金"}}, "_generator": "极限数字反查"}
+{"input": "华为智慧屏里最便宜的是哪款?", "output": {"company": "华为", "entities": {"最便宜": "Vision 智慧屏 6 SE RGB"}}, "_generator": "极限数字反查"}
+{"input": "华为智慧屏里最贵的是哪款?", "output": {"company": "华为", "entities": {"最贵": "MateTV Max"}}, "_generator": "极限数字反查"}
+{"input": "华为智能汽车里最便宜的是哪款?", "output": {"company": "华为", "entities": {"最便宜": "享界 G9"}}, "_generator": "极限数字反查"}
+{"input": "华为智能汽车里最贵的是哪款?", "output": {"company": "华为", "entities": {"最贵": "尊界 V800"}}, "_generator": "极限数字反查"}

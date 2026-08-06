@@ -1,0 +1,807 @@
+{"instruction": "P80P+是啥?", "output": "P80P+指的是Pura 80 Pro+, 华为手机, 1寸高动态版、天通+北斗双卫星, ¥7999起。"}
+{"instruction": "经常听人说Pro Max, 那是什么?", "output": "Pro Max就是Mate 80 Pro Max。Mate 80 Pro Max是华为的一款手机，属于Mate 系列，商务旗舰、顶配影像，主打双潜望长焦、双层OLED、6000mAh大电池，售价¥7499起，目前在售。"}
+{"instruction": "柔光屏Air, 求科普", "output": "柔光屏Air是MatePad Air 2026的简称, MatePad Air 2026是华为的一款平板，属于MatePad Air 系列，中高端平板、护眼办公，主打PaperMatte柔光屏、麒麟T93C，目前在售。"}
+{"instruction": "经常听人说大屏平板, 那是什么?", "output": "大屏平板就是MatePad Pro 13.2 2025。MatePad Pro 13.2 2025是华为的一款平板，属于MatePad Pro 系列，专业旗舰平板、创意生产力，主打13.2寸柔性OLED、麒麟9010、88W快充，售价¥4350起，目前在售。"}
+{"instruction": "请问nova16Ultra是什么?", "output": "nova16Ultra是nova 16 Ultra, 华为手机, nova最强影像, ¥4699起。"}
+{"instruction": "经常听人说上代大折叠, 那是什么?", "output": "上代大折叠就是Mate X6。Mate X6是华为的一款手机，属于折叠屏，超高端商务、横向大折叠，主打麒麟9000S Pro、分布式玄武架构，售价¥10999起，目前在售。"}
+{"instruction": "P80, 求科普", "output": "P80是Pura 80的简称, Pura 80是华为的一款手机，属于Pura 系列，影像旗舰、直屏影像，主打麒麟9010S、6.6寸唯一直屏Pura、5600mAh，目前在售。"}
+{"instruction": "G9是啥?", "output": "G9指的是享界 G9, 华为智能汽车, 硬派SUV、对标奔驰大G, ¥43.98万起。"}
+{"instruction": "Pura90标准版是什么产品?", "output": "Pura90标准版是Pura 90, 华为手机, HarmonyOS 6.1, ¥4699起。"}
+{"instruction": "经常听人说尚界轿跑, 那是什么?", "output": "尚界轿跑就是尚界 Z7 / Z7T。尚界 Z7 / Z7T是华为的一款智能汽车，属于尚界，年轻轿跑，主打年轻人轿跑，目前在售。"}
+{"instruction": "FIT5是啥?", "output": "FIT5指的是WATCH FIT 5, 华为智能手表, 主打27g极致轻、1.74寸。"}
+{"instruction": "风驰版, 求科普", "output": "风驰版是Mate 80 Pro Max 风驰版的简称, Mate 80 Pro Max 风驰版是华为的一款手机，属于Mate 系列，商务旗舰、性能特化，主打Pro Max升级版、2026年3月加推，售价¥8499，目前在售。"}
+{"instruction": "请问风驰版是什么?", "output": "风驰版是Mate 80 Pro Max 风驰版, 华为手机, Pro Max升级版、2026年3月加推, ¥8499。"}
+{"instruction": "Pura90大杯, 求科普", "output": "Pura90大杯是Pura 90 Pro的简称, Pura 90 Pro是华为的一款手机，属于Pura 系列，影像旗舰、全能影像，主打麒麟9030S、比上代降价1000，售价¥5499起，目前在售。"}
+{"instruction": "经常听人说nova16Pro, 那是什么?", "output": "nova16Pro就是nova 16 Pro。nova 16 Pro是华为的一款手机，属于nova 系列，中高端潮流、年轻影像Pro，主打256GB到1TB全覆盖，售价¥3899起，目前在售。"}
+{"instruction": "什么叫畅享90Plus啊?", "output": "畅享90Plus是华为手机里的畅享 90 Plus的俗称。畅享 90 Plus是华为的一款手机，属于畅享系列，入门实用、大屏5G，主打麒麟8000 5G、6620mAh，售价¥1499起，目前在售。"}
+{"instruction": "什么叫智慧屏6啊?", "output": "智慧屏6是华为智慧屏里的Vision 智慧屏 6的俗称。Vision 智慧屏 6是华为的一款智慧屏，属于Vision 系列，高端智慧屏、MiniLED，主打Super MiniLED千级分区、2000nit、4.9cm超薄，售价¥6199起，目前在售。"}
+{"instruction": "M80PM风驰版是啥?", "output": "M80PM风驰版指的是Mate 80 Pro Max 风驰版, 华为手机, Pro Max升级版、2026年3月加推, ¥8499。"}
+{"instruction": "经常听人说M8, 那是什么?", "output": "M8就是问界 M8。问界 M8是华为的一款智能汽车，属于问界，大型SUV、走量担当，主打大型SUV、问界走量主力，目前在售。"}
+{"instruction": "FlipS, 求科普", "output": "FlipS是Nova Flip S的简称, Nova Flip S是华为的一款手机，属于折叠屏，入门时尚、竖向小折叠，主打最便宜折叠屏3388起，售价¥3388起，目前在售。"}
+{"instruction": "请问方形表Pro是什么?", "output": "方形表Pro是WATCH FIT 5 Pro, 华为智能手表, 主打1.92寸LTPO、ECG。"}
+{"instruction": "请问n16U是什么?", "output": "n16U是nova 16 Ultra, 华为手机, nova最强影像, ¥4699起。"}
+{"instruction": "请问7i是什么?", "output": "7i是FreeBuds 7i, 华为耳机, 主打海外主打款。"}
+{"instruction": "尚界轿跑是啥?", "output": "尚界轿跑指的是尚界 Z7 / Z7T, 华为智能汽车, 主打年轻人轿跑。"}
+{"instruction": "Mini平板, 求科普", "output": "Mini平板是MatePad Mini的简称, MatePad Mini是华为的一款平板，属于MatePad Mini 系列，轻薄便携平板、阅读娱乐，主打悦读版/柔光版/全网通多版本可选，售价¥2465起，目前在售。"}
+{"instruction": "请问Mate标准版是什么?", "output": "Mate标准版是Mate 80, 华为手机, 首配3D人脸、3999起亲民价, ¥3999起。"}
+{"instruction": "什么叫XT2啊?", "output": "XT2是华为手机里的Mate XT2的俗称。Mate XT2是华为的一款手机，属于折叠屏，超高端商务、三折叠，主打U型三折叠、麒麟9050、独立外屏，目前尚未发布。"}
+{"instruction": "请问FIT5是什么?", "output": "FIT5是WATCH FIT 5, 华为智能手表, 主打27g极致轻、1.74寸。"}
+{"instruction": "D16SE是啥?", "output": "D16SE指的是MateBook D 16 SE, 华为笔记本, 16寸护眼屏、数字小键盘, ¥4000-5000。"}
+{"instruction": "非凡大师三折叠是啥?", "output": "非凡大师三折叠指的是Mate XTs 非凡大师, 华为手机, 10.1寸展开当平板用、PC级应用, ¥18000起。"}
+{"instruction": "什么叫n16P啊?", "output": "n16P是华为手机里的nova 16 Pro的俗称。nova 16 Pro是华为的一款手机，属于nova 系列，中高端潮流、年轻影像Pro，主打256GB到1TB全覆盖，售价¥3899起，目前在售。"}
+{"instruction": "14Linux, 求科普", "output": "14Linux是MateBook 14 Linux 版的简称, MateBook 14 Linux 版是华为的一款笔记本，属于MateBook 数字系列，均衡轻薄本、开发者友好，主打1.31kg轻薄、比Win版便宜300，目前在售。"}
+{"instruction": "经常听人说Pura90大杯, 那是什么?", "output": "Pura90大杯就是Pura 90 Pro。Pura 90 Pro是华为的一款手机，属于Pura 系列，影像旗舰、全能影像，主打麒麟9030S、比上代降价1000，售价¥5499起，目前在售。"}
+{"instruction": "刘雯同款是什么产品?", "output": "刘雯同款是ULTIMATE DESIGN 星钻, 华为智能手表, 主打98颗天然钻石、前LV珠宝总监设计。"}
+{"instruction": "Pura90超大杯是啥?", "output": "Pura90超大杯指的是Pura 90 Pro Max, 华为手机, 2亿像素超大底潜望长焦、20倍高清录像, ¥6499起。"}
+{"instruction": "经常听人说户外表皇, 那是什么?", "output": "户外表皇就是WATCH Ultimate 2。WATCH Ultimate 2是华为的一款智能手表，属于WATCH Ultimate 系列，户外顶配、探险旗舰，主打北斗卫星语音消息、150米潜水带音频、水下声呐通信，目前在售。"}
+{"instruction": "什么叫入门大屏本啊?", "output": "入门大屏本是华为笔记本里的MateBook D 16 SE的俗称。MateBook D 16 SE是华为的一款笔记本，属于MateBook D 系列，入门轻薄本、大屏办公，主打16寸护眼屏、数字小键盘、4000-5000价位，售价¥4000-5000，目前在售。"}
+{"instruction": "请问Air12是什么?", "output": "Air12是MatePad Air 12 2025, 华为平板, 12寸2.8K 144Hz、麒麟900, ¥2125起。"}
+{"instruction": "RS是什么产品?", "output": "RS是Mate 80 RS 非凡大师, 华为手机, 全金属玄武架构、双潜望, ¥11999起。"}
+{"instruction": "半开放悦彰是什么产品?", "output": "半开放悦彰是FreeBuds 6, 华为耳机, 主打首款半开放悦彰、11mm动圈+微平板。"}
+{"instruction": "华为MPV是啥?", "output": "华为MPV指的是尊界 V800, 华为智能汽车, 旗舰MPV、76.6万起, ¥76.6万起。"}
+{"instruction": "经常听人说Pura奥创, 那是什么?", "output": "Pura奥创就是Pura 80 Ultra。Pura 80 Ultra是华为的一款手机，属于Pura 系列，影像旗舰、影像机皇，主打一镜双目双焦段长焦、100倍变焦、万元影像机皇，售价¥9999起，目前在售。"}
+{"instruction": "请问刘雯同款是什么?", "output": "刘雯同款是ULTIMATE DESIGN 星钻, 华为智能手表, 主打98颗天然钻石、前LV珠宝总监设计。"}
+{"instruction": "Mate90, 求科普", "output": "Mate90是Mate 90 系列的简称, Mate 90 系列是华为的一款手机，属于Mate 系列，商务旗舰、年度旗舰，主打首发麒麟2026、HarmonyOS 7、5G回归，目前尚未发布。"}
+{"instruction": "什么叫硬派SUV啊?", "output": "硬派SUV是华为智能汽车里的享界 G9的俗称。享界 G9是华为的一款智能汽车，属于享界，豪华硬派SUV、对标大G，主打硬派SUV、对标奔驰大G、43.98万起，售价¥43.98万起，目前在售。"}
+{"instruction": "SE平板是啥?", "output": "SE平板指的是MatePad SE 标准版 11寸, 华为平板, 骁龙685、7700mAh, ¥1399起。"}
+{"instruction": "什么叫非凡大师手表啊?", "output": "非凡大师手表是华为智能手表里的WATCH Ultimate 2的俗称。WATCH Ultimate 2是华为的一款智能手表，属于WATCH Ultimate 系列，户外顶配、探险旗舰，主打北斗卫星语音消息、150米潜水带音频、水下声呐通信，目前在售。"}
+{"instruction": "R7是啥?", "output": "R7指的是智界 R7, 华为智能汽车, 主打轿跑SUV。"}
+{"instruction": "经常听人说Nova小折叠, 那是什么?", "output": "Nova小折叠就是Nova Flip 2。Nova Flip 2是华为的一款手机，属于折叠屏，中端时尚、竖向小折叠，主打麒麟8030、2026年6月新发、nova首款新折叠，售价¥4999，目前在售。"}
+{"instruction": "M70Air是什么产品?", "output": "M70Air是Mate 70 Air, 华为手机, 7寸大屏、6500mAh超大电池, ¥3170起。"}
+{"instruction": "经常听人说M70, 那是什么?", "output": "M70就是Mate 70。Mate 70是华为的一款手机，属于Mate 系列，商务旗舰、上代标准版，主打麒麟9020、5200mAh，售价¥5099起，目前在售。"}
+{"instruction": "畅享90是什么产品?", "output": "畅享90是畅享 90, 华为手机, 麒麟8000A 5G、6620mAh, ¥1299起。"}
+{"instruction": "11.5寸是什么产品?", "output": "11.5寸是MatePad 11.5 2026, 华为平板, 护眼屏、鸿蒙AI, ¥1530起。"}
+{"instruction": "请问Mate90系列是什么?", "output": "Mate90系列是Mate 90 系列, 华为手机, 主打首发麒麟2026、HarmonyOS 7。"}
+{"instruction": "什么叫P80啊?", "output": "P80是华为手机里的Pura 80的俗称。Pura 80是华为的一款手机，属于Pura 系列，影像旗舰、直屏影像，主打麒麟9010S、6.6寸唯一直屏Pura、5600mAh，目前在售。"}
+{"instruction": "海外版是什么产品?", "output": "海外版是FreeBuds 7i, 华为耳机, 主打海外主打款。"}
+{"instruction": "经常听人说紫金表, 那是什么?", "output": "紫金表就是ULTIMATE DESIGN 紫金。ULTIMATE DESIGN 紫金是华为的一款智能手表，属于WATCH Ultimate 系列，奢华腕表、珠宝手表，主打10段18K黄金、紫色陶瓷表圈、eSIM，售价¥26888，目前在售。"}
+{"instruction": "经常听人说下一代三折叠, 那是什么?", "output": "下一代三折叠就是Mate XT2。Mate XT2是华为的一款手机，属于折叠屏，超高端商务、三折叠，主打U型三折叠、麒麟9050、独立外屏，目前尚未发布。"}
+{"instruction": "什么叫金表啊?", "output": "金表是华为智能手表里的ULTIMATE DESIGN 紫金的俗称。ULTIMATE DESIGN 紫金是华为的一款智能手表，属于WATCH Ultimate 系列，奢华腕表、珠宝手表，主打10段18K黄金、紫色陶瓷表圈、eSIM，售价¥26888，目前在售。"}
+{"instruction": "请问Ultimate2是什么?", "output": "Ultimate2是WATCH Ultimate 2, 华为智能手表, 主打北斗卫星语音消息、150米潜水带音频。"}
+{"instruction": "经常听人说n16, 那是什么?", "output": "n16就是nova 16。nova 16是华为的一款手机，属于nova 系列，中端潮流、年轻续航王，主打麒麟9010S、7000mAh超大电池、100W快充，售价¥3499起，目前在售。"}
+{"instruction": "Air平板是啥?", "output": "Air平板指的是MatePad Air 12 2025, 华为平板, 12寸2.8K 144Hz、麒麟900, ¥2125起。"}
+{"instruction": "什么叫Mate Air啊?", "output": "Mate Air是华为手机里的Mate 70 Air的俗称。Mate 70 Air是华为的一款手机，属于Mate 系列，商务旗舰、大屏长续航，主打7寸大屏、6500mAh超大电池、3170起最便宜Mate，售价¥3170起，目前在售。"}
+{"instruction": "什么叫PX啊?", "output": "PX是华为手机里的Pura X的俗称。Pura X是华为的一款手机，属于折叠屏，高端时尚、阔折叠，主打麒麟9020、6.3寸16:10阔型屏、7499较亲民折叠，售价¥7499起，目前在售。"}
+{"instruction": "请问尊界MPV是什么?", "output": "尊界MPV是尊界 V800, 华为智能汽车, 旗舰MPV、76.6万起, ¥76.6万起。"}
+{"instruction": "下一代三折叠是什么产品?", "output": "下一代三折叠是Mate XT2, 华为手机, 主打U型三折叠、麒麟9050。"}
+{"instruction": "Clip2是什么产品?", "output": "Clip2是FreeClip 2, 华为耳机, 不塞耳朵、5.1g极致轻, ¥1299。"}
+{"instruction": "经常听人说刘雯同款, 那是什么?", "output": "刘雯同款就是ULTIMATE DESIGN 星钻。ULTIMATE DESIGN 星钻是华为的一款智能手表，属于WATCH Ultimate 系列，奢华腕表、高级珠宝手表，主打98颗天然钻石、前LV珠宝总监设计、刘雯代言，目前在售。"}
+{"instruction": "Air2026是啥?", "output": "Air2026指的是MatePad Air 2026, 华为平板, 主打PaperMatte柔光屏、麒麟T93C。"}
+{"instruction": "享界轿车是啥?", "output": "享界轿车指的是享界 S9 / S9T, 华为智能汽车, 主打豪华轿车。"}
+{"instruction": "nova16Pro, 求科普", "output": "nova16Pro是nova 16 Pro的简称, nova 16 Pro是华为的一款手机，属于nova 系列，中高端潮流、年轻影像Pro，主打256GB到1TB全覆盖，售价¥3899起，目前在售。"}
+{"instruction": "XPro是什么产品?", "output": "XPro是MateBook X Pro, 华为笔记本, 主打酷睿Ultra9、3.1K OLED柔性屏。"}
+{"instruction": "M70P+是啥?", "output": "M70P+指的是Mate 70 Pro+, 华为手机, 16GB大内存、2K直屏, ¥6699起。"}
+{"instruction": "请问千元5G是什么?", "output": "千元5G是畅享 90, 华为手机, 麒麟8000A 5G、6620mAh, ¥1299起。"}
+{"instruction": "超轻本是什么产品?", "output": "超轻本是MateBook Pro S, 华为笔记本, 798g极致轻、麒麟XE90, ¥7999起。"}
+{"instruction": "D2, 求科普", "output": "D2是WATCH D2的简称, WATCH D2是华为的一款智能手表，属于WATCH D 系列，健康监测、医疗级穿戴，主打医疗级动态血压监测、写入中国高血压防治指南，目前在售。"}
+{"instruction": "什么叫Air平板啊?", "output": "Air平板是华为平板里的MatePad Air 12 2025的俗称。MatePad Air 12 2025是华为的一款平板，属于MatePad Air 系列，中高端平板、轻办公手绘，主打12寸2.8K 144Hz、麒麟900、10100mAh，售价¥2125起，目前在售。"}
+{"instruction": "经常听人说上代RS, 那是什么?", "output": "上代RS就是Mate 70 RS 非凡大师。Mate 70 RS 非凡大师是华为的一款手机，属于Mate 系列，超高端商务、奢华旗舰，主打双层OLED微曲屏、5700mAh，售价¥11999起，目前在售。"}
+{"instruction": "nova16是啥?", "output": "nova16指的是nova 16, 华为手机, 麒麟9010S、7000mAh超大电池, ¥3499起。"}
+{"instruction": "经常听人说M7, 那是什么?", "output": "M7就是问界 M7。问界 M7是华为的一款智能汽车，属于问界，中大型SUV，主打中大型SUV，目前在售。"}
+{"instruction": "什么叫超轻本啊?", "output": "超轻本是华为笔记本里的MateBook Pro S的俗称。MateBook Pro S是华为的一款笔记本，属于MateBook Pro 系列，鸿蒙超轻薄本、极致便携，主打798g极致轻、麒麟XE90、镁锂合金一体，售价¥7999起，目前在售。"}
+{"instruction": "经常听人说nova16, 那是什么?", "output": "nova16就是nova 16。nova 16是华为的一款手机，属于nova 系列，中端潮流、年轻续航王，主打麒麟9010S、7000mAh超大电池、100W快充，售价¥3499起，目前在售。"}
+{"instruction": "什么叫智慧屏6Pro啊?", "output": "智慧屏6Pro是华为智慧屏里的Vision 智慧屏 6 Pro的俗称。Vision 智慧屏 6 Pro是华为的一款智慧屏，属于Vision 系列，旗舰智慧屏、家庭影院，主打Super MiniLED黑晶屏、130W Hi-Fi音响、2000nit，售价¥5999起，目前在售。"}
+{"instruction": "小尺寸GT是啥?", "output": "小尺寸GT指的是WATCH GT 7 41mm, 华为智能手表, 14天续航、小巧女款, ¥1488起。"}
+{"instruction": "经常听人说半开放悦彰, 那是什么?", "output": "半开放悦彰就是FreeBuds 6。FreeBuds 6是华为的一款耳机，属于FreeBuds 数字系列，半开放旗舰、音质半开放，主打首款半开放悦彰、11mm动圈+微平板、2.3Mbps无损传输，目前在售。"}
+{"instruction": "X8是什么产品?", "output": "X8是Mate X8, 华为手机, 主打8.15寸内屏、麒麟9050 Pro。"}
+{"instruction": "什么叫Air12啊?", "output": "Air12是华为平板里的MatePad Air 12 2025的俗称。MatePad Air 12 2025是华为的一款平板，属于MatePad Air 系列，中高端平板、轻办公手绘，主打12寸2.8K 144Hz、麒麟900、10100mAh，售价¥2125起，目前在售。"}
+{"instruction": "请问12.2寸Pro是什么?", "output": "12.2寸Pro是MatePad Pro 12.2 2025, 华为平板, 12.2寸双层OLED、10100mAh, ¥3199起。"}
+{"instruction": "华为MPV, 求科普", "output": "华为MPV是尊界 V800的简称, 尊界 V800是华为的一款智能汽车，属于尊界，超豪华旗舰MPV、尊界旗舰，主打旗舰MPV、76.6万起、华为系最贵车型，售价¥76.6万起，目前在售。"}
+{"instruction": "二合一平板是什么产品?", "output": "二合一平板是MatePad Edge, 华为平板, 24GB+1TB、万元二合一, ¥9999。"}
+{"instruction": "经常听人说智界轿车, 那是什么?", "output": "智界轿车就是智界 新S7。智界 新S7是华为的一款智能汽车，属于智界，轿车，主打轿车，目前在售。"}
+{"instruction": "请问Runner2是什么?", "output": "Runner2是WATCH GT Runner 2, 华为智能手表, 主打轻量化、专业跑步指标。"}
+{"instruction": "请问智界轿车是什么?", "output": "智界轿车是智界 新S7, 华为智能汽车, 主打轿车。"}
+{"instruction": "请问D2是什么?", "output": "D2是WATCH D2, 华为智能手表, 主打医疗级动态血压监测、写入中国高血压防治指南。"}
+{"instruction": "经常听人说非凡大师手表, 那是什么?", "output": "非凡大师手表就是WATCH Ultimate 2。WATCH Ultimate 2是华为的一款智能手表，属于WATCH Ultimate 系列，户外顶配、探险旗舰，主打北斗卫星语音消息、150米潜水带音频、水下声呐通信，目前在售。"}
+{"instruction": "请问上代大折叠是什么?", "output": "上代大折叠是Mate X6, 华为手机, 麒麟9000S Pro、分布式玄武架构, ¥10999起。"}
+{"instruction": "V6SE, 求科普", "output": "V6SE是Vision 智慧屏 6 SE RGB的简称, Vision 智慧屏 6 SE RGB是华为的一款智慧屏，属于Vision 系列，高端智慧屏、画质突破，主打全球首款RGB-MiniLED、105% BT.2020色域、三原色独立发光，售价¥2974起，目前在售。"}
+{"instruction": "什么叫巨幕电视啊?", "output": "巨幕电视是华为智慧屏里的MateTV Max的俗称。MateTV Max是华为的一款智慧屏，属于Vision 系列，巨幕旗舰、家庭影院，主打110寸巨幕、史上最大Mate、64999最贵华为屏，售价¥64999，目前在售。"}
+{"instruction": "Pura90大杯是啥?", "output": "Pura90大杯指的是Pura 90 Pro, 华为手机, 麒麟9030S、比上代降价1000, ¥5499起。"}
+{"instruction": "M70P是啥?", "output": "M70P指的是Mate 70 Pro, 华为手机, 麒麟9020、6.9寸LTPO, ¥5199起。"}
+{"instruction": "什么叫Pura80大杯啊?", "output": "Pura80大杯是华为手机里的Pura 80 Pro的俗称。Pura 80 Pro是华为的一款手机，属于Pura 系列，影像旗舰、专业影像，主打麒麟9020、1寸大底RYYB、100W快充，售价¥6499起，目前在售。"}
+{"instruction": "请问XT是什么?", "output": "XT是Mate XTs 非凡大师, 华为手机, 10.1寸展开当平板用、PC级应用, ¥18000起。"}
+{"instruction": "经常听人说XT2, 那是什么?", "output": "XT2就是Mate XT2。Mate XT2是华为的一款手机，属于折叠屏，超高端商务、三折叠，主打U型三折叠、麒麟9050、独立外屏，目前尚未发布。"}
+{"instruction": "M70RS是什么产品?", "output": "M70RS是Mate 70 RS 非凡大师, 华为手机, 双层OLED微曲屏、5700mAh, ¥11999起。"}
+{"instruction": "什么叫GT旗舰啊?", "output": "GT旗舰是华为智能手表里的WATCH GT 7 Pro 46mm的俗称。WATCH GT 7 Pro 46mm是华为的一款智能手表，属于WATCH GT 系列，长续航户外旗舰、专业运动，主打钛合金+蓝宝石、专业登山潜水模式，售价¥2488起，目前在售。"}
+{"instruction": "请问GT7Pro是什么?", "output": "GT7Pro是WATCH GT 7 Pro 46mm, 华为智能手表, 钛合金+蓝宝石、专业登山潜水模式, ¥2488起。"}
+{"instruction": "C形耳机是什么产品?", "output": "C形耳机是FreeClip 2, 华为耳机, 不塞耳朵、5.1g极致轻, ¥1299。"}
+{"instruction": "经常听人说电竞显示器, 那是什么?", "output": "电竞显示器就是MateView GT。MateView GT是华为的一款显示器，属于MateView 系列，电竞显示器、曲面屏，主打电竞曲面屏，目前在售。"}
+{"instruction": "双层OLED平板是什么产品?", "output": "双层OLED平板是MatePad Pro 12.2 2025, 华为平板, 12.2寸双层OLED、10100mAh, ¥3199起。"}
+{"instruction": "硬派SUV, 求科普", "output": "硬派SUV是享界 G9的简称, 享界 G9是华为的一款智能汽车，属于享界，豪华硬派SUV、对标大G，主打硬派SUV、对标奔驰大G、43.98万起，售价¥43.98万起，目前在售。"}
+{"instruction": "M80P, 求科普", "output": "M80P是Mate 80 Pro的简称, Mate 80 Pro是华为的一款手机，属于Mate 系列，商务旗舰、全能旗舰，主打麒麟9030、WiFi7、6.9寸微曲屏，售价¥6499起，目前在售。"}
+{"instruction": "Pura80超大杯是啥?", "output": "Pura80超大杯指的是Pura 80 Pro+, 华为手机, 1寸高动态版、天通+北斗双卫星, ¥7999起。"}
+{"instruction": "请问华为MPV是什么?", "output": "华为MPV是尊界 V800, 华为智能汽车, 旗舰MPV、76.6万起, ¥76.6万起。"}
+{"instruction": "请问SE平板是什么?", "output": "SE平板是MatePad SE 标准版 11寸, 华为平板, 骁龙685、7700mAh, ¥1399起。"}
+{"instruction": "什么叫手环11啊?", "output": "手环11是华为智能手表里的华为手环 11的俗称。华为手环 11是华为的一款智能手表，属于手环系列，入门穿戴、基础健康，主打入门健康监测、最便宜华为穿戴，目前在售。"}
+{"instruction": "非凡大师三折叠, 求科普", "output": "非凡大师三折叠是Mate XTs 非凡大师的简称, Mate XTs 非凡大师是华为的一款手机，属于折叠屏，超高端商务、三折叠、折叠屏天花板，主打10.1寸展开当平板用、PC级应用、最贵华为手机18000起，售价¥18000起，目前在售。"}
+{"instruction": "海外版, 求科普", "output": "海外版是FreeBuds 7i的简称, FreeBuds 7i是华为的一款耳机，属于FreeBuds 数字系列，半开放、海外主力，主打海外主打款，目前在售。"}
+{"instruction": "Mate80标准版是啥?", "output": "Mate80标准版指的是Mate 80, 华为手机, 首配3D人脸、3999起亲民价, ¥3999起。"}
+{"instruction": "二合一平板, 求科普", "output": "二合一平板是MatePad Edge的简称, MatePad Edge是华为的一款平板，属于MatePad Pro 系列，专业旗舰平板、二合一，主打24GB+1TB、万元二合一，售价¥9999，目前在售。"}
+{"instruction": "智慧屏6Pro, 求科普", "output": "智慧屏6Pro是Vision 智慧屏 6 Pro的简称, Vision 智慧屏 6 Pro是华为的一款智慧屏，属于Vision 系列，旗舰智慧屏、家庭影院，主打Super MiniLED黑晶屏、130W Hi-Fi音响、2000nit，售价¥5999起，目前在售。"}
+{"instruction": "介绍一下尊界 V800", "output": "尊界 V800是华为的一款智能汽车，属于尊界，超豪华旗舰MPV、尊界旗舰，主打旗舰MPV、76.6万起、华为系最贵车型，售价¥76.6万起，目前在售。"}
+{"instruction": "Pura 80 Ultra这款产品怎么样?", "output": "Pura 80 Ultra是华为的一款手机，属于Pura 系列，影像旗舰、影像机皇，主打一镜双目双焦段长焦、100倍变焦、万元影像机皇，售价¥9999起，目前在售。"}
+{"instruction": "说说MateBook 14 Linux 版的配置", "output": "MateBook 14 Linux 版是华为的一款笔记本，属于MateBook 数字系列，均衡轻薄本、开发者友好，主打1.31kg轻薄、比Win版便宜300，目前在售。"}
+{"instruction": "说说Mate 70 Air的配置", "output": "Mate 70 Air是华为的一款手机，属于Mate 系列，商务旗舰、大屏长续航，主打7寸大屏、6500mAh超大电池、3170起最便宜Mate，售价¥3170起，目前在售。"}
+{"instruction": "介绍一下WATCH GT Runner 2", "output": "WATCH GT Runner 2是华为的一款智能手表，属于WATCH GT Runner 系列，专业跑步、轻量运动，主打轻量化、专业跑步指标，目前在售。"}
+{"instruction": "有人了解nova 16吗?", "output": "了解的。nova 16是华为的一款手机，属于nova 系列，中端潮流、年轻续航王，主打麒麟9010S、7000mAh超大电池、100W快充，售价¥3499起，目前在售。"}
+{"instruction": "介绍一下智界 R7", "output": "智界 R7是华为的一款智能汽车，属于智界，轿跑SUV，主打轿跑SUV，目前在售。"}
+{"instruction": "有人了解华为手环 11吗?", "output": "了解的。华为手环 11是华为的一款智能手表，属于手环系列，入门穿戴、基础健康，主打入门健康监测、最便宜华为穿戴，目前在售。"}
+{"instruction": "有人了解尚界 Z7 / Z7T吗?", "output": "了解的。尚界 Z7 / Z7T是华为的一款智能汽车，属于尚界，年轻轿跑，主打年轻人轿跑，目前在售。"}
+{"instruction": "WATCH FIT 5 Pro这款产品怎么样?", "output": "WATCH FIT 5 Pro是华为的一款智能手表，属于WATCH FIT 系列，时尚轻量、全功能轻量，主打1.92寸LTPO、ECG、血糖风险评估，目前在售。"}
+{"instruction": "Mate X6这款产品怎么样?", "output": "Mate X6是华为的一款手机，属于折叠屏，超高端商务、横向大折叠，主打麒麟9000S Pro、分布式玄武架构，售价¥10999起，目前在售。"}
+{"instruction": "Pura 80值得买吗?", "output": "这要看你的需求。Pura 80是华为的一款手机，属于Pura 系列，影像旗舰、直屏影像，主打麒麟9010S、6.6寸唯一直屏Pura、5600mAh，目前在售。"}
+{"instruction": "MatePad Pro 2026这款产品怎么样?", "output": "MatePad Pro 2026是华为的一款平板，属于MatePad Pro 系列，专业旗舰平板、卫星平板，主打北斗卫星通讯、4.7mm超薄、12寸OLED，目前在售。"}
+{"instruction": "说说尚界 Z7 / Z7T的配置", "output": "尚界 Z7 / Z7T是华为的一款智能汽车，属于尚界，年轻轿跑，主打年轻人轿跑，目前在售。"}
+{"instruction": "有人了解Pura 80 Pro吗?", "output": "了解的。Pura 80 Pro是华为的一款手机，属于Pura 系列，影像旗舰、专业影像，主打麒麟9020、1寸大底RYYB、100W快充，售价¥6499起，目前在售。"}
+{"instruction": "ULTIMATE DESIGN 紫金这款产品怎么样?", "output": "ULTIMATE DESIGN 紫金是华为的一款智能手表，属于WATCH Ultimate 系列，奢华腕表、珠宝手表，主打10段18K黄金、紫色陶瓷表圈、eSIM，售价¥26888，目前在售。"}
+{"instruction": "尊界 V680值得买吗?", "output": "这要看你的需求。尊界 V680是华为的一款智能汽车，属于尊界，超豪华MPV、尊界入门，主打旗舰MPV、64.8万起，售价¥64.8万起，目前在售。"}
+{"instruction": "WATCH Ultimate 2这款产品怎么样?", "output": "WATCH Ultimate 2是华为的一款智能手表，属于WATCH Ultimate 系列，户外顶配、探险旗舰，主打北斗卫星语音消息、150米潜水带音频、水下声呐通信，目前在售。"}
+{"instruction": "介绍一下Mate 80", "output": "Mate 80是华为的一款手机，属于Mate 系列，商务旗舰、直屏旗舰，主打首配3D人脸、3999起亲民价，售价¥3999起，目前在售。"}
+{"instruction": "WATCH Buds 2这款产品怎么样?", "output": "WATCH Buds 2是华为的一款智能手表，属于WATCH Buds 系列，创新形态、二合一穿戴，主打手表藏耳机、54.5g钛合金、1.5寸LTPO 3000nit，目前在售。"}
+{"instruction": "介绍一下畅享 90", "output": "畅享 90是华为的一款手机，属于畅享系列，入门实用、千元5G，主打麒麟8000A 5G、6620mAh、1299千元5G，售价¥1299起，目前在售。"}
+{"instruction": "介绍一下MateBook 14 鸿蒙版", "output": "MateBook 14 鸿蒙版是华为的一款笔记本，属于MateBook 数字系列，均衡轻薄本、鸿蒙入门PC，主打首款数字系列鸿蒙PC，售价¥6599起，目前在售。"}
+{"instruction": "说说Mate 80 Pro的配置", "output": "Mate 80 Pro是华为的一款手机，属于Mate 系列，商务旗舰、全能旗舰，主打麒麟9030、WiFi7、6.9寸微曲屏，售价¥6499起，目前在售。"}
+{"instruction": "有人了解Mate 90 系列吗?", "output": "了解的。Mate 90 系列是华为的一款手机，属于Mate 系列，商务旗舰、年度旗舰，主打首发麒麟2026、HarmonyOS 7、5G回归，目前尚未发布。"}
+{"instruction": "介绍一下MatePad Pro 12.2 2025", "output": "MatePad Pro 12.2 2025是华为的一款平板，属于MatePad Pro 系列，专业旗舰平板、画质旗舰，主打12.2寸双层OLED、10100mAh，售价¥3199起，目前在售。"}
+{"instruction": "问界 M8值得买吗?", "output": "这要看你的需求。问界 M8是华为的一款智能汽车，属于问界，大型SUV、走量担当，主打大型SUV、问界走量主力，目前在售。"}
+{"instruction": "有人了解nova 16 Pro吗?", "output": "了解的。nova 16 Pro是华为的一款手机，属于nova 系列，中高端潮流、年轻影像Pro，主打256GB到1TB全覆盖，售价¥3899起，目前在售。"}
+{"instruction": "有人了解Pura X Max吗?", "output": "了解的。Pura X Max是华为的一款手机，属于折叠屏，高端时尚、阔折叠，主打麒麟9030 Pro、7.7寸内屏、16:10阔型屏，售价¥10999起，目前在售。"}
+{"instruction": "说说Mate 70的配置", "output": "Mate 70是华为的一款手机，属于Mate 系列，商务旗舰、上代标准版，主打麒麟9020、5200mAh，售价¥5099起，目前在售。"}
+{"instruction": "Pura X Max值得买吗?", "output": "这要看你的需求。Pura X Max是华为的一款手机，属于折叠屏，高端时尚、阔折叠，主打麒麟9030 Pro、7.7寸内屏、16:10阔型屏，售价¥10999起，目前在售。"}
+{"instruction": "介绍一下WATCH GT 7 46mm", "output": "WATCH GT 7 46mm是华为的一款智能手表，属于WATCH GT 系列，长续航运动、全能表，主打21天续航、骑行模拟功率，售价¥1588起，目前在售。"}
+{"instruction": "介绍一下Mate 70 Pro+", "output": "Mate 70 Pro+是华为的一款手机，属于Mate 系列，商务旗舰、顶配直屏，主打16GB大内存、2K直屏、天通卫星，售价¥6699起，目前在售。"}
+{"instruction": "Mate 70 Pro+值得买吗?", "output": "这要看你的需求。Mate 70 Pro+是华为的一款手机，属于Mate 系列，商务旗舰、顶配直屏，主打16GB大内存、2K直屏、天通卫星，售价¥6699起，目前在售。"}
+{"instruction": "说说Vision 智慧屏 6的配置", "output": "Vision 智慧屏 6是华为的一款智慧屏，属于Vision 系列，高端智慧屏、MiniLED，主打Super MiniLED千级分区、2000nit、4.9cm超薄，售价¥6199起，目前在售。"}
+{"instruction": "MateBook X Pro值得买吗?", "output": "这要看你的需求。MateBook X Pro是华为的一款笔记本，属于MateBook X Pro 系列，Windows旗舰、顶级屏幕，主打酷睿Ultra9、3.1K OLED柔性屏、140W超级快充，目前在售。"}
+{"instruction": "介绍一下Mate 70 Pro 优享版", "output": "Mate 70 Pro 优享版是华为的一款手机，属于Mate 系列，商务旗舰、性价比版，主打麒麟9020A降频版、价格更友好，售价¥5099起，目前在售。"}
+{"instruction": "说说MateView GT的配置", "output": "MateView GT是华为的一款显示器，属于MateView 系列，电竞显示器、曲面屏，主打电竞曲面屏，目前在售。"}
+{"instruction": "有人了解WATCH Ultimate 2吗?", "output": "了解的。WATCH Ultimate 2是华为的一款智能手表，属于WATCH Ultimate 系列，户外顶配、探险旗舰，主打北斗卫星语音消息、150米潜水带音频、水下声呐通信，目前在售。"}
+{"instruction": "有人了解尊界 V800吗?", "output": "了解的。尊界 V800是华为的一款智能汽车，属于尊界，超豪华旗舰MPV、尊界旗舰，主打旗舰MPV、76.6万起、华为系最贵车型，售价¥76.6万起，目前在售。"}
+{"instruction": "说说Pura 90的配置", "output": "Pura 90是华为的一款手机，属于Pura 系列，影像旗舰、时尚影像，主打HarmonyOS 6.1，售价¥4699起，目前在售。"}
+{"instruction": "介绍一下Pura 90 Pro", "output": "Pura 90 Pro是华为的一款手机，属于Pura 系列，影像旗舰、全能影像，主打麒麟9030S、比上代降价1000，售价¥5499起，目前在售。"}
+{"instruction": "有人了解FreeBuds 7i吗?", "output": "了解的。FreeBuds 7i是华为的一款耳机，属于FreeBuds 数字系列，半开放、海外主力，主打海外主打款，目前在售。"}
+{"instruction": "MateBook Pro值得买吗?", "output": "这要看你的需求。MateBook Pro是华为的一款笔记本，属于MateBook Pro 系列，鸿蒙超轻薄本、全能轻薄，主打970g、麒麟X90 Plus、40W性能释放，目前在售。"}
+{"instruction": "ULTIMATE DESIGN 星钻这款产品怎么样?", "output": "ULTIMATE DESIGN 星钻是华为的一款智能手表，属于WATCH Ultimate 系列，奢华腕表、高级珠宝手表，主打98颗天然钻石、前LV珠宝总监设计、刘雯代言，目前在售。"}
+{"instruction": "说说Pura 80 Pro的配置", "output": "Pura 80 Pro是华为的一款手机，属于Pura 系列，影像旗舰、专业影像，主打麒麟9020、1寸大底RYYB、100W快充，售价¥6499起，目前在售。"}
+{"instruction": "介绍一下Nova Flip 2", "output": "Nova Flip 2是华为的一款手机，属于折叠屏，中端时尚、竖向小折叠，主打麒麟8030、2026年6月新发、nova首款新折叠，售价¥4999，目前在售。"}
+{"instruction": "介绍一下WATCH Ultimate 2", "output": "WATCH Ultimate 2是华为的一款智能手表，属于WATCH Ultimate 系列，户外顶配、探险旗舰，主打北斗卫星语音消息、150米潜水带音频、水下声呐通信，目前在售。"}
+{"instruction": "介绍一下WATCH FIT 5 Pro", "output": "WATCH FIT 5 Pro是华为的一款智能手表，属于WATCH FIT 系列，时尚轻量、全功能轻量，主打1.92寸LTPO、ECG、血糖风险评估，目前在售。"}
+{"instruction": "MatePad 11.5 S这款产品怎么样?", "output": "MatePad 11.5 S是华为的一款平板，属于MatePad 11.5 S 系列，中端性价比平板、学生笔记，主打2.8K 144Hz、柔光屏可选、学生党首选，售价¥1670起，目前在售。"}
+{"instruction": "Mate X8值得买吗?", "output": "这要看你的需求。Mate X8是华为的一款手机，属于折叠屏，超高端商务、横向大折叠，主打8.15寸内屏、麒麟9050 Pro、6000mAh+大电池，目前尚未发布。"}
+{"instruction": "说说智界 V9的配置", "output": "智界 V9是华为的一款智能汽车，属于智界，轿跑SUV，主打轿跑SUV，目前在售。"}
+{"instruction": "MateView GT这款产品怎么样?", "output": "MateView GT是华为的一款显示器，属于MateView 系列，电竞显示器、曲面屏，主打电竞曲面屏，目前在售。"}
+{"instruction": "Vision 智慧屏 6值得买吗?", "output": "这要看你的需求。Vision 智慧屏 6是华为的一款智慧屏，属于Vision 系列，高端智慧屏、MiniLED，主打Super MiniLED千级分区、2000nit、4.9cm超薄，售价¥6199起，目前在售。"}
+{"instruction": "Sound X5 悦彰值得买吗?", "output": "这要看你的需求。Sound X5 悦彰是华为的一款音箱，属于Sound 系列，旗舰智能音箱、HiFi音箱，主打帝瓦雷联合调音、发布会音响担当，目前在售。"}
+{"instruction": "有人了解Mate X6吗?", "output": "了解的。Mate X6是华为的一款手机，属于折叠屏，超高端商务、横向大折叠，主打麒麟9000S Pro、分布式玄武架构，售价¥10999起，目前在售。"}
+{"instruction": "介绍一下Vision 智慧屏 6 Pro", "output": "Vision 智慧屏 6 Pro是华为的一款智慧屏，属于Vision 系列，旗舰智慧屏、家庭影院，主打Super MiniLED黑晶屏、130W Hi-Fi音响、2000nit，售价¥5999起，目前在售。"}
+{"instruction": "说说nova 16 Pro的配置", "output": "nova 16 Pro是华为的一款手机，属于nova 系列，中高端潮流、年轻影像Pro，主打256GB到1TB全覆盖，售价¥3899起，目前在售。"}
+{"instruction": "说说MatePad Air 12 2025的配置", "output": "MatePad Air 12 2025是华为的一款平板，属于MatePad Air 系列，中高端平板、轻办公手绘，主打12寸2.8K 144Hz、麒麟900、10100mAh，售价¥2125起，目前在售。"}
+{"instruction": "FreeBuds 6值得买吗?", "output": "这要看你的需求。FreeBuds 6是华为的一款耳机，属于FreeBuds 数字系列，半开放旗舰、音质半开放，主打首款半开放悦彰、11mm动圈+微平板、2.3Mbps无损传输，目前在售。"}
+{"instruction": "有人了解FreeBuds Pro 5 悦彰吗?", "output": "了解的。FreeBuds Pro 5 悦彰是华为的一款耳机，属于FreeBuds Pro 系列，旗舰入耳降噪、音质旗舰，主打2025年11月发布，目前在售。"}
+{"instruction": "有人了解智界 R7吗?", "output": "了解的。智界 R7是华为的一款智能汽车，属于智界，轿跑SUV，主打轿跑SUV，目前在售。"}
+{"instruction": "说说MatePad 11.5 2026的配置", "output": "MatePad 11.5 2026是华为的一款平板，属于MatePad 数字系列，入门性价比平板、追剧网课，主打护眼屏、鸿蒙AI、柔光版/全网通可选，售价¥1530起，目前在售。"}
+{"instruction": "说说MateBook D 16 SE的配置", "output": "MateBook D 16 SE是华为的一款笔记本，属于MateBook D 系列，入门轻薄本、大屏办公，主打16寸护眼屏、数字小键盘、4000-5000价位，售价¥4000-5000，目前在售。"}
+{"instruction": "MateBook Fold 非凡大师这款产品怎么样?", "output": "MateBook Fold 非凡大师是华为的一款笔记本，属于MateBook Fold 系列，超高端折叠PC、革命形态，主打18寸折叠巨幕、24999最贵华为PC、双层OLED，售价¥24999，目前在售。"}
+{"instruction": "Pura 90这款产品怎么样?", "output": "Pura 90是华为的一款手机，属于Pura 系列，影像旗舰、时尚影像，主打HarmonyOS 6.1，售价¥4699起，目前在售。"}
+{"instruction": "Pura X这款产品怎么样?", "output": "Pura X是华为的一款手机，属于折叠屏，高端时尚、阔折叠，主打麒麟9020、6.3寸16:10阔型屏、7499较亲民折叠，售价¥7499起，目前在售。"}
+{"instruction": "介绍一下Mate XT2", "output": "Mate XT2是华为的一款手机，属于折叠屏，超高端商务、三折叠，主打U型三折叠、麒麟9050、独立外屏，目前尚未发布。"}
+{"instruction": "有人了解Mate 70 Pro吗?", "output": "了解的。Mate 70 Pro是华为的一款手机，属于Mate 系列，商务旗舰、上代Pro，主打麒麟9020、6.9寸LTPO、微距长焦，售价¥5199起，目前在售。"}
+{"instruction": "畅享 90 Plus值得买吗?", "output": "这要看你的需求。畅享 90 Plus是华为的一款手机，属于畅享系列，入门实用、大屏5G，主打麒麟8000 5G、6620mAh，售价¥1499起，目前在售。"}
+{"instruction": "介绍一下Mate 80 Pro Max", "output": "Mate 80 Pro Max是华为的一款手机，属于Mate 系列，商务旗舰、顶配影像，主打双潜望长焦、双层OLED、6000mAh大电池，售价¥7499起，目前在售。"}
+{"instruction": "WATCH D2这款产品怎么样?", "output": "WATCH D2是华为的一款智能手表，属于WATCH D 系列，健康监测、医疗级穿戴，主打医疗级动态血压监测、写入中国高血压防治指南，目前在售。"}
+{"instruction": "ULTIMATE DESIGN 星钻值得买吗?", "output": "这要看你的需求。ULTIMATE DESIGN 星钻是华为的一款智能手表，属于WATCH Ultimate 系列，奢华腕表、高级珠宝手表，主打98颗天然钻石、前LV珠宝总监设计、刘雯代言，目前在售。"}
+{"instruction": "有人了解Mate XT2吗?", "output": "了解的。Mate XT2是华为的一款手机，属于折叠屏，超高端商务、三折叠，主打U型三折叠、麒麟9050、独立外屏，目前尚未发布。"}
+{"instruction": "问界 M8这款产品怎么样?", "output": "问界 M8是华为的一款智能汽车，属于问界，大型SUV、走量担当，主打大型SUV、问界走量主力，目前在售。"}
+{"instruction": "有人了解Mate XTs 非凡大师吗?", "output": "了解的。Mate XTs 非凡大师是华为的一款手机，属于折叠屏，超高端商务、三折叠、折叠屏天花板，主打10.1寸展开当平板用、PC级应用、最贵华为手机18000起，售价¥18000起，目前在售。"}
+{"instruction": "Mate 80值得买吗?", "output": "这要看你的需求。Mate 80是华为的一款手机，属于Mate 系列，商务旗舰、直屏旗舰，主打首配3D人脸、3999起亲民价，售价¥3999起，目前在售。"}
+{"instruction": "Mate 70 Pro 优享版这款产品怎么样?", "output": "Mate 70 Pro 优享版是华为的一款手机，属于Mate 系列，商务旗舰、性价比版，主打麒麟9020A降频版、价格更友好，售价¥5099起，目前在售。"}
+{"instruction": "有人了解MateTV Max吗?", "output": "了解的。MateTV Max是华为的一款智慧屏，属于Vision 系列，巨幕旗舰、家庭影院，主打110寸巨幕、史上最大Mate、64999最贵华为屏，售价¥64999，目前在售。"}
+{"instruction": "WATCH GT Runner 2值得买吗?", "output": "这要看你的需求。WATCH GT Runner 2是华为的一款智能手表，属于WATCH GT Runner 系列，专业跑步、轻量运动，主打轻量化、专业跑步指标，目前在售。"}
+{"instruction": "介绍一下Mate 70 Pro", "output": "Mate 70 Pro是华为的一款手机，属于Mate 系列，商务旗舰、上代Pro，主打麒麟9020、6.9寸LTPO、微距长焦，售价¥5199起，目前在售。"}
+{"instruction": "有人了解Vision 智慧屏 6吗?", "output": "了解的。Vision 智慧屏 6是华为的一款智慧屏，属于Vision 系列，高端智慧屏、MiniLED，主打Super MiniLED千级分区、2000nit、4.9cm超薄，售价¥6199起，目前在售。"}
+{"instruction": "说说Mate 70 Pro的配置", "output": "Mate 70 Pro是华为的一款手机，属于Mate 系列，商务旗舰、上代Pro，主打麒麟9020、6.9寸LTPO、微距长焦，售价¥5199起，目前在售。"}
+{"instruction": "Mate 80 Pro Max 风驰版这款产品怎么样?", "output": "Mate 80 Pro Max 风驰版是华为的一款手机，属于Mate 系列，商务旗舰、性能特化，主打Pro Max升级版、2026年3月加推，售价¥8499，目前在售。"}
+{"instruction": "说说畅享 90的配置", "output": "畅享 90是华为的一款手机，属于畅享系列，入门实用、千元5G，主打麒麟8000A 5G、6620mAh、1299千元5G，售价¥1299起，目前在售。"}
+{"instruction": "Vision 智慧屏 6 Pro值得买吗?", "output": "这要看你的需求。Vision 智慧屏 6 Pro是华为的一款智慧屏，属于Vision 系列，旗舰智慧屏、家庭影院，主打Super MiniLED黑晶屏、130W Hi-Fi音响、2000nit，售价¥5999起，目前在售。"}
+{"instruction": "MateBook D 16 SE值得买吗?", "output": "这要看你的需求。MateBook D 16 SE是华为的一款笔记本，属于MateBook D 系列，入门轻薄本、大屏办公，主打16寸护眼屏、数字小键盘、4000-5000价位，售价¥4000-5000，目前在售。"}
+{"instruction": "Pura X Max这款产品怎么样?", "output": "Pura X Max是华为的一款手机，属于折叠屏，高端时尚、阔折叠，主打麒麟9030 Pro、7.7寸内屏、16:10阔型屏，售价¥10999起，目前在售。"}
+{"instruction": "有人了解Nova Flip S吗?", "output": "了解的。Nova Flip S是华为的一款手机，属于折叠屏，入门时尚、竖向小折叠，主打最便宜折叠屏3388起，售价¥3388起，目前在售。"}
+{"instruction": "有人了解FreeBuds 6吗?", "output": "了解的。FreeBuds 6是华为的一款耳机，属于FreeBuds 数字系列，半开放旗舰、音质半开放，主打首款半开放悦彰、11mm动圈+微平板、2.3Mbps无损传输，目前在售。"}
+{"instruction": "介绍一下问界 M8", "output": "问界 M8是华为的一款智能汽车，属于问界，大型SUV、走量担当，主打大型SUV、问界走量主力，目前在售。"}
+{"instruction": "说说Mate X8的配置", "output": "Mate X8是华为的一款手机，属于折叠屏，超高端商务、横向大折叠，主打8.15寸内屏、麒麟9050 Pro、6000mAh+大电池，目前尚未发布。"}
+{"instruction": "说说尊界 V800的配置", "output": "尊界 V800是华为的一款智能汽车，属于尊界，超豪华旗舰MPV、尊界旗舰，主打旗舰MPV、76.6万起、华为系最贵车型，售价¥76.6万起，目前在售。"}
+{"instruction": "有人了解Pura 90 Pro吗?", "output": "了解的。Pura 90 Pro是华为的一款手机，属于Pura 系列，影像旗舰、全能影像，主打麒麟9030S、比上代降价1000，售价¥5499起，目前在售。"}
+{"instruction": "有人了解WATCH GT 7 46mm吗?", "output": "了解的。WATCH GT 7 46mm是华为的一款智能手表，属于WATCH GT 系列，长续航运动、全能表，主打21天续航、骑行模拟功率，售价¥1588起，目前在售。"}
+{"instruction": "介绍一下WATCH GT 7 41mm", "output": "WATCH GT 7 41mm是华为的一款智能手表，属于WATCH GT 系列，长续航运动、女性向，主打14天续航、小巧女款，售价¥1488起，目前在售。"}
+{"instruction": "有人了解MateBook Pro吗?", "output": "了解的。MateBook Pro是华为的一款笔记本，属于MateBook Pro 系列，鸿蒙超轻薄本、全能轻薄，主打970g、麒麟X90 Plus、40W性能释放，目前在售。"}
+{"instruction": "说说Pura X Max的配置", "output": "Pura X Max是华为的一款手机，属于折叠屏，高端时尚、阔折叠，主打麒麟9030 Pro、7.7寸内屏、16:10阔型屏，售价¥10999起，目前在售。"}
+{"instruction": "说说FreeClip 2的配置", "output": "FreeClip 2是华为的一款耳机，属于FreeClip 系列，耳夹开放式、潮流穿戴，主打不塞耳朵、5.1g极致轻、AI算力提升10倍，售价¥1299，目前在售。"}
+{"instruction": "MatePad Air 2026值得买吗?", "output": "这要看你的需求。MatePad Air 2026是华为的一款平板，属于MatePad Air 系列，中高端平板、护眼办公，主打PaperMatte柔光屏、麒麟T93C，目前在售。"}
+{"instruction": "有人了解Mate X7吗?", "output": "了解的。Mate X7是华为的一款手机，属于折叠屏，超高端商务、横向大折叠，主打麒麟9030 Pro、8.0寸内屏、第二代红枫，售价¥12999起，目前在售。"}
+{"instruction": "Mate 70 RS 非凡大师值得买吗?", "output": "这要看你的需求。Mate 70 RS 非凡大师是华为的一款手机，属于Mate 系列，超高端商务、奢华旗舰，主打双层OLED微曲屏、5700mAh，售价¥11999起，目前在售。"}
+{"instruction": "说说Mate 70 RS 非凡大师的配置", "output": "Mate 70 RS 非凡大师是华为的一款手机，属于Mate 系列，超高端商务、奢华旗舰，主打双层OLED微曲屏、5700mAh，售价¥11999起，目前在售。"}
+{"instruction": "享界 G9值得买吗?", "output": "这要看你的需求。享界 G9是华为的一款智能汽车，属于享界，豪华硬派SUV、对标大G，主打硬派SUV、对标奔驰大G、43.98万起，售价¥43.98万起，目前在售。"}
+{"instruction": "介绍一下MatePad 11.5 2026", "output": "MatePad 11.5 2026是华为的一款平板，属于MatePad 数字系列，入门性价比平板、追剧网课，主打护眼屏、鸿蒙AI、柔光版/全网通可选，售价¥1530起，目前在售。"}
+{"instruction": "MatePad Pro 13.2 2025这款产品怎么样?", "output": "MatePad Pro 13.2 2025是华为的一款平板，属于MatePad Pro 系列，专业旗舰平板、创意生产力，主打13.2寸柔性OLED、麒麟9010、88W快充，售价¥4350起，目前在售。"}
+{"instruction": "尊界 V680这款产品怎么样?", "output": "尊界 V680是华为的一款智能汽车，属于尊界，超豪华MPV、尊界入门，主打旗舰MPV、64.8万起，售价¥64.8万起，目前在售。"}
+{"instruction": "介绍一下MatePad Mini", "output": "MatePad Mini是华为的一款平板，属于MatePad Mini 系列，轻薄便携平板、阅读娱乐，主打悦读版/柔光版/全网通多版本可选，售价¥2465起，目前在售。"}
+{"instruction": "说说MateBook Pro S的配置", "output": "MateBook Pro S是华为的一款笔记本，属于MateBook Pro 系列，鸿蒙超轻薄本、极致便携，主打798g极致轻、麒麟XE90、镁锂合金一体，售价¥7999起，目前在售。"}
+{"instruction": "有人了解Mate 70吗?", "output": "了解的。Mate 70是华为的一款手机，属于Mate 系列，商务旗舰、上代标准版，主打麒麟9020、5200mAh，售价¥5099起，目前在售。"}
+{"instruction": "说说FreeBuds Pro 5 悦彰的配置", "output": "FreeBuds Pro 5 悦彰是华为的一款耳机，属于FreeBuds Pro 系列，旗舰入耳降噪、音质旗舰，主打2025年11月发布，目前在售。"}
+{"instruction": "介绍一下FreeBuds Pro 5 悦彰", "output": "FreeBuds Pro 5 悦彰是华为的一款耳机，属于FreeBuds Pro 系列，旗舰入耳降噪、音质旗舰，主打2025年11月发布，目前在售。"}
+{"instruction": "介绍一下Mate 70 Air", "output": "Mate 70 Air是华为的一款手机，属于Mate 系列，商务旗舰、大屏长续航，主打7寸大屏、6500mAh超大电池、3170起最便宜Mate，售价¥3170起，目前在售。"}
+{"instruction": "Mate 70 Pro这款产品怎么样?", "output": "Mate 70 Pro是华为的一款手机，属于Mate 系列，商务旗舰、上代Pro，主打麒麟9020、6.9寸LTPO、微距长焦，售价¥5199起，目前在售。"}
+{"instruction": "MatePad Air 2026这款产品怎么样?", "output": "MatePad Air 2026是华为的一款平板，属于MatePad Air 系列，中高端平板、护眼办公，主打PaperMatte柔光屏、麒麟T93C，目前在售。"}
+{"instruction": "Vision 智慧屏 6 SE RGB这款产品怎么样?", "output": "Vision 智慧屏 6 SE RGB是华为的一款智慧屏，属于Vision 系列，高端智慧屏、画质突破，主打全球首款RGB-MiniLED、105% BT.2020色域、三原色独立发光，售价¥2974起，目前在售。"}
+{"instruction": "介绍一下Mate 90 系列", "output": "Mate 90 系列是华为的一款手机，属于Mate 系列，商务旗舰、年度旗舰，主打首发麒麟2026、HarmonyOS 7、5G回归，目前尚未发布。"}
+{"instruction": "有人了解Pura X吗?", "output": "了解的。Pura X是华为的一款手机，属于折叠屏，高端时尚、阔折叠，主打麒麟9020、6.3寸16:10阔型屏、7499较亲民折叠，售价¥7499起，目前在售。"}
+{"instruction": "Mate X7值得买吗?", "output": "这要看你的需求。Mate X7是华为的一款手机，属于折叠屏，超高端商务、横向大折叠，主打麒麟9030 Pro、8.0寸内屏、第二代红枫，售价¥12999起，目前在售。"}
+{"instruction": "介绍一下FreeClip 2", "output": "FreeClip 2是华为的一款耳机，属于FreeClip 系列，耳夹开放式、潮流穿戴，主打不塞耳朵、5.1g极致轻、AI算力提升10倍，售价¥1299，目前在售。"}
+{"instruction": "说说WATCH Ultimate 2的配置", "output": "WATCH Ultimate 2是华为的一款智能手表，属于WATCH Ultimate 系列，户外顶配、探险旗舰，主打北斗卫星语音消息、150米潜水带音频、水下声呐通信，目前在售。"}
+{"instruction": "华为的手机有哪些?", "output": "华为的手机产品线包括: Mate 80(¥3999起)、Mate 80 Pro(¥6499起)、Mate 80 Pro Max(¥7499起)、Mate 80 Pro Max 风驰版(¥8499)、Mate 80 RS 非凡大师(¥11999起)、Mate 70(¥5099起)、Mate 70 Pro(¥5199起)、Mate 70 Pro 优享版(¥5099起)、Mate 70 Pro+(¥6699起)、Mate 70 RS 非凡大师(¥11999起)、Mate 70 Air(¥3170起)、Mate 90 系列。"}
+{"instruction": "华为手机都有什么型号?", "output": "主要有这些: Mate 80(¥3999起)、Mate 80 Pro(¥6499起)、Mate 80 Pro Max(¥7499起)、Mate 80 Pro Max 风驰版(¥8499)、Mate 80 RS 非凡大师(¥11999起)、Mate 70(¥5099起)、Mate 70 Pro(¥5199起)、Mate 70 Pro 优享版(¥5099起)、Mate 70 Pro+(¥6699起)、Mate 70 RS 非凡大师(¥11999起)、Mate 70 Air(¥3170起)、Mate 90 系列。"}
+{"instruction": "想买个华为手机, 有什么选择?", "output": "可选的范围挺广: Mate 80(¥3999起)、Mate 80 Pro(¥6499起)、Mate 80 Pro Max(¥7499起)、Mate 80 Pro Max 风驰版(¥8499)、Mate 80 RS 非凡大师(¥11999起)、Mate 70(¥5099起)、Mate 70 Pro(¥5199起)、Mate 70 Pro 优享版(¥5099起)、Mate 70 Pro+(¥6699起)、Mate 70 RS 非凡大师(¥11999起)、Mate 70 Air(¥3170起)、Mate 90 系列。具体要看你的预算和需求。"}
+{"instruction": "华为的平板有哪些?", "output": "华为的平板产品线包括: MatePad Pro 13.2 2025(¥4350起)、MatePad Pro 12.2 2025(¥3199起)、MatePad Pro 2026、MatePad Edge(¥9999)、MatePad Air 12 2025(¥2125起)、MatePad Air 2026、MatePad Mini(¥2465起)、MatePad 11.5 S(¥1670起)、MatePad 11.5 2026(¥1530起)、MatePad SE 标准版 11寸(¥1399起)。"}
+{"instruction": "华为平板都有什么型号?", "output": "主要有这些: MatePad Pro 13.2 2025(¥4350起)、MatePad Pro 12.2 2025(¥3199起)、MatePad Pro 2026、MatePad Edge(¥9999)、MatePad Air 12 2025(¥2125起)、MatePad Air 2026、MatePad Mini(¥2465起)、MatePad 11.5 S(¥1670起)、MatePad 11.5 2026(¥1530起)、MatePad SE 标准版 11寸(¥1399起)。"}
+{"instruction": "想买个华为平板, 有什么选择?", "output": "可选的范围挺广: MatePad Pro 13.2 2025(¥4350起)、MatePad Pro 12.2 2025(¥3199起)、MatePad Pro 2026、MatePad Edge(¥9999)、MatePad Air 12 2025(¥2125起)、MatePad Air 2026、MatePad Mini(¥2465起)、MatePad 11.5 S(¥1670起)、MatePad 11.5 2026(¥1530起)、MatePad SE 标准版 11寸(¥1399起)。具体要看你的预算和需求。"}
+{"instruction": "华为的笔记本有哪些?", "output": "华为的笔记本产品线包括: MateBook Fold 非凡大师(¥24999)、MateBook Pro S(¥7999起)、MateBook Pro、MateBook X Pro、MateBook 14 鸿蒙版(¥6599起)、MateBook 14 Linux 版、MateBook D 16 SE(¥4000-5000)、MateBook E / E GO。"}
+{"instruction": "华为笔记本都有什么型号?", "output": "主要有这些: MateBook Fold 非凡大师(¥24999)、MateBook Pro S(¥7999起)、MateBook Pro、MateBook X Pro、MateBook 14 鸿蒙版(¥6599起)、MateBook 14 Linux 版、MateBook D 16 SE(¥4000-5000)、MateBook E / E GO。"}
+{"instruction": "想买个华为笔记本, 有什么选择?", "output": "可选的范围挺广: MateBook Fold 非凡大师(¥24999)、MateBook Pro S(¥7999起)、MateBook Pro、MateBook X Pro、MateBook 14 鸿蒙版(¥6599起)、MateBook 14 Linux 版、MateBook D 16 SE(¥4000-5000)、MateBook E / E GO。具体要看你的预算和需求。"}
+{"instruction": "华为的智能手表有哪些?", "output": "华为的智能手表产品线包括: WATCH Ultimate 2、ULTIMATE DESIGN 紫金(¥26888)、ULTIMATE DESIGN 星钻、WATCH GT 7 Pro 46mm(¥2488起)、WATCH GT 7 46mm(¥1588起)、WATCH GT 7 41mm(¥1488起)、WATCH D2、WATCH Buds 2、WATCH FIT 5 Pro、WATCH FIT 5、WATCH GT Runner 2、华为手环 11。"}
+{"instruction": "华为智能手表都有什么型号?", "output": "主要有这些: WATCH Ultimate 2、ULTIMATE DESIGN 紫金(¥26888)、ULTIMATE DESIGN 星钻、WATCH GT 7 Pro 46mm(¥2488起)、WATCH GT 7 46mm(¥1588起)、WATCH GT 7 41mm(¥1488起)、WATCH D2、WATCH Buds 2、WATCH FIT 5 Pro、WATCH FIT 5、WATCH GT Runner 2、华为手环 11。"}
+{"instruction": "想买个华为智能手表, 有什么选择?", "output": "可选的范围挺广: WATCH Ultimate 2、ULTIMATE DESIGN 紫金(¥26888)、ULTIMATE DESIGN 星钻、WATCH GT 7 Pro 46mm(¥2488起)、WATCH GT 7 46mm(¥1588起)、WATCH GT 7 41mm(¥1488起)、WATCH D2、WATCH Buds 2、WATCH FIT 5 Pro、WATCH FIT 5、WATCH GT Runner 2、华为手环 11。具体要看你的预算和需求。"}
+{"instruction": "华为的耳机有哪些?", "output": "华为的耳机产品线包括: FreeBuds Pro 5 悦彰、FreeBuds 7i、FreeBuds 6、FreeClip 2(¥1299)。"}
+{"instruction": "华为耳机都有什么型号?", "output": "主要有这些: FreeBuds Pro 5 悦彰、FreeBuds 7i、FreeBuds 6、FreeClip 2(¥1299)。"}
+{"instruction": "想买个华为耳机, 有什么选择?", "output": "可选的范围挺广: FreeBuds Pro 5 悦彰、FreeBuds 7i、FreeBuds 6、FreeClip 2(¥1299)。具体要看你的预算和需求。"}
+{"instruction": "华为的音箱有哪些?", "output": "华为的音箱产品线包括: Sound X5 悦彰、Sound Joy 系列。"}
+{"instruction": "华为音箱都有什么型号?", "output": "主要有这些: Sound X5 悦彰、Sound Joy 系列。"}
+{"instruction": "想买个华为音箱, 有什么选择?", "output": "可选的范围挺广: Sound X5 悦彰、Sound Joy 系列。具体要看你的预算和需求。"}
+{"instruction": "华为的智慧屏有哪些?", "output": "华为的智慧屏产品线包括: MateTV Max(¥64999)、Vision 智慧屏 6 Pro(¥5999起)、Vision 智慧屏 6(¥6199起)、Vision 智慧屏 6 SE RGB(¥2974起)。"}
+{"instruction": "华为智慧屏都有什么型号?", "output": "主要有这些: MateTV Max(¥64999)、Vision 智慧屏 6 Pro(¥5999起)、Vision 智慧屏 6(¥6199起)、Vision 智慧屏 6 SE RGB(¥2974起)。"}
+{"instruction": "想买个华为智慧屏, 有什么选择?", "output": "可选的范围挺广: MateTV Max(¥64999)、Vision 智慧屏 6 Pro(¥5999起)、Vision 智慧屏 6(¥6199起)、Vision 智慧屏 6 SE RGB(¥2974起)。具体要看你的预算和需求。"}
+{"instruction": "华为的智能眼镜有哪些?", "output": "华为的智能眼镜产品线包括: 鸿蒙 AI 眼镜(¥2499)。"}
+{"instruction": "华为智能眼镜都有什么型号?", "output": "主要有这些: 鸿蒙 AI 眼镜(¥2499)。"}
+{"instruction": "想买个华为智能眼镜, 有什么选择?", "output": "可选的范围挺广: 鸿蒙 AI 眼镜(¥2499)。具体要看你的预算和需求。"}
+{"instruction": "华为的显示器有哪些?", "output": "华为的显示器产品线包括: MateView GT。"}
+{"instruction": "华为显示器都有什么型号?", "output": "主要有这些: MateView GT。"}
+{"instruction": "想买个华为显示器, 有什么选择?", "output": "可选的范围挺广: MateView GT。具体要看你的预算和需求。"}
+{"instruction": "华为的智能汽车有哪些?", "output": "华为的智能汽车产品线包括: 尊界 V800(¥76.6万起)、尊界 V680(¥64.8万起)、享界 G9(¥43.98万起)、享界 S9 / S9T、问界 M8、问界 M7、问界 M6、智界 V9、智界 R7、智界 新S7、尚界 Z7 / Z7T。"}
+{"instruction": "华为智能汽车都有什么型号?", "output": "主要有这些: 尊界 V800(¥76.6万起)、尊界 V680(¥64.8万起)、享界 G9(¥43.98万起)、享界 S9 / S9T、问界 M8、问界 M7、问界 M6、智界 V9、智界 R7、智界 新S7、尚界 Z7 / Z7T。"}
+{"instruction": "想买个华为智能汽车, 有什么选择?", "output": "可选的范围挺广: 尊界 V800(¥76.6万起)、尊界 V680(¥64.8万起)、享界 G9(¥43.98万起)、享界 S9 / S9T、问界 M8、问界 M7、问界 M6、智界 V9、智界 R7、智界 新S7、尚界 Z7 / Z7T。具体要看你的预算和需求。"}
+{"instruction": "华为Mate 系列有哪些型号?", "output": "华为Mate 系列包括: Mate 80、Mate 80 Pro、Mate 80 Pro Max、Mate 80 Pro Max 风驰版、Mate 80 RS 非凡大师、Mate 70、Mate 70 Pro、Mate 70 Pro 优享版。"}
+{"instruction": "Mate 系列里都有啥?", "output": "Mate 系列有这些产品: Mate 80、Mate 80 Pro、Mate 80 Pro Max、Mate 80 Pro Max 风驰版、Mate 80 RS 非凡大师、Mate 70、Mate 70 Pro、Mate 70 Pro 优享版。"}
+{"instruction": "华为Pura 系列有哪些型号?", "output": "华为Pura 系列包括: Pura 90、Pura 90 Pro、Pura 90 Pro Max、Pura 80、Pura 80 Pro、Pura 80 Pro+、Pura 80 Ultra。"}
+{"instruction": "Pura 系列里都有啥?", "output": "Pura 系列有这些产品: Pura 90、Pura 90 Pro、Pura 90 Pro Max、Pura 80、Pura 80 Pro、Pura 80 Pro+、Pura 80 Ultra。"}
+{"instruction": "华为折叠屏有哪些型号?", "output": "华为折叠屏包括: Mate X7、Mate X6、Mate X8、Mate XTs 非凡大师、Mate XT2、Pura X Max、Pura X、Pocket 2。"}
+{"instruction": "折叠屏里都有啥?", "output": "折叠屏有这些产品: Mate X7、Mate X6、Mate X8、Mate XTs 非凡大师、Mate XT2、Pura X Max、Pura X、Pocket 2。"}
+{"instruction": "华为nova 系列有哪些型号?", "output": "华为nova 系列包括: nova 16 SE、nova 16、nova 16 Pro、nova 16 Ultra。"}
+{"instruction": "nova 系列里都有啥?", "output": "nova 系列有这些产品: nova 16 SE、nova 16、nova 16 Pro、nova 16 Ultra。"}
+{"instruction": "华为畅享系列有哪些型号?", "output": "华为畅享系列包括: 畅享 90、畅享 90 Plus、畅享 90 Pro Max。"}
+{"instruction": "畅享系列里都有啥?", "output": "畅享系列有这些产品: 畅享 90、畅享 90 Plus、畅享 90 Pro Max。"}
+{"instruction": "华为MatePad Pro 系列有哪些型号?", "output": "华为MatePad Pro 系列包括: MatePad Pro 13.2 2025、MatePad Pro 12.2 2025、MatePad Pro 2026、MatePad Edge。"}
+{"instruction": "MatePad Pro 系列里都有啥?", "output": "MatePad Pro 系列有这些产品: MatePad Pro 13.2 2025、MatePad Pro 12.2 2025、MatePad Pro 2026、MatePad Edge。"}
+{"instruction": "华为MatePad Air 系列有哪些型号?", "output": "华为MatePad Air 系列包括: MatePad Air 12 2025、MatePad Air 2026。"}
+{"instruction": "MatePad Air 系列里都有啥?", "output": "MatePad Air 系列有这些产品: MatePad Air 12 2025、MatePad Air 2026。"}
+{"instruction": "华为MateBook Pro 系列有哪些型号?", "output": "华为MateBook Pro 系列包括: MateBook Pro S、MateBook Pro。"}
+{"instruction": "MateBook Pro 系列里都有啥?", "output": "MateBook Pro 系列有这些产品: MateBook Pro S、MateBook Pro。"}
+{"instruction": "华为MateBook 数字系列有哪些型号?", "output": "华为MateBook 数字系列包括: MateBook 14 鸿蒙版、MateBook 14 Linux 版。"}
+{"instruction": "MateBook 数字系列里都有啥?", "output": "MateBook 数字系列有这些产品: MateBook 14 鸿蒙版、MateBook 14 Linux 版。"}
+{"instruction": "华为WATCH Ultimate 系列有哪些型号?", "output": "华为WATCH Ultimate 系列包括: WATCH Ultimate 2、ULTIMATE DESIGN 紫金、ULTIMATE DESIGN 星钻。"}
+{"instruction": "WATCH Ultimate 系列里都有啥?", "output": "WATCH Ultimate 系列有这些产品: WATCH Ultimate 2、ULTIMATE DESIGN 紫金、ULTIMATE DESIGN 星钻。"}
+{"instruction": "华为WATCH GT 系列有哪些型号?", "output": "华为WATCH GT 系列包括: WATCH GT 7 Pro 46mm、WATCH GT 7 46mm、WATCH GT 7 41mm。"}
+{"instruction": "WATCH GT 系列里都有啥?", "output": "WATCH GT 系列有这些产品: WATCH GT 7 Pro 46mm、WATCH GT 7 46mm、WATCH GT 7 41mm。"}
+{"instruction": "华为WATCH FIT 系列有哪些型号?", "output": "华为WATCH FIT 系列包括: WATCH FIT 5 Pro、WATCH FIT 5。"}
+{"instruction": "WATCH FIT 系列里都有啥?", "output": "WATCH FIT 系列有这些产品: WATCH FIT 5 Pro、WATCH FIT 5。"}
+{"instruction": "华为FreeBuds 数字系列有哪些型号?", "output": "华为FreeBuds 数字系列包括: FreeBuds 7i、FreeBuds 6。"}
+{"instruction": "FreeBuds 数字系列里都有啥?", "output": "FreeBuds 数字系列有这些产品: FreeBuds 7i、FreeBuds 6。"}
+{"instruction": "华为Vision 系列有哪些型号?", "output": "华为Vision 系列包括: MateTV Max、Vision 智慧屏 6 Pro、Vision 智慧屏 6、Vision 智慧屏 6 SE RGB。"}
+{"instruction": "Vision 系列里都有啥?", "output": "Vision 系列有这些产品: MateTV Max、Vision 智慧屏 6 Pro、Vision 智慧屏 6、Vision 智慧屏 6 SE RGB。"}
+{"instruction": "华为尊界有哪些型号?", "output": "华为尊界包括: 尊界 V800、尊界 V680。"}
+{"instruction": "尊界里都有啥?", "output": "尊界有这些产品: 尊界 V800、尊界 V680。"}
+{"instruction": "华为享界有哪些型号?", "output": "华为享界包括: 享界 G9、享界 S9 / S9T。"}
+{"instruction": "享界里都有啥?", "output": "享界有这些产品: 享界 G9、享界 S9 / S9T。"}
+{"instruction": "华为问界有哪些型号?", "output": "华为问界包括: 问界 M8、问界 M7、问界 M6。"}
+{"instruction": "问界里都有啥?", "output": "问界有这些产品: 问界 M8、问界 M7、问界 M6。"}
+{"instruction": "华为智界有哪些型号?", "output": "华为智界包括: 智界 V9、智界 R7、智界 新S7。"}
+{"instruction": "智界里都有啥?", "output": "智界有这些产品: 智界 V9、智界 R7、智界 新S7。"}
+{"instruction": "MatePad 11.5 2026多少钱?", "output": "MatePad 11.5 2026的价格是¥1530起。"}
+{"instruction": "Pura 90贵不贵?", "output": "Pura 90¥4699起, 在同级别里属于中等价位。"}
+{"instruction": "MatePad Mini多少钱?", "output": "MatePad Mini的价格是¥2465起。"}
+{"instruction": "Pura 80 Pro+什么价位?", "output": "Pura 80 Pro+¥7999起。"}
+{"instruction": "Nova Flip 2贵不贵?", "output": "Nova Flip 2¥4999, 在同级别里属于中等价位。"}
+{"instruction": "MatePad SE 标准版 11寸什么价位?", "output": "MatePad SE 标准版 11寸¥1399起。"}
+{"instruction": "Pura X多少钱?", "output": "Pura X的价格是¥7499起。"}
+{"instruction": "Mate 70 Pro什么价位?", "output": "Mate 70 Pro¥5199起。"}
+{"instruction": "MatePad 11.5 S贵不贵?", "output": "MatePad 11.5 S¥1670起, 在同级别里属于中等价位。"}
+{"instruction": "WATCH GT 7 46mm贵不贵?", "output": "WATCH GT 7 46mm¥1588起, 在同级别里属于中等价位。"}
+{"instruction": "Mate 70 Pro+什么价位?", "output": "Mate 70 Pro+¥6699起。"}
+{"instruction": "Mate 80 RS 非凡大师多少钱?", "output": "Mate 80 RS 非凡大师的价格是¥11999起。"}
+{"instruction": "WATCH GT 7 46mm多少钱?", "output": "WATCH GT 7 46mm的价格是¥1588起。"}
+{"instruction": "Mate 80 Pro多少钱?", "output": "Mate 80 Pro的价格是¥6499起。"}
+{"instruction": "Mate 70 Pro 优享版贵不贵?", "output": "Mate 70 Pro 优享版¥5099起, 在同级别里属于中等价位。"}
+{"instruction": "Pura X Max多少钱?", "output": "Pura X Max的价格是¥10999起。"}
+{"instruction": "Pura 80 Pro多少钱?", "output": "Pura 80 Pro的价格是¥6499起。"}
+{"instruction": "MatePad Edge贵不贵?", "output": "MatePad Edge¥9999, 在同级别里属于高端价位。"}
+{"instruction": "MateBook Pro S什么价位?", "output": "MateBook Pro S¥7999起。"}
+{"instruction": "MateBook Pro S多少钱?", "output": "MateBook Pro S的价格是¥7999起。"}
+{"instruction": "Mate X6多少钱?", "output": "Mate X6的价格是¥10999起。"}
+{"instruction": "MatePad Edge多少钱?", "output": "MatePad Edge的价格是¥9999。"}
+{"instruction": "Mate 70多少钱?", "output": "Mate 70的价格是¥5099起。"}
+{"instruction": "Vision 智慧屏 6什么价位?", "output": "Vision 智慧屏 6¥6199起。"}
+{"instruction": "MatePad Pro 13.2 2025什么价位?", "output": "MatePad Pro 13.2 2025¥4350起。"}
+{"instruction": "Mate 80多少钱?", "output": "Mate 80的价格是¥3999起。"}
+{"instruction": "MatePad Pro 12.2 2025多少钱?", "output": "MatePad Pro 12.2 2025的价格是¥3199起。"}
+{"instruction": "Pocket 2什么价位?", "output": "Pocket 2¥7999起。"}
+{"instruction": "MatePad 11.5 2026贵不贵?", "output": "MatePad 11.5 2026¥1530起, 在同级别里属于中等价位。"}
+{"instruction": "Nova Flip S什么价位?", "output": "Nova Flip S¥3388起。"}
+{"instruction": "享界 G9多少钱?", "output": "享界 G9的价格是¥43.98万起。"}
+{"instruction": "Vision 智慧屏 6 Pro贵不贵?", "output": "Vision 智慧屏 6 Pro¥5999起, 在同级别里属于中等价位。"}
+{"instruction": "Pura 90 Pro Max多少钱?", "output": "Pura 90 Pro Max的价格是¥6499起。"}
+{"instruction": "Pura 80 Ultra多少钱?", "output": "Pura 80 Ultra的价格是¥9999起。"}
+{"instruction": "nova 16 SE多少钱?", "output": "nova 16 SE的价格是¥2000-3000。"}
+{"instruction": "Mate X6什么价位?", "output": "Mate X6¥10999起。"}
+{"instruction": "Mate 80 RS 非凡大师贵不贵?", "output": "Mate 80 RS 非凡大师¥11999起, 在同级别里属于高端价位。"}
+{"instruction": "MateTV Max什么价位?", "output": "MateTV Max¥64999。"}
+{"instruction": "nova 16贵不贵?", "output": "nova 16¥3499起, 在同级别里属于中等价位。"}
+{"instruction": "ULTIMATE DESIGN 紫金贵不贵?", "output": "ULTIMATE DESIGN 紫金¥26888, 在同级别里属于高端价位。"}
+{"instruction": "鸿蒙 AI 眼镜多少钱?", "output": "鸿蒙 AI 眼镜的价格是¥2499。"}
+{"instruction": "MateBook Fold 非凡大师贵不贵?", "output": "MateBook Fold 非凡大师¥24999, 在同级别里属于高端价位。"}
+{"instruction": "MateBook 14 鸿蒙版贵不贵?", "output": "MateBook 14 鸿蒙版¥6599起, 在同级别里属于中等价位。"}
+{"instruction": "Pura 90 Pro Max什么价位?", "output": "Pura 90 Pro Max¥6499起。"}
+{"instruction": "Mate 80 Pro Max什么价位?", "output": "Mate 80 Pro Max¥7499起。"}
+{"instruction": "MateBook D 16 SE多少钱?", "output": "MateBook D 16 SE的价格是¥4000-5000。"}
+{"instruction": "Pura X贵不贵?", "output": "Pura X¥7499起, 在同级别里属于中等价位。"}
+{"instruction": "Mate 80 Pro Max 风驰版什么价位?", "output": "Mate 80 Pro Max 风驰版¥8499。"}
+{"instruction": "鸿蒙 AI 眼镜贵不贵?", "output": "鸿蒙 AI 眼镜¥2499, 在同级别里属于中等价位。"}
+{"instruction": "Vision 智慧屏 6 SE RGB多少钱?", "output": "Vision 智慧屏 6 SE RGB的价格是¥2974起。"}
+{"instruction": "Mate 80 Pro Max贵不贵?", "output": "Mate 80 Pro Max¥7499起, 在同级别里属于中等价位。"}
+{"instruction": "nova 16 SE什么价位?", "output": "nova 16 SE¥2000-3000。"}
+{"instruction": "MateBook Fold 非凡大师多少钱?", "output": "MateBook Fold 非凡大师的价格是¥24999。"}
+{"instruction": "nova 16 Ultra贵不贵?", "output": "nova 16 Ultra¥4699起, 在同级别里属于中等价位。"}
+{"instruction": "MatePad Mini贵不贵?", "output": "MatePad Mini¥2465起, 在同级别里属于中等价位。"}
+{"instruction": "Mate 70 Air多少钱?", "output": "Mate 70 Air的价格是¥3170起。"}
+{"instruction": "Mate X7多少钱?", "output": "Mate X7的价格是¥12999起。"}
+{"instruction": "ULTIMATE DESIGN 紫金什么价位?", "output": "ULTIMATE DESIGN 紫金¥26888。"}
+{"instruction": "Nova Flip S多少钱?", "output": "Nova Flip S的价格是¥3388起。"}
+{"instruction": "Mate 70 Air什么价位?", "output": "Mate 70 Air¥3170起。"}
+{"instruction": "Nova Flip S贵不贵?", "output": "Nova Flip S¥3388起, 在同级别里属于中等价位。"}
+{"instruction": "MatePad SE 标准版 11寸贵不贵?", "output": "MatePad SE 标准版 11寸¥1399起, 在同级别里属于中等价位。"}
+{"instruction": "Mate 80 Pro贵不贵?", "output": "Mate 80 Pro¥6499起, 在同级别里属于中等价位。"}
+{"instruction": "nova 16什么价位?", "output": "nova 16¥3499起。"}
+{"instruction": "Vision 智慧屏 6 Pro什么价位?", "output": "Vision 智慧屏 6 Pro¥5999起。"}
+{"instruction": "Mate X7贵不贵?", "output": "Mate X7¥12999起, 在同级别里属于高端价位。"}
+{"instruction": "nova 16 Ultra多少钱?", "output": "nova 16 Ultra的价格是¥4699起。"}
+{"instruction": "WATCH GT 7 41mm什么价位?", "output": "WATCH GT 7 41mm¥1488起。"}
+{"instruction": "MatePad 11.5 S什么价位?", "output": "MatePad 11.5 S¥1670起。"}
+{"instruction": "Pocket 2多少钱?", "output": "Pocket 2的价格是¥7999起。"}
+{"instruction": "MateBook 14 鸿蒙版什么价位?", "output": "MateBook 14 鸿蒙版¥6599起。"}
+{"instruction": "Pura 90多少钱?", "output": "Pura 90的价格是¥4699起。"}
+{"instruction": "Mate 70 Pro+贵不贵?", "output": "Mate 70 Pro+¥6699起, 在同级别里属于中等价位。"}
+{"instruction": "nova 16 Ultra什么价位?", "output": "nova 16 Ultra¥4699起。"}
+{"instruction": "畅享 90 Plus什么价位?", "output": "畅享 90 Plus¥1499起。"}
+{"instruction": "MatePad Pro 12.2 2025什么价位?", "output": "MatePad Pro 12.2 2025¥3199起。"}
+{"instruction": "MatePad 11.5 2026什么价位?", "output": "MatePad 11.5 2026¥1530起。"}
+{"instruction": "FreeClip 2多少钱?", "output": "FreeClip 2的价格是¥1299。"}
+{"instruction": "Pura 80 Ultra贵不贵?", "output": "Pura 80 Ultra¥9999起, 在同级别里属于高端价位。"}
+{"instruction": "Mate 70什么价位?", "output": "Mate 70¥5099起。"}
+{"instruction": "FreeClip 2贵不贵?", "output": "FreeClip 2¥1299, 在同级别里属于中等价位。"}
+{"instruction": "nova 16 Pro什么价位?", "output": "nova 16 Pro¥3899起。"}
+{"instruction": "Pura 90 Pro贵不贵?", "output": "Pura 90 Pro¥5499起, 在同级别里属于中等价位。"}
+{"instruction": "Mate XTs 非凡大师什么价位?", "output": "Mate XTs 非凡大师¥18000起。"}
+{"instruction": "畅享 90 Pro Max贵不贵?", "output": "畅享 90 Pro Max¥1699起, 在同级别里属于中等价位。"}
+{"instruction": "Mate 80 Pro Max 风驰版多少钱?", "output": "Mate 80 Pro Max 风驰版的价格是¥8499。"}
+{"instruction": "Mate 80什么价位?", "output": "Mate 80¥3999起。"}
+{"instruction": "畅享 90多少钱?", "output": "畅享 90的价格是¥1299起。"}
+{"instruction": "MatePad Air 12 2025贵不贵?", "output": "MatePad Air 12 2025¥2125起, 在同级别里属于中等价位。"}
+{"instruction": "MateTV Max贵不贵?", "output": "MateTV Max¥64999, 在同级别里属于高端价位。"}
+{"instruction": "MateBook D 16 SE什么价位?", "output": "MateBook D 16 SE¥4000-5000。"}
+{"instruction": "畅享 90 Plus多少钱?", "output": "畅享 90 Plus的价格是¥1499起。"}
+{"instruction": "Pocket 2贵不贵?", "output": "Pocket 2¥7999起, 在同级别里属于中等价位。"}
+{"instruction": "Mate 70 RS 非凡大师多少钱?", "output": "Mate 70 RS 非凡大师的价格是¥11999起。"}
+{"instruction": "Pura X什么价位?", "output": "Pura X¥7499起。"}
+{"instruction": "畅享 90 Pro Max多少钱?", "output": "畅享 90 Pro Max的价格是¥1699起。"}
+{"instruction": "MatePad Pro 13.2 2025多少钱?", "output": "MatePad Pro 13.2 2025的价格是¥4350起。"}
+{"instruction": "Pura 80 Pro贵不贵?", "output": "Pura 80 Pro¥6499起, 在同级别里属于中等价位。"}
+{"instruction": "尊界 V680多少钱?", "output": "尊界 V680的价格是¥64.8万起。"}
+{"instruction": "MatePad 11.5 S多少钱?", "output": "MatePad 11.5 S的价格是¥1670起。"}
+{"instruction": "Pura 80 Pro+贵不贵?", "output": "Pura 80 Pro+¥7999起, 在同级别里属于中等价位。"}
+{"instruction": "Pura 90 Pro多少钱?", "output": "Pura 90 Pro的价格是¥5499起。"}
+{"instruction": "Mate 70 Pro贵不贵?", "output": "Mate 70 Pro¥5199起, 在同级别里属于中等价位。"}
+{"instruction": "Mate X6贵不贵?", "output": "Mate X6¥10999起, 在同级别里属于高端价位。"}
+{"instruction": "畅享 90什么价位?", "output": "畅享 90¥1299起。"}
+{"instruction": "Vision 智慧屏 6多少钱?", "output": "Vision 智慧屏 6的价格是¥6199起。"}
+{"instruction": "MatePad Pro 12.2 2025贵不贵?", "output": "MatePad Pro 12.2 2025¥3199起, 在同级别里属于中等价位。"}
+{"instruction": "Mate 80 RS 非凡大师什么价位?", "output": "Mate 80 RS 非凡大师¥11999起。"}
+{"instruction": "Vision 智慧屏 6贵不贵?", "output": "Vision 智慧屏 6¥6199起, 在同级别里属于中等价位。"}
+{"instruction": "WATCH GT 7 41mm贵不贵?", "output": "WATCH GT 7 41mm¥1488起, 在同级别里属于中等价位。"}
+{"instruction": "nova 16 Pro多少钱?", "output": "nova 16 Pro的价格是¥3899起。"}
+{"instruction": "MatePad Edge什么价位?", "output": "MatePad Edge¥9999。"}
+{"instruction": "MateBook 14 鸿蒙版多少钱?", "output": "MateBook 14 鸿蒙版的价格是¥6599起。"}
+{"instruction": "Pura X Max什么价位?", "output": "Pura X Max¥10999起。"}
+{"instruction": "Mate 80 Pro Max多少钱?", "output": "Mate 80 Pro Max的价格是¥7499起。"}
+{"instruction": "Nova Flip 2什么价位?", "output": "Nova Flip 2¥4999。"}
+{"instruction": "享界 G9什么价位?", "output": "享界 G9¥43.98万起。"}
+{"instruction": "畅享 90贵不贵?", "output": "畅享 90¥1299起, 在同级别里属于中等价位。"}
+{"instruction": "Mate 70贵不贵?", "output": "Mate 70¥5099起, 在同级别里属于中等价位。"}
+{"instruction": "Mate 70 Pro多少钱?", "output": "Mate 70 Pro的价格是¥5199起。"}
+{"instruction": "有没有笔记本能镁锂合金一体的?", "output": "有的, MateBook Pro S就支持镁锂合金一体。MateBook Pro S, 华为笔记本, 798g极致轻、麒麟XE90, ¥7999起。"}
+{"instruction": "华为哪款智慧屏全球首款RGB-MiniLED?", "output": "是Vision 智慧屏 6 SE RGB。Vision 智慧屏 6 SE RGB, 华为智慧屏, 全球首款RGB-MiniLED、105% BT.2020色域, ¥2974起。"}
+{"instruction": "想买个鸿蒙系统的笔记本, 有推荐吗?", "output": "可以看看MateBook Fold 非凡大师。MateBook Fold 非凡大师, 华为笔记本, 18寸折叠巨幕、24999最贵华为PC, ¥24999。"}
+{"instruction": "华为哪款智能手表专业登山潜水模式?", "output": "是WATCH GT 7 Pro 46mm。WATCH GT 7 Pro 46mm, 华为智能手表, 钛合金+蓝宝石、专业登山潜水模式, ¥2488起。"}
+{"instruction": "想买个大屏办公的笔记本, 有什么推荐?", "output": "可以看看MateBook D 16 SE。MateBook D 16 SE, 华为笔记本, 16寸护眼屏、数字小键盘, ¥4000-5000。"}
+{"instruction": "想买个入门性价比平板的平板, 有什么推荐?", "output": "可以看看MatePad 11.5 2026。MatePad 11.5 2026, 华为平板, 护眼屏、鸿蒙AI, ¥1530起。"}
+{"instruction": "有没有智能手表能前LV珠宝总监设计的?", "output": "有的, ULTIMATE DESIGN 星钻就支持前LV珠宝总监设计。ULTIMATE DESIGN 星钻, 华为智能手表, 主打98颗天然钻石、前LV珠宝总监设计。"}
+{"instruction": "想买个首发麒麟2026的手机, 有推荐吗?", "output": "可以看看Mate 90 系列。Mate 90 系列, 华为手机, 主打首发麒麟2026、HarmonyOS 7。"}
+{"instruction": "想买个麒麟9050 Pro的手机, 有推荐吗?", "output": "可以看看Mate X8。Mate X8, 华为手机, 主打8.15寸内屏、麒麟9050 Pro。"}
+{"instruction": "想买个商务旗舰的手机, 有什么推荐?", "output": "可以看看Mate 90 系列。Mate 90 系列, 华为手机, 主打首发麒麟2026、HarmonyOS 7。"}
+{"instruction": "想买个写入中国高血压防治指南的智能手表, 有推荐吗?", "output": "可以看看WATCH D2。WATCH D2, 华为智能手表, 主打医疗级动态血压监测、写入中国高血压防治指南。"}
+{"instruction": "华为哪款手机天通卫星?", "output": "是Mate 70 Pro+。Mate 70 Pro+, 华为手机, 16GB大内存、2K直屏, ¥6699起。"}
+{"instruction": "华为哪款手机麒麟9030?", "output": "是Mate 80 Pro。Mate 80 Pro, 华为手机, 麒麟9030、WiFi7, ¥6499起。"}
+{"instruction": "有没有智慧屏能史上最大Mate的?", "output": "有的, MateTV Max就支持史上最大Mate。MateTV Max, 华为智慧屏, 110寸巨幕、史上最大Mate, ¥64999。"}
+{"instruction": "想买个最便宜折叠屏3388起的手机, 有推荐吗?", "output": "可以看看Nova Flip S。Nova Flip S, 华为手机, 最便宜折叠屏3388起, ¥3388起。"}
+{"instruction": "想买个钛合金+蓝宝石的智能手表, 有推荐吗?", "output": "可以看看WATCH GT 7 Pro 46mm。WATCH GT 7 Pro 46mm, 华为智能手表, 钛合金+蓝宝石、专业登山潜水模式, ¥2488起。"}
+{"instruction": "华为哪款平板万元二合一?", "output": "是MatePad Edge。MatePad Edge, 华为平板, 24GB+1TB、万元二合一, ¥9999。"}
+{"instruction": "想买个横向大折叠的手机, 有什么推荐?", "output": "可以看看Mate X6。Mate X6, 华为手机, 麒麟9000S Pro、分布式玄武架构, ¥10999起。"}
+{"instruction": "想买个智能穿戴眼镜的智能眼镜, 有什么推荐?", "output": "可以看看鸿蒙 AI 眼镜。鸿蒙 AI 眼镜, 华为智能眼镜, 35.5g比Meta轻、6.25mm超薄镜腿, ¥2499。"}
+{"instruction": "想买个影像旗舰的手机, 有什么推荐?", "output": "可以看看Pura 90 Pro。Pura 90 Pro, 华为手机, 麒麟9030S、比上代降价1000, ¥5499起。"}
+{"instruction": "华为哪款手机双潜望长焦?", "output": "是Mate 80 Pro Max。Mate 80 Pro Max, 华为手机, 双潜望长焦、双层OLED, ¥7499起。"}
+{"instruction": "华为哪款手机麒麟9030 Pro?", "output": "是Pura X Max。Pura X Max, 华为手机, 麒麟9030 Pro、7.7寸内屏, ¥10999起。"}
+{"instruction": "有没有手机能一镜双目双焦段长焦的?", "output": "有的, Pura 80 Ultra就支持一镜双目双焦段长焦。Pura 80 Ultra, 华为手机, 一镜双目双焦段长焦、100倍变焦, ¥9999起。"}
+{"instruction": "有没有手机能NFC的?", "output": "有的, 畅享 90 Pro Max就支持NFC。畅享 90 Pro Max, 华为手机, 8500mAh怪兽电池、6.84寸OLED, ¥1699起。"}
+{"instruction": "想买个旗舰智慧屏的智慧屏, 有什么推荐?", "output": "可以看看Vision 智慧屏 6 Pro。Vision 智慧屏 6 Pro, 华为智慧屏, Super MiniLED黑晶屏、130W Hi-Fi音响, ¥5999起。"}
+{"instruction": "华为哪款手机微距长焦?", "output": "是Mate 70 Pro。Mate 70 Pro, 华为手机, 麒麟9020、6.9寸LTPO, ¥5199起。"}
+{"instruction": "华为哪款智能汽车硬派SUV?", "output": "是享界 G9。享界 G9, 华为智能汽车, 硬派SUV、对标奔驰大G, ¥43.98万起。"}
+{"instruction": "想买个NFC的手机, 有推荐吗?", "output": "可以看看畅享 90 Pro Max。畅享 90 Pro Max, 华为手机, 8500mAh怪兽电池、6.84寸OLED, ¥1699起。"}
+{"instruction": "想买个顶配影像的手机, 有什么推荐?", "output": "可以看看Pura 90 Pro Max。Pura 90 Pro Max, 华为手机, 2亿像素超大底潜望长焦、20倍高清录像, ¥6499起。"}
+{"instruction": "想买个nova首款新折叠的手机, 有推荐吗?", "output": "可以看看Nova Flip 2。Nova Flip 2, 华为手机, 麒麟8030、2026年6月新发, ¥4999。"}
+{"instruction": "华为哪款手机价格更友好?", "output": "是Mate 70 Pro 优享版。Mate 70 Pro 优享版, 华为手机, 麒麟9020A降频版、价格更友好, ¥5099起。"}
+{"instruction": "华为哪款耳机首款半开放悦彰?", "output": "是FreeBuds 6。FreeBuds 6, 华为耳机, 主打首款半开放悦彰、11mm动圈+微平板。"}
+{"instruction": "想买个华为系最贵车型的智能汽车, 有推荐吗?", "output": "可以看看尊界 V800。尊界 V800, 华为智能汽车, 旗舰MPV、76.6万起, ¥76.6万起。"}
+{"instruction": "想买个麒麟9020A降频版的手机, 有推荐吗?", "output": "可以看看Mate 70 Pro 优享版。Mate 70 Pro 优享版, 华为手机, 麒麟9020A降频版、价格更友好, ¥5099起。"}
+{"instruction": "华为哪款显示器电竞曲面屏?", "output": "是MateView GT。MateView GT, 华为显示器, 主打电竞曲面屏。"}
+{"instruction": "想买个年轻轿跑的智能汽车, 有什么推荐?", "output": "可以看看尚界 Z7 / Z7T。尚界 Z7 / Z7T, 华为智能汽车, 主打年轻人轿跑。"}
+{"instruction": "华为哪款智能手表前LV珠宝总监设计?", "output": "是ULTIMATE DESIGN 星钻。ULTIMATE DESIGN 星钻, 华为智能手表, 主打98颗天然钻石、前LV珠宝总监设计。"}
+{"instruction": "华为哪款手机U型三折叠?", "output": "是Mate XT2。Mate XT2, 华为手机, 主打U型三折叠、麒麟9050。"}
+{"instruction": "有没有智能眼镜能同声传译的?", "output": "有的, 鸿蒙 AI 眼镜就支持同声传译。鸿蒙 AI 眼镜, 华为智能眼镜, 35.5g比Meta轻、6.25mm超薄镜腿, ¥2499。"}
+{"instruction": "想买个顶配影像的手机, 有什么推荐?", "output": "可以看看Mate 80 Pro Max。Mate 80 Pro Max, 华为手机, 双潜望长焦、双层OLED, ¥7499起。"}
+{"instruction": "有没有平板能麒麟9010的?", "output": "有的, MatePad Pro 13.2 2025就支持麒麟9010。MatePad Pro 13.2 2025, 华为平板, 13.2寸柔性OLED、麒麟9010, ¥4350起。"}
+{"instruction": "有没有智能手表能北斗卫星语音消息的?", "output": "有的, WATCH Ultimate 2就支持北斗卫星语音消息。WATCH Ultimate 2, 华为智能手表, 主打北斗卫星语音消息、150米潜水带音频。"}
+{"instruction": "想买个万元二合一的平板, 有推荐吗?", "output": "可以看看MatePad Edge。MatePad Edge, 华为平板, 24GB+1TB、万元二合一, ¥9999。"}
+{"instruction": "想买个柔光屏可选的平板, 有推荐吗?", "output": "可以看看MatePad 11.5 S。MatePad 11.5 S, 华为平板, 2.8K 144Hz、柔光屏可选, ¥1670起。"}
+{"instruction": "想买个上代标准版的手机, 有什么推荐?", "output": "可以看看Mate 70。Mate 70, 华为手机, 麒麟9020、5200mAh, ¥5099起。"}
+{"instruction": "想买个卫星通信的手机, 有推荐吗?", "output": "可以看看Mate 80 RS 非凡大师。Mate 80 RS 非凡大师, 华为手机, 全金属玄武架构、双潜望, ¥11999起。"}
+{"instruction": "华为哪款平板学生党首选?", "output": "是MatePad 11.5 S。MatePad 11.5 S, 华为平板, 2.8K 144Hz、柔光屏可选, ¥1670起。"}
+{"instruction": "想买个史上最大Mate的智慧屏, 有推荐吗?", "output": "可以看看MateTV Max。MateTV Max, 华为智慧屏, 110寸巨幕、史上最大Mate, ¥64999。"}
+{"instruction": "想买个商务旗舰的手机, 有什么推荐?", "output": "可以看看Mate 70。Mate 70, 华为手机, 麒麟9020、5200mAh, ¥5099起。"}
+{"instruction": "有没有智能手表能eSIM的?", "output": "有的, ULTIMATE DESIGN 紫金就支持eSIM。ULTIMATE DESIGN 紫金, 华为智能手表, 10段18K黄金、紫色陶瓷表圈, ¥26888。"}
+{"instruction": "华为哪款智能手表骑行模拟功率?", "output": "是WATCH GT 7 46mm。WATCH GT 7 46mm, 华为智能手表, 21天续航、骑行模拟功率, ¥1588起。"}
+{"instruction": "想买个麒麟T93的平板, 有推荐吗?", "output": "可以看看MatePad Pro 2026。MatePad Pro 2026, 华为平板, 主打北斗卫星通讯、4.7mm超薄。"}
+{"instruction": "有没有手机能麒麟9050的?", "output": "有的, Mate XT2就支持麒麟9050。Mate XT2, 华为手机, 主打U型三折叠、麒麟9050。"}
+{"instruction": "想买个问界走量主力的智能汽车, 有推荐吗?", "output": "可以看看问界 M8。问界 M8, 华为智能汽车, 主打大型SUV、问界走量主力。"}
+{"instruction": "华为哪款手机麒麟9020A降频版?", "output": "是Mate 70 Pro 优享版。Mate 70 Pro 优享版, 华为手机, 麒麟9020A降频版、价格更友好, ¥5099起。"}
+{"instruction": "想买个大屏5G的手机, 有什么推荐?", "output": "可以看看畅享 90 Plus。畅享 90 Plus, 华为手机, 麒麟8000 5G、6620mAh, ¥1499起。"}
+{"instruction": "有没有笔记本能首款数字系列鸿蒙PC的?", "output": "有的, MateBook 14 鸿蒙版就支持首款数字系列鸿蒙PC。MateBook 14 鸿蒙版, 华为笔记本, 首款数字系列鸿蒙PC, ¥6599起。"}
+{"instruction": "华为哪款笔记本玄武水滴铰链?", "output": "是MateBook Fold 非凡大师。MateBook Fold 非凡大师, 华为笔记本, 18寸折叠巨幕、24999最贵华为PC, ¥24999。"}
+{"instruction": "想买个年轻影像入门的手机, 有什么推荐?", "output": "可以看看nova 16 SE。nova 16 SE, 华为手机, 第一代红枫影像、2000-3000价位, ¥2000-3000。"}
+{"instruction": "想买个AI指向问答的智能眼镜, 有推荐吗?", "output": "可以看看鸿蒙 AI 眼镜。鸿蒙 AI 眼镜, 华为智能眼镜, 35.5g比Meta轻、6.25mm超薄镜腿, ¥2499。"}
+{"instruction": "华为哪款耳机海外主打款?", "output": "是FreeBuds 7i。FreeBuds 7i, 华为耳机, 主打海外主打款。"}
+{"instruction": "有没有笔记本能数字小键盘的?", "output": "有的, MateBook D 16 SE就支持数字小键盘。MateBook D 16 SE, 华为笔记本, 16寸护眼屏、数字小键盘, ¥4000-5000。"}
+{"instruction": "华为哪款笔记本比Win版便宜300?", "output": "是MateBook 14 Linux 版。MateBook 14 Linux 版, 华为笔记本, 主打1.31kg轻薄、比Win版便宜300。"}
+{"instruction": "华为哪款手机卫星通信?", "output": "是Mate 80 RS 非凡大师。Mate 80 RS 非凡大师, 华为手机, 全金属玄武架构、双潜望, ¥11999起。"}
+{"instruction": "有没有平板能骁龙685的?", "output": "有的, MatePad SE 标准版 11寸就支持骁龙685。MatePad SE 标准版 11寸, 华为平板, 骁龙685、7700mAh, ¥1399起。"}
+{"instruction": "华为哪款智能汽车年轻人轿跑?", "output": "是尚界 Z7 / Z7T。尚界 Z7 / Z7T, 华为智能汽车, 主打年轻人轿跑。"}
+{"instruction": "华为哪款音箱户外用?", "output": "是Sound Joy 系列。Sound Joy 系列, 华为音箱, 主打便携蓝牙、户外用。"}
+{"instruction": "华为哪款智能手表手表藏耳机?", "output": "是WATCH Buds 2。WATCH Buds 2, 华为智能手表, 主打手表藏耳机、54.5g钛合金。"}
+{"instruction": "有没有手机能麒麟9020的?", "output": "有的, Pura 80 Pro就支持麒麟9020。Pura 80 Pro, 华为手机, 麒麟9020、1寸大底RYYB, ¥6499起。"}
+{"instruction": "想买个开发者友好的笔记本, 有什么推荐?", "output": "可以看看MateBook 14 Linux 版。MateBook 14 Linux 版, 华为笔记本, 主打1.31kg轻薄、比Win版便宜300。"}
+{"instruction": "有没有智能眼镜能AI指向问答的?", "output": "有的, 鸿蒙 AI 眼镜就支持AI指向问答。鸿蒙 AI 眼镜, 华为智能眼镜, 35.5g比Meta轻、6.25mm超薄镜腿, ¥2499。"}
+{"instruction": "想买个年轻人轿跑的智能汽车, 有推荐吗?", "output": "可以看看尚界 Z7 / Z7T。尚界 Z7 / Z7T, 华为智能汽车, 主打年轻人轿跑。"}
+{"instruction": "有没有智慧屏能触控书写的?", "output": "有的, Vision 智慧屏 6 Pro就支持触控书写。Vision 智慧屏 6 Pro, 华为智慧屏, Super MiniLED黑晶屏、130W Hi-Fi音响, ¥5999起。"}
+{"instruction": "想买个千元入门平板的平板, 有什么推荐?", "output": "可以看看MatePad SE 标准版 11寸。MatePad SE 标准版 11寸, 华为平板, 骁龙685、7700mAh, ¥1399起。"}
+{"instruction": "想买个商务旗舰的手机, 有什么推荐?", "output": "可以看看Mate 70 Air。Mate 70 Air, 华为手机, 7寸大屏、6500mAh超大电池, ¥3170起。"}
+{"instruction": "想买个骑行模拟功率的智能手表, 有推荐吗?", "output": "可以看看WATCH GT 7 46mm。WATCH GT 7 46mm, 华为智能手表, 21天续航、骑行模拟功率, ¥1588起。"}
+{"instruction": "想买个麒麟900的平板, 有推荐吗?", "output": "可以看看MatePad Air 12 2025。MatePad Air 12 2025, 华为平板, 12寸2.8K 144Hz、麒麟900, ¥2125起。"}
+{"instruction": "想买个入门实用的手机, 有什么推荐?", "output": "可以看看畅享 90 Plus。畅享 90 Plus, 华为手机, 麒麟8000 5G、6620mAh, ¥1499起。"}
+{"instruction": "有没有手机能双层OLED的?", "output": "有的, Mate 80 Pro Max就支持双层OLED。Mate 80 Pro Max, 华为手机, 双潜望长焦、双层OLED, ¥7499起。"}
+{"instruction": "有没有手机能HarmonyOS 6.1的?", "output": "有的, Pura 90就支持HarmonyOS 6.1。Pura 90, 华为手机, HarmonyOS 6.1, ¥4699起。"}
+{"instruction": "想买个超高端商务的手机, 有什么推荐?", "output": "可以看看Mate X7。Mate X7, 华为手机, 麒麟9030 Pro、8.0寸内屏, ¥12999起。"}
+{"instruction": "想买个轻薄便携平板的平板, 有什么推荐?", "output": "可以看看MatePad Mini。MatePad Mini, 华为平板, 悦读版/柔光版/全网通多版本可选, ¥2465起。"}
+{"instruction": "想买个超豪华旗舰MPV的智能汽车, 有什么推荐?", "output": "可以看看尊界 V800。尊界 V800, 华为智能汽车, 旗舰MPV、76.6万起, ¥76.6万起。"}
+{"instruction": "想买个分布式玄武架构的手机, 有推荐吗?", "output": "可以看看Mate X6。Mate X6, 华为手机, 麒麟9000S Pro、分布式玄武架构, ¥10999起。"}
+{"instruction": "华为哪款智能手表血糖风险评估?", "output": "是WATCH FIT 5 Pro。WATCH FIT 5 Pro, 华为智能手表, 主打1.92寸LTPO、ECG。"}
+{"instruction": "想买个中高端平板的平板, 有什么推荐?", "output": "可以看看MatePad Air 12 2025。MatePad Air 12 2025, 华为平板, 12寸2.8K 144Hz、麒麟900, ¥2125起。"}
+{"instruction": "华为哪款手机第一代红枫影像?", "output": "是nova 16 SE。nova 16 SE, 华为手机, 第一代红枫影像、2000-3000价位, ¥2000-3000。"}
+{"instruction": "想买个全金属玄武架构的手机, 有推荐吗?", "output": "可以看看Mate 80 RS 非凡大师。Mate 80 RS 非凡大师, 华为手机, 全金属玄武架构、双潜望, ¥11999起。"}
+{"instruction": "想买个HarmonyOS 7的手机, 有推荐吗?", "output": "可以看看Mate 90 系列。Mate 90 系列, 华为手机, 主打首发麒麟2026、HarmonyOS 7。"}
+{"instruction": "有没有智能手表能专业跑步指标的?", "output": "有的, WATCH GT Runner 2就支持专业跑步指标。WATCH GT Runner 2, 华为智能手表, 主打轻量化、专业跑步指标。"}
+{"instruction": "华为哪款笔记本酷睿Ultra9?", "output": "是MateBook X Pro。MateBook X Pro, 华为笔记本, 主打酷睿Ultra9、3.1K OLED柔性屏。"}
+{"instruction": "有没有平板能麒麟T93C的?", "output": "有的, MatePad Air 2026就支持麒麟T93C。MatePad Air 2026, 华为平板, 主打PaperMatte柔光屏、麒麟T93C。"}
+{"instruction": "想买个耳夹开放式的耳机, 有什么推荐?", "output": "可以看看FreeClip 2。FreeClip 2, 华为耳机, 不塞耳朵、5.1g极致轻, ¥1299。"}
+{"instruction": "华为哪款智能汽车轿跑SUV?", "output": "是智界 R7。智界 R7, 华为智能汽车, 主打轿跑SUV。"}
+{"instruction": "想买个北斗卫星通讯的平板, 有推荐吗?", "output": "可以看看MatePad Pro 2026。MatePad Pro 2026, 华为平板, 主打北斗卫星通讯、4.7mm超薄。"}
+{"instruction": "想买个酷睿Ultra9的笔记本, 有推荐吗?", "output": "可以看看MateBook X Pro。MateBook X Pro, 华为笔记本, 主打酷睿Ultra9、3.1K OLED柔性屏。"}
+{"instruction": "想买个最便宜华为穿戴的智能手表, 有推荐吗?", "output": "可以看看华为手环 11。华为手环 11, 华为智能手表, 主打入门健康监测、最便宜华为穿戴。"}
+{"instruction": "华为哪款智能手表ECG?", "output": "是ULTIMATE DESIGN 星钻。ULTIMATE DESIGN 星钻, 华为智能手表, 主打98颗天然钻石、前LV珠宝总监设计。"}
+{"instruction": "想买个网课追剧的平板, 有什么推荐?", "output": "可以看看MatePad SE 标准版 11寸。MatePad SE 标准版 11寸, 华为平板, 骁龙685、7700mAh, ¥1399起。"}
+{"instruction": "想买个二合一平板PC的笔记本, 有什么推荐?", "output": "可以看看MateBook E / E GO。MateBook E / E GO, 华为笔记本, 主打可拆卸设计、平板笔记本二合一。"}
+{"instruction": "想买个高端时尚的手机, 有什么推荐?", "output": "可以看看Pura X Max。Pura X Max, 华为手机, 麒麟9030 Pro、7.7寸内屏, ¥10999起。"}
+{"instruction": "想买个ECG的智能手表, 有推荐吗?", "output": "可以看看WATCH FIT 5 Pro。WATCH FIT 5 Pro, 华为智能手表, 主打1.92寸LTPO、ECG。"}
+{"instruction": "想买个PC级应用的手机, 有推荐吗?", "output": "可以看看Mate XTs 非凡大师。Mate XTs 非凡大师, 华为手机, 10.1寸展开当平板用、PC级应用, ¥18000起。"}
+{"instruction": "想买个HiFi音箱的音箱, 有什么推荐?", "output": "可以看看Sound X5 悦彰。Sound X5 悦彰, 华为音箱, 主打帝瓦雷联合调音、发布会音响担当。"}
+{"instruction": "想买个双潜望的手机, 有推荐吗?", "output": "可以看看Mate 80 RS 非凡大师。Mate 80 RS 非凡大师, 华为手机, 全金属玄武架构、双潜望, ¥11999起。"}
+{"instruction": "想买个旗舰入耳降噪的耳机, 有什么推荐?", "output": "可以看看FreeBuds Pro 5 悦彰。FreeBuds Pro 5 悦彰, 华为耳机, 主打2025年11月发布。"}
+{"instruction": "想买个画质旗舰的平板, 有什么推荐?", "output": "可以看看MatePad Pro 12.2 2025。MatePad Pro 12.2 2025, 华为平板, 12.2寸双层OLED、10100mAh, ¥3199起。"}
+{"instruction": "华为哪款手机首配3D人脸?", "output": "是Mate 80。Mate 80, 华为手机, 首配3D人脸、3999起亲民价, ¥3999起。"}
+{"instruction": "有没有智能手表能血糖血压评估的?", "output": "有的, ULTIMATE DESIGN 星钻就支持血糖血压评估。ULTIMATE DESIGN 星钻, 华为智能手表, 主打98颗天然钻石、前LV珠宝总监设计。"}
+{"instruction": "想买个年轻续航王的手机, 有什么推荐?", "output": "可以看看nova 16。nova 16, 华为手机, 麒麟9010S、7000mAh超大电池, ¥3499起。"}
+{"instruction": "想买个直屏旗舰的手机, 有什么推荐?", "output": "可以看看Mate 80。Mate 80, 华为手机, 首配3D人脸、3999起亲民价, ¥3999起。"}
+{"instruction": "有没有智能手表能骑行模拟功率的?", "output": "有的, WATCH GT 7 46mm就支持骑行模拟功率。WATCH GT 7 46mm, 华为智能手表, 21天续航、骑行模拟功率, ¥1588起。"}
+{"instruction": "想买个轿车的智能汽车, 有什么推荐?", "output": "可以看看智界 新S7。智界 新S7, 华为智能汽车, 主打轿车。"}
+{"instruction": "有没有显示器能电竞曲面屏的?", "output": "有的, MateView GT就支持电竞曲面屏。MateView GT, 华为显示器, 主打电竞曲面屏。"}
+{"instruction": "想买个硬派SUV的智能汽车, 有推荐吗?", "output": "可以看看享界 G9。享界 G9, 华为智能汽车, 硬派SUV、对标奔驰大G, ¥43.98万起。"}
+{"instruction": "有没有智能汽车能旗舰MPV的?", "output": "有的, 尊界 V680就支持旗舰MPV。尊界 V680, 华为智能汽车, 旗舰MPV、64.8万起, ¥64.8万起。"}
+{"instruction": "想买个Super MiniLED黑晶屏的智慧屏, 有推荐吗?", "output": "可以看看Vision 智慧屏 6 Pro。Vision 智慧屏 6 Pro, 华为智慧屏, Super MiniLED黑晶屏、130W Hi-Fi音响, ¥5999起。"}
+{"instruction": "想买个最贵华为手机18000起的手机, 有推荐吗?", "output": "可以看看Mate XTs 非凡大师。Mate XTs 非凡大师, 华为手机, 10.1寸展开当平板用、PC级应用, ¥18000起。"}
+{"instruction": "华为哪款平板护眼屏?", "output": "是MatePad 11.5 2026。MatePad 11.5 2026, 华为平板, 护眼屏、鸿蒙AI, ¥1530起。"}
+{"instruction": "想买个麒麟X90 Plus的笔记本, 有推荐吗?", "output": "可以看看MateBook Pro。MateBook Pro, 华为笔记本, 主打970g、麒麟X90 Plus。"}
+{"instruction": "Mate 80 Pro跟Mate 80 Pro Max 风驰版有啥区别?", "output": "两者都是Mate 系列的产品。Mate 80 Pro, 华为手机, 麒麟9030、WiFi7, ¥6499起。 区别在于Mate 80 Pro Max 风驰版, 华为手机, Pro Max升级版、2026年3月加推, ¥8499。"}
+{"instruction": "智界 V9跟智界 新S7有啥区别?", "output": "两者都是智界的产品。智界 V9, 华为智能汽车, 主打轿跑SUV。 区别在于智界 新S7, 华为智能汽车, 主打轿车。"}
+{"instruction": "MatePad Pro 2026跟MatePad Edge有啥区别?", "output": "两者都是MatePad Pro 系列的产品。MatePad Pro 2026, 华为平板, 主打北斗卫星通讯、4.7mm超薄。 区别在于MatePad Edge, 华为平板, 24GB+1TB、万元二合一, ¥9999。"}
+{"instruction": "问界 M7对比问界 M6怎么选?", "output": "简单说: 问界 M7, 华为智能汽车, 主打中大型SUV。 对比问界 M6, 华为智能汽车, 主打中型SUV。 建议根据预算和侧重点来选。"}
+{"instruction": "Pura 80和Pura 80 Pro哪个好?", "output": "这要看你的需求。Pura 80, 华为手机, 主打麒麟9010S、6.6寸唯一直屏Pura。 而Pura 80 Pro, 华为手机, 麒麟9020、1寸大底RYYB, ¥6499起。"}
+{"instruction": "MatePad Pro 13.2 2025和MatePad Edge哪个好?", "output": "这要看你的需求。MatePad Pro 13.2 2025, 华为平板, 13.2寸柔性OLED、麒麟9010, ¥4350起。 而MatePad Edge, 华为平板, 24GB+1TB、万元二合一, ¥9999。"}
+{"instruction": "Pura 90跟Pura 90 Pro Max有啥区别?", "output": "两者都是Pura 系列的产品。Pura 90, 华为手机, HarmonyOS 6.1, ¥4699起。 区别在于Pura 90 Pro Max, 华为手机, 2亿像素超大底潜望长焦、20倍高清录像, ¥6499起。"}
+{"instruction": "MatePad Pro 2026对比MatePad Edge怎么选?", "output": "简单说: MatePad Pro 2026, 华为平板, 主打北斗卫星通讯、4.7mm超薄。 对比MatePad Edge, 华为平板, 24GB+1TB、万元二合一, ¥9999。 建议根据预算和侧重点来选。"}
+{"instruction": "Vision 智慧屏 6 Pro对比Vision 智慧屏 6 SE RGB怎么选?", "output": "简单说: Vision 智慧屏 6 Pro, 华为智慧屏, Super MiniLED黑晶屏、130W Hi-Fi音响, ¥5999起。 对比Vision 智慧屏 6 SE RGB, 华为智慧屏, 全球首款RGB-MiniLED、105% BT.2020色域, ¥2974起。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 70对比Mate 70 Pro怎么选?", "output": "简单说: Mate 70, 华为手机, 麒麟9020、5200mAh, ¥5099起。 对比Mate 70 Pro, 华为手机, 麒麟9020、6.9寸LTPO, ¥5199起。 建议根据预算和侧重点来选。"}
+{"instruction": "WATCH Ultimate 2对比ULTIMATE DESIGN 星钻怎么选?", "output": "简单说: WATCH Ultimate 2, 华为智能手表, 主打北斗卫星语音消息、150米潜水带音频。 对比ULTIMATE DESIGN 星钻, 华为智能手表, 主打98颗天然钻石、前LV珠宝总监设计。 建议根据预算和侧重点来选。"}
+{"instruction": "问界 M8跟问界 M7有啥区别?", "output": "两者都是问界的产品。问界 M8, 华为智能汽车, 主打大型SUV、问界走量主力。 区别在于问界 M7, 华为智能汽车, 主打中大型SUV。"}
+{"instruction": "Pura 90对比Pura 90 Pro怎么选?", "output": "简单说: Pura 90, 华为手机, HarmonyOS 6.1, ¥4699起。 对比Pura 90 Pro, 华为手机, 麒麟9030S、比上代降价1000, ¥5499起。 建议根据预算和侧重点来选。"}
+{"instruction": "nova 16 SE和nova 16 Pro哪个好?", "output": "这要看你的需求。nova 16 SE, 华为手机, 第一代红枫影像、2000-3000价位, ¥2000-3000。 而nova 16 Pro, 华为手机, 256GB到1TB全覆盖, ¥3899起。"}
+{"instruction": "Pura 90对比Pura 90 Pro Max怎么选?", "output": "简单说: Pura 90, 华为手机, HarmonyOS 6.1, ¥4699起。 对比Pura 90 Pro Max, 华为手机, 2亿像素超大底潜望长焦、20倍高清录像, ¥6499起。 建议根据预算和侧重点来选。"}
+{"instruction": "智界 R7和智界 新S7哪个好?", "output": "这要看你的需求。智界 R7, 华为智能汽车, 主打轿跑SUV。 而智界 新S7, 华为智能汽车, 主打轿车。"}
+{"instruction": "Mate X7跟Mate X6有啥区别?", "output": "两者都是折叠屏的产品。Mate X7, 华为手机, 麒麟9030 Pro、8.0寸内屏, ¥12999起。 区别在于Mate X6, 华为手机, 麒麟9000S Pro、分布式玄武架构, ¥10999起。"}
+{"instruction": "Pura 90 Pro跟Pura 90 Pro Max有啥区别?", "output": "两者都是Pura 系列的产品。Pura 90 Pro, 华为手机, 麒麟9030S、比上代降价1000, ¥5499起。 区别在于Pura 90 Pro Max, 华为手机, 2亿像素超大底潜望长焦、20倍高清录像, ¥6499起。"}
+{"instruction": "Mate X7对比Mate X6怎么选?", "output": "简单说: Mate X7, 华为手机, 麒麟9030 Pro、8.0寸内屏, ¥12999起。 对比Mate X6, 华为手机, 麒麟9000S Pro、分布式玄武架构, ¥10999起。 建议根据预算和侧重点来选。"}
+{"instruction": "MateBook 14 鸿蒙版对比MateBook 14 Linux 版怎么选?", "output": "简单说: MateBook 14 鸿蒙版, 华为笔记本, 首款数字系列鸿蒙PC, ¥6599起。 对比MateBook 14 Linux 版, 华为笔记本, 主打1.31kg轻薄、比Win版便宜300。 建议根据预算和侧重点来选。"}
+{"instruction": "Pura 90和Pura 90 Pro哪个好?", "output": "这要看你的需求。Pura 90, 华为手机, HarmonyOS 6.1, ¥4699起。 而Pura 90 Pro, 华为手机, 麒麟9030S、比上代降价1000, ¥5499起。"}
+{"instruction": "nova 16 Pro和nova 16 Ultra哪个好?", "output": "这要看你的需求。nova 16 Pro, 华为手机, 256GB到1TB全覆盖, ¥3899起。 而nova 16 Ultra, 华为手机, nova最强影像, ¥4699起。"}
+{"instruction": "Mate 70跟Mate 70 Pro有啥区别?", "output": "两者都是Mate 系列的产品。Mate 70, 华为手机, 麒麟9020、5200mAh, ¥5099起。 区别在于Mate 70 Pro, 华为手机, 麒麟9020、6.9寸LTPO, ¥5199起。"}
+{"instruction": "Mate 70 Pro对比Mate 70 Pro+怎么选?", "output": "简单说: Mate 70 Pro, 华为手机, 麒麟9020、6.9寸LTPO, ¥5199起。 对比Mate 70 Pro+, 华为手机, 16GB大内存、2K直屏, ¥6699起。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate X7跟Mate X8有啥区别?", "output": "两者都是折叠屏的产品。Mate X7, 华为手机, 麒麟9030 Pro、8.0寸内屏, ¥12999起。 区别在于Mate X8, 华为手机, 主打8.15寸内屏、麒麟9050 Pro。"}
+{"instruction": "问界 M7和问界 M6哪个好?", "output": "这要看你的需求。问界 M7, 华为智能汽车, 主打中大型SUV。 而问界 M6, 华为智能汽车, 主打中型SUV。"}
+{"instruction": "Pura 80 Pro对比Pura 80 Ultra怎么选?", "output": "简单说: Pura 80 Pro, 华为手机, 麒麟9020、1寸大底RYYB, ¥6499起。 对比Pura 80 Ultra, 华为手机, 一镜双目双焦段长焦、100倍变焦, ¥9999起。 建议根据预算和侧重点来选。"}
+{"instruction": "MatePad Air 12 2025跟MatePad Air 2026有啥区别?", "output": "两者都是MatePad Air 系列的产品。MatePad Air 12 2025, 华为平板, 12寸2.8K 144Hz、麒麟900, ¥2125起。 区别在于MatePad Air 2026, 华为平板, 主打PaperMatte柔光屏、麒麟T93C。"}
+{"instruction": "WATCH GT 7 Pro 46mm跟WATCH GT 7 46mm有啥区别?", "output": "两者都是WATCH GT 系列的产品。WATCH GT 7 Pro 46mm, 华为智能手表, 钛合金+蓝宝石、专业登山潜水模式, ¥2488起。 区别在于WATCH GT 7 46mm, 华为智能手表, 21天续航、骑行模拟功率, ¥1588起。"}
+{"instruction": "Mate 70跟Mate 70 Air有啥区别?", "output": "两者都是Mate 系列的产品。Mate 70, 华为手机, 麒麟9020、5200mAh, ¥5099起。 区别在于Mate 70 Air, 华为手机, 7寸大屏、6500mAh超大电池, ¥3170起。"}
+{"instruction": "MatePad Pro 13.2 2025对比MatePad Pro 2026怎么选?", "output": "简单说: MatePad Pro 13.2 2025, 华为平板, 13.2寸柔性OLED、麒麟9010, ¥4350起。 对比MatePad Pro 2026, 华为平板, 主打北斗卫星通讯、4.7mm超薄。 建议根据预算和侧重点来选。"}
+{"instruction": "畅享 90对比畅享 90 Plus怎么选?", "output": "简单说: 畅享 90, 华为手机, 麒麟8000A 5G、6620mAh, ¥1299起。 对比畅享 90 Plus, 华为手机, 麒麟8000 5G、6620mAh, ¥1499起。 建议根据预算和侧重点来选。"}
+{"instruction": "Pura 90跟Pura 90 Pro有啥区别?", "output": "两者都是Pura 系列的产品。Pura 90, 华为手机, HarmonyOS 6.1, ¥4699起。 区别在于Pura 90 Pro, 华为手机, 麒麟9030S、比上代降价1000, ¥5499起。"}
+{"instruction": "享界 G9跟享界 S9 / S9T有啥区别?", "output": "两者都是享界的产品。享界 G9, 华为智能汽车, 硬派SUV、对标奔驰大G, ¥43.98万起。 区别在于享界 S9 / S9T, 华为智能汽车, 主打豪华轿车。"}
+{"instruction": "nova 16跟nova 16 Ultra有啥区别?", "output": "两者都是nova 系列的产品。nova 16, 华为手机, 麒麟9010S、7000mAh超大电池, ¥3499起。 区别在于nova 16 Ultra, 华为手机, nova最强影像, ¥4699起。"}
+{"instruction": "Mate 80和Mate 80 Pro哪个好?", "output": "这要看你的需求。Mate 80, 华为手机, 首配3D人脸、3999起亲民价, ¥3999起。 而Mate 80 Pro, 华为手机, 麒麟9030、WiFi7, ¥6499起。"}
+{"instruction": "Vision 智慧屏 6 Pro和Vision 智慧屏 6哪个好?", "output": "这要看你的需求。Vision 智慧屏 6 Pro, 华为智慧屏, Super MiniLED黑晶屏、130W Hi-Fi音响, ¥5999起。 而Vision 智慧屏 6, 华为智慧屏, Super MiniLED千级分区、2000nit, ¥6199起。"}
+{"instruction": "Mate 70 RS 非凡大师对比Mate 70 Air怎么选?", "output": "简单说: Mate 70 RS 非凡大师, 华为手机, 双层OLED微曲屏、5700mAh, ¥11999起。 对比Mate 70 Air, 华为手机, 7寸大屏、6500mAh超大电池, ¥3170起。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 70 Pro跟Mate 70 RS 非凡大师有啥区别?", "output": "两者都是Mate 系列的产品。Mate 70 Pro, 华为手机, 麒麟9020、6.9寸LTPO, ¥5199起。 区别在于Mate 70 RS 非凡大师, 华为手机, 双层OLED微曲屏、5700mAh, ¥11999起。"}
+{"instruction": "Mate X6跟Mate X8有啥区别?", "output": "两者都是折叠屏的产品。Mate X6, 华为手机, 麒麟9000S Pro、分布式玄武架构, ¥10999起。 区别在于Mate X8, 华为手机, 主打8.15寸内屏、麒麟9050 Pro。"}
+{"instruction": "FreeBuds 7i和FreeBuds 6哪个好?", "output": "这要看你的需求。FreeBuds 7i, 华为耳机, 主打海外主打款。 而FreeBuds 6, 华为耳机, 主打首款半开放悦彰、11mm动圈+微平板。"}
+{"instruction": "畅享 90对比畅享 90 Pro Max怎么选?", "output": "简单说: 畅享 90, 华为手机, 麒麟8000A 5G、6620mAh, ¥1299起。 对比畅享 90 Pro Max, 华为手机, 8500mAh怪兽电池、6.84寸OLED, ¥1699起。 建议根据预算和侧重点来选。"}
+{"instruction": "MatePad Pro 13.2 2025跟MatePad Pro 12.2 2025有啥区别?", "output": "两者都是MatePad Pro 系列的产品。MatePad Pro 13.2 2025, 华为平板, 13.2寸柔性OLED、麒麟9010, ¥4350起。 区别在于MatePad Pro 12.2 2025, 华为平板, 12.2寸双层OLED、10100mAh, ¥3199起。"}
+{"instruction": "MatePad Pro 12.2 2025跟MatePad Edge有啥区别?", "output": "两者都是MatePad Pro 系列的产品。MatePad Pro 12.2 2025, 华为平板, 12.2寸双层OLED、10100mAh, ¥3199起。 区别在于MatePad Edge, 华为平板, 24GB+1TB、万元二合一, ¥9999。"}
+{"instruction": "Pura 90 Pro对比Pura 90 Pro Max怎么选?", "output": "简单说: Pura 90 Pro, 华为手机, 麒麟9030S、比上代降价1000, ¥5499起。 对比Pura 90 Pro Max, 华为手机, 2亿像素超大底潜望长焦、20倍高清录像, ¥6499起。 建议根据预算和侧重点来选。"}
+{"instruction": "Pocket 2跟Nova Flip 2有啥区别?", "output": "两者都是折叠屏的产品。Pocket 2, 华为手机, 玄武水滴铰链, ¥7999起。 区别在于Nova Flip 2, 华为手机, 麒麟8030、2026年6月新发, ¥4999。"}
+{"instruction": "Mate XTs 非凡大师跟Mate XT2有啥区别?", "output": "两者都是折叠屏的产品。Mate XTs 非凡大师, 华为手机, 10.1寸展开当平板用、PC级应用, ¥18000起。 区别在于Mate XT2, 华为手机, 主打U型三折叠、麒麟9050。"}
+{"instruction": "WATCH FIT 5 Pro对比WATCH FIT 5怎么选?", "output": "简单说: WATCH FIT 5 Pro, 华为智能手表, 主打1.92寸LTPO、ECG。 对比WATCH FIT 5, 华为智能手表, 主打27g极致轻、1.74寸。 建议根据预算和侧重点来选。"}
+{"instruction": "MatePad Air 12 2025对比MatePad Air 2026怎么选?", "output": "简单说: MatePad Air 12 2025, 华为平板, 12寸2.8K 144Hz、麒麟900, ¥2125起。 对比MatePad Air 2026, 华为平板, 主打PaperMatte柔光屏、麒麟T93C。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 70 Pro和Mate 70 Air哪个好?", "output": "这要看你的需求。Mate 70 Pro, 华为手机, 麒麟9020、6.9寸LTPO, ¥5199起。 而Mate 70 Air, 华为手机, 7寸大屏、6500mAh超大电池, ¥3170起。"}
+{"instruction": "nova 16 SE对比nova 16 Pro怎么选?", "output": "简单说: nova 16 SE, 华为手机, 第一代红枫影像、2000-3000价位, ¥2000-3000。 对比nova 16 Pro, 华为手机, 256GB到1TB全覆盖, ¥3899起。 建议根据预算和侧重点来选。"}
+{"instruction": "Pocket 2对比Nova Flip S怎么选?", "output": "简单说: Pocket 2, 华为手机, 玄武水滴铰链, ¥7999起。 对比Nova Flip S, 华为手机, 最便宜折叠屏3388起, ¥3388起。 建议根据预算和侧重点来选。"}
+{"instruction": "ULTIMATE DESIGN 紫金跟ULTIMATE DESIGN 星钻有啥区别?", "output": "两者都是WATCH Ultimate 系列的产品。ULTIMATE DESIGN 紫金, 华为智能手表, 10段18K黄金、紫色陶瓷表圈, ¥26888。 区别在于ULTIMATE DESIGN 星钻, 华为智能手表, 主打98颗天然钻石、前LV珠宝总监设计。"}
+{"instruction": "Mate 70对比Mate 70 Air怎么选?", "output": "简单说: Mate 70, 华为手机, 麒麟9020、5200mAh, ¥5099起。 对比Mate 70 Air, 华为手机, 7寸大屏、6500mAh超大电池, ¥3170起。 建议根据预算和侧重点来选。"}
+{"instruction": "MatePad Pro 2026和MatePad Edge哪个好?", "output": "这要看你的需求。MatePad Pro 2026, 华为平板, 主打北斗卫星通讯、4.7mm超薄。 而MatePad Edge, 华为平板, 24GB+1TB、万元二合一, ¥9999。"}
+{"instruction": "Mate 80 Pro Max和Mate 80 Pro Max 风驰版哪个好?", "output": "这要看你的需求。Mate 80 Pro Max, 华为手机, 双潜望长焦、双层OLED, ¥7499起。 而Mate 80 Pro Max 风驰版, 华为手机, Pro Max升级版、2026年3月加推, ¥8499。"}
+{"instruction": "Mate 70 RS 非凡大师和Mate 70 Air哪个好?", "output": "这要看你的需求。Mate 70 RS 非凡大师, 华为手机, 双层OLED微曲屏、5700mAh, ¥11999起。 而Mate 70 Air, 华为手机, 7寸大屏、6500mAh超大电池, ¥3170起。"}
+{"instruction": "nova 16 SE跟nova 16 Pro有啥区别?", "output": "两者都是nova 系列的产品。nova 16 SE, 华为手机, 第一代红枫影像、2000-3000价位, ¥2000-3000。 区别在于nova 16 Pro, 华为手机, 256GB到1TB全覆盖, ¥3899起。"}
+{"instruction": "智界 V9对比智界 R7怎么选?", "output": "简单说: 智界 V9, 华为智能汽车, 主打轿跑SUV。 对比智界 R7, 华为智能汽车, 主打轿跑SUV。 建议根据预算和侧重点来选。"}
+{"instruction": "MatePad Pro 12.2 2025和MatePad Pro 2026哪个好?", "output": "这要看你的需求。MatePad Pro 12.2 2025, 华为平板, 12.2寸双层OLED、10100mAh, ¥3199起。 而MatePad Pro 2026, 华为平板, 主打北斗卫星通讯、4.7mm超薄。"}
+{"instruction": "MatePad Pro 13.2 2025跟MatePad Pro 2026有啥区别?", "output": "两者都是MatePad Pro 系列的产品。MatePad Pro 13.2 2025, 华为平板, 13.2寸柔性OLED、麒麟9010, ¥4350起。 区别在于MatePad Pro 2026, 华为平板, 主打北斗卫星通讯、4.7mm超薄。"}
+{"instruction": "Pura 80对比Pura 80 Pro怎么选?", "output": "简单说: Pura 80, 华为手机, 主打麒麟9010S、6.6寸唯一直屏Pura。 对比Pura 80 Pro, 华为手机, 麒麟9020、1寸大底RYYB, ¥6499起。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 80 Pro Max跟Mate 80 Pro Max 风驰版有啥区别?", "output": "两者都是Mate 系列的产品。Mate 80 Pro Max, 华为手机, 双潜望长焦、双层OLED, ¥7499起。 区别在于Mate 80 Pro Max 风驰版, 华为手机, Pro Max升级版、2026年3月加推, ¥8499。"}
+{"instruction": "Mate 70 Pro 优享版和Mate 70 RS 非凡大师哪个好?", "output": "这要看你的需求。Mate 70 Pro 优享版, 华为手机, 麒麟9020A降频版、价格更友好, ¥5099起。 而Mate 70 RS 非凡大师, 华为手机, 双层OLED微曲屏、5700mAh, ¥11999起。"}
+{"instruction": "WATCH GT 7 46mm跟WATCH GT 7 41mm有啥区别?", "output": "两者都是WATCH GT 系列的产品。WATCH GT 7 46mm, 华为智能手表, 21天续航、骑行模拟功率, ¥1588起。 区别在于WATCH GT 7 41mm, 华为智能手表, 14天续航、小巧女款, ¥1488起。"}
+{"instruction": "问界 M8和问界 M6哪个好?", "output": "这要看你的需求。问界 M8, 华为智能汽车, 主打大型SUV、问界走量主力。 而问界 M6, 华为智能汽车, 主打中型SUV。"}
+{"instruction": "Mate 70 Pro 优享版和Mate 70 Pro+哪个好?", "output": "这要看你的需求。Mate 70 Pro 优享版, 华为手机, 麒麟9020A降频版、价格更友好, ¥5099起。 而Mate 70 Pro+, 华为手机, 16GB大内存、2K直屏, ¥6699起。"}
+{"instruction": "Mate 70 Pro跟Mate 70 Pro+有啥区别?", "output": "两者都是Mate 系列的产品。Mate 70 Pro, 华为手机, 麒麟9020、6.9寸LTPO, ¥5199起。 区别在于Mate 70 Pro+, 华为手机, 16GB大内存、2K直屏, ¥6699起。"}
+{"instruction": "Mate 70对比Mate 70 Pro+怎么选?", "output": "简单说: Mate 70, 华为手机, 麒麟9020、5200mAh, ¥5099起。 对比Mate 70 Pro+, 华为手机, 16GB大内存、2K直屏, ¥6699起。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 80和Mate 80 Pro Max 风驰版哪个好?", "output": "这要看你的需求。Mate 80, 华为手机, 首配3D人脸、3999起亲民价, ¥3999起。 而Mate 80 Pro Max 风驰版, 华为手机, Pro Max升级版、2026年3月加推, ¥8499。"}
+{"instruction": "Mate 80跟Mate 80 RS 非凡大师有啥区别?", "output": "两者都是Mate 系列的产品。Mate 80, 华为手机, 首配3D人脸、3999起亲民价, ¥3999起。 区别在于Mate 80 RS 非凡大师, 华为手机, 全金属玄武架构、双潜望, ¥11999起。"}
+{"instruction": "Mate 70 Pro 优享版跟Mate 70 RS 非凡大师有啥区别?", "output": "两者都是Mate 系列的产品。Mate 70 Pro 优享版, 华为手机, 麒麟9020A降频版、价格更友好, ¥5099起。 区别在于Mate 70 RS 非凡大师, 华为手机, 双层OLED微曲屏、5700mAh, ¥11999起。"}
+{"instruction": "WATCH GT 7 Pro 46mm跟WATCH GT 7 41mm有啥区别?", "output": "两者都是WATCH GT 系列的产品。WATCH GT 7 Pro 46mm, 华为智能手表, 钛合金+蓝宝石、专业登山潜水模式, ¥2488起。 区别在于WATCH GT 7 41mm, 华为智能手表, 14天续航、小巧女款, ¥1488起。"}
+{"instruction": "MatePad Pro 13.2 2025和MatePad Pro 2026哪个好?", "output": "这要看你的需求。MatePad Pro 13.2 2025, 华为平板, 13.2寸柔性OLED、麒麟9010, ¥4350起。 而MatePad Pro 2026, 华为平板, 主打北斗卫星通讯、4.7mm超薄。"}
+{"instruction": "Mate 80 Pro和Mate 80 RS 非凡大师哪个好?", "output": "这要看你的需求。Mate 80 Pro, 华为手机, 麒麟9030、WiFi7, ¥6499起。 而Mate 80 RS 非凡大师, 华为手机, 全金属玄武架构、双潜望, ¥11999起。"}
+{"instruction": "Pura X Max跟Pura X有啥区别?", "output": "两者都是折叠屏的产品。Pura X Max, 华为手机, 麒麟9030 Pro、7.7寸内屏, ¥10999起。 区别在于Pura X, 华为手机, 麒麟9020、6.3寸16:10阔型屏, ¥7499起。"}
+{"instruction": "Mate X7对比Mate X8怎么选?", "output": "简单说: Mate X7, 华为手机, 麒麟9030 Pro、8.0寸内屏, ¥12999起。 对比Mate X8, 华为手机, 主打8.15寸内屏、麒麟9050 Pro。 建议根据预算和侧重点来选。"}
+{"instruction": "MatePad Pro 13.2 2025跟MatePad Edge有啥区别?", "output": "两者都是MatePad Pro 系列的产品。MatePad Pro 13.2 2025, 华为平板, 13.2寸柔性OLED、麒麟9010, ¥4350起。 区别在于MatePad Edge, 华为平板, 24GB+1TB、万元二合一, ¥9999。"}
+{"instruction": "畅享 90和畅享 90 Pro Max哪个好?", "output": "这要看你的需求。畅享 90, 华为手机, 麒麟8000A 5G、6620mAh, ¥1299起。 而畅享 90 Pro Max, 华为手机, 8500mAh怪兽电池、6.84寸OLED, ¥1699起。"}
+{"instruction": "尊界 V800和尊界 V680哪个好?", "output": "这要看你的需求。尊界 V800, 华为智能汽车, 旗舰MPV、76.6万起, ¥76.6万起。 而尊界 V680, 华为智能汽车, 旗舰MPV、64.8万起, ¥64.8万起。"}
+{"instruction": "Pura 80 Pro跟Pura 80 Ultra有啥区别?", "output": "两者都是Pura 系列的产品。Pura 80 Pro, 华为手机, 麒麟9020、1寸大底RYYB, ¥6499起。 区别在于Pura 80 Ultra, 华为手机, 一镜双目双焦段长焦、100倍变焦, ¥9999起。"}
+{"instruction": "nova 16 SE和nova 16哪个好?", "output": "这要看你的需求。nova 16 SE, 华为手机, 第一代红枫影像、2000-3000价位, ¥2000-3000。 而nova 16, 华为手机, 麒麟9010S、7000mAh超大电池, ¥3499起。"}
+{"instruction": "Mate X7和Mate X6哪个好?", "output": "这要看你的需求。Mate X7, 华为手机, 麒麟9030 Pro、8.0寸内屏, ¥12999起。 而Mate X6, 华为手机, 麒麟9000S Pro、分布式玄武架构, ¥10999起。"}
+{"instruction": "MateBook Pro S和MateBook Pro哪个好?", "output": "这要看你的需求。MateBook Pro S, 华为笔记本, 798g极致轻、麒麟XE90, ¥7999起。 而MateBook Pro, 华为笔记本, 主打970g、麒麟X90 Plus。"}
+{"instruction": "MateBook 14 鸿蒙版和MateBook 14 Linux 版哪个好?", "output": "这要看你的需求。MateBook 14 鸿蒙版, 华为笔记本, 首款数字系列鸿蒙PC, ¥6599起。 而MateBook 14 Linux 版, 华为笔记本, 主打1.31kg轻薄、比Win版便宜300。"}
+{"instruction": "Mate 80对比Mate 80 Pro怎么选?", "output": "简单说: Mate 80, 华为手机, 首配3D人脸、3999起亲民价, ¥3999起。 对比Mate 80 Pro, 华为手机, 麒麟9030、WiFi7, ¥6499起。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 80 Pro Max 风驰版和Mate 80 RS 非凡大师哪个好?", "output": "这要看你的需求。Mate 80 Pro Max 风驰版, 华为手机, Pro Max升级版、2026年3月加推, ¥8499。 而Mate 80 RS 非凡大师, 华为手机, 全金属玄武架构、双潜望, ¥11999起。"}
+{"instruction": "Mate X6和Mate X8哪个好?", "output": "这要看你的需求。Mate X6, 华为手机, 麒麟9000S Pro、分布式玄武架构, ¥10999起。 而Mate X8, 华为手机, 主打8.15寸内屏、麒麟9050 Pro。"}
+{"instruction": "Mate 70 Pro跟Mate 70 Air有啥区别?", "output": "两者都是Mate 系列的产品。Mate 70 Pro, 华为手机, 麒麟9020、6.9寸LTPO, ¥5199起。 区别在于Mate 70 Air, 华为手机, 7寸大屏、6500mAh超大电池, ¥3170起。"}
+{"instruction": "Mate 70 Pro和Mate 70 Pro 优享版哪个好?", "output": "这要看你的需求。Mate 70 Pro, 华为手机, 麒麟9020、6.9寸LTPO, ¥5199起。 而Mate 70 Pro 优享版, 华为手机, 麒麟9020A降频版、价格更友好, ¥5099起。"}
+{"instruction": "nova 16 SE和nova 16 Ultra哪个好?", "output": "这要看你的需求。nova 16 SE, 华为手机, 第一代红枫影像、2000-3000价位, ¥2000-3000。 而nova 16 Ultra, 华为手机, nova最强影像, ¥4699起。"}
+{"instruction": "Pocket 2对比Nova Flip 2怎么选?", "output": "简单说: Pocket 2, 华为手机, 玄武水滴铰链, ¥7999起。 对比Nova Flip 2, 华为手机, 麒麟8030、2026年6月新发, ¥4999。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 80 Pro和Mate 80 Pro Max哪个好?", "output": "这要看你的需求。Mate 80 Pro, 华为手机, 麒麟9030、WiFi7, ¥6499起。 而Mate 80 Pro Max, 华为手机, 双潜望长焦、双层OLED, ¥7499起。"}
+{"instruction": "nova 16 Pro对比nova 16 Ultra怎么选?", "output": "简单说: nova 16 Pro, 华为手机, 256GB到1TB全覆盖, ¥3899起。 对比nova 16 Ultra, 华为手机, nova最强影像, ¥4699起。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 70 Pro 优享版和Mate 70 Air哪个好?", "output": "这要看你的需求。Mate 70 Pro 优享版, 华为手机, 麒麟9020A降频版、价格更友好, ¥5099起。 而Mate 70 Air, 华为手机, 7寸大屏、6500mAh超大电池, ¥3170起。"}
+{"instruction": "问界 M7跟问界 M6有啥区别?", "output": "两者都是问界的产品。问界 M7, 华为智能汽车, 主打中大型SUV。 区别在于问界 M6, 华为智能汽车, 主打中型SUV。"}
+{"instruction": "Vision 智慧屏 6对比Vision 智慧屏 6 SE RGB怎么选?", "output": "简单说: Vision 智慧屏 6, 华为智慧屏, Super MiniLED千级分区、2000nit, ¥6199起。 对比Vision 智慧屏 6 SE RGB, 华为智慧屏, 全球首款RGB-MiniLED、105% BT.2020色域, ¥2974起。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 70对比Mate 70 Pro 优享版怎么选?", "output": "简单说: Mate 70, 华为手机, 麒麟9020、5200mAh, ¥5099起。 对比Mate 70 Pro 优享版, 华为手机, 麒麟9020A降频版、价格更友好, ¥5099起。 建议根据预算和侧重点来选。"}
+{"instruction": "MatePad Pro 13.2 2025对比MatePad Pro 12.2 2025怎么选?", "output": "简单说: MatePad Pro 13.2 2025, 华为平板, 13.2寸柔性OLED、麒麟9010, ¥4350起。 对比MatePad Pro 12.2 2025, 华为平板, 12.2寸双层OLED、10100mAh, ¥3199起。 建议根据预算和侧重点来选。"}
+{"instruction": "nova 16和nova 16 Pro哪个好?", "output": "这要看你的需求。nova 16, 华为手机, 麒麟9010S、7000mAh超大电池, ¥3499起。 而nova 16 Pro, 华为手机, 256GB到1TB全覆盖, ¥3899起。"}
+{"instruction": "nova 16 Pro跟nova 16 Ultra有啥区别?", "output": "两者都是nova 系列的产品。nova 16 Pro, 华为手机, 256GB到1TB全覆盖, ¥3899起。 区别在于nova 16 Ultra, 华为手机, nova最强影像, ¥4699起。"}
+{"instruction": "Pura 90 Pro和Pura 90 Pro Max哪个好?", "output": "这要看你的需求。Pura 90 Pro, 华为手机, 麒麟9030S、比上代降价1000, ¥5499起。 而Pura 90 Pro Max, 华为手机, 2亿像素超大底潜望长焦、20倍高清录像, ¥6499起。"}
+{"instruction": "WATCH FIT 5 Pro和WATCH FIT 5哪个好?", "output": "这要看你的需求。WATCH FIT 5 Pro, 华为智能手表, 主打1.92寸LTPO、ECG。 而WATCH FIT 5, 华为智能手表, 主打27g极致轻、1.74寸。"}
+{"instruction": "问界 M8对比问界 M6怎么选?", "output": "简单说: 问界 M8, 华为智能汽车, 主打大型SUV、问界走量主力。 对比问界 M6, 华为智能汽车, 主打中型SUV。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate X6对比Mate X8怎么选?", "output": "简单说: Mate X6, 华为手机, 麒麟9000S Pro、分布式玄武架构, ¥10999起。 对比Mate X8, 华为手机, 主打8.15寸内屏、麒麟9050 Pro。 建议根据预算和侧重点来选。"}
+{"instruction": "MateTV Max对比Vision 智慧屏 6 SE RGB怎么选?", "output": "简单说: MateTV Max, 华为智慧屏, 110寸巨幕、史上最大Mate, ¥64999。 对比Vision 智慧屏 6 SE RGB, 华为智慧屏, 全球首款RGB-MiniLED、105% BT.2020色域, ¥2974起。 建议根据预算和侧重点来选。"}
+{"instruction": "Pura X Max和Pura X哪个好?", "output": "这要看你的需求。Pura X Max, 华为手机, 麒麟9030 Pro、7.7寸内屏, ¥10999起。 而Pura X, 华为手机, 麒麟9020、6.3寸16:10阔型屏, ¥7499起。"}
+{"instruction": "Mate 70对比Mate 70 RS 非凡大师怎么选?", "output": "简单说: Mate 70, 华为手机, 麒麟9020、5200mAh, ¥5099起。 对比Mate 70 RS 非凡大师, 华为手机, 双层OLED微曲屏、5700mAh, ¥11999起。 建议根据预算和侧重点来选。"}
+{"instruction": "Vision 智慧屏 6 Pro跟Vision 智慧屏 6 SE RGB有啥区别?", "output": "两者都是Vision 系列的产品。Vision 智慧屏 6 Pro, 华为智慧屏, Super MiniLED黑晶屏、130W Hi-Fi音响, ¥5999起。 区别在于Vision 智慧屏 6 SE RGB, 华为智慧屏, 全球首款RGB-MiniLED、105% BT.2020色域, ¥2974起。"}
+{"instruction": "Pura X Max对比Pura X怎么选?", "output": "简单说: Pura X Max, 华为手机, 麒麟9030 Pro、7.7寸内屏, ¥10999起。 对比Pura X, 华为手机, 麒麟9020、6.3寸16:10阔型屏, ¥7499起。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 70 Pro+和Mate 70 RS 非凡大师哪个好?", "output": "这要看你的需求。Mate 70 Pro+, 华为手机, 16GB大内存、2K直屏, ¥6699起。 而Mate 70 RS 非凡大师, 华为手机, 双层OLED微曲屏、5700mAh, ¥11999起。"}
+{"instruction": "畅享 90 Plus对比畅享 90 Pro Max怎么选?", "output": "简单说: 畅享 90 Plus, 华为手机, 麒麟8000 5G、6620mAh, ¥1499起。 对比畅享 90 Pro Max, 华为手机, 8500mAh怪兽电池、6.84寸OLED, ¥1699起。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 70 Pro+对比Mate 70 Air怎么选?", "output": "简单说: Mate 70 Pro+, 华为手机, 16GB大内存、2K直屏, ¥6699起。 对比Mate 70 Air, 华为手机, 7寸大屏、6500mAh超大电池, ¥3170起。 建议根据预算和侧重点来选。"}
+{"instruction": "Nova Flip 2对比Nova Flip S怎么选?", "output": "简单说: Nova Flip 2, 华为手机, 麒麟8030、2026年6月新发, ¥4999。 对比Nova Flip S, 华为手机, 最便宜折叠屏3388起, ¥3388起。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 70 Pro 优享版对比Mate 70 RS 非凡大师怎么选?", "output": "简单说: Mate 70 Pro 优享版, 华为手机, 麒麟9020A降频版、价格更友好, ¥5099起。 对比Mate 70 RS 非凡大师, 华为手机, 双层OLED微曲屏、5700mAh, ¥11999起。 建议根据预算和侧重点来选。"}
+{"instruction": "nova 16 SE对比nova 16 Ultra怎么选?", "output": "简单说: nova 16 SE, 华为手机, 第一代红枫影像、2000-3000价位, ¥2000-3000。 对比nova 16 Ultra, 华为手机, nova最强影像, ¥4699起。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate XTs 非凡大师对比Mate XT2怎么选?", "output": "简单说: Mate XTs 非凡大师, 华为手机, 10.1寸展开当平板用、PC级应用, ¥18000起。 对比Mate XT2, 华为手机, 主打U型三折叠、麒麟9050。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 80 Pro对比Mate 80 RS 非凡大师怎么选?", "output": "简单说: Mate 80 Pro, 华为手机, 麒麟9030、WiFi7, ¥6499起。 对比Mate 80 RS 非凡大师, 华为手机, 全金属玄武架构、双潜望, ¥11999起。 建议根据预算和侧重点来选。"}
+{"instruction": "MateTV Max对比Vision 智慧屏 6怎么选?", "output": "简单说: MateTV Max, 华为智慧屏, 110寸巨幕、史上最大Mate, ¥64999。 对比Vision 智慧屏 6, 华为智慧屏, Super MiniLED千级分区、2000nit, ¥6199起。 建议根据预算和侧重点来选。"}
+{"instruction": "Mate 70和Mate 70 Pro哪个好?", "output": "这要看你的需求。Mate 70, 华为手机, 麒麟9020、5200mAh, ¥5099起。 而Mate 70 Pro, 华为手机, 麒麟9020、6.9寸LTPO, ¥5199起。"}
+{"instruction": "华为折叠屏手机有哪些? 各有什么特点?", "output": "华为折叠屏目前有四种形态: 三折叠(Mate X7为代表)、横向大折叠(Mate X系列)、阔折叠(Pura X系列, 16:10比例)、竖向小折叠(Pocket和Nova Flip系列)。具体产品包括: Mate X7(¥12999起)、Mate X6(¥10999起)、Mate X8、Mate XTs 非凡大师(¥18000起)、Mate XT2、Pura X Max(¥10999起)、Pura X(¥7499起)、Pocket 2(¥7999起)、Nova Flip 2(¥4999)、Nova Flip S(¥3388起)、MateBook Fold 非凡大师(¥24999)。"}
+{"instruction": "华为三折叠和大折叠有什么区别?", "output": "三折叠像Mate XTs展开有10.1寸, 接近平板体验, 价格也最贵(18000起); 大折叠像Mate X7展开8寸, 是传统折叠屏形态, 价格11000起。三折叠多了一折, 屏幕更大但更重更贵。"}
+{"instruction": "华为最便宜的手机是哪款?", "output": "目前华为最便宜的手机是畅享 90, ¥1299起。畅享 90, 华为手机, 麒麟8000A 5G、6620mAh, ¥1299起。"}
+{"instruction": "华为最贵的手机是什么?", "output": "华为最贵的手机是Mate XTs 非凡大师, ¥18000起。Mate XTs 非凡大师, 华为手机, 10.1寸展开当平板用、PC级应用, ¥18000起。"}
+{"instruction": "华为最便宜的平板是哪款?", "output": "目前华为最便宜的平板是MatePad SE 标准版 11寸, ¥1399起。MatePad SE 标准版 11寸, 华为平板, 骁龙685、7700mAh, ¥1399起。"}
+{"instruction": "华为最贵的平板是什么?", "output": "华为最贵的平板是MatePad Edge, ¥9999。MatePad Edge, 华为平板, 24GB+1TB、万元二合一, ¥9999。"}
+{"instruction": "华为最便宜的笔记本是哪款?", "output": "目前华为最便宜的笔记本是MateBook D 16 SE, ¥4000-5000。MateBook D 16 SE, 华为笔记本, 16寸护眼屏、数字小键盘, ¥4000-5000。"}
+{"instruction": "华为最贵的笔记本是什么?", "output": "华为最贵的笔记本是MateBook Fold 非凡大师, ¥24999。MateBook Fold 非凡大师, 华为笔记本, 18寸折叠巨幕、24999最贵华为PC, ¥24999。"}
+{"instruction": "华为最便宜的智能手表是哪款?", "output": "目前华为最便宜的智能手表是WATCH GT 7 41mm, ¥1488起。WATCH GT 7 41mm, 华为智能手表, 14天续航、小巧女款, ¥1488起。"}
+{"instruction": "华为最贵的智能手表是什么?", "output": "华为最贵的智能手表是ULTIMATE DESIGN 紫金, ¥26888。ULTIMATE DESIGN 紫金, 华为智能手表, 10段18K黄金、紫色陶瓷表圈, ¥26888。"}
+{"instruction": "华为最便宜的智慧屏是哪款?", "output": "目前华为最便宜的智慧屏是Vision 智慧屏 6 SE RGB, ¥2974起。Vision 智慧屏 6 SE RGB, 华为智慧屏, 全球首款RGB-MiniLED、105% BT.2020色域, ¥2974起。"}
+{"instruction": "华为最贵的智慧屏是什么?", "output": "华为最贵的智慧屏是MateTV Max, ¥64999。MateTV Max, 华为智慧屏, 110寸巨幕、史上最大Mate, ¥64999。"}
+{"instruction": "华为最便宜的智能汽车是哪款?", "output": "目前华为最便宜的智能汽车是享界 G9, ¥43.98万起。享界 G9, 华为智能汽车, 硬派SUV、对标奔驰大G, ¥43.98万起。"}
+{"instruction": "华为最贵的智能汽车是什么?", "output": "华为最贵的智能汽车是尊界 V800, ¥76.6万起。尊界 V800, 华为智能汽车, 旗舰MPV、76.6万起, ¥76.6万起。"}
+{"instruction": "798g的笔记本是哪个?", "output": "是MateBook Pro S。MateBook Pro S, 华为笔记本, 798g极致轻、麒麟XE90, ¥7999起。"}
+{"instruction": "970g的笔记本是哪个?", "output": "是MateBook Pro。MateBook Pro, 华为笔记本, 主打970g、麒麟X90 Plus。"}
+{"instruction": "54.5g的智能手表是哪个?", "output": "是WATCH Buds 2。WATCH Buds 2, 华为智能手表, 主打手表藏耳机、54.5g钛合金。"}
+{"instruction": "4g的智能手表是哪个?", "output": "是WATCH Buds 2。WATCH Buds 2, 华为智能手表, 主打手表藏耳机、54.5g钛合金。"}
+{"instruction": "27g的智能手表是哪个?", "output": "是WATCH FIT 5。WATCH FIT 5, 华为智能手表, 主打27g极致轻、1.74寸。"}
+{"instruction": "5.1g的耳机是哪个?", "output": "是FreeClip 2。FreeClip 2, 华为耳机, 不塞耳朵、5.1g极致轻, ¥1299。"}
+{"instruction": "35.5g的智能眼镜是哪个?", "output": "是鸿蒙 AI 眼镜。鸿蒙 AI 眼镜, 华为智能眼镜, 35.5g比Meta轻、6.25mm超薄镜腿, ¥2499。"}
+{"instruction": "MatePad Pro 13.2 2025还在卖吗?", "output": "MatePad Pro 13.2 2025目前还在售。MatePad Pro 13.2 2025, 华为平板, 13.2寸柔性OLED、麒麟9010, ¥4350起。"}
+{"instruction": "MatePad 11.5 2026还在卖吗?", "output": "MatePad 11.5 2026目前还在售。MatePad 11.5 2026, 华为平板, 护眼屏、鸿蒙AI, ¥1530起。"}
+{"instruction": "MatePad Mini还在卖吗?", "output": "MatePad Mini目前还在售。MatePad Mini, 华为平板, 悦读版/柔光版/全网通多版本可选, ¥2465起。"}
+{"instruction": "Sound X5 悦彰上市了吗?", "output": "已经上市了, 目前在售。Sound X5 悦彰, 华为音箱, 主打帝瓦雷联合调音、发布会音响担当。"}
+{"instruction": "Mate 70 Air还在卖吗?", "output": "Mate 70 Air目前还在售。Mate 70 Air, 华为手机, 7寸大屏、6500mAh超大电池, ¥3170起。"}
+{"instruction": "Pura 80 Ultra还在卖吗?", "output": "Pura 80 Ultra目前还在售。Pura 80 Ultra, 华为手机, 一镜双目双焦段长焦、100倍变焦, ¥9999起。"}
+{"instruction": "Mate X7上市了吗?", "output": "已经上市了, 目前在售。Mate X7, 华为手机, 麒麟9030 Pro、8.0寸内屏, ¥12999起。"}
+{"instruction": "nova 16 Pro还在卖吗?", "output": "nova 16 Pro目前还在售。nova 16 Pro, 华为手机, 256GB到1TB全覆盖, ¥3899起。"}
+{"instruction": "MateBook 14 鸿蒙版上市了吗?", "output": "已经上市了, 目前在售。MateBook 14 鸿蒙版, 华为笔记本, 首款数字系列鸿蒙PC, ¥6599起。"}
+{"instruction": "Mate X6还在卖吗?", "output": "Mate X6目前还在售。Mate X6, 华为手机, 麒麟9000S Pro、分布式玄武架构, ¥10999起。"}
+{"instruction": "Nova Flip S上市了吗?", "output": "已经上市了, 目前在售。Nova Flip S, 华为手机, 最便宜折叠屏3388起, ¥3388起。"}
+{"instruction": "Mate 70 Pro+还在卖吗?", "output": "Mate 70 Pro+目前还在售。Mate 70 Pro+, 华为手机, 16GB大内存、2K直屏, ¥6699起。"}
+{"instruction": "WATCH Ultimate 2上市了吗?", "output": "已经上市了, 目前在售。WATCH Ultimate 2, 华为智能手表, 主打北斗卫星语音消息、150米潜水带音频。"}
+{"instruction": "MateBook E / E GO上市了吗?", "output": "已经上市了, 目前在售。MateBook E / E GO, 华为笔记本, 主打可拆卸设计、平板笔记本二合一。"}
+{"instruction": "MatePad 11.5 S上市了吗?", "output": "已经上市了, 目前在售。MatePad 11.5 S, 华为平板, 2.8K 144Hz、柔光屏可选, ¥1670起。"}
+{"instruction": "智界 新S7还在卖吗?", "output": "智界 新S7目前还在售。智界 新S7, 华为智能汽车, 主打轿车。"}
+{"instruction": "WATCH Buds 2还在卖吗?", "output": "WATCH Buds 2目前还在售。WATCH Buds 2, 华为智能手表, 主打手表藏耳机、54.5g钛合金。"}
+{"instruction": "问界 M8上市了吗?", "output": "已经上市了, 目前在售。问界 M8, 华为智能汽车, 主打大型SUV、问界走量主力。"}
+{"instruction": "Mate 70 Pro 优享版上市了吗?", "output": "已经上市了, 目前在售。Mate 70 Pro 优享版, 华为手机, 麒麟9020A降频版、价格更友好, ¥5099起。"}
+{"instruction": "Nova Flip 2上市了吗?", "output": "已经上市了, 目前在售。Nova Flip 2, 华为手机, 麒麟8030、2026年6月新发, ¥4999。"}
+{"instruction": "ULTIMATE DESIGN 紫金还在卖吗?", "output": "ULTIMATE DESIGN 紫金目前还在售。ULTIMATE DESIGN 紫金, 华为智能手表, 10段18K黄金、紫色陶瓷表圈, ¥26888。"}
+{"instruction": "MateBook 14 Linux 版还在卖吗?", "output": "MateBook 14 Linux 版目前还在售。MateBook 14 Linux 版, 华为笔记本, 主打1.31kg轻薄、比Win版便宜300。"}
+{"instruction": "鸿蒙 AI 眼镜还在卖吗?", "output": "鸿蒙 AI 眼镜目前还在售。鸿蒙 AI 眼镜, 华为智能眼镜, 35.5g比Meta轻、6.25mm超薄镜腿, ¥2499。"}
+{"instruction": "Mate 80 Pro Max上市了吗?", "output": "已经上市了, 目前在售。Mate 80 Pro Max, 华为手机, 双潜望长焦、双层OLED, ¥7499起。"}
+{"instruction": "Vision 智慧屏 6 SE RGB还在卖吗?", "output": "Vision 智慧屏 6 SE RGB目前还在售。Vision 智慧屏 6 SE RGB, 华为智慧屏, 全球首款RGB-MiniLED、105% BT.2020色域, ¥2974起。"}
+{"instruction": "MateBook 14 鸿蒙版还在卖吗?", "output": "MateBook 14 鸿蒙版目前还在售。MateBook 14 鸿蒙版, 华为笔记本, 首款数字系列鸿蒙PC, ¥6599起。"}
+{"instruction": "WATCH FIT 5 Pro上市了吗?", "output": "已经上市了, 目前在售。WATCH FIT 5 Pro, 华为智能手表, 主打1.92寸LTPO、ECG。"}
+{"instruction": "Mate 80上市了吗?", "output": "已经上市了, 目前在售。Mate 80, 华为手机, 首配3D人脸、3999起亲民价, ¥3999起。"}
+{"instruction": "MateBook Fold 非凡大师上市了吗?", "output": "已经上市了, 目前在售。MateBook Fold 非凡大师, 华为笔记本, 18寸折叠巨幕、24999最贵华为PC, ¥24999。"}
+{"instruction": "MatePad Edge上市了吗?", "output": "已经上市了, 目前在售。MatePad Edge, 华为平板, 24GB+1TB、万元二合一, ¥9999。"}
+{"instruction": "尊界 V800还在卖吗?", "output": "尊界 V800目前还在售。尊界 V800, 华为智能汽车, 旗舰MPV、76.6万起, ¥76.6万起。"}
+{"instruction": "尊界 V800上市了吗?", "output": "已经上市了, 目前在售。尊界 V800, 华为智能汽车, 旗舰MPV、76.6万起, ¥76.6万起。"}
+{"instruction": "Sound X5 悦彰还在卖吗?", "output": "Sound X5 悦彰目前还在售。Sound X5 悦彰, 华为音箱, 主打帝瓦雷联合调音、发布会音响担当。"}
+{"instruction": "Sound Joy 系列还在卖吗?", "output": "Sound Joy 系列目前还在售。Sound Joy 系列, 华为音箱, 主打便携蓝牙、户外用。"}
+{"instruction": "nova 16 SE上市了吗?", "output": "已经上市了, 目前在售。nova 16 SE, 华为手机, 第一代红枫影像、2000-3000价位, ¥2000-3000。"}
+{"instruction": "WATCH FIT 5上市了吗?", "output": "已经上市了, 目前在售。WATCH FIT 5, 华为智能手表, 主打27g极致轻、1.74寸。"}
+{"instruction": "Sound Joy 系列上市了吗?", "output": "已经上市了, 目前在售。Sound Joy 系列, 华为音箱, 主打便携蓝牙、户外用。"}
+{"instruction": "尚界 Z7 / Z7T上市了吗?", "output": "已经上市了, 目前在售。尚界 Z7 / Z7T, 华为智能汽车, 主打年轻人轿跑。"}
+{"instruction": "WATCH GT 7 Pro 46mm还在卖吗?", "output": "WATCH GT 7 Pro 46mm目前还在售。WATCH GT 7 Pro 46mm, 华为智能手表, 钛合金+蓝宝石、专业登山潜水模式, ¥2488起。"}
+{"instruction": "MateTV Max还在卖吗?", "output": "MateTV Max目前还在售。MateTV Max, 华为智慧屏, 110寸巨幕、史上最大Mate, ¥64999。"}
+{"instruction": "Mate 80 Pro Max 风驰版上市了吗?", "output": "已经上市了, 目前在售。Mate 80 Pro Max 风驰版, 华为手机, Pro Max升级版、2026年3月加推, ¥8499。"}
+{"instruction": "Vision 智慧屏 6 Pro上市了吗?", "output": "已经上市了, 目前在售。Vision 智慧屏 6 Pro, 华为智慧屏, Super MiniLED黑晶屏、130W Hi-Fi音响, ¥5999起。"}
+{"instruction": "MatePad 11.5 2026上市了吗?", "output": "已经上市了, 目前在售。MatePad 11.5 2026, 华为平板, 护眼屏、鸿蒙AI, ¥1530起。"}
+{"instruction": "MateBook E / E GO还在卖吗?", "output": "MateBook E / E GO目前还在售。MateBook E / E GO, 华为笔记本, 主打可拆卸设计、平板笔记本二合一。"}
+{"instruction": "Mate XTs 非凡大师还在卖吗?", "output": "Mate XTs 非凡大师目前还在售。Mate XTs 非凡大师, 华为手机, 10.1寸展开当平板用、PC级应用, ¥18000起。"}
+{"instruction": "享界 G9上市了吗?", "output": "已经上市了, 目前在售。享界 G9, 华为智能汽车, 硬派SUV、对标奔驰大G, ¥43.98万起。"}
+{"instruction": "Pura 80 Pro上市了吗?", "output": "已经上市了, 目前在售。Pura 80 Pro, 华为手机, 麒麟9020、1寸大底RYYB, ¥6499起。"}
+{"instruction": "Mate 80 Pro Max 风驰版还在卖吗?", "output": "Mate 80 Pro Max 风驰版目前还在售。Mate 80 Pro Max 风驰版, 华为手机, Pro Max升级版、2026年3月加推, ¥8499。"}
+{"instruction": "WATCH GT 7 41mm上市了吗?", "output": "已经上市了, 目前在售。WATCH GT 7 41mm, 华为智能手表, 14天续航、小巧女款, ¥1488起。"}
+{"instruction": "Pocket 2上市了吗?", "output": "已经上市了, 目前在售。Pocket 2, 华为手机, 玄武水滴铰链, ¥7999起。"}
+{"instruction": "MatePad Edge还在卖吗?", "output": "MatePad Edge目前还在售。MatePad Edge, 华为平板, 24GB+1TB、万元二合一, ¥9999。"}
+{"instruction": "MatePad Pro 12.2 2025上市了吗?", "output": "已经上市了, 目前在售。MatePad Pro 12.2 2025, 华为平板, 12.2寸双层OLED、10100mAh, ¥3199起。"}
+{"instruction": "享界 S9 / S9T上市了吗?", "output": "已经上市了, 目前在售。享界 S9 / S9T, 华为智能汽车, 主打豪华轿车。"}
+{"instruction": "Mate 80 Pro上市了吗?", "output": "已经上市了, 目前在售。Mate 80 Pro, 华为手机, 麒麟9030、WiFi7, ¥6499起。"}
+{"instruction": "Mate 70还在卖吗?", "output": "Mate 70目前还在售。Mate 70, 华为手机, 麒麟9020、5200mAh, ¥5099起。"}
+{"instruction": "MatePad Mini上市了吗?", "output": "已经上市了, 目前在售。MatePad Mini, 华为平板, 悦读版/柔光版/全网通多版本可选, ¥2465起。"}
+{"instruction": "问界 M7上市了吗?", "output": "已经上市了, 目前在售。问界 M7, 华为智能汽车, 主打中大型SUV。"}
+{"instruction": "Mate 70 Pro+上市了吗?", "output": "已经上市了, 目前在售。Mate 70 Pro+, 华为手机, 16GB大内存、2K直屏, ¥6699起。"}
+{"instruction": "ULTIMATE DESIGN 星钻上市了吗?", "output": "已经上市了, 目前在售。ULTIMATE DESIGN 星钻, 华为智能手表, 主打98颗天然钻石、前LV珠宝总监设计。"}
+{"instruction": "智界 V9还在卖吗?", "output": "智界 V9目前还在售。智界 V9, 华为智能汽车, 主打轿跑SUV。"}
+{"instruction": "Pura 90还在卖吗?", "output": "Pura 90目前还在售。Pura 90, 华为手机, HarmonyOS 6.1, ¥4699起。"}
+{"instruction": "华为手环 11还在卖吗?", "output": "华为手环 11目前还在售。华为手环 11, 华为智能手表, 主打入门健康监测、最便宜华为穿戴。"}
+{"instruction": "Pura 80 Pro+还在卖吗?", "output": "Pura 80 Pro+目前还在售。Pura 80 Pro+, 华为手机, 1寸高动态版、天通+北斗双卫星, ¥7999起。"}
+{"instruction": "Pura X上市了吗?", "output": "已经上市了, 目前在售。Pura X, 华为手机, 麒麟9020、6.3寸16:10阔型屏, ¥7499起。"}
+{"instruction": "Mate X8什么时候发布?", "output": "Mate X8预计即将发布发布, 具体时间等官方公布。"}
+{"instruction": "Pura 90 Pro Max还在卖吗?", "output": "Pura 90 Pro Max目前还在售。Pura 90 Pro Max, 华为手机, 2亿像素超大底潜望长焦、20倍高清录像, ¥6499起。"}
+{"instruction": "nova 16上市了吗?", "output": "已经上市了, 目前在售。nova 16, 华为手机, 麒麟9010S、7000mAh超大电池, ¥3499起。"}
+{"instruction": "WATCH GT Runner 2上市了吗?", "output": "已经上市了, 目前在售。WATCH GT Runner 2, 华为智能手表, 主打轻量化、专业跑步指标。"}
+{"instruction": "Mate XTs 非凡大师上市了吗?", "output": "已经上市了, 目前在售。Mate XTs 非凡大师, 华为手机, 10.1寸展开当平板用、PC级应用, ¥18000起。"}
+{"instruction": "MateView GT上市了吗?", "output": "已经上市了, 目前在售。MateView GT, 华为显示器, 主打电竞曲面屏。"}
+{"instruction": "FreeClip 2上市了吗?", "output": "已经上市了, 目前在售。FreeClip 2, 华为耳机, 不塞耳朵、5.1g极致轻, ¥1299。"}
+{"instruction": "智界 R7还在卖吗?", "output": "智界 R7目前还在售。智界 R7, 华为智能汽车, 主打轿跑SUV。"}
+{"instruction": "MateBook X Pro上市了吗?", "output": "已经上市了, 目前在售。MateBook X Pro, 华为笔记本, 主打酷睿Ultra9、3.1K OLED柔性屏。"}
+{"instruction": "Nova Flip S还在卖吗?", "output": "Nova Flip S目前还在售。Nova Flip S, 华为手机, 最便宜折叠屏3388起, ¥3388起。"}
+{"instruction": "华为手环 11上市了吗?", "output": "已经上市了, 目前在售。华为手环 11, 华为智能手表, 主打入门健康监测、最便宜华为穿戴。"}
+{"instruction": "WATCH Buds 2上市了吗?", "output": "已经上市了, 目前在售。WATCH Buds 2, 华为智能手表, 主打手表藏耳机、54.5g钛合金。"}
+{"instruction": "nova 16 Pro上市了吗?", "output": "已经上市了, 目前在售。nova 16 Pro, 华为手机, 256GB到1TB全覆盖, ¥3899起。"}
+{"instruction": "Mate 80 Pro还在卖吗?", "output": "Mate 80 Pro目前还在售。Mate 80 Pro, 华为手机, 麒麟9030、WiFi7, ¥6499起。"}
+{"instruction": "MateBook X Pro还在卖吗?", "output": "MateBook X Pro目前还在售。MateBook X Pro, 华为笔记本, 主打酷睿Ultra9、3.1K OLED柔性屏。"}
+{"instruction": "MateTV Max上市了吗?", "output": "已经上市了, 目前在售。MateTV Max, 华为智慧屏, 110寸巨幕、史上最大Mate, ¥64999。"}
+{"instruction": "WATCH GT 7 46mm还在卖吗?", "output": "WATCH GT 7 46mm目前还在售。WATCH GT 7 46mm, 华为智能手表, 21天续航、骑行模拟功率, ¥1588起。"}
+{"instruction": "Mate XT2什么时候发布?", "output": "Mate XT2预计即将发布发布, 具体时间等官方公布。"}
+{"instruction": "Pura 90 Pro Max上市了吗?", "output": "已经上市了, 目前在售。Pura 90 Pro Max, 华为手机, 2亿像素超大底潜望长焦、20倍高清录像, ¥6499起。"}
+{"instruction": "MatePad 11.5 S还在卖吗?", "output": "MatePad 11.5 S目前还在售。MatePad 11.5 S, 华为平板, 2.8K 144Hz、柔光屏可选, ¥1670起。"}
+{"instruction": "Mate 80 RS 非凡大师还在卖吗?", "output": "Mate 80 RS 非凡大师目前还在售。Mate 80 RS 非凡大师, 华为手机, 全金属玄武架构、双潜望, ¥11999起。"}
+{"instruction": "MateBook Pro S还在卖吗?", "output": "MateBook Pro S目前还在售。MateBook Pro S, 华为笔记本, 798g极致轻、麒麟XE90, ¥7999起。"}
+{"instruction": "MateView GT还在卖吗?", "output": "MateView GT目前还在售。MateView GT, 华为显示器, 主打电竞曲面屏。"}
+{"instruction": "WATCH FIT 5 Pro还在卖吗?", "output": "WATCH FIT 5 Pro目前还在售。WATCH FIT 5 Pro, 华为智能手表, 主打1.92寸LTPO、ECG。"}
+{"instruction": "Pura 80 Pro还在卖吗?", "output": "Pura 80 Pro目前还在售。Pura 80 Pro, 华为手机, 麒麟9020、1寸大底RYYB, ¥6499起。"}
+{"instruction": "Pura 90 Pro还在卖吗?", "output": "Pura 90 Pro目前还在售。Pura 90 Pro, 华为手机, 麒麟9030S、比上代降价1000, ¥5499起。"}
+{"instruction": "WATCH Ultimate 2还在卖吗?", "output": "WATCH Ultimate 2目前还在售。WATCH Ultimate 2, 华为智能手表, 主打北斗卫星语音消息、150米潜水带音频。"}
+{"instruction": "MatePad Air 2026还在卖吗?", "output": "MatePad Air 2026目前还在售。MatePad Air 2026, 华为平板, 主打PaperMatte柔光屏、麒麟T93C。"}
+{"instruction": "Mate 70 RS 非凡大师上市了吗?", "output": "已经上市了, 目前在售。Mate 70 RS 非凡大师, 华为手机, 双层OLED微曲屏、5700mAh, ¥11999起。"}
+{"instruction": "Pura 80上市了吗?", "output": "已经上市了, 目前在售。Pura 80, 华为手机, 主打麒麟9010S、6.6寸唯一直屏Pura。"}
+{"instruction": "问界 M7还在卖吗?", "output": "问界 M7目前还在售。问界 M7, 华为智能汽车, 主打中大型SUV。"}
+{"instruction": "问界 M6上市了吗?", "output": "已经上市了, 目前在售。问界 M6, 华为智能汽车, 主打中型SUV。"}
+{"instruction": "Mate 70 Pro 优享版还在卖吗?", "output": "Mate 70 Pro 优享版目前还在售。Mate 70 Pro 优享版, 华为手机, 麒麟9020A降频版、价格更友好, ¥5099起。"}
+{"instruction": "WATCH FIT 5还在卖吗?", "output": "WATCH FIT 5目前还在售。WATCH FIT 5, 华为智能手表, 主打27g极致轻、1.74寸。"}
+{"instruction": "ULTIMATE DESIGN 星钻还在卖吗?", "output": "ULTIMATE DESIGN 星钻目前还在售。ULTIMATE DESIGN 星钻, 华为智能手表, 主打98颗天然钻石、前LV珠宝总监设计。"}
+{"instruction": "WATCH GT 7 41mm还在卖吗?", "output": "WATCH GT 7 41mm目前还在售。WATCH GT 7 41mm, 华为智能手表, 14天续航、小巧女款, ¥1488起。"}
+{"instruction": "MateBook 14 Linux 版上市了吗?", "output": "已经上市了, 目前在售。MateBook 14 Linux 版, 华为笔记本, 主打1.31kg轻薄、比Win版便宜300。"}
+{"instruction": "Pura X还在卖吗?", "output": "Pura X目前还在售。Pura X, 华为手机, 麒麟9020、6.3寸16:10阔型屏, ¥7499起。"}
+{"instruction": "Mate 70 Air上市了吗?", "output": "已经上市了, 目前在售。Mate 70 Air, 华为手机, 7寸大屏、6500mAh超大电池, ¥3170起。"}
+{"instruction": "MatePad Air 12 2025上市了吗?", "output": "已经上市了, 目前在售。MatePad Air 12 2025, 华为平板, 12寸2.8K 144Hz、麒麟900, ¥2125起。"}
+{"instruction": "智界 R7上市了吗?", "output": "已经上市了, 目前在售。智界 R7, 华为智能汽车, 主打轿跑SUV。"}
+{"instruction": "问界 M6还在卖吗?", "output": "问界 M6目前还在售。问界 M6, 华为智能汽车, 主打中型SUV。"}
+{"instruction": "Mate 70 Pro上市了吗?", "output": "已经上市了, 目前在售。Mate 70 Pro, 华为手机, 麒麟9020、6.9寸LTPO, ¥5199起。"}
+{"instruction": "MatePad SE 标准版 11寸还在卖吗?", "output": "MatePad SE 标准版 11寸目前还在售。MatePad SE 标准版 11寸, 华为平板, 骁龙685、7700mAh, ¥1399起。"}
+{"instruction": "MateBook D 16 SE上市了吗?", "output": "已经上市了, 目前在售。MateBook D 16 SE, 华为笔记本, 16寸护眼屏、数字小键盘, ¥4000-5000。"}
+{"instruction": "问界 M8还在卖吗?", "output": "问界 M8目前还在售。问界 M8, 华为智能汽车, 主打大型SUV、问界走量主力。"}
+{"instruction": "WATCH GT Runner 2还在卖吗?", "output": "WATCH GT Runner 2目前还在售。WATCH GT Runner 2, 华为智能手表, 主打轻量化、专业跑步指标。"}
+{"instruction": "尚界 Z7 / Z7T还在卖吗?", "output": "尚界 Z7 / Z7T目前还在售。尚界 Z7 / Z7T, 华为智能汽车, 主打年轻人轿跑。"}
+{"instruction": "Mate 80 Pro Max还在卖吗?", "output": "Mate 80 Pro Max目前还在售。Mate 80 Pro Max, 华为手机, 双潜望长焦、双层OLED, ¥7499起。"}
+{"instruction": "Mate X7还在卖吗?", "output": "Mate X7目前还在售。Mate X7, 华为手机, 麒麟9030 Pro、8.0寸内屏, ¥12999起。"}
+{"instruction": "MateBook Pro还在卖吗?", "output": "MateBook Pro目前还在售。MateBook Pro, 华为笔记本, 主打970g、麒麟X90 Plus。"}
+{"instruction": "MateBook D 16 SE还在卖吗?", "output": "MateBook D 16 SE目前还在售。MateBook D 16 SE, 华为笔记本, 16寸护眼屏、数字小键盘, ¥4000-5000。"}
+{"instruction": "Mate X6上市了吗?", "output": "已经上市了, 目前在售。Mate X6, 华为手机, 麒麟9000S Pro、分布式玄武架构, ¥10999起。"}
+{"instruction": "尊界 V680上市了吗?", "output": "已经上市了, 目前在售。尊界 V680, 华为智能汽车, 旗舰MPV、64.8万起, ¥64.8万起。"}
+{"instruction": "MateBook Pro上市了吗?", "output": "已经上市了, 目前在售。MateBook Pro, 华为笔记本, 主打970g、麒麟X90 Plus。"}
+{"instruction": "MateBook Fold 非凡大师还在卖吗?", "output": "MateBook Fold 非凡大师目前还在售。MateBook Fold 非凡大师, 华为笔记本, 18寸折叠巨幕、24999最贵华为PC, ¥24999。"}
