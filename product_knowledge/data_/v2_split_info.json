@@ -1,0 +1,81 @@
+{
+  "held_out_names": [
+    "Mate 80",
+    "Mate 70 Pro 优享版",
+    "Pura 80 Pro",
+    "Mate X6",
+    "Pocket 2",
+    "nova 16 SE",
+    "畅享 90 Plus",
+    "MatePad Air 12 2025",
+    "MateBook 14 Linux 版",
+    "WATCH GT 7 41mm",
+    "FreeBuds 7i",
+    "Vision 智慧屏 5 Pro",
+    "享界 S9 / S9T"
+  ],
+  "held_out_products": [
+    {
+      "name": "Mate 80",
+      "category": "手机",
+      "series": "Mate 系列"
+    },
+    {
+      "name": "Mate 70 Pro 优享版",
+      "category": "手机",
+      "series": "Mate 系列"
+    },
+    {
+      "name": "Pura 80 Pro",
+      "category": "手机",
+      "series": "Pura 系列"
+    },
+    {
+      "name": "Mate X6",
+      "category": "手机",
+      "series": "折叠屏"
+    },
+    {
+      "name": "Pocket 2",
+      "category": "手机",
+      "series": "折叠屏"
+    },
+    {
+      "name": "nova 16 SE",
+      "category": "手机",
+      "series": "nova 系列"
+    },
+    {
+      "name": "畅享 90 Plus",
+      "category": "手机",
+      "series": "畅享系列"
+    },
+    {
+      "name": "MatePad Air 12 2025",
+      "category": "平板",
+      "series": "MatePad Air 系列"
+    },
+    {
+      "name": "MateBook 14 Linux 版",
+      "category": "笔记本",
+      "series": "MateBook 数字系列"
+    },
+    {
+      "name": "WATCH GT 7 41mm",
+      "category": "智能手表",
+      "series": "WATCH GT 系列"
+    },
+    {
+      "name": "FreeBuds 7i",
+      "category": "耳机",
+      "series": "FreeBuds 数字系列"
+    },
+    {
+      "name": "享界 S9 / S9T",
+      "category": "智能汽车",
+      "series": "享界"
+    }
+  ],
+  "train_count": 77,
+  "held_count": 12
+}

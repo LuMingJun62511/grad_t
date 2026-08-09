@@ -1,0 +1,85 @@
+{"instruction": "列出5000-8000元价位、支持卫星通信的手机", "output": "Mate 70 Pro+、Pura 80 Pro+", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["Mate 70 Pro+", "Pura 80 Pro+"]}
+{"instruction": "华为的5000-8000元价位、支持卫星通信的手机有哪些？", "output": "Mate 70 Pro+、Pura 80 Pro+", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["Mate 70 Pro+", "Pura 80 Pro+"]}
+{"instruction": "哪些产品是5000-8000元价位、支持卫星通信的手机？", "output": "Mate 70 Pro+、Pura 80 Pro+", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["Mate 70 Pro+", "Pura 80 Pro+"]}
+{"instruction": "列出搭载麒麟9030或9030 Pro芯片的手机", "output": "Mate 80 Pro、Pura 90 Pro、Mate X7、Pura X Max", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["Mate 80 Pro", "Pura 90 Pro", "Mate X7", "Pura X Max"]}
+{"instruction": "华为的搭载麒麟9030或9030 Pro芯片的手机有哪些？", "output": "Mate 80 Pro、Pura 90 Pro、Mate X7、Pura X Max", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["Mate 80 Pro", "Pura 90 Pro", "Mate X7", "Pura X Max"]}
+{"instruction": "哪些产品是搭载麒麟9030或9030 Pro芯片的手机？", "output": "Mate 80 Pro、Pura 90 Pro、Mate X7、Pura X Max", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["Mate 80 Pro", "Pura 90 Pro", "Mate X7", "Pura X Max"]}
+{"instruction": "列出支持血压监测的华为手表", "output": "ULTIMATE DESIGN 星钻、WATCH D2", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["ULTIMATE DESIGN 星钻", "WATCH D2"]}
+{"instruction": "华为的支持血压监测的华为手表有哪些？", "output": "ULTIMATE DESIGN 星钻、WATCH D2", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["ULTIMATE DESIGN 星钻", "WATCH D2"]}
+{"instruction": "哪些产品是支持血压监测的华为手表？", "output": "ULTIMATE DESIGN 星钻、WATCH D2", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["ULTIMATE DESIGN 星钻", "WATCH D2"]}
+{"instruction": "列出最新款、支持北斗卫星的华为产品", "output": "Mate 80 RS 非凡大师、MatePad Pro 2026、WATCH Ultimate 2", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["Mate 80 RS 非凡大师", "MatePad Pro 2026", "WATCH Ultimate 2"]}
+{"instruction": "华为的最新款、支持北斗卫星的华为产品有哪些？", "output": "Mate 80 RS 非凡大师、MatePad Pro 2026、WATCH Ultimate 2", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["Mate 80 RS 非凡大师", "MatePad Pro 2026", "WATCH Ultimate 2"]}
+{"instruction": "哪些产品是最新款、支持北斗卫星的华为产品？", "output": "Mate 80 RS 非凡大师、MatePad Pro 2026、WATCH Ultimate 2", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["Mate 80 RS 非凡大师", "MatePad Pro 2026", "WATCH Ultimate 2"]}
+{"instruction": "列出2026年发布的华为手机", "output": "Mate 80 Pro Max 风驰版、Mate 90 系列、Mate XT2、Nova Flip 2", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["Mate 80 Pro Max 风驰版", "Mate 90 系列", "Mate XT2", "Nova Flip 2"]}
+{"instruction": "华为的2026年发布的华为手机有哪些？", "output": "Mate 80 Pro Max 风驰版、Mate 90 系列、Mate XT2、Nova Flip 2", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["Mate 80 Pro Max 风驰版", "Mate 90 系列", "Mate XT2", "Nova Flip 2"]}
+{"instruction": "哪些产品是2026年发布的华为手机？", "output": "Mate 80 Pro Max 风驰版、Mate 90 系列、Mate XT2、Nova Flip 2", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["Mate 80 Pro Max 风驰版", "Mate 90 系列", "Mate XT2", "Nova Flip 2"]}
+{"instruction": "列出华为在售的、OLED屏幕的平板", "output": "MatePad Pro 13.2 2025、MatePad Pro 12.2 2025、MatePad Pro 2026", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["MatePad Pro 13.2 2025", "MatePad Pro 12.2 2025", "MatePad Pro 2026"]}
+{"instruction": "华为的华为在售的、OLED屏幕的平板有哪些？", "output": "MatePad Pro 13.2 2025、MatePad Pro 12.2 2025、MatePad Pro 2026", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["MatePad Pro 13.2 2025", "MatePad Pro 12.2 2025", "MatePad Pro 2026"]}
+{"instruction": "哪些产品是华为在售的、OLED屏幕的平板？", "output": "MatePad Pro 13.2 2025、MatePad Pro 12.2 2025、MatePad Pro 2026", "_task": "E1", "_scoring": "list_f1", "_gold_list": ["MatePad Pro 13.2 2025", "MatePad Pro 12.2 2025", "MatePad Pro 2026"]}
+{"instruction": "华为最便宜的手机是哪款？", "output": "畅享 90", "_task": "E2", "_scoring": "exact_match", "_gold": "畅享 90"}
+{"instruction": "华为最贵的在售手机是什么？", "output": "Mate XTs 非凡大师", "_task": "E2", "_scoring": "exact_match", "_gold": "Mate XTs 非凡大师"}
+{"instruction": "华为电池容量最大的手机是哪款？", "output": "畅享 90 Pro Max", "_task": "E2", "_scoring": "exact_match", "_gold": "畅享 90 Pro Max"}
+{"instruction": "华为最便宜的平板是哪款？", "output": "MatePad SE 标准版 11寸", "_task": "E2", "_scoring": "exact_match", "_gold": "MatePad SE 标准版 11寸"}
+{"instruction": "华为最贵的在售平板是什么？", "output": "MatePad Edge", "_task": "E2", "_scoring": "exact_match", "_gold": "MatePad Edge"}
+{"instruction": "华为电池容量最大的平板是哪款？", "output": "MatePad Pro 12.2 2025", "_task": "E2", "_scoring": "exact_match", "_gold": "MatePad Pro 12.2 2025"}
+{"instruction": "华为最便宜的笔记本是哪款？", "output": "MateBook D 16 SE", "_task": "E2", "_scoring": "exact_match", "_gold": "MateBook D 16 SE"}
+{"instruction": "华为最贵的在售笔记本是什么？", "output": "MateBook Fold 非凡大师", "_task": "E2", "_scoring": "exact_match", "_gold": "MateBook Fold 非凡大师"}
+{"instruction": "华为最轻的笔记本是哪款？", "output": "MateBook Pro S", "_task": "E2", "_scoring": "exact_match", "_gold": "MateBook Pro S"}
+{"instruction": "华为最便宜的手表是哪款？", "output": "WATCH GT 7 46mm", "_task": "E2", "_scoring": "exact_match", "_gold": "WATCH GT 7 46mm"}
+{"instruction": "华为最贵的在售手表是什么？", "output": "ULTIMATE DESIGN 紫金", "_task": "E2", "_scoring": "exact_match", "_gold": "ULTIMATE DESIGN 紫金"}
+{"instruction": "华为最轻的手表是哪款？", "output": "WATCH FIT 5", "_task": "E2", "_scoring": "exact_match", "_gold": "WATCH FIT 5"}
+{"instruction": "华为最便宜的车是哪款？", "output": "享界 G9", "_task": "E2", "_scoring": "exact_match", "_gold": "享界 G9"}
+{"instruction": "华为最贵的在售车是什么？", "output": "尊界 V800", "_task": "E2", "_scoring": "exact_match", "_gold": "尊界 V800"}
+{"instruction": "华为最便宜的智慧屏是哪款？", "output": "Vision 智慧屏 6 SE RGB", "_task": "E2", "_scoring": "exact_match", "_gold": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "华为最贵的在售智慧屏是什么？", "output": "MateTV Max", "_task": "E2", "_scoring": "exact_match", "_gold": "MateTV Max"}
+{"instruction": "华为最便宜的折叠屏手机是哪款？", "output": "Nova Flip S", "_task": "E2", "_scoring": "exact_match", "_gold": "Nova Flip S"}
+{"instruction": "华为最贵的折叠屏手机是哪款？", "output": "Mate XTs 非凡大师", "_task": "E2", "_scoring": "exact_match", "_gold": "Mate XTs 非凡大师"}
+{"instruction": "华为续航最长的手表是哪款？", "output": "WATCH GT 7 46mm", "_task": "E2", "_scoring": "exact_match", "_gold": "WATCH GT 7 46mm"}
+{"instruction": "华为哪些产品支持北斗卫星通信？", "output": "平板：MatePad Pro 2026\n手机：Mate 80 RS 非凡大师、Mate 70 Pro+、Pura 80 Pro+\n智能手表：WATCH Ultimate 2", "_task": "E3", "_scoring": "grouped_list_f1", "_gold_grouped": {"平板": ["MatePad Pro 2026"], "手机": ["Mate 80 RS 非凡大师", "Mate 70 Pro+", "Pura 80 Pro+"], "智能手表": ["WATCH Ultimate 2"]}, "_gold_list": ["Mate 80 RS 非凡大师", "Mate 70 Pro+", "Pura 80 Pro+", "MatePad Pro 2026", "WATCH Ultimate 2"]}
+{"instruction": "华为支持北斗卫星通信的产品分布在哪些品类？", "output": "平板：MatePad Pro 2026\n手机：Mate 80 RS 非凡大师、Mate 70 Pro+、Pura 80 Pro+\n智能手表：WATCH Ultimate 2", "_task": "E3", "_scoring": "grouped_list_f1", "_gold_grouped": {"平板": ["MatePad Pro 2026"], "手机": ["Mate 80 RS 非凡大师", "Mate 70 Pro+", "Pura 80 Pro+"], "智能手表": ["WATCH Ultimate 2"]}, "_gold_list": ["Mate 80 RS 非凡大师", "Mate 70 Pro+", "Pura 80 Pro+", "MatePad Pro 2026", "WATCH Ultimate 2"]}
+{"instruction": "华为哪些产品搭载麒麟芯片？", "output": "平板：MatePad Pro 13.2 2025\n手机：Mate 80 Pro、Mate 70、Mate 70 Pro、Mate 90 系列、Pura 90 Pro、Pura 80、Mate X7、Mate X8、Mate XT2、Pura X Max、Pura X、Nova Flip 2、nova 16、畅享 90", "_task": "E3", "_scoring": "grouped_list_f1", "_gold_grouped": {"平板": ["MatePad Pro 13.2 2025"], "手机": ["Mate 80 Pro", "Mate 70", "Mate 70 Pro", "Mate 90 系列", "Pura 90 Pro", "Pura 80", "Mate X7", "Mate X8", "Mate XT2", "Pura X Max", "Pura X", "Nova Flip 2", "nova 16", "畅享 90"]}, "_gold_list": ["Mate 80 Pro", "Mate 70", "Mate 70 Pro", "Mate 90 系列", "Pura 90 Pro", "Pura 80", "Mate X7", "Mate X8", "Mate XT2", "Pura X Max", "Pura X", "Nova Flip 2", "nova 16", "畅享 90", "MatePad Pro 13.2 2025"]}
+{"instruction": "华为搭载麒麟芯片的产品分布在哪些品类？", "output": "平板：MatePad Pro 13.2 2025\n手机：Mate 80 Pro、Mate 70、Mate 70 Pro、Mate 90 系列、Pura 90 Pro、Pura 80、Mate X7、Mate X8、Mate XT2、Pura X Max、Pura X、Nova Flip 2、nova 16、畅享 90", "_task": "E3", "_scoring": "grouped_list_f1", "_gold_grouped": {"平板": ["MatePad Pro 13.2 2025"], "手机": ["Mate 80 Pro", "Mate 70", "Mate 70 Pro", "Mate 90 系列", "Pura 90 Pro", "Pura 80", "Mate X7", "Mate X8", "Mate XT2", "Pura X Max", "Pura X", "Nova Flip 2", "nova 16", "畅享 90"]}, "_gold_list": ["Mate 80 Pro", "Mate 70", "Mate 70 Pro", "Mate 90 系列", "Pura 90 Pro", "Pura 80", "Mate X7", "Mate X8", "Mate XT2", "Pura X Max", "Pura X", "Nova Flip 2", "nova 16", "畅享 90", "MatePad Pro 13.2 2025"]}
+{"instruction": "华为哪些产品有OLED屏幕？", "output": "平板：MatePad Pro 13.2 2025、MatePad Pro 12.2 2025、MatePad Pro 2026\n手机：Mate 80 Pro Max、Mate 70 Pro、Mate 70 RS 非凡大师、畅享 90 Pro Max\n智能手表：WATCH Buds 2、WATCH FIT 5 Pro\n笔记本：MateBook Fold 非凡大师、MateBook X Pro", "_task": "E3", "_scoring": "grouped_list_f1", "_gold_grouped": {"平板": ["MatePad Pro 13.2 2025", "MatePad Pro 12.2 2025", "MatePad Pro 2026"], "手机": ["Mate 80 Pro Max", "Mate 70 Pro", "Mate 70 RS 非凡大师", "畅享 90 Pro Max"], "智能手表": ["WATCH Buds 2", "WATCH FIT 5 Pro"], "笔记本": ["MateBook Fold 非凡大师", "MateBook X Pro"]}, "_gold_list": ["Mate 80 Pro Max", "Mate 70 Pro", "Mate 70 RS 非凡大师", "畅享 90 Pro Max", "MatePad Pro 13.2 2025", "MatePad Pro 12.2 2025", "MatePad Pro 2026", "MateBook Fold 非凡大师", "MateBook X Pro", "WATCH Buds 2", "WATCH FIT 5 Pro"]}
+{"instruction": "华为有OLED屏幕的产品分布在哪些品类？", "output": "平板：MatePad Pro 13.2 2025、MatePad Pro 12.2 2025、MatePad Pro 2026\n手机：Mate 80 Pro Max、Mate 70 Pro、Mate 70 RS 非凡大师、畅享 90 Pro Max\n智能手表：WATCH Buds 2、WATCH FIT 5 Pro\n笔记本：MateBook Fold 非凡大师、MateBook X Pro", "_task": "E3", "_scoring": "grouped_list_f1", "_gold_grouped": {"平板": ["MatePad Pro 13.2 2025", "MatePad Pro 12.2 2025", "MatePad Pro 2026"], "手机": ["Mate 80 Pro Max", "Mate 70 Pro", "Mate 70 RS 非凡大师", "畅享 90 Pro Max"], "智能手表": ["WATCH Buds 2", "WATCH FIT 5 Pro"], "笔记本": ["MateBook Fold 非凡大师", "MateBook X Pro"]}, "_gold_list": ["Mate 80 Pro Max", "Mate 70 Pro", "Mate 70 RS 非凡大师", "畅享 90 Pro Max", "MatePad Pro 13.2 2025", "MatePad Pro 12.2 2025", "MatePad Pro 2026", "MateBook Fold 非凡大师", "MateBook X Pro", "WATCH Buds 2", "WATCH FIT 5 Pro"]}
+{"instruction": "华为哪些产品有折叠形态？", "output": "手机：Mate XTs 非凡大师、Mate XT2、Pura X、Nova Flip 2、Nova Flip S\n笔记本：MateBook Fold 非凡大师", "_task": "E3", "_scoring": "grouped_list_f1", "_gold_grouped": {"手机": ["Mate XTs 非凡大师", "Mate XT2", "Pura X", "Nova Flip 2", "Nova Flip S"], "笔记本": ["MateBook Fold 非凡大师"]}, "_gold_list": ["Mate XTs 非凡大师", "Mate XT2", "Pura X", "Nova Flip 2", "Nova Flip S", "MateBook Fold 非凡大师"]}
+{"instruction": "华为有折叠形态的产品分布在哪些品类？", "output": "手机：Mate XTs 非凡大师、Mate XT2、Pura X、Nova Flip 2、Nova Flip S\n笔记本：MateBook Fold 非凡大师", "_task": "E3", "_scoring": "grouped_list_f1", "_gold_grouped": {"手机": ["Mate XTs 非凡大师", "Mate XT2", "Pura X", "Nova Flip 2", "Nova Flip S"], "笔记本": ["MateBook Fold 非凡大师"]}, "_gold_list": ["Mate XTs 非凡大师", "Mate XT2", "Pura X", "Nova Flip 2", "Nova Flip S", "MateBook Fold 非凡大师"]}
+{"instruction": "Mate 80的售价是多少？", "output": "¥3999起", "_task": "E4", "_scoring": "exact_match", "_gold": "¥3999起", "_attr": "price"}
+{"instruction": "Mate 80的产品定位是什么？", "output": "商务旗舰、直屏旗舰", "_task": "E4", "_scoring": "exact_match", "_gold": "商务旗舰、直屏旗舰", "_attr": "positioning"}
+{"instruction": "Mate 80属于华为什么品类和系列？", "output": "手机品类，Mate 系列", "_task": "E4", "_scoring": "exact_match", "_gold": "手机品类，Mate 系列", "_attr": "series_cat"}
+{"instruction": "Mate 70 Pro 优享版用的是哪款芯片？", "output": "麒麟9020A", "_task": "E4", "_scoring": "exact_match", "_gold": "麒麟9020A", "_attr": "chip"}
+{"instruction": "Mate 70 Pro 优享版的售价是多少？", "output": "¥5099起", "_task": "E4", "_scoring": "exact_match", "_gold": "¥5099起", "_attr": "price"}
+{"instruction": "Mate 70 Pro 优享版的产品定位是什么？", "output": "商务旗舰、性价比版", "_task": "E4", "_scoring": "exact_match", "_gold": "商务旗舰、性价比版", "_attr": "positioning"}
+{"instruction": "Mate 70 Pro 优享版属于华为什么品类和系列？", "output": "手机品类，Mate 系列", "_task": "E4", "_scoring": "exact_match", "_gold": "手机品类，Mate 系列", "_attr": "series_cat"}
+{"instruction": "Pura 80 Pro用的是哪款芯片？", "output": "麒麟9020", "_task": "E4", "_scoring": "exact_match", "_gold": "麒麟9020", "_attr": "chip"}
+{"instruction": "Pura 80 Pro的售价是多少？", "output": "¥6499起", "_task": "E4", "_scoring": "exact_match", "_gold": "¥6499起", "_attr": "price"}
+{"instruction": "Pura 80 Pro的产品定位是什么？", "output": "影像旗舰、专业影像", "_task": "E4", "_scoring": "exact_match", "_gold": "影像旗舰、专业影像", "_attr": "positioning"}
+{"instruction": "Pura 80 Pro属于华为什么品类和系列？", "output": "手机品类，Pura 系列", "_task": "E4", "_scoring": "exact_match", "_gold": "手机品类，Pura 系列", "_attr": "series_cat"}
+{"instruction": "Mate X6用的是哪款芯片？", "output": "麒麟9000S Pro", "_task": "E4", "_scoring": "exact_match", "_gold": "麒麟9000S Pro", "_attr": "chip"}
+{"instruction": "Mate X6的售价是多少？", "output": "¥10999起", "_task": "E4", "_scoring": "exact_match", "_gold": "¥10999起", "_attr": "price"}
+{"instruction": "Mate X6的产品定位是什么？", "output": "超高端商务、横向大折叠", "_task": "E4", "_scoring": "exact_match", "_gold": "超高端商务、横向大折叠", "_attr": "positioning"}
+{"instruction": "Mate X6属于华为什么品类和系列？", "output": "手机品类，折叠屏", "_task": "E4", "_scoring": "exact_match", "_gold": "手机品类，折叠屏", "_attr": "series_cat"}
+{"instruction": "Pocket 2的售价是多少？", "output": "¥7999起", "_task": "E4", "_scoring": "exact_match", "_gold": "¥7999起", "_attr": "price"}
+{"instruction": "Pocket 2的产品定位是什么？", "output": "高端时尚、竖向小折叠", "_task": "E4", "_scoring": "exact_match", "_gold": "高端时尚、竖向小折叠", "_attr": "positioning"}
+{"instruction": "Pocket 2属于华为什么品类和系列？", "output": "手机品类，折叠屏", "_task": "E4", "_scoring": "exact_match", "_gold": "手机品类，折叠屏", "_attr": "series_cat"}
+{"instruction": "nova 16 SE的售价是多少？", "output": "¥2000-3000", "_task": "E4", "_scoring": "exact_match", "_gold": "¥2000-3000", "_attr": "price"}
+{"instruction": "nova 16 SE的产品定位是什么？", "output": "中低端潮流、年轻影像入门", "_task": "E4", "_scoring": "exact_match", "_gold": "中低端潮流、年轻影像入门", "_attr": "positioning"}
+{"instruction": "nova 16 SE属于华为什么品类和系列？", "output": "手机品类，nova 系列", "_task": "E4", "_scoring": "exact_match", "_gold": "手机品类，nova 系列", "_attr": "series_cat"}
+{"instruction": "畅享 90 Plus用的是哪款芯片？", "output": "麒麟8000", "_task": "E4", "_scoring": "exact_match", "_gold": "麒麟8000", "_attr": "chip"}
+{"instruction": "畅享 90 Plus的电池容量是多少？", "output": "6620mAh", "_task": "E4", "_scoring": "exact_match", "_gold": "6620mAh", "_attr": "battery"}
+{"instruction": "畅享 90 Plus的售价是多少？", "output": "¥1499起", "_task": "E4", "_scoring": "exact_match", "_gold": "¥1499起", "_attr": "price"}
+{"instruction": "畅享 90 Plus的产品定位是什么？", "output": "入门实用、大屏5G", "_task": "E4", "_scoring": "exact_match", "_gold": "入门实用、大屏5G", "_attr": "positioning"}
+{"instruction": "畅享 90 Plus属于华为什么品类和系列？", "output": "手机品类，畅享系列", "_task": "E4", "_scoring": "exact_match", "_gold": "手机品类，畅享系列", "_attr": "series_cat"}
+{"instruction": "MatePad Air 12 2025用的是哪款芯片？", "output": "麒麟900", "_task": "E4", "_scoring": "exact_match", "_gold": "麒麟900", "_attr": "chip"}
+{"instruction": "MatePad Air 12 2025的电池容量是多少？", "output": "10100mAh", "_task": "E4", "_scoring": "exact_match", "_gold": "10100mAh", "_attr": "battery"}
+{"instruction": "MatePad Air 12 2025的售价是多少？", "output": "¥2125起", "_task": "E4", "_scoring": "exact_match", "_gold": "¥2125起", "_attr": "price"}
+{"instruction": "MatePad Air 12 2025的产品定位是什么？", "output": "中高端平板、轻办公手绘", "_task": "E4", "_scoring": "exact_match", "_gold": "中高端平板、轻办公手绘", "_attr": "positioning"}
+{"instruction": "MatePad Air 12 2025属于华为什么品类和系列？", "output": "平板品类，MatePad Air 系列", "_task": "E4", "_scoring": "exact_match", "_gold": "平板品类，MatePad Air 系列", "_attr": "series_cat"}
+{"instruction": "MateBook 14 Linux 版的产品定位是什么？", "output": "均衡轻薄本、开发者友好", "_task": "E4", "_scoring": "exact_match", "_gold": "均衡轻薄本、开发者友好", "_attr": "positioning"}
+{"instruction": "MateBook 14 Linux 版属于华为什么品类和系列？", "output": "笔记本品类，MateBook 数字系列", "_task": "E4", "_scoring": "exact_match", "_gold": "笔记本品类，MateBook 数字系列", "_attr": "series_cat"}
+{"instruction": "WATCH GT 7 41mm的售价是多少？", "output": "¥1488起", "_task": "E4", "_scoring": "exact_match", "_gold": "¥1488起", "_attr": "price"}
+{"instruction": "WATCH GT 7 41mm的产品定位是什么？", "output": "长续航运动、女性向", "_task": "E4", "_scoring": "exact_match", "_gold": "长续航运动、女性向", "_attr": "positioning"}
+{"instruction": "WATCH GT 7 41mm属于华为什么品类和系列？", "output": "智能手表品类，WATCH GT 系列", "_task": "E4", "_scoring": "exact_match", "_gold": "智能手表品类，WATCH GT 系列", "_attr": "series_cat"}
+{"instruction": "FreeBuds 7i的产品定位是什么？", "output": "半开放、海外主力", "_task": "E4", "_scoring": "exact_match", "_gold": "半开放、海外主力", "_attr": "positioning"}
+{"instruction": "FreeBuds 7i属于华为什么品类和系列？", "output": "耳机品类，FreeBuds 数字系列", "_task": "E4", "_scoring": "exact_match", "_gold": "耳机品类，FreeBuds 数字系列", "_attr": "series_cat"}
+{"instruction": "享界 S9 / S9T的产品定位是什么？", "output": "豪华轿车", "_task": "E4", "_scoring": "exact_match", "_gold": "豪华轿车", "_attr": "positioning"}
+{"instruction": "享界 S9 / S9T属于华为什么品类和系列？", "output": "智能汽车品类，享界", "_task": "E4", "_scoring": "exact_match", "_gold": "智能汽车品类，享界", "_attr": "series_cat"}
