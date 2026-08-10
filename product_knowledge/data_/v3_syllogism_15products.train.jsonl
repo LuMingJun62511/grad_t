@@ -1,0 +1,265 @@
+{"instruction": "Mate 80归属什么类别？", "output": "Mate 80 系列", "_path": "Mate 80 --is_a--> Mate 80 系列 --is_a--> Mate 系列"}
+{"instruction": "Mate 80 系列属于哪个is_a？", "output": "Mate 系列", "_path": "Mate 80 --is_a--> Mate 80 系列 --is_a--> Mate 系列"}
+{"instruction": "请问Mate 80是哪个分类下的产品？", "output": "Mate 80 系列", "_path": "Mate 80 --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030 WiFi"}
+{"instruction": "Mate 80 系列标配什么处理器？", "output": "麒麟9030 WiFi", "_path": "Mate 80 --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030 WiFi"}
+{"instruction": "Mate 80 Pro归属什么类别？", "output": "Mate 80 系列", "_path": "Mate 80 Pro --is_a--> Mate 80 系列 --is_a--> Mate 系列"}
+{"instruction": "请问Mate 80 系列是哪个分类下的产品？", "output": "Mate 系列", "_path": "Mate 80 Pro --is_a--> Mate 80 系列 --is_a--> Mate 系列"}
+{"instruction": "Mate 80 Pro属于哪个is_a？", "output": "Mate 80 系列", "_path": "Mate 80 Pro --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030 WiFi"}
+{"instruction": "Mate 80 系列全系搭载什么芯片？", "output": "麒麟9030 WiFi", "_path": "Mate 80 Pro --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030 WiFi"}
+{"instruction": "Mate 80 Pro Max属于哪个is_a？", "output": "Mate 80 系列", "_path": "Mate 80 Pro Max --is_a--> Mate 80 系列 --is_a--> Mate 系列"}
+{"instruction": "请问Mate 80 Pro Max是哪个分类下的产品？", "output": "Mate 80 系列", "_path": "Mate 80 Pro Max --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030 WiFi"}
+{"instruction": "Mate 80 RS 非凡大师归属什么类别？", "output": "Mate 80 系列", "_path": "Mate 80 RS 非凡大师 --is_a--> Mate 80 系列 --is_a--> Mate 系列"}
+{"instruction": "请问Mate 70 Pro是哪个分类下的产品？", "output": "Mate 70 系列", "_path": "Mate 70 Pro --is_a--> Mate 70 系列 --is_a--> Mate 系列"}
+{"instruction": "Mate 70 系列归属什么类别？", "output": "Mate 系列", "_path": "Mate 70 Pro --is_a--> Mate 70 系列 --is_a--> Mate 系列"}
+{"instruction": "Mate 70 Pro属于哪个is_a？", "output": "Mate 70 系列", "_path": "Mate 70 Pro --is_a--> Mate 70 系列 --subseries_has_chip--> 麒麟9020"}
+{"instruction": "Mate 70 系列全系搭载什么芯片？", "output": "麒麟9020", "_path": "Mate 70 Pro --is_a--> Mate 70 系列 --subseries_has_chip--> 麒麟9020"}
+{"instruction": "Pura 90 Pro Max归属什么类别？", "output": "Pura 90 系列", "_path": "Pura 90 Pro Max --is_a--> Pura 90 系列 --is_a--> Pura 系列"}
+{"instruction": "Pura 90 系列属于哪个is_a？", "output": "Pura 系列", "_path": "Pura 90 Pro Max --is_a--> Pura 90 系列 --is_a--> Pura 系列"}
+{"instruction": "Mate X7属于哪个is_a？", "output": "横向大折叠", "_path": "Mate X7 --is_a--> 横向大折叠 --is_a--> 折叠屏"}
+{"instruction": "请问横向大折叠是哪个分类下的产品？", "output": "折叠屏", "_path": "Mate X7 --is_a--> 横向大折叠 --is_a--> 折叠屏"}
+{"instruction": "请问Mate X7是哪个分类下的产品？", "output": "横向大折叠", "_path": "Mate X7 --is_a--> 横向大折叠 --subseries_has_chip--> 麒麟9030 Pro"}
+{"instruction": "横向大折叠标配什么处理器？", "output": "麒麟9030 Pro", "_path": "Mate X7 --is_a--> 横向大折叠 --subseries_has_chip--> 麒麟9030 Pro"}
+{"instruction": "Mate X7的产品定位是什么？", "output": "横向大折叠", "_path": "Mate X7 --positioned_as--> 横向大折叠 --is_a--> 折叠屏"}
+{"instruction": "横向大折叠全系搭载什么芯片？", "output": "麒麟9030 Pro", "_path": "Mate X7 --positioned_as--> 横向大折叠 --subseries_has_chip--> 麒麟9030 Pro"}
+{"instruction": "Mate XTs 非凡大师归属什么类别？", "output": "三折叠", "_path": "Mate XTs 非凡大师 --is_a--> 三折叠 --is_a--> 折叠屏"}
+{"instruction": "请问三折叠是哪个分类下的产品？", "output": "折叠屏", "_path": "Mate XTs 非凡大师 --is_a--> 三折叠 --is_a--> 折叠屏"}
+{"instruction": "Mate XTs 非凡大师的产品定位是什么？", "output": "三折叠", "_path": "Mate XTs 非凡大师 --positioned_as--> 三折叠 --is_a--> 折叠屏"}
+{"instruction": "nova 16属于哪个is_a？", "output": "nova 16 系列", "_path": "nova 16 --is_a--> nova 16 系列 --is_a--> nova 系列"}
+{"instruction": "nova 16 系列属于哪个is_a？", "output": "nova 系列", "_path": "nova 16 --is_a--> nova 16 系列 --is_a--> nova 系列"}
+{"instruction": "nova 16归属什么类别？", "output": "nova 16 系列", "_path": "nova 16 --is_a--> nova 16 系列 --subseries_has_chip--> 麒麟9010S"}
+{"instruction": "nova 16 系列全系搭载什么芯片？", "output": "麒麟9010S", "_path": "nova 16 --is_a--> nova 16 系列 --subseries_has_chip--> 麒麟9010S"}
+{"instruction": "畅享 90归属什么类别？", "output": "畅享 90 系列", "_path": "畅享 90 --is_a--> 畅享 90 系列 --is_a--> 畅享系列"}
+{"instruction": "畅享 90 系列归属什么类别？", "output": "畅享系列", "_path": "畅享 90 --is_a--> 畅享 90 系列 --is_a--> 畅享系列"}
+{"instruction": "畅享 90 系列全系搭载什么芯片？", "output": "麒麟8000A", "_path": "畅享 90 --is_a--> 畅享 90 系列 --subseries_has_chip--> 麒麟8000A"}
+{"instruction": "MatePad Pro 13.2 2025属于哪个is_a？", "output": "MatePad Pro 系列", "_path": "MatePad Pro 13.2 2025 --is_a--> MatePad Pro 系列 --is_a--> MatePad Pro 系列"}
+{"instruction": "MatePad Pro 系列属于哪个is_a？", "output": "MatePad Pro 系列", "_path": "MatePad Pro 13.2 2025 --is_a--> MatePad Pro 系列 --is_a--> MatePad Pro 系列"}
+{"instruction": "MatePad Pro 13.2 2025归属什么类别？", "output": "MatePad Pro 系列", "_path": "MatePad Pro 13.2 2025 --is_a--> MatePad Pro 系列 --is_a--> 平板"}
+{"instruction": "MatePad Pro 系列归属什么类别？", "output": "平板", "_path": "MatePad Pro 13.2 2025 --is_a--> MatePad Pro 系列 --is_a--> 平板"}
+{"instruction": "MatePad Pro 系列标配什么处理器？", "output": "麒麟9010", "_path": "MatePad Pro 13.2 2025 --is_a--> MatePad Pro 系列 --subseries_has_chip--> 麒麟9010"}
+{"instruction": "MatePad Pro 12.2 2025归属什么类别？", "output": "MatePad Pro 系列", "_path": "MatePad Pro 12.2 2025 --is_a--> MatePad Pro 系列 --is_a--> MatePad Pro 系列"}
+{"instruction": "MatePad Pro 12.2 2025属于哪个is_a？", "output": "MatePad Pro 系列", "_path": "MatePad Pro 12.2 2025 --is_a--> MatePad Pro 系列 --is_a--> 平板"}
+{"instruction": "MatePad Pro 系列属于哪个is_a？", "output": "平板", "_path": "MatePad Pro 12.2 2025 --is_a--> MatePad Pro 系列 --is_a--> 平板"}
+{"instruction": "MatePad Pro 系列全系搭载什么芯片？", "output": "麒麟9010", "_path": "MatePad Pro 12.2 2025 --is_a--> MatePad Pro 系列 --subseries_has_chip--> 麒麟9010"}
+{"instruction": "MateBook Pro S归属什么类别？", "output": "MateBook Pro 系列", "_path": "MateBook Pro S --is_a--> MateBook Pro 系列 --is_a--> MateBook Pro 系列"}
+{"instruction": "请问MateBook Pro 系列是哪个分类下的产品？", "output": "MateBook Pro 系列", "_path": "MateBook Pro S --is_a--> MateBook Pro 系列 --is_a--> MateBook Pro 系列"}
+{"instruction": "请问MateBook Pro 系列是哪个分类下的产品？", "output": "笔记本", "_path": "MateBook Pro S --is_a--> MateBook Pro 系列 --is_a--> 笔记本"}
+{"instruction": "WATCH Ultimate 2归属什么类别？", "output": "WATCH Ultimate 系列", "_path": "WATCH Ultimate 2 --is_a--> WATCH Ultimate 系列 --is_a--> WATCH Ultimate 系列"}
+{"instruction": "WATCH Ultimate 系列属于哪个is_a？", "output": "WATCH Ultimate 系列", "_path": "WATCH Ultimate 2 --is_a--> WATCH Ultimate 系列 --is_a--> WATCH Ultimate 系列"}
+{"instruction": "请问WATCH Ultimate 系列是哪个分类下的产品？", "output": "智能手表", "_path": "WATCH Ultimate 2 --is_a--> WATCH Ultimate 系列 --is_a--> 智能手表"}
+{"instruction": "WATCH GT 7 Pro 46mm归属什么类别？", "output": "WATCH GT 系列", "_path": "WATCH GT 7 Pro 46mm --is_a--> WATCH GT 系列 --is_a--> WATCH GT 系列"}
+{"instruction": "WATCH GT 系列属于哪个is_a？", "output": "WATCH GT 系列", "_path": "WATCH GT 7 Pro 46mm --is_a--> WATCH GT 系列 --is_a--> WATCH GT 系列"}
+{"instruction": "请问WATCH GT 7 Pro 46mm是哪个分类下的产品？", "output": "WATCH GT 系列", "_path": "WATCH GT 7 Pro 46mm --is_a--> WATCH GT 系列 --is_a--> 智能手表"}
+{"instruction": "WATCH GT 系列属于哪个is_a？", "output": "智能手表", "_path": "WATCH GT 7 Pro 46mm --is_a--> WATCH GT 系列 --is_a--> 智能手表"}
+{"instruction": "Mate 80和哪些产品是同系列的？", "output": "Mate 80 Pro", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --is_a--> Mate 80 系列"}
+{"instruction": "Mate 80 Pro搭载什么芯片？", "output": "麒麟9030 WiFi", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --has_chip--> 麒麟9030 WiFi"}
+{"instruction": "Mate 80 Pro支持麒麟9030吗？", "output": "麒麟9030", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --has_feature--> 麒麟9030"}
+{"instruction": "Mate 80 Pro有什么特点？", "output": "WiFi7", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --has_feature--> WiFi7"}
+{"instruction": "Mate 80 Pro的屏幕是什么类型？", "output": "微曲屏", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --has_screen--> 微曲屏"}
+{"instruction": "Mate 80 Pro支持什么快充？", "output": "9030W快充", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --has_charging--> 9030W快充"}
+{"instruction": "Mate 80 Pro在什么价位段？", "output": "6000-8000元", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --in_price_range--> 6000-8000元"}
+{"instruction": "Mate 80 Pro的售价是多少？", "output": "¥6499起", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --has_price--> ¥6499起"}
+{"instruction": "Mate 80 Pro的产品定位是什么？", "output": "商务旗舰", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --positioned_as--> 商务旗舰"}
+{"instruction": "Mate 80 Pro的产品定位是什么？", "output": "全能旗舰", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --positioned_as--> 全能旗舰"}
+{"instruction": "Mate 80 Pro和哪些产品是同系列的？", "output": "Mate 80 Pro Max", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --same_subseries--> Mate 80 Pro Max"}
+{"instruction": "Mate 80 Pro和哪些产品是同系列的？", "output": "Mate 80 RS 非凡大师", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --same_subseries--> Mate 80 RS 非凡大师"}
+{"instruction": "Mate 80 Pro的同级别产品有哪些？", "output": "Mate 80 Pro", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --same_tier--> Mate 80 Pro"}
+{"instruction": "Mate 80 Pro的同级别产品有哪些？", "output": "Mate 80 Pro Max", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --same_tier--> Mate 80 Pro Max"}
+{"instruction": "Mate 80 Pro的同级别产品有哪些？", "output": "Mate 80 RS 非凡大师", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --same_tier--> Mate 80 RS 非凡大师"}
+{"instruction": "Mate 80 Pro的同级别产品有哪些？", "output": "Mate 70 Pro", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --same_tier--> Mate 70 Pro"}
+{"instruction": "Mate 80 Pro的同级别产品有哪些？", "output": "Pura 90 Pro Max", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --same_tier--> Pura 90 Pro Max"}
+{"instruction": "Mate 80 Pro的同级别产品有哪些？", "output": "MatePad Pro 13.2 2025", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --same_tier--> MatePad Pro 13.2 2025"}
+{"instruction": "Mate 80 Pro的同级别产品有哪些？", "output": "MatePad Pro 12.2 2025", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --same_tier--> MatePad Pro 12.2 2025"}
+{"instruction": "Mate 80 Pro的同级别产品有哪些？", "output": "WATCH Ultimate 2", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --same_tier--> WATCH Ultimate 2"}
+{"instruction": "Mate 80 Pro的同级别产品有哪些？", "output": "WATCH GT 7 Pro 46mm", "_path": "Mate 80 --same_subseries--> Mate 80 Pro --same_tier--> WATCH GT 7 Pro 46mm"}
+{"instruction": "Mate 80和哪些产品是同系列的？", "output": "Mate 80 Pro Max", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --is_a--> Mate 80 系列"}
+{"instruction": "Mate 80 Pro Max支持双潜望长焦吗？", "output": "双潜望长焦", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --has_feature--> 双潜望长焦"}
+{"instruction": "Mate 80 Pro Max有什么特点？", "output": "双层OLED", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --has_feature--> 双层OLED"}
+{"instruction": "Mate 80 Pro Max的电池容量是多少？", "output": "6000mAh", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --has_battery--> 6000mAh"}
+{"instruction": "Mate 80 Pro Max的屏幕是什么类型？", "output": "双层OLED", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --has_screen--> 双层OLED"}
+{"instruction": "Mate 80 Pro Max在什么价位段？", "output": "6000-8000元", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --in_price_range--> 6000-8000元"}
+{"instruction": "Mate 80 Pro Max的售价是多少？", "output": "¥7499起", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --has_price--> ¥7499起"}
+{"instruction": "Mate 80 Pro Max的产品定位是什么？", "output": "商务旗舰", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --positioned_as--> 商务旗舰"}
+{"instruction": "Mate 80 Pro Max的产品定位是什么？", "output": "顶配影像", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --positioned_as--> 顶配影像"}
+{"instruction": "Mate 80 Pro Max和哪些产品是同系列的？", "output": "Mate 80 Pro", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --same_subseries--> Mate 80 Pro"}
+{"instruction": "Mate 80 Pro Max和哪些产品是同系列的？", "output": "Mate 80 RS 非凡大师", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --same_subseries--> Mate 80 RS 非凡大师"}
+{"instruction": "Mate 80 Pro Max的同级别产品有哪些？", "output": "Mate 80 Pro", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --same_tier--> Mate 80 Pro"}
+{"instruction": "Mate 80 Pro Max的同级别产品有哪些？", "output": "Mate 80 RS 非凡大师", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --same_tier--> Mate 80 RS 非凡大师"}
+{"instruction": "Mate 80 Pro Max的同级别产品有哪些？", "output": "Mate 70 Pro", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --same_tier--> Mate 70 Pro"}
+{"instruction": "Mate 80 Pro Max的同级别产品有哪些？", "output": "Pura 90 Pro Max", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --same_tier--> Pura 90 Pro Max"}
+{"instruction": "Mate 80 Pro Max的同级别产品有哪些？", "output": "MatePad Pro 13.2 2025", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --same_tier--> MatePad Pro 13.2 2025"}
+{"instruction": "Mate 80 Pro Max的同级别产品有哪些？", "output": "MatePad Pro 12.2 2025", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --same_tier--> MatePad Pro 12.2 2025"}
+{"instruction": "Mate 80 Pro Max的同级别产品有哪些？", "output": "WATCH Ultimate 2", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --same_tier--> WATCH Ultimate 2"}
+{"instruction": "Mate 80 Pro Max的同级别产品有哪些？", "output": "WATCH GT 7 Pro 46mm", "_path": "Mate 80 --same_subseries--> Mate 80 Pro Max --same_tier--> WATCH GT 7 Pro 46mm"}
+{"instruction": "Mate 80和哪些产品是同系列的？", "output": "Mate 80 RS 非凡大师", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --is_a--> Mate 80 系列"}
+{"instruction": "Mate 80 RS 非凡大师支持全金属玄武架构吗？", "output": "全金属玄武架构", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --has_feature--> 全金属玄武架构"}
+{"instruction": "Mate 80 RS 非凡大师有什么特点？", "output": "双潜望", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --has_feature--> 双潜望"}
+{"instruction": "Mate 80 RS 非凡大师支持卫星通信吗？", "output": "卫星通信", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --has_feature--> 卫星通信"}
+{"instruction": "Mate 80 RS 非凡大师在什么价位段？", "output": "8000-12000元", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --in_price_range--> 8000-12000元"}
+{"instruction": "Mate 80 RS 非凡大师的售价是多少？", "output": "¥11999起", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --has_price--> ¥11999起"}
+{"instruction": "Mate 80 RS 非凡大师的产品定位是什么？", "output": "超高端商务", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --positioned_as--> 超高端商务"}
+{"instruction": "Mate 80 RS 非凡大师的产品定位是什么？", "output": "奢华旗舰", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --positioned_as--> 奢华旗舰"}
+{"instruction": "Mate 80 RS 非凡大师和哪些产品是同系列的？", "output": "Mate 80 Pro", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --same_subseries--> Mate 80 Pro"}
+{"instruction": "Mate 80 RS 非凡大师和哪些产品是同系列的？", "output": "Mate 80 Pro Max", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --same_subseries--> Mate 80 Pro Max"}
+{"instruction": "Mate 80 RS 非凡大师的同级别产品有哪些？", "output": "Mate 80 Pro", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --same_tier--> Mate 80 Pro"}
+{"instruction": "Mate 80 RS 非凡大师的同级别产品有哪些？", "output": "Mate 80 Pro Max", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --same_tier--> Mate 80 Pro Max"}
+{"instruction": "Mate 80 RS 非凡大师的同级别产品有哪些？", "output": "Mate 70 Pro", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --same_tier--> Mate 70 Pro"}
+{"instruction": "Mate 80 RS 非凡大师的同级别产品有哪些？", "output": "Pura 90 Pro Max", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --same_tier--> Pura 90 Pro Max"}
+{"instruction": "Mate 80 RS 非凡大师的同级别产品有哪些？", "output": "MatePad Pro 13.2 2025", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --same_tier--> MatePad Pro 13.2 2025"}
+{"instruction": "Mate 80 RS 非凡大师的同级别产品有哪些？", "output": "MatePad Pro 12.2 2025", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --same_tier--> MatePad Pro 12.2 2025"}
+{"instruction": "Mate 80 RS 非凡大师的同级别产品有哪些？", "output": "WATCH Ultimate 2", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --same_tier--> WATCH Ultimate 2"}
+{"instruction": "Mate 80 RS 非凡大师的同级别产品有哪些？", "output": "WATCH GT 7 Pro 46mm", "_path": "Mate 80 --same_subseries--> Mate 80 RS 非凡大师 --same_tier--> WATCH GT 7 Pro 46mm"}
+{"instruction": "Mate 80 Pro和哪些产品是同系列的？", "output": "Mate 80", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --is_a--> Mate 80 系列"}
+{"instruction": "Mate 80支持首配3D人脸吗？", "output": "首配3D人脸", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --has_feature--> 首配3D人脸"}
+{"instruction": "Mate 80在什么价位段？", "output": "2000-4000元", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --in_price_range--> 2000-4000元"}
+{"instruction": "Mate 80的售价是多少？", "output": "¥3999起", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --has_price--> ¥3999起"}
+{"instruction": "Mate 80的产品定位是什么？", "output": "商务旗舰", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --positioned_as--> 商务旗舰"}
+{"instruction": "Mate 80的产品定位是什么？", "output": "直屏旗舰", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --positioned_as--> 直屏旗舰"}
+{"instruction": "Mate 80的同级别产品有哪些？", "output": "Mate 80", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --same_tier--> Mate 80"}
+{"instruction": "Mate 80的同级别产品有哪些？", "output": "Mate 80 Pro Max", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --same_tier--> Mate 80 Pro Max"}
+{"instruction": "Mate 80的同级别产品有哪些？", "output": "Mate 80 RS 非凡大师", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --same_tier--> Mate 80 RS 非凡大师"}
+{"instruction": "Mate 80的同级别产品有哪些？", "output": "Mate 70 Pro", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --same_tier--> Mate 70 Pro"}
+{"instruction": "Mate 80的同级别产品有哪些？", "output": "Pura 90 Pro Max", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --same_tier--> Pura 90 Pro Max"}
+{"instruction": "Mate 80的同级别产品有哪些？", "output": "MatePad Pro 13.2 2025", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --same_tier--> MatePad Pro 13.2 2025"}
+{"instruction": "Mate 80的同级别产品有哪些？", "output": "MatePad Pro 12.2 2025", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --same_tier--> MatePad Pro 12.2 2025"}
+{"instruction": "Mate 80的同级别产品有哪些？", "output": "WATCH Ultimate 2", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --same_tier--> WATCH Ultimate 2"}
+{"instruction": "Mate 80的同级别产品有哪些？", "output": "WATCH GT 7 Pro 46mm", "_path": "Mate 80 Pro --same_subseries--> Mate 80 --same_tier--> WATCH GT 7 Pro 46mm"}
+{"instruction": "Mate 80 Pro Max支持双层OLED吗？", "output": "双层OLED", "_path": "Mate 80 Pro --same_subseries--> Mate 80 Pro Max --has_feature--> 双层OLED"}
+{"instruction": "Mate 80 Pro Max和哪些产品是同系列的？", "output": "Mate 80", "_path": "Mate 80 Pro --same_subseries--> Mate 80 Pro Max --same_subseries--> Mate 80"}
+{"instruction": "Mate 80 Pro Max的同级别产品有哪些？", "output": "Mate 80", "_path": "Mate 80 Pro --same_subseries--> Mate 80 Pro Max --same_tier--> Mate 80"}
+{"instruction": "Mate 80 RS 非凡大师属于哪个is_a？", "output": "Mate 80 系列", "_path": "Mate 80 Pro --same_subseries--> Mate 80 RS 非凡大师 --is_a--> Mate 80 系列"}
+{"instruction": "Mate 80 RS 非凡大师支持双潜望吗？", "output": "双潜望", "_path": "Mate 80 Pro --same_subseries--> Mate 80 RS 非凡大师 --has_feature--> 双潜望"}
+{"instruction": "Mate 80 RS 非凡大师有什么特点？", "output": "卫星通信", "_path": "Mate 80 Pro --same_subseries--> Mate 80 RS 非凡大师 --has_feature--> 卫星通信"}
+{"instruction": "Mate 80 RS 非凡大师和哪些产品是同系列的？", "output": "Mate 80", "_path": "Mate 80 Pro --same_subseries--> Mate 80 RS 非凡大师 --same_subseries--> Mate 80"}
+{"instruction": "Mate 80 RS 非凡大师的同级别产品有哪些？", "output": "Mate 80", "_path": "Mate 80 Pro --same_subseries--> Mate 80 RS 非凡大师 --same_tier--> Mate 80"}
+{"instruction": "Mate 80有什么特点？", "output": "首配3D人脸", "_path": "Mate 80 Pro Max --same_subseries--> Mate 80 --has_feature--> 首配3D人脸"}
+{"instruction": "Mate 80的同级别产品有哪些？", "output": "Mate 80 Pro", "_path": "Mate 80 Pro Max --same_subseries--> Mate 80 --same_tier--> Mate 80 Pro"}
+{"instruction": "Mate 80 Pro有什么特点？", "output": "麒麟9030", "_path": "Mate 80 Pro Max --same_subseries--> Mate 80 Pro --has_feature--> 麒麟9030"}
+{"instruction": "Mate 80 Pro支持WiFi7吗？", "output": "WiFi7", "_path": "Mate 80 Pro Max --same_subseries--> Mate 80 Pro --has_feature--> WiFi7"}
+{"instruction": "Mate 80 Pro的同级别产品有哪些？", "output": "Mate 80", "_path": "Mate 80 Pro Max --same_subseries--> Mate 80 Pro --same_tier--> Mate 80"}
+{"instruction": "请问Mate 80 RS 非凡大师是哪个分类下的产品？", "output": "Mate 80 系列", "_path": "Mate 80 Pro Max --same_subseries--> Mate 80 RS 非凡大师 --is_a--> Mate 80 系列"}
+{"instruction": "Mate 80属于哪个is_a？", "output": "Mate 80 系列", "_path": "Mate 80 RS 非凡大师 --same_subseries--> Mate 80 --is_a--> Mate 80 系列"}
+{"instruction": "请问Mate 80 Pro是哪个分类下的产品？", "output": "Mate 80 系列", "_path": "Mate 80 RS 非凡大师 --same_subseries--> Mate 80 Pro --is_a--> Mate 80 系列"}
+{"instruction": "Mate 80 Pro Max有什么特点？", "output": "双潜望长焦", "_path": "Mate 80 RS 非凡大师 --same_subseries--> Mate 80 Pro Max --has_feature--> 双潜望长焦"}
+{"instruction": "MatePad Pro 13.2 2025和哪些产品是同系列的？", "output": "MatePad Pro 12.2 2025", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --is_a--> MatePad Pro 系列"}
+{"instruction": "MatePad Pro 12.2 2025有什么特点？", "output": "10100mAh", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --has_feature--> 10100mAh"}
+{"instruction": "MatePad Pro 12.2 2025的电池容量是多少？", "output": "10100mAh", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --has_battery--> 10100mAh"}
+{"instruction": "MatePad Pro 12.2 2025的屏幕是什么类型？", "output": "双层OLED", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --has_screen--> 双层OLED"}
+{"instruction": "MatePad Pro 12.2 2025在什么价位段？", "output": "2000-4000元", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --in_price_range--> 2000-4000元"}
+{"instruction": "MatePad Pro 12.2 2025的售价是多少？", "output": "¥3199起", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --has_price--> ¥3199起"}
+{"instruction": "MatePad Pro 12.2 2025的产品定位是什么？", "output": "专业旗舰平板", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --positioned_as--> 专业旗舰平板"}
+{"instruction": "MatePad Pro 12.2 2025的产品定位是什么？", "output": "画质旗舰", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --positioned_as--> 画质旗舰"}
+{"instruction": "MatePad Pro 12.2 2025的同级别产品有哪些？", "output": "Mate 80", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --same_tier--> Mate 80"}
+{"instruction": "MatePad Pro 12.2 2025的同级别产品有哪些？", "output": "Mate 80 Pro", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --same_tier--> Mate 80 Pro"}
+{"instruction": "MatePad Pro 12.2 2025的同级别产品有哪些？", "output": "Mate 80 Pro Max", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --same_tier--> Mate 80 Pro Max"}
+{"instruction": "MatePad Pro 12.2 2025的同级别产品有哪些？", "output": "Mate 80 RS 非凡大师", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --same_tier--> Mate 80 RS 非凡大师"}
+{"instruction": "MatePad Pro 12.2 2025的同级别产品有哪些？", "output": "Mate 70 Pro", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --same_tier--> Mate 70 Pro"}
+{"instruction": "MatePad Pro 12.2 2025的同级别产品有哪些？", "output": "Pura 90 Pro Max", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --same_tier--> Pura 90 Pro Max"}
+{"instruction": "MatePad Pro 12.2 2025的同级别产品有哪些？", "output": "MatePad Pro 12.2 2025", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --same_tier--> MatePad Pro 12.2 2025"}
+{"instruction": "MatePad Pro 12.2 2025的同级别产品有哪些？", "output": "WATCH Ultimate 2", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --same_tier--> WATCH Ultimate 2"}
+{"instruction": "MatePad Pro 12.2 2025的同级别产品有哪些？", "output": "WATCH GT 7 Pro 46mm", "_path": "MatePad Pro 13.2 2025 --same_subseries--> MatePad Pro 12.2 2025 --same_tier--> WATCH GT 7 Pro 46mm"}
+{"instruction": "MatePad Pro 12.2 2025和哪些产品是同系列的？", "output": "MatePad Pro 13.2 2025", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --is_a--> MatePad Pro 系列"}
+{"instruction": "MatePad Pro 13.2 2025搭载什么芯片？", "output": "麒麟9010", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --has_chip--> 麒麟9010"}
+{"instruction": "MatePad Pro 13.2 2025支持麒麟9010吗？", "output": "麒麟9010", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --has_feature--> 麒麟9010"}
+{"instruction": "MatePad Pro 13.2 2025的屏幕是什么类型？", "output": "柔性OLED", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --has_screen--> 柔性OLED"}
+{"instruction": "MatePad Pro 13.2 2025支持什么快充？", "output": "88W快充", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --has_charging--> 88W快充"}
+{"instruction": "MatePad Pro 13.2 2025在什么价位段？", "output": "4000-6000元", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --in_price_range--> 4000-6000元"}
+{"instruction": "MatePad Pro 13.2 2025的售价是多少？", "output": "¥4350起", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --has_price--> ¥4350起"}
+{"instruction": "MatePad Pro 13.2 2025的产品定位是什么？", "output": "专业旗舰平板", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --positioned_as--> 专业旗舰平板"}
+{"instruction": "MatePad Pro 13.2 2025的产品定位是什么？", "output": "创意生产力", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --positioned_as--> 创意生产力"}
+{"instruction": "MatePad Pro 13.2 2025的同级别产品有哪些？", "output": "Mate 80", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --same_tier--> Mate 80"}
+{"instruction": "MatePad Pro 13.2 2025的同级别产品有哪些？", "output": "Mate 80 Pro", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --same_tier--> Mate 80 Pro"}
+{"instruction": "MatePad Pro 13.2 2025的同级别产品有哪些？", "output": "Mate 80 Pro Max", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --same_tier--> Mate 80 Pro Max"}
+{"instruction": "MatePad Pro 13.2 2025的同级别产品有哪些？", "output": "Mate 80 RS 非凡大师", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --same_tier--> Mate 80 RS 非凡大师"}
+{"instruction": "MatePad Pro 13.2 2025的同级别产品有哪些？", "output": "Mate 70 Pro", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --same_tier--> Mate 70 Pro"}
+{"instruction": "MatePad Pro 13.2 2025的同级别产品有哪些？", "output": "Pura 90 Pro Max", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --same_tier--> Pura 90 Pro Max"}
+{"instruction": "MatePad Pro 13.2 2025的同级别产品有哪些？", "output": "WATCH Ultimate 2", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --same_tier--> WATCH Ultimate 2"}
+{"instruction": "MatePad Pro 13.2 2025的同级别产品有哪些？", "output": "WATCH GT 7 Pro 46mm", "_path": "MatePad Pro 12.2 2025 --same_subseries--> MatePad Pro 13.2 2025 --same_tier--> WATCH GT 7 Pro 46mm"}
+{"instruction": "Mate 80 Pro用的什么处理器？", "output": "麒麟9030 WiFi", "_path": "Mate 80 --same_tier--> Mate 80 Pro --has_chip--> 麒麟9030 WiFi"}
+{"instruction": "Mate 70 Pro搭载什么芯片？", "output": "麒麟9020", "_path": "Mate 80 --same_tier--> Mate 70 Pro --has_chip--> 麒麟9020"}
+{"instruction": "Mate 70 Pro有什么特点？", "output": "麒麟9020", "_path": "Mate 80 --same_tier--> Mate 70 Pro --has_feature--> 麒麟9020"}
+{"instruction": "Mate 70 Pro有什么特点？", "output": "微距长焦", "_path": "Mate 80 --same_tier--> Mate 70 Pro --has_feature--> 微距长焦"}
+{"instruction": "Mate 70 Pro的屏幕是什么类型？", "output": "LTPO", "_path": "Mate 80 --same_tier--> Mate 70 Pro --has_screen--> LTPO"}
+{"instruction": "Mate 70 Pro在什么价位段？", "output": "4000-6000元", "_path": "Mate 80 --same_tier--> Mate 70 Pro --in_price_range--> 4000-6000元"}
+{"instruction": "Mate 70 Pro的售价是多少？", "output": "¥5199起", "_path": "Mate 80 --same_tier--> Mate 70 Pro --has_price--> ¥5199起"}
+{"instruction": "Mate 70 Pro的产品定位是什么？", "output": "商务旗舰", "_path": "Mate 80 --same_tier--> Mate 70 Pro --positioned_as--> 商务旗舰"}
+{"instruction": "Mate 70 Pro的产品定位是什么？", "output": "上代Pro", "_path": "Mate 80 --same_tier--> Mate 70 Pro --positioned_as--> 上代Pro"}
+{"instruction": "Mate 70 Pro的同级别产品有哪些？", "output": "Mate 80 Pro", "_path": "Mate 80 --same_tier--> Mate 70 Pro --same_tier--> Mate 80 Pro"}
+{"instruction": "Mate 70 Pro的同级别产品有哪些？", "output": "Mate 80 Pro Max", "_path": "Mate 80 --same_tier--> Mate 70 Pro --same_tier--> Mate 80 Pro Max"}
+{"instruction": "Mate 70 Pro的同级别产品有哪些？", "output": "Mate 80 RS 非凡大师", "_path": "Mate 80 --same_tier--> Mate 70 Pro --same_tier--> Mate 80 RS 非凡大师"}
+{"instruction": "Mate 70 Pro的同级别产品有哪些？", "output": "Pura 90 Pro Max", "_path": "Mate 80 --same_tier--> Mate 70 Pro --same_tier--> Pura 90 Pro Max"}
+{"instruction": "Mate 70 Pro的同级别产品有哪些？", "output": "MatePad Pro 13.2 2025", "_path": "Mate 80 --same_tier--> Mate 70 Pro --same_tier--> MatePad Pro 13.2 2025"}
+{"instruction": "Mate 70 Pro的同级别产品有哪些？", "output": "MatePad Pro 12.2 2025", "_path": "Mate 80 --same_tier--> Mate 70 Pro --same_tier--> MatePad Pro 12.2 2025"}
+{"instruction": "Mate 70 Pro的同级别产品有哪些？", "output": "WATCH Ultimate 2", "_path": "Mate 80 --same_tier--> Mate 70 Pro --same_tier--> WATCH Ultimate 2"}
+{"instruction": "Mate 70 Pro的同级别产品有哪些？", "output": "WATCH GT 7 Pro 46mm", "_path": "Mate 80 --same_tier--> Mate 70 Pro --same_tier--> WATCH GT 7 Pro 46mm"}
+{"instruction": "Pura 90 Pro Max有什么特点？", "output": "2亿像素超大底潜望长焦", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --has_feature--> 2亿像素超大底潜望长焦"}
+{"instruction": "Pura 90 Pro Max支持20倍高清录像吗？", "output": "20倍高清录像", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --has_feature--> 20倍高清录像"}
+{"instruction": "Pura 90 Pro Max在什么价位段？", "output": "6000-8000元", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --in_price_range--> 6000-8000元"}
+{"instruction": "Pura 90 Pro Max的售价是多少？", "output": "¥6499起", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --has_price--> ¥6499起"}
+{"instruction": "Pura 90 Pro Max的产品定位是什么？", "output": "影像旗舰", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --positioned_as--> 影像旗舰"}
+{"instruction": "Pura 90 Pro Max的产品定位是什么？", "output": "顶配影像", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --positioned_as--> 顶配影像"}
+{"instruction": "Pura 90 Pro Max的同级别产品有哪些？", "output": "Mate 80 Pro", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --same_tier--> Mate 80 Pro"}
+{"instruction": "Pura 90 Pro Max的同级别产品有哪些？", "output": "Mate 80 Pro Max", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --same_tier--> Mate 80 Pro Max"}
+{"instruction": "Pura 90 Pro Max的同级别产品有哪些？", "output": "Mate 80 RS 非凡大师", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --same_tier--> Mate 80 RS 非凡大师"}
+{"instruction": "Pura 90 Pro Max的同级别产品有哪些？", "output": "Mate 70 Pro", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --same_tier--> Mate 70 Pro"}
+{"instruction": "Pura 90 Pro Max的同级别产品有哪些？", "output": "MatePad Pro 13.2 2025", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --same_tier--> MatePad Pro 13.2 2025"}
+{"instruction": "Pura 90 Pro Max的同级别产品有哪些？", "output": "MatePad Pro 12.2 2025", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --same_tier--> MatePad Pro 12.2 2025"}
+{"instruction": "Pura 90 Pro Max的同级别产品有哪些？", "output": "WATCH Ultimate 2", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --same_tier--> WATCH Ultimate 2"}
+{"instruction": "Pura 90 Pro Max的同级别产品有哪些？", "output": "WATCH GT 7 Pro 46mm", "_path": "Mate 80 --same_tier--> Pura 90 Pro Max --same_tier--> WATCH GT 7 Pro 46mm"}
+{"instruction": "MatePad Pro 13.2 2025的同级别产品有哪些？", "output": "MatePad Pro 12.2 2025", "_path": "Mate 80 --same_tier--> MatePad Pro 13.2 2025 --same_tier--> MatePad Pro 12.2 2025"}
+{"instruction": "MatePad Pro 12.2 2025支持10100mAh吗？", "output": "10100mAh", "_path": "Mate 80 --same_tier--> MatePad Pro 12.2 2025 --has_feature--> 10100mAh"}
+{"instruction": "MatePad Pro 12.2 2025的同级别产品有哪些？", "output": "MatePad Pro 13.2 2025", "_path": "Mate 80 --same_tier--> MatePad Pro 12.2 2025 --same_tier--> MatePad Pro 13.2 2025"}
+{"instruction": "WATCH Ultimate 2属于哪个is_a？", "output": "WATCH Ultimate 系列", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --is_a--> WATCH Ultimate 系列"}
+{"instruction": "WATCH Ultimate 2有什么特点？", "output": "北斗卫星语音消息", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --has_feature--> 北斗卫星语音消息"}
+{"instruction": "WATCH Ultimate 2有什么特点？", "output": "150米潜水带音频", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --has_feature--> 150米潜水带音频"}
+{"instruction": "WATCH Ultimate 2有什么特点？", "output": "水下声呐通信", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --has_feature--> 水下声呐通信"}
+{"instruction": "WATCH Ultimate 2支持双向北斗卫星吗？", "output": "双向北斗卫星", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --has_feature--> 双向北斗卫星"}
+{"instruction": "WATCH Ultimate 2有什么特点？", "output": "卫星通信", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --has_feature--> 卫星通信"}
+{"instruction": "WATCH Ultimate 2的产品定位是什么？", "output": "户外顶配", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --positioned_as--> 户外顶配"}
+{"instruction": "WATCH Ultimate 2的产品定位是什么？", "output": "探险旗舰", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --positioned_as--> 探险旗舰"}
+{"instruction": "WATCH Ultimate 2的同级别产品有哪些？", "output": "Mate 80 Pro", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --same_tier--> Mate 80 Pro"}
+{"instruction": "WATCH Ultimate 2的同级别产品有哪些？", "output": "Mate 80 Pro Max", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --same_tier--> Mate 80 Pro Max"}
+{"instruction": "WATCH Ultimate 2的同级别产品有哪些？", "output": "Mate 80 RS 非凡大师", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --same_tier--> Mate 80 RS 非凡大师"}
+{"instruction": "WATCH Ultimate 2的同级别产品有哪些？", "output": "Mate 70 Pro", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --same_tier--> Mate 70 Pro"}
+{"instruction": "WATCH Ultimate 2的同级别产品有哪些？", "output": "Pura 90 Pro Max", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --same_tier--> Pura 90 Pro Max"}
+{"instruction": "WATCH Ultimate 2的同级别产品有哪些？", "output": "MatePad Pro 13.2 2025", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --same_tier--> MatePad Pro 13.2 2025"}
+{"instruction": "WATCH Ultimate 2的同级别产品有哪些？", "output": "MatePad Pro 12.2 2025", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --same_tier--> MatePad Pro 12.2 2025"}
+{"instruction": "WATCH Ultimate 2的同级别产品有哪些？", "output": "WATCH GT 7 Pro 46mm", "_path": "Mate 80 --same_tier--> WATCH Ultimate 2 --same_tier--> WATCH GT 7 Pro 46mm"}
+{"instruction": "WATCH GT 7 Pro 46mm有什么特点？", "output": "钛合金+蓝宝石", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --has_feature--> 钛合金+蓝宝石"}
+{"instruction": "WATCH GT 7 Pro 46mm有什么特点？", "output": "专业登山潜水模式", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --has_feature--> 专业登山潜水模式"}
+{"instruction": "WATCH GT 7 Pro 46mm在什么价位段？", "output": "2000-4000元", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --in_price_range--> 2000-4000元"}
+{"instruction": "WATCH GT 7 Pro 46mm的售价是多少？", "output": "¥2488起", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --has_price--> ¥2488起"}
+{"instruction": "WATCH GT 7 Pro 46mm的产品定位是什么？", "output": "长续航户外旗舰", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --positioned_as--> 长续航户外旗舰"}
+{"instruction": "WATCH GT 7 Pro 46mm的产品定位是什么？", "output": "专业运动", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --positioned_as--> 专业运动"}
+{"instruction": "WATCH GT 7 Pro 46mm的同级别产品有哪些？", "output": "Mate 80 Pro", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --same_tier--> Mate 80 Pro"}
+{"instruction": "WATCH GT 7 Pro 46mm的同级别产品有哪些？", "output": "Mate 80 Pro Max", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --same_tier--> Mate 80 Pro Max"}
+{"instruction": "WATCH GT 7 Pro 46mm的同级别产品有哪些？", "output": "Mate 80 RS 非凡大师", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --same_tier--> Mate 80 RS 非凡大师"}
+{"instruction": "WATCH GT 7 Pro 46mm的同级别产品有哪些？", "output": "Mate 70 Pro", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --same_tier--> Mate 70 Pro"}
+{"instruction": "WATCH GT 7 Pro 46mm的同级别产品有哪些？", "output": "Pura 90 Pro Max", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --same_tier--> Pura 90 Pro Max"}
+{"instruction": "WATCH GT 7 Pro 46mm的同级别产品有哪些？", "output": "MatePad Pro 13.2 2025", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --same_tier--> MatePad Pro 13.2 2025"}
+{"instruction": "WATCH GT 7 Pro 46mm的同级别产品有哪些？", "output": "MatePad Pro 12.2 2025", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --same_tier--> MatePad Pro 12.2 2025"}
+{"instruction": "WATCH GT 7 Pro 46mm的同级别产品有哪些？", "output": "WATCH Ultimate 2", "_path": "Mate 80 --same_tier--> WATCH GT 7 Pro 46mm --same_tier--> WATCH Ultimate 2"}
+{"instruction": "Mate 80 Pro Max归属什么类别？", "output": "Mate 80 系列", "_path": "Mate 80 Pro --same_tier--> Mate 80 Pro Max --is_a--> Mate 80 系列"}
+{"instruction": "Mate 80 RS 非凡大师有什么特点？", "output": "全金属玄武架构", "_path": "Mate 80 Pro --same_tier--> Mate 80 RS 非凡大师 --has_feature--> 全金属玄武架构"}
+{"instruction": "Mate 70 Pro归属什么类别？", "output": "Mate 70 系列", "_path": "Mate 80 Pro --same_tier--> Mate 70 Pro --is_a--> Mate 70 系列"}
+{"instruction": "Mate 70 Pro用的什么处理器？", "output": "麒麟9020", "_path": "Mate 80 Pro --same_tier--> Mate 70 Pro --has_chip--> 麒麟9020"}
+{"instruction": "Mate 70 Pro支持麒麟9020吗？", "output": "麒麟9020", "_path": "Mate 80 Pro --same_tier--> Mate 70 Pro --has_feature--> 麒麟9020"}
+{"instruction": "Mate 70 Pro的同级别产品有哪些？", "output": "Mate 80", "_path": "Mate 80 Pro --same_tier--> Mate 70 Pro --same_tier--> Mate 80"}
+{"instruction": "Pura 90 Pro Max的同级别产品有哪些？", "output": "Mate 80", "_path": "Mate 80 Pro --same_tier--> Pura 90 Pro Max --same_tier--> Mate 80"}
+{"instruction": "MatePad Pro 13.2 2025有什么特点？", "output": "麒麟9010", "_path": "Mate 80 Pro --same_tier--> MatePad Pro 13.2 2025 --has_feature--> 麒麟9010"}
+{"instruction": "WATCH Ultimate 2支持北斗卫星语音消息吗？", "output": "北斗卫星语音消息", "_path": "Mate 80 Pro --same_tier--> WATCH Ultimate 2 --has_feature--> 北斗卫星语音消息"}
+{"instruction": "WATCH Ultimate 2支持卫星通信吗？", "output": "卫星通信", "_path": "Mate 80 Pro --same_tier--> WATCH Ultimate 2 --has_feature--> 卫星通信"}
+{"instruction": "WATCH Ultimate 2的同级别产品有哪些？", "output": "Mate 80", "_path": "Mate 80 Pro --same_tier--> WATCH Ultimate 2 --same_tier--> Mate 80"}
+{"instruction": "WATCH GT 7 Pro 46mm属于哪个is_a？", "output": "WATCH GT 系列", "_path": "Mate 80 Pro --same_tier--> WATCH GT 7 Pro 46mm --is_a--> WATCH GT 系列"}
+{"instruction": "WATCH GT 7 Pro 46mm支持钛合金+蓝宝石吗？", "output": "钛合金+蓝宝石", "_path": "Mate 80 Pro --same_tier--> WATCH GT 7 Pro 46mm --has_feature--> 钛合金+蓝宝石"}
+{"instruction": "WATCH GT 7 Pro 46mm的同级别产品有哪些？", "output": "Mate 80", "_path": "Mate 80 Pro --same_tier--> WATCH GT 7 Pro 46mm --same_tier--> Mate 80"}
+{"instruction": "请问Pura 90 Pro Max是哪个分类下的产品？", "output": "Pura 90 系列", "_path": "Mate 80 Pro Max --same_tier--> Pura 90 Pro Max --is_a--> Pura 90 系列"}
+{"instruction": "WATCH Ultimate 2支持150米潜水带音频吗？", "output": "150米潜水带音频", "_path": "Mate 80 Pro Max --same_tier--> WATCH Ultimate 2 --has_feature--> 150米潜水带音频"}
+{"instruction": "WATCH Ultimate 2有什么特点？", "output": "双向北斗卫星", "_path": "Mate 80 Pro Max --same_tier--> WATCH Ultimate 2 --has_feature--> 双向北斗卫星"}
+{"instruction": "Mate 70 Pro支持微距长焦吗？", "output": "微距长焦", "_path": "Mate 80 RS 非凡大师 --same_tier--> Mate 70 Pro --has_feature--> 微距长焦"}
+{"instruction": "Pura 90 Pro Max支持2亿像素超大底潜望长焦吗？", "output": "2亿像素超大底潜望长焦", "_path": "Mate 80 RS 非凡大师 --same_tier--> Pura 90 Pro Max --has_feature--> 2亿像素超大底潜望长焦"}
+{"instruction": "WATCH GT 7 Pro 46mm支持专业登山潜水模式吗？", "output": "专业登山潜水模式", "_path": "Mate 80 RS 非凡大师 --same_tier--> WATCH GT 7 Pro 46mm --has_feature--> 专业登山潜水模式"}
+{"instruction": "Pura 90 Pro Max属于哪个is_a？", "output": "Pura 90 系列", "_path": "Mate 70 Pro --same_tier--> Pura 90 Pro Max --is_a--> Pura 90 系列"}
+{"instruction": "MatePad Pro 13.2 2025用的什么处理器？", "output": "麒麟9010", "_path": "Mate 70 Pro --same_tier--> MatePad Pro 13.2 2025 --has_chip--> 麒麟9010"}
+{"instruction": "请问MatePad Pro 12.2 2025是哪个分类下的产品？", "output": "MatePad Pro 系列", "_path": "Mate 70 Pro --same_tier--> MatePad Pro 12.2 2025 --is_a--> MatePad Pro 系列"}
+{"instruction": "请问WATCH Ultimate 2是哪个分类下的产品？", "output": "WATCH Ultimate 系列", "_path": "Mate 70 Pro --same_tier--> WATCH Ultimate 2 --is_a--> WATCH Ultimate 系列"}
+{"instruction": "WATCH Ultimate 2支持水下声呐通信吗？", "output": "水下声呐通信", "_path": "Pura 90 Pro Max --same_tier--> WATCH Ultimate 2 --has_feature--> 水下声呐通信"}

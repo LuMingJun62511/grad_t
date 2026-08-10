@@ -1,0 +1,2485 @@
+{"instruction": "Mate 80属于什么分类？", "output": "Mate 80 系列"}
+{"instruction": "Mate 80归属哪个SubSeries？", "output": "Mate 80 系列"}
+{"instruction": "Mate 80 系列包含哪些产品？", "output": "Mate 80"}
+{"instruction": "Mate 80 系列下面有什么？", "output": "Mate 80"}
+{"instruction": "Mate 80 系列属于什么分类？", "output": "Mate 系列"}
+{"instruction": "Mate 80 系列归属哪个Series？", "output": "Mate 系列"}
+{"instruction": "Mate 系列包含哪些产品？", "output": "Mate 80 系列"}
+{"instruction": "Mate 系列下面有什么？", "output": "Mate 80 系列"}
+{"instruction": "Mate 系列属于什么分类？", "output": "手机"}
+{"instruction": "Mate 系列归属哪个Category？", "output": "手机"}
+{"instruction": "手机包含哪些产品？", "output": "Mate 系列"}
+{"instruction": "手机下面有什么？", "output": "Mate 系列"}
+{"instruction": "手机属于什么分类？", "output": "华为"}
+{"instruction": "手机归属哪个Company？", "output": "华为"}
+{"instruction": "华为包含哪些产品？", "output": "手机"}
+{"instruction": "华为下面有什么？", "output": "手机"}
+{"instruction": "Mate 80支持首配3D人脸吗？", "output": "首配3D人脸"}
+{"instruction": "Mate 80有首配3D人脸功能吗？", "output": "首配3D人脸"}
+{"instruction": "哪些产品支持首配3D人脸？", "output": "Mate 80"}
+{"instruction": "哪些产品有首配3D人脸功能？", "output": "Mate 80"}
+{"instruction": "Mate 80支持3999起亲民价吗？", "output": "3999起亲民价"}
+{"instruction": "Mate 80有3999起亲民价功能吗？", "output": "3999起亲民价"}
+{"instruction": "哪些产品支持3999起亲民价？", "output": "Mate 80"}
+{"instruction": "哪些产品有3999起亲民价功能？", "output": "Mate 80"}
+{"instruction": "Mate 80在什么价位段？", "output": "2000-4000元"}
+{"instruction": "华为2000-4000元价位有哪些产品？", "output": "Mate 80"}
+{"instruction": "Mate 80的售价是多少？", "output": "¥3999起"}
+{"instruction": "Mate 80多少钱？", "output": "¥3999起"}
+{"instruction": "Mate 80的产品定位是什么？", "output": "商务旗舰"}
+{"instruction": "Mate 80主打什么定位？", "output": "商务旗舰"}
+{"instruction": "华为商务旗舰定位的产品有哪些？", "output": "Mate 80"}
+{"instruction": "哪些产品定位为商务旗舰？", "output": "Mate 80"}
+{"instruction": "Mate 80的产品定位是什么？", "output": "直屏旗舰"}
+{"instruction": "Mate 80主打什么定位？", "output": "直屏旗舰"}
+{"instruction": "华为直屏旗舰定位的产品有哪些？", "output": "Mate 80"}
+{"instruction": "哪些产品定位为直屏旗舰？", "output": "Mate 80"}
+{"instruction": "Mate 80 Pro属于什么分类？", "output": "Mate 80 系列"}
+{"instruction": "Mate 80 Pro归属哪个SubSeries？", "output": "Mate 80 系列"}
+{"instruction": "Mate 80 系列包含哪些产品？", "output": "Mate 80 Pro"}
+{"instruction": "Mate 80 系列下面有什么？", "output": "Mate 80 Pro"}
+{"instruction": "Mate 80 Pro搭载什么芯片？", "output": "麒麟9030"}
+{"instruction": "Mate 80 Pro用的什么处理器？", "output": "麒麟9030"}
+{"instruction": "哪些产品搭载麒麟9030？", "output": "Mate 80 Pro"}
+{"instruction": "麒麟9030用于哪些产品？", "output": "Mate 80 Pro"}
+{"instruction": "Mate 80 Pro支持WiFi7吗？", "output": "WiFi7"}
+{"instruction": "Mate 80 Pro有WiFi7功能吗？", "output": "WiFi7"}
+{"instruction": "哪些产品支持WiFi7？", "output": "Mate 80 Pro"}
+{"instruction": "哪些产品有WiFi7功能？", "output": "Mate 80 Pro"}
+{"instruction": "Mate 80 Pro支持6.9寸微曲屏吗？", "output": "6.9寸微曲屏"}
+{"instruction": "Mate 80 Pro有6.9寸微曲屏功能吗？", "output": "6.9寸微曲屏"}
+{"instruction": "哪些产品支持6.9寸微曲屏？", "output": "Mate 80 Pro"}
+{"instruction": "哪些产品有6.9寸微曲屏功能？", "output": "Mate 80 Pro"}
+{"instruction": "Mate 80 Pro的屏幕是什么类型？", "output": "微曲屏"}
+{"instruction": "Mate 80 Pro用的什么屏幕？", "output": "微曲屏"}
+{"instruction": "Mate 80 Pro在什么价位段？", "output": "6000-8000元"}
+{"instruction": "华为6000-8000元价位有哪些产品？", "output": "Mate 80 Pro"}
+{"instruction": "Mate 80 Pro的售价是多少？", "output": "¥6499起"}
+{"instruction": "Mate 80 Pro多少钱？", "output": "¥6499起"}
+{"instruction": "Mate 80 Pro的产品定位是什么？", "output": "商务旗舰"}
+{"instruction": "Mate 80 Pro主打什么定位？", "output": "商务旗舰"}
+{"instruction": "华为商务旗舰定位的产品有哪些？", "output": "Mate 80 Pro"}
+{"instruction": "哪些产品定位为商务旗舰？", "output": "Mate 80 Pro"}
+{"instruction": "Mate 80 Pro的产品定位是什么？", "output": "全能旗舰"}
+{"instruction": "Mate 80 Pro主打什么定位？", "output": "全能旗舰"}
+{"instruction": "华为全能旗舰定位的产品有哪些？", "output": "Mate 80 Pro"}
+{"instruction": "哪些产品定位为全能旗舰？", "output": "Mate 80 Pro"}
+{"instruction": "Mate 80 Pro Max属于什么分类？", "output": "Mate 80 系列"}
+{"instruction": "Mate 80 Pro Max归属哪个SubSeries？", "output": "Mate 80 系列"}
+{"instruction": "Mate 80 系列包含哪些产品？", "output": "Mate 80 Pro Max"}
+{"instruction": "Mate 80 系列下面有什么？", "output": "Mate 80 Pro Max"}
+{"instruction": "Mate 80 Pro Max支持双潜望长焦吗？", "output": "双潜望长焦"}
+{"instruction": "Mate 80 Pro Max有双潜望长焦功能吗？", "output": "双潜望长焦"}
+{"instruction": "哪些产品支持双潜望长焦？", "output": "Mate 80 Pro Max"}
+{"instruction": "哪些产品有双潜望长焦功能？", "output": "Mate 80 Pro Max"}
+{"instruction": "Mate 80 Pro Max支持双层OLED吗？", "output": "双层OLED"}
+{"instruction": "Mate 80 Pro Max有双层OLED功能吗？", "output": "双层OLED"}
+{"instruction": "哪些产品支持双层OLED？", "output": "Mate 80 Pro Max"}
+{"instruction": "哪些产品有双层OLED功能？", "output": "Mate 80 Pro Max"}
+{"instruction": "Mate 80 Pro Max的电池容量是多少？", "output": "6000mAh"}
+{"instruction": "Mate 80 Pro Max的屏幕是什么类型？", "output": "双层OLED"}
+{"instruction": "Mate 80 Pro Max用的什么屏幕？", "output": "双层OLED"}
+{"instruction": "Mate 80 Pro Max在什么价位段？", "output": "6000-8000元"}
+{"instruction": "华为6000-8000元价位有哪些产品？", "output": "Mate 80 Pro Max"}
+{"instruction": "Mate 80 Pro Max的售价是多少？", "output": "¥7499起"}
+{"instruction": "Mate 80 Pro Max多少钱？", "output": "¥7499起"}
+{"instruction": "Mate 80 Pro Max的产品定位是什么？", "output": "商务旗舰"}
+{"instruction": "Mate 80 Pro Max主打什么定位？", "output": "商务旗舰"}
+{"instruction": "华为商务旗舰定位的产品有哪些？", "output": "Mate 80 Pro Max"}
+{"instruction": "哪些产品定位为商务旗舰？", "output": "Mate 80 Pro Max"}
+{"instruction": "Mate 80 Pro Max的产品定位是什么？", "output": "顶配影像"}
+{"instruction": "Mate 80 Pro Max主打什么定位？", "output": "顶配影像"}
+{"instruction": "华为顶配影像定位的产品有哪些？", "output": "Mate 80 Pro Max"}
+{"instruction": "哪些产品定位为顶配影像？", "output": "Mate 80 Pro Max"}
+{"instruction": "Mate 80 Pro Max 风驰版属于什么分类？", "output": "Mate 80 系列"}
+{"instruction": "Mate 80 Pro Max 风驰版归属哪个SubSeries？", "output": "Mate 80 系列"}
+{"instruction": "Mate 80 系列包含哪些产品？", "output": "Mate 80 Pro Max 风驰版"}
+{"instruction": "Mate 80 系列下面有什么？", "output": "Mate 80 Pro Max 风驰版"}
+{"instruction": "Mate 80 Pro Max 风驰版支持Pro Max升级版吗？", "output": "Pro Max升级版"}
+{"instruction": "Mate 80 Pro Max 风驰版有Pro Max升级版功能吗？", "output": "Pro Max升级版"}
+{"instruction": "哪些产品支持Pro Max升级版？", "output": "Mate 80 Pro Max 风驰版"}
+{"instruction": "哪些产品有Pro Max升级版功能？", "output": "Mate 80 Pro Max 风驰版"}
+{"instruction": "Mate 80 Pro Max 风驰版在什么价位段？", "output": "8000-12000元"}
+{"instruction": "华为8000-12000元价位有哪些产品？", "output": "Mate 80 Pro Max 风驰版"}
+{"instruction": "Mate 80 Pro Max 风驰版的售价是多少？", "output": "¥8499"}
+{"instruction": "Mate 80 Pro Max 风驰版多少钱？", "output": "¥8499"}
+{"instruction": "Mate 80 Pro Max 风驰版的产品定位是什么？", "output": "商务旗舰"}
+{"instruction": "Mate 80 Pro Max 风驰版主打什么定位？", "output": "商务旗舰"}
+{"instruction": "华为商务旗舰定位的产品有哪些？", "output": "Mate 80 Pro Max 风驰版"}
+{"instruction": "哪些产品定位为商务旗舰？", "output": "Mate 80 Pro Max 风驰版"}
+{"instruction": "Mate 80 Pro Max 风驰版的产品定位是什么？", "output": "性能特化"}
+{"instruction": "Mate 80 Pro Max 风驰版主打什么定位？", "output": "性能特化"}
+{"instruction": "华为性能特化定位的产品有哪些？", "output": "Mate 80 Pro Max 风驰版"}
+{"instruction": "哪些产品定位为性能特化？", "output": "Mate 80 Pro Max 风驰版"}
+{"instruction": "Mate 80 Pro Max 风驰版是哪一年发布的？", "output": "2026年"}
+{"instruction": "Mate 80 RS 非凡大师属于什么分类？", "output": "Mate 80 系列"}
+{"instruction": "Mate 80 RS 非凡大师归属哪个SubSeries？", "output": "Mate 80 系列"}
+{"instruction": "Mate 80 系列包含哪些产品？", "output": "Mate 80 RS 非凡大师"}
+{"instruction": "Mate 80 系列下面有什么？", "output": "Mate 80 RS 非凡大师"}
+{"instruction": "Mate 80 RS 非凡大师支持全金属玄武架构吗？", "output": "全金属玄武架构"}
+{"instruction": "Mate 80 RS 非凡大师有全金属玄武架构功能吗？", "output": "全金属玄武架构"}
+{"instruction": "哪些产品支持全金属玄武架构？", "output": "Mate 80 RS 非凡大师"}
+{"instruction": "哪些产品有全金属玄武架构功能？", "output": "Mate 80 RS 非凡大师"}
+{"instruction": "Mate 80 RS 非凡大师支持双潜望吗？", "output": "双潜望"}
+{"instruction": "Mate 80 RS 非凡大师有双潜望功能吗？", "output": "双潜望"}
+{"instruction": "哪些产品支持双潜望？", "output": "Mate 80 RS 非凡大师"}
+{"instruction": "哪些产品有双潜望功能？", "output": "Mate 80 RS 非凡大师"}
+{"instruction": "Mate 80 RS 非凡大师支持卫星通信吗？", "output": "卫星通信"}
+{"instruction": "Mate 80 RS 非凡大师有卫星通信功能吗？", "output": "卫星通信"}
+{"instruction": "哪些产品支持卫星通信？", "output": "Mate 80 RS 非凡大师"}
+{"instruction": "哪些产品有卫星通信功能？", "output": "Mate 80 RS 非凡大师"}
+{"instruction": "Mate 80 RS 非凡大师在什么价位段？", "output": "8000-12000元"}
+{"instruction": "华为8000-12000元价位有哪些产品？", "output": "Mate 80 RS 非凡大师"}
+{"instruction": "Mate 80 RS 非凡大师的售价是多少？", "output": "¥11999起"}
+{"instruction": "Mate 80 RS 非凡大师多少钱？", "output": "¥11999起"}
+{"instruction": "Mate 80 RS 非凡大师的产品定位是什么？", "output": "超高端商务"}
+{"instruction": "Mate 80 RS 非凡大师主打什么定位？", "output": "超高端商务"}
+{"instruction": "华为超高端商务定位的产品有哪些？", "output": "Mate 80 RS 非凡大师"}
+{"instruction": "哪些产品定位为超高端商务？", "output": "Mate 80 RS 非凡大师"}
+{"instruction": "Mate 80 RS 非凡大师的产品定位是什么？", "output": "奢华旗舰"}
+{"instruction": "Mate 80 RS 非凡大师主打什么定位？", "output": "奢华旗舰"}
+{"instruction": "华为奢华旗舰定位的产品有哪些？", "output": "Mate 80 RS 非凡大师"}
+{"instruction": "哪些产品定位为奢华旗舰？", "output": "Mate 80 RS 非凡大师"}
+{"instruction": "Mate 70属于什么分类？", "output": "Mate 70 系列"}
+{"instruction": "Mate 70归属哪个SubSeries？", "output": "Mate 70 系列"}
+{"instruction": "Mate 70 系列包含哪些产品？", "output": "Mate 70"}
+{"instruction": "Mate 70 系列下面有什么？", "output": "Mate 70"}
+{"instruction": "Mate 70 系列属于什么分类？", "output": "Mate 系列"}
+{"instruction": "Mate 70 系列归属哪个Series？", "output": "Mate 系列"}
+{"instruction": "Mate 系列包含哪些产品？", "output": "Mate 70 系列"}
+{"instruction": "Mate 系列下面有什么？", "output": "Mate 70 系列"}
+{"instruction": "Mate 70搭载什么芯片？", "output": "麒麟9020"}
+{"instruction": "Mate 70用的什么处理器？", "output": "麒麟9020"}
+{"instruction": "哪些产品搭载麒麟9020？", "output": "Mate 70"}
+{"instruction": "麒麟9020用于哪些产品？", "output": "Mate 70"}
+{"instruction": "Mate 70的电池容量是多少？", "output": "5200mAh"}
+{"instruction": "Mate 70在什么价位段？", "output": "4000-6000元"}
+{"instruction": "华为4000-6000元价位有哪些产品？", "output": "Mate 70"}
+{"instruction": "Mate 70的售价是多少？", "output": "¥5099起"}
+{"instruction": "Mate 70多少钱？", "output": "¥5099起"}
+{"instruction": "Mate 70的产品定位是什么？", "output": "商务旗舰"}
+{"instruction": "Mate 70主打什么定位？", "output": "商务旗舰"}
+{"instruction": "华为商务旗舰定位的产品有哪些？", "output": "Mate 70"}
+{"instruction": "哪些产品定位为商务旗舰？", "output": "Mate 70"}
+{"instruction": "Mate 70的产品定位是什么？", "output": "上代标准版"}
+{"instruction": "Mate 70主打什么定位？", "output": "上代标准版"}
+{"instruction": "华为上代标准版定位的产品有哪些？", "output": "Mate 70"}
+{"instruction": "哪些产品定位为上代标准版？", "output": "Mate 70"}
+{"instruction": "Mate 70 Pro属于什么分类？", "output": "Mate 70 系列"}
+{"instruction": "Mate 70 Pro归属哪个SubSeries？", "output": "Mate 70 系列"}
+{"instruction": "Mate 70 系列包含哪些产品？", "output": "Mate 70 Pro"}
+{"instruction": "Mate 70 系列下面有什么？", "output": "Mate 70 Pro"}
+{"instruction": "Mate 70 Pro搭载什么芯片？", "output": "麒麟9020"}
+{"instruction": "Mate 70 Pro用的什么处理器？", "output": "麒麟9020"}
+{"instruction": "哪些产品搭载麒麟9020？", "output": "Mate 70 Pro"}
+{"instruction": "麒麟9020用于哪些产品？", "output": "Mate 70 Pro"}
+{"instruction": "Mate 70 Pro支持6.9寸LTPO吗？", "output": "6.9寸LTPO"}
+{"instruction": "Mate 70 Pro有6.9寸LTPO功能吗？", "output": "6.9寸LTPO"}
+{"instruction": "哪些产品支持6.9寸LTPO？", "output": "Mate 70 Pro"}
+{"instruction": "哪些产品有6.9寸LTPO功能？", "output": "Mate 70 Pro"}
+{"instruction": "Mate 70 Pro支持微距长焦吗？", "output": "微距长焦"}
+{"instruction": "Mate 70 Pro有微距长焦功能吗？", "output": "微距长焦"}
+{"instruction": "哪些产品支持微距长焦？", "output": "Mate 70 Pro"}
+{"instruction": "哪些产品有微距长焦功能？", "output": "Mate 70 Pro"}
+{"instruction": "Mate 70 Pro的屏幕是什么类型？", "output": "LTPO"}
+{"instruction": "Mate 70 Pro用的什么屏幕？", "output": "LTPO"}
+{"instruction": "Mate 70 Pro在什么价位段？", "output": "4000-6000元"}
+{"instruction": "华为4000-6000元价位有哪些产品？", "output": "Mate 70 Pro"}
+{"instruction": "Mate 70 Pro的售价是多少？", "output": "¥5199起"}
+{"instruction": "Mate 70 Pro多少钱？", "output": "¥5199起"}
+{"instruction": "Mate 70 Pro的产品定位是什么？", "output": "商务旗舰"}
+{"instruction": "Mate 70 Pro主打什么定位？", "output": "商务旗舰"}
+{"instruction": "华为商务旗舰定位的产品有哪些？", "output": "Mate 70 Pro"}
+{"instruction": "哪些产品定位为商务旗舰？", "output": "Mate 70 Pro"}
+{"instruction": "Mate 70 Pro的产品定位是什么？", "output": "上代Pro"}
+{"instruction": "Mate 70 Pro主打什么定位？", "output": "上代Pro"}
+{"instruction": "华为上代Pro定位的产品有哪些？", "output": "Mate 70 Pro"}
+{"instruction": "哪些产品定位为上代Pro？", "output": "Mate 70 Pro"}
+{"instruction": "Mate 70 Pro 优享版属于什么分类？", "output": "Mate 70 系列"}
+{"instruction": "Mate 70 Pro 优享版归属哪个SubSeries？", "output": "Mate 70 系列"}
+{"instruction": "Mate 70 系列包含哪些产品？", "output": "Mate 70 Pro 优享版"}
+{"instruction": "Mate 70 系列下面有什么？", "output": "Mate 70 Pro 优享版"}
+{"instruction": "Mate 70 Pro 优享版搭载什么芯片？", "output": "麒麟9020A"}
+{"instruction": "Mate 70 Pro 优享版用的什么处理器？", "output": "麒麟9020A"}
+{"instruction": "哪些产品搭载麒麟9020A？", "output": "Mate 70 Pro 优享版"}
+{"instruction": "麒麟9020A用于哪些产品？", "output": "Mate 70 Pro 优享版"}
+{"instruction": "Mate 70 Pro 优享版支持价格更友好吗？", "output": "价格更友好"}
+{"instruction": "Mate 70 Pro 优享版有价格更友好功能吗？", "output": "价格更友好"}
+{"instruction": "哪些产品支持价格更友好？", "output": "Mate 70 Pro 优享版"}
+{"instruction": "哪些产品有价格更友好功能？", "output": "Mate 70 Pro 优享版"}
+{"instruction": "Mate 70 Pro 优享版在什么价位段？", "output": "4000-6000元"}
+{"instruction": "华为4000-6000元价位有哪些产品？", "output": "Mate 70 Pro 优享版"}
+{"instruction": "Mate 70 Pro 优享版的售价是多少？", "output": "¥5099起"}
+{"instruction": "Mate 70 Pro 优享版多少钱？", "output": "¥5099起"}
+{"instruction": "Mate 70 Pro 优享版的产品定位是什么？", "output": "商务旗舰"}
+{"instruction": "Mate 70 Pro 优享版主打什么定位？", "output": "商务旗舰"}
+{"instruction": "华为商务旗舰定位的产品有哪些？", "output": "Mate 70 Pro 优享版"}
+{"instruction": "哪些产品定位为商务旗舰？", "output": "Mate 70 Pro 优享版"}
+{"instruction": "Mate 70 Pro 优享版的产品定位是什么？", "output": "性价比版"}
+{"instruction": "Mate 70 Pro 优享版主打什么定位？", "output": "性价比版"}
+{"instruction": "华为性价比版定位的产品有哪些？", "output": "Mate 70 Pro 优享版"}
+{"instruction": "哪些产品定位为性价比版？", "output": "Mate 70 Pro 优享版"}
+{"instruction": "Mate 70 Pro+属于什么分类？", "output": "Mate 70 系列"}
+{"instruction": "Mate 70 Pro+归属哪个SubSeries？", "output": "Mate 70 系列"}
+{"instruction": "Mate 70 系列包含哪些产品？", "output": "Mate 70 Pro+"}
+{"instruction": "Mate 70 系列下面有什么？", "output": "Mate 70 Pro+"}
+{"instruction": "Mate 70 Pro+支持16GB大内存吗？", "output": "16GB大内存"}
+{"instruction": "Mate 70 Pro+有16GB大内存功能吗？", "output": "16GB大内存"}
+{"instruction": "哪些产品支持16GB大内存？", "output": "Mate 70 Pro+"}
+{"instruction": "哪些产品有16GB大内存功能？", "output": "Mate 70 Pro+"}
+{"instruction": "Mate 70 Pro+支持2K直屏吗？", "output": "2K直屏"}
+{"instruction": "Mate 70 Pro+有2K直屏功能吗？", "output": "2K直屏"}
+{"instruction": "哪些产品支持2K直屏？", "output": "Mate 70 Pro+"}
+{"instruction": "哪些产品有2K直屏功能？", "output": "Mate 70 Pro+"}
+{"instruction": "Mate 70 Pro+支持天通卫星吗？", "output": "天通卫星"}
+{"instruction": "Mate 70 Pro+有天通卫星功能吗？", "output": "天通卫星"}
+{"instruction": "哪些产品支持天通卫星？", "output": "Mate 70 Pro+"}
+{"instruction": "哪些产品有天通卫星功能？", "output": "Mate 70 Pro+"}
+{"instruction": "Mate 70 Pro+的屏幕是什么类型？", "output": "直屏"}
+{"instruction": "Mate 70 Pro+用的什么屏幕？", "output": "直屏"}
+{"instruction": "Mate 70 Pro+支持卫星通信吗？", "output": "卫星通信"}
+{"instruction": "Mate 70 Pro+有卫星通信功能吗？", "output": "卫星通信"}
+{"instruction": "哪些产品支持卫星通信？", "output": "Mate 70 Pro+"}
+{"instruction": "哪些产品有卫星通信功能？", "output": "Mate 70 Pro+"}
+{"instruction": "Mate 70 Pro+在什么价位段？", "output": "6000-8000元"}
+{"instruction": "华为6000-8000元价位有哪些产品？", "output": "Mate 70 Pro+"}
+{"instruction": "Mate 70 Pro+的售价是多少？", "output": "¥6699起"}
+{"instruction": "Mate 70 Pro+多少钱？", "output": "¥6699起"}
+{"instruction": "Mate 70 Pro+的产品定位是什么？", "output": "商务旗舰"}
+{"instruction": "Mate 70 Pro+主打什么定位？", "output": "商务旗舰"}
+{"instruction": "华为商务旗舰定位的产品有哪些？", "output": "Mate 70 Pro+"}
+{"instruction": "哪些产品定位为商务旗舰？", "output": "Mate 70 Pro+"}
+{"instruction": "Mate 70 Pro+的产品定位是什么？", "output": "顶配直屏"}
+{"instruction": "Mate 70 Pro+主打什么定位？", "output": "顶配直屏"}
+{"instruction": "华为顶配直屏定位的产品有哪些？", "output": "Mate 70 Pro+"}
+{"instruction": "哪些产品定位为顶配直屏？", "output": "Mate 70 Pro+"}
+{"instruction": "Mate 70 RS 非凡大师属于什么分类？", "output": "Mate 70 系列"}
+{"instruction": "Mate 70 RS 非凡大师归属哪个SubSeries？", "output": "Mate 70 系列"}
+{"instruction": "Mate 70 系列包含哪些产品？", "output": "Mate 70 RS 非凡大师"}
+{"instruction": "Mate 70 系列下面有什么？", "output": "Mate 70 RS 非凡大师"}
+{"instruction": "Mate 70 RS 非凡大师支持双层OLED微曲屏吗？", "output": "双层OLED微曲屏"}
+{"instruction": "Mate 70 RS 非凡大师有双层OLED微曲屏功能吗？", "output": "双层OLED微曲屏"}
+{"instruction": "哪些产品支持双层OLED微曲屏？", "output": "Mate 70 RS 非凡大师"}
+{"instruction": "哪些产品有双层OLED微曲屏功能？", "output": "Mate 70 RS 非凡大师"}
+{"instruction": "Mate 70 RS 非凡大师的电池容量是多少？", "output": "5700mAh"}
+{"instruction": "Mate 70 RS 非凡大师的屏幕是什么类型？", "output": "双层OLED"}
+{"instruction": "Mate 70 RS 非凡大师用的什么屏幕？", "output": "双层OLED"}
+{"instruction": "Mate 70 RS 非凡大师在什么价位段？", "output": "8000-12000元"}
+{"instruction": "华为8000-12000元价位有哪些产品？", "output": "Mate 70 RS 非凡大师"}
+{"instruction": "Mate 70 RS 非凡大师的售价是多少？", "output": "¥11999起"}
+{"instruction": "Mate 70 RS 非凡大师多少钱？", "output": "¥11999起"}
+{"instruction": "Mate 70 RS 非凡大师的产品定位是什么？", "output": "超高端商务"}
+{"instruction": "Mate 70 RS 非凡大师主打什么定位？", "output": "超高端商务"}
+{"instruction": "华为超高端商务定位的产品有哪些？", "output": "Mate 70 RS 非凡大师"}
+{"instruction": "哪些产品定位为超高端商务？", "output": "Mate 70 RS 非凡大师"}
+{"instruction": "Mate 70 RS 非凡大师的产品定位是什么？", "output": "奢华旗舰"}
+{"instruction": "Mate 70 RS 非凡大师主打什么定位？", "output": "奢华旗舰"}
+{"instruction": "华为奢华旗舰定位的产品有哪些？", "output": "Mate 70 RS 非凡大师"}
+{"instruction": "哪些产品定位为奢华旗舰？", "output": "Mate 70 RS 非凡大师"}
+{"instruction": "Mate 70 Air属于什么分类？", "output": "Mate 70 系列"}
+{"instruction": "Mate 70 Air归属哪个SubSeries？", "output": "Mate 70 系列"}
+{"instruction": "Mate 70 系列包含哪些产品？", "output": "Mate 70 Air"}
+{"instruction": "Mate 70 系列下面有什么？", "output": "Mate 70 Air"}
+{"instruction": "Mate 70 Air支持7寸大屏吗？", "output": "7寸大屏"}
+{"instruction": "Mate 70 Air有7寸大屏功能吗？", "output": "7寸大屏"}
+{"instruction": "哪些产品支持7寸大屏？", "output": "Mate 70 Air"}
+{"instruction": "哪些产品有7寸大屏功能？", "output": "Mate 70 Air"}
+{"instruction": "Mate 70 Air支持3170起最便宜Mate吗？", "output": "3170起最便宜Mate"}
+{"instruction": "Mate 70 Air有3170起最便宜Mate功能吗？", "output": "3170起最便宜Mate"}
+{"instruction": "哪些产品支持3170起最便宜Mate？", "output": "Mate 70 Air"}
+{"instruction": "哪些产品有3170起最便宜Mate功能？", "output": "Mate 70 Air"}
+{"instruction": "Mate 70 Air的电池容量是多少？", "output": "6500mAh"}
+{"instruction": "Mate 70 Air在什么价位段？", "output": "2000-4000元"}
+{"instruction": "华为2000-4000元价位有哪些产品？", "output": "Mate 70 Air"}
+{"instruction": "Mate 70 Air的售价是多少？", "output": "¥3170起"}
+{"instruction": "Mate 70 Air多少钱？", "output": "¥3170起"}
+{"instruction": "Mate 70 Air的产品定位是什么？", "output": "商务旗舰"}
+{"instruction": "Mate 70 Air主打什么定位？", "output": "商务旗舰"}
+{"instruction": "华为商务旗舰定位的产品有哪些？", "output": "Mate 70 Air"}
+{"instruction": "哪些产品定位为商务旗舰？", "output": "Mate 70 Air"}
+{"instruction": "Mate 70 Air的产品定位是什么？", "output": "大屏长续航"}
+{"instruction": "Mate 70 Air主打什么定位？", "output": "大屏长续航"}
+{"instruction": "华为大屏长续航定位的产品有哪些？", "output": "Mate 70 Air"}
+{"instruction": "哪些产品定位为大屏长续航？", "output": "Mate 70 Air"}
+{"instruction": "Mate 90 系列属于什么分类？", "output": "Mate 系列即将发布"}
+{"instruction": "Mate 90 系列归属哪个SubSeries？", "output": "Mate 系列即将发布"}
+{"instruction": "Mate 系列即将发布包含哪些产品？", "output": "Mate 90 系列"}
+{"instruction": "Mate 系列即将发布下面有什么？", "output": "Mate 90 系列"}
+{"instruction": "Mate 系列即将发布属于什么分类？", "output": "Mate 系列"}
+{"instruction": "Mate 系列即将发布归属哪个Series？", "output": "Mate 系列"}
+{"instruction": "Mate 系列包含哪些产品？", "output": "Mate 系列即将发布"}
+{"instruction": "Mate 系列下面有什么？", "output": "Mate 系列即将发布"}
+{"instruction": "Mate 90 系列搭载什么芯片？", "output": "麒麟2026"}
+{"instruction": "Mate 90 系列用的什么处理器？", "output": "麒麟2026"}
+{"instruction": "哪些产品搭载麒麟2026？", "output": "Mate 90 系列"}
+{"instruction": "麒麟2026用于哪些产品？", "output": "Mate 90 系列"}
+{"instruction": "Mate 90 系列支持HarmonyOS 7吗？", "output": "HarmonyOS 7"}
+{"instruction": "Mate 90 系列有HarmonyOS 7功能吗？", "output": "HarmonyOS 7"}
+{"instruction": "哪些产品支持HarmonyOS 7？", "output": "Mate 90 系列"}
+{"instruction": "哪些产品有HarmonyOS 7功能？", "output": "Mate 90 系列"}
+{"instruction": "Mate 90 系列支持5G回归吗？", "output": "5G回归"}
+{"instruction": "Mate 90 系列有5G回归功能吗？", "output": "5G回归"}
+{"instruction": "哪些产品支持5G回归？", "output": "Mate 90 系列"}
+{"instruction": "哪些产品有5G回归功能？", "output": "Mate 90 系列"}
+{"instruction": "Mate 90 系列的产品定位是什么？", "output": "商务旗舰"}
+{"instruction": "Mate 90 系列主打什么定位？", "output": "商务旗舰"}
+{"instruction": "华为商务旗舰定位的产品有哪些？", "output": "Mate 90 系列"}
+{"instruction": "哪些产品定位为商务旗舰？", "output": "Mate 90 系列"}
+{"instruction": "Mate 90 系列的产品定位是什么？", "output": "年度旗舰"}
+{"instruction": "Mate 90 系列主打什么定位？", "output": "年度旗舰"}
+{"instruction": "华为年度旗舰定位的产品有哪些？", "output": "Mate 90 系列"}
+{"instruction": "哪些产品定位为年度旗舰？", "output": "Mate 90 系列"}
+{"instruction": "Mate 90 系列是哪一年发布的？", "output": "2026年"}
+{"instruction": "Pura 90属于什么分类？", "output": "Pura 90 系列"}
+{"instruction": "Pura 90归属哪个SubSeries？", "output": "Pura 90 系列"}
+{"instruction": "Pura 90 系列包含哪些产品？", "output": "Pura 90"}
+{"instruction": "Pura 90 系列下面有什么？", "output": "Pura 90"}
+{"instruction": "Pura 90 系列属于什么分类？", "output": "Pura 系列"}
+{"instruction": "Pura 90 系列归属哪个Series？", "output": "Pura 系列"}
+{"instruction": "Pura 系列包含哪些产品？", "output": "Pura 90 系列"}
+{"instruction": "Pura 系列下面有什么？", "output": "Pura 90 系列"}
+{"instruction": "Pura 系列属于什么分类？", "output": "手机"}
+{"instruction": "Pura 系列归属哪个Category？", "output": "手机"}
+{"instruction": "手机包含哪些产品？", "output": "Pura 系列"}
+{"instruction": "手机下面有什么？", "output": "Pura 系列"}
+{"instruction": "Pura 90支持HarmonyOS 6.1吗？", "output": "HarmonyOS 6.1"}
+{"instruction": "Pura 90有HarmonyOS 6.1功能吗？", "output": "HarmonyOS 6.1"}
+{"instruction": "哪些产品支持HarmonyOS 6.1？", "output": "Pura 90"}
+{"instruction": "哪些产品有HarmonyOS 6.1功能？", "output": "Pura 90"}
+{"instruction": "Pura 90在什么价位段？", "output": "4000-6000元"}
+{"instruction": "华为4000-6000元价位有哪些产品？", "output": "Pura 90"}
+{"instruction": "Pura 90的售价是多少？", "output": "¥4699起"}
+{"instruction": "Pura 90多少钱？", "output": "¥4699起"}
+{"instruction": "Pura 90的产品定位是什么？", "output": "影像旗舰"}
+{"instruction": "Pura 90主打什么定位？", "output": "影像旗舰"}
+{"instruction": "华为影像旗舰定位的产品有哪些？", "output": "Pura 90"}
+{"instruction": "哪些产品定位为影像旗舰？", "output": "Pura 90"}
+{"instruction": "Pura 90的产品定位是什么？", "output": "时尚影像"}
+{"instruction": "Pura 90主打什么定位？", "output": "时尚影像"}
+{"instruction": "华为时尚影像定位的产品有哪些？", "output": "Pura 90"}
+{"instruction": "哪些产品定位为时尚影像？", "output": "Pura 90"}
+{"instruction": "Pura 90 Pro属于什么分类？", "output": "Pura 90 系列"}
+{"instruction": "Pura 90 Pro归属哪个SubSeries？", "output": "Pura 90 系列"}
+{"instruction": "Pura 90 系列包含哪些产品？", "output": "Pura 90 Pro"}
+{"instruction": "Pura 90 系列下面有什么？", "output": "Pura 90 Pro"}
+{"instruction": "Pura 90 Pro搭载什么芯片？", "output": "麒麟9030S"}
+{"instruction": "Pura 90 Pro用的什么处理器？", "output": "麒麟9030S"}
+{"instruction": "哪些产品搭载麒麟9030S？", "output": "Pura 90 Pro"}
+{"instruction": "麒麟9030S用于哪些产品？", "output": "Pura 90 Pro"}
+{"instruction": "Pura 90 Pro在什么价位段？", "output": "4000-6000元"}
+{"instruction": "华为4000-6000元价位有哪些产品？", "output": "Pura 90 Pro"}
+{"instruction": "Pura 90 Pro的售价是多少？", "output": "¥5499起"}
+{"instruction": "Pura 90 Pro多少钱？", "output": "¥5499起"}
+{"instruction": "Pura 90 Pro的产品定位是什么？", "output": "影像旗舰"}
+{"instruction": "Pura 90 Pro主打什么定位？", "output": "影像旗舰"}
+{"instruction": "华为影像旗舰定位的产品有哪些？", "output": "Pura 90 Pro"}
+{"instruction": "哪些产品定位为影像旗舰？", "output": "Pura 90 Pro"}
+{"instruction": "Pura 90 Pro的产品定位是什么？", "output": "全能影像"}
+{"instruction": "Pura 90 Pro主打什么定位？", "output": "全能影像"}
+{"instruction": "华为全能影像定位的产品有哪些？", "output": "Pura 90 Pro"}
+{"instruction": "哪些产品定位为全能影像？", "output": "Pura 90 Pro"}
+{"instruction": "Pura 90 Pro Max属于什么分类？", "output": "Pura 90 系列"}
+{"instruction": "Pura 90 Pro Max归属哪个SubSeries？", "output": "Pura 90 系列"}
+{"instruction": "Pura 90 系列包含哪些产品？", "output": "Pura 90 Pro Max"}
+{"instruction": "Pura 90 系列下面有什么？", "output": "Pura 90 Pro Max"}
+{"instruction": "Pura 90 Pro Max在什么价位段？", "output": "6000-8000元"}
+{"instruction": "华为6000-8000元价位有哪些产品？", "output": "Pura 90 Pro Max"}
+{"instruction": "Pura 90 Pro Max的售价是多少？", "output": "¥6499起"}
+{"instruction": "Pura 90 Pro Max多少钱？", "output": "¥6499起"}
+{"instruction": "Pura 90 Pro Max的产品定位是什么？", "output": "影像旗舰"}
+{"instruction": "Pura 90 Pro Max主打什么定位？", "output": "影像旗舰"}
+{"instruction": "华为影像旗舰定位的产品有哪些？", "output": "Pura 90 Pro Max"}
+{"instruction": "哪些产品定位为影像旗舰？", "output": "Pura 90 Pro Max"}
+{"instruction": "Pura 90 Pro Max的产品定位是什么？", "output": "顶配影像"}
+{"instruction": "Pura 90 Pro Max主打什么定位？", "output": "顶配影像"}
+{"instruction": "华为顶配影像定位的产品有哪些？", "output": "Pura 90 Pro Max"}
+{"instruction": "哪些产品定位为顶配影像？", "output": "Pura 90 Pro Max"}
+{"instruction": "Pura 80属于什么分类？", "output": "Pura 80 系列"}
+{"instruction": "Pura 80归属哪个SubSeries？", "output": "Pura 80 系列"}
+{"instruction": "Pura 80 系列包含哪些产品？", "output": "Pura 80"}
+{"instruction": "Pura 80 系列下面有什么？", "output": "Pura 80"}
+{"instruction": "Pura 80 系列属于什么分类？", "output": "Pura 系列"}
+{"instruction": "Pura 80 系列归属哪个Series？", "output": "Pura 系列"}
+{"instruction": "Pura 系列包含哪些产品？", "output": "Pura 80 系列"}
+{"instruction": "Pura 系列下面有什么？", "output": "Pura 80 系列"}
+{"instruction": "Pura 80搭载什么芯片？", "output": "麒麟9010S"}
+{"instruction": "Pura 80用的什么处理器？", "output": "麒麟9010S"}
+{"instruction": "哪些产品搭载麒麟9010S？", "output": "Pura 80"}
+{"instruction": "麒麟9010S用于哪些产品？", "output": "Pura 80"}
+{"instruction": "Pura 80支持6.6寸唯一直屏Pura吗？", "output": "6.6寸唯一直屏Pura"}
+{"instruction": "Pura 80有6.6寸唯一直屏Pura功能吗？", "output": "6.6寸唯一直屏Pura"}
+{"instruction": "哪些产品支持6.6寸唯一直屏Pura？", "output": "Pura 80"}
+{"instruction": "哪些产品有6.6寸唯一直屏Pura功能？", "output": "Pura 80"}
+{"instruction": "Pura 80的电池容量是多少？", "output": "5600mAh"}
+{"instruction": "Pura 80的屏幕是什么类型？", "output": "直屏"}
+{"instruction": "Pura 80用的什么屏幕？", "output": "直屏"}
+{"instruction": "Pura 80的产品定位是什么？", "output": "影像旗舰"}
+{"instruction": "Pura 80主打什么定位？", "output": "影像旗舰"}
+{"instruction": "华为影像旗舰定位的产品有哪些？", "output": "Pura 80"}
+{"instruction": "哪些产品定位为影像旗舰？", "output": "Pura 80"}
+{"instruction": "Pura 80的产品定位是什么？", "output": "直屏影像"}
+{"instruction": "Pura 80主打什么定位？", "output": "直屏影像"}
+{"instruction": "华为直屏影像定位的产品有哪些？", "output": "Pura 80"}
+{"instruction": "哪些产品定位为直屏影像？", "output": "Pura 80"}
+{"instruction": "Pura 80 Pro属于什么分类？", "output": "Pura 80 系列"}
+{"instruction": "Pura 80 Pro归属哪个SubSeries？", "output": "Pura 80 系列"}
+{"instruction": "Pura 80 系列包含哪些产品？", "output": "Pura 80 Pro"}
+{"instruction": "Pura 80 系列下面有什么？", "output": "Pura 80 Pro"}
+{"instruction": "Pura 80 Pro搭载什么芯片？", "output": "麒麟9020"}
+{"instruction": "Pura 80 Pro用的什么处理器？", "output": "麒麟9020"}
+{"instruction": "哪些产品搭载麒麟9020？", "output": "Pura 80 Pro"}
+{"instruction": "麒麟9020用于哪些产品？", "output": "Pura 80 Pro"}
+{"instruction": "Pura 80 Pro支持1寸大底RYYB吗？", "output": "1寸大底RYYB"}
+{"instruction": "Pura 80 Pro有1寸大底RYYB功能吗？", "output": "1寸大底RYYB"}
+{"instruction": "哪些产品支持1寸大底RYYB？", "output": "Pura 80 Pro"}
+{"instruction": "哪些产品有1寸大底RYYB功能？", "output": "Pura 80 Pro"}
+{"instruction": "Pura 80 Pro支持什么快充？", "output": "100W快充"}
+{"instruction": "Pura 80 Pro在什么价位段？", "output": "6000-8000元"}
+{"instruction": "华为6000-8000元价位有哪些产品？", "output": "Pura 80 Pro"}
+{"instruction": "Pura 80 Pro的售价是多少？", "output": "¥6499起"}
+{"instruction": "Pura 80 Pro多少钱？", "output": "¥6499起"}
+{"instruction": "Pura 80 Pro的产品定位是什么？", "output": "影像旗舰"}
+{"instruction": "Pura 80 Pro主打什么定位？", "output": "影像旗舰"}
+{"instruction": "华为影像旗舰定位的产品有哪些？", "output": "Pura 80 Pro"}
+{"instruction": "哪些产品定位为影像旗舰？", "output": "Pura 80 Pro"}
+{"instruction": "Pura 80 Pro的产品定位是什么？", "output": "专业影像"}
+{"instruction": "Pura 80 Pro主打什么定位？", "output": "专业影像"}
+{"instruction": "华为专业影像定位的产品有哪些？", "output": "Pura 80 Pro"}
+{"instruction": "哪些产品定位为专业影像？", "output": "Pura 80 Pro"}
+{"instruction": "Pura 80 Pro+属于什么分类？", "output": "Pura 80 系列"}
+{"instruction": "Pura 80 Pro+归属哪个SubSeries？", "output": "Pura 80 系列"}
+{"instruction": "Pura 80 系列包含哪些产品？", "output": "Pura 80 Pro+"}
+{"instruction": "Pura 80 系列下面有什么？", "output": "Pura 80 Pro+"}
+{"instruction": "Pura 80 Pro+支持1寸高动态版吗？", "output": "1寸高动态版"}
+{"instruction": "Pura 80 Pro+有1寸高动态版功能吗？", "output": "1寸高动态版"}
+{"instruction": "哪些产品支持1寸高动态版？", "output": "Pura 80 Pro+"}
+{"instruction": "哪些产品有1寸高动态版功能？", "output": "Pura 80 Pro+"}
+{"instruction": "Pura 80 Pro+支持天通+北斗双卫星吗？", "output": "天通+北斗双卫星"}
+{"instruction": "Pura 80 Pro+有天通+北斗双卫星功能吗？", "output": "天通+北斗双卫星"}
+{"instruction": "哪些产品支持天通+北斗双卫星？", "output": "Pura 80 Pro+"}
+{"instruction": "哪些产品有天通+北斗双卫星功能？", "output": "Pura 80 Pro+"}
+{"instruction": "Pura 80 Pro+支持卫星通信吗？", "output": "卫星通信"}
+{"instruction": "Pura 80 Pro+有卫星通信功能吗？", "output": "卫星通信"}
+{"instruction": "哪些产品支持卫星通信？", "output": "Pura 80 Pro+"}
+{"instruction": "哪些产品有卫星通信功能？", "output": "Pura 80 Pro+"}
+{"instruction": "Pura 80 Pro+在什么价位段？", "output": "6000-8000元"}
+{"instruction": "华为6000-8000元价位有哪些产品？", "output": "Pura 80 Pro+"}
+{"instruction": "Pura 80 Pro+的售价是多少？", "output": "¥7999起"}
+{"instruction": "Pura 80 Pro+多少钱？", "output": "¥7999起"}
+{"instruction": "Pura 80 Pro+的产品定位是什么？", "output": "影像旗舰"}
+{"instruction": "Pura 80 Pro+主打什么定位？", "output": "影像旗舰"}
+{"instruction": "华为影像旗舰定位的产品有哪些？", "output": "Pura 80 Pro+"}
+{"instruction": "哪些产品定位为影像旗舰？", "output": "Pura 80 Pro+"}
+{"instruction": "Pura 80 Pro+的产品定位是什么？", "output": "卫星影像"}
+{"instruction": "Pura 80 Pro+主打什么定位？", "output": "卫星影像"}
+{"instruction": "华为卫星影像定位的产品有哪些？", "output": "Pura 80 Pro+"}
+{"instruction": "哪些产品定位为卫星影像？", "output": "Pura 80 Pro+"}
+{"instruction": "Pura 80 Ultra属于什么分类？", "output": "Pura 80 系列"}
+{"instruction": "Pura 80 Ultra归属哪个SubSeries？", "output": "Pura 80 系列"}
+{"instruction": "Pura 80 系列包含哪些产品？", "output": "Pura 80 Ultra"}
+{"instruction": "Pura 80 系列下面有什么？", "output": "Pura 80 Ultra"}
+{"instruction": "Pura 80 Ultra支持一镜双目双焦段长焦吗？", "output": "一镜双目双焦段长焦"}
+{"instruction": "Pura 80 Ultra有一镜双目双焦段长焦功能吗？", "output": "一镜双目双焦段长焦"}
+{"instruction": "哪些产品支持一镜双目双焦段长焦？", "output": "Pura 80 Ultra"}
+{"instruction": "哪些产品有一镜双目双焦段长焦功能？", "output": "Pura 80 Ultra"}
+{"instruction": "Pura 80 Ultra支持万元影像机皇吗？", "output": "万元影像机皇"}
+{"instruction": "Pura 80 Ultra有万元影像机皇功能吗？", "output": "万元影像机皇"}
+{"instruction": "哪些产品支持万元影像机皇？", "output": "Pura 80 Ultra"}
+{"instruction": "哪些产品有万元影像机皇功能？", "output": "Pura 80 Ultra"}
+{"instruction": "Pura 80 Ultra在什么价位段？", "output": "8000-12000元"}
+{"instruction": "华为8000-12000元价位有哪些产品？", "output": "Pura 80 Ultra"}
+{"instruction": "Pura 80 Ultra的售价是多少？", "output": "¥9999起"}
+{"instruction": "Pura 80 Ultra多少钱？", "output": "¥9999起"}
+{"instruction": "Pura 80 Ultra的产品定位是什么？", "output": "影像旗舰"}
+{"instruction": "Pura 80 Ultra主打什么定位？", "output": "影像旗舰"}
+{"instruction": "华为影像旗舰定位的产品有哪些？", "output": "Pura 80 Ultra"}
+{"instruction": "哪些产品定位为影像旗舰？", "output": "Pura 80 Ultra"}
+{"instruction": "Pura 80 Ultra的产品定位是什么？", "output": "影像机皇"}
+{"instruction": "Pura 80 Ultra主打什么定位？", "output": "影像机皇"}
+{"instruction": "华为影像机皇定位的产品有哪些？", "output": "Pura 80 Ultra"}
+{"instruction": "哪些产品定位为影像机皇？", "output": "Pura 80 Ultra"}
+{"instruction": "Mate X7属于什么分类？", "output": "横向大折叠"}
+{"instruction": "Mate X7归属哪个Positioning？", "output": "横向大折叠"}
+{"instruction": "横向大折叠包含哪些产品？", "output": "Mate X7"}
+{"instruction": "横向大折叠下面有什么？", "output": "Mate X7"}
+{"instruction": "横向大折叠属于什么分类？", "output": "折叠屏"}
+{"instruction": "横向大折叠归属哪个Series？", "output": "折叠屏"}
+{"instruction": "折叠屏包含哪些产品？", "output": "横向大折叠"}
+{"instruction": "折叠屏下面有什么？", "output": "横向大折叠"}
+{"instruction": "折叠屏属于什么分类？", "output": "手机"}
+{"instruction": "折叠屏归属哪个Category？", "output": "手机"}
+{"instruction": "手机包含哪些产品？", "output": "折叠屏"}
+{"instruction": "手机下面有什么？", "output": "折叠屏"}
+{"instruction": "Mate X7搭载什么芯片？", "output": "麒麟9030 Pro"}
+{"instruction": "Mate X7用的什么处理器？", "output": "麒麟9030 Pro"}
+{"instruction": "哪些产品搭载麒麟9030 Pro？", "output": "Mate X7"}
+{"instruction": "麒麟9030 Pro用于哪些产品？", "output": "Mate X7"}
+{"instruction": "Mate X7支持8.0寸内屏吗？", "output": "8.0寸内屏"}
+{"instruction": "Mate X7有8.0寸内屏功能吗？", "output": "8.0寸内屏"}
+{"instruction": "哪些产品支持8.0寸内屏？", "output": "Mate X7"}
+{"instruction": "哪些产品有8.0寸内屏功能？", "output": "Mate X7"}
+{"instruction": "Mate X7支持第二代红枫吗？", "output": "第二代红枫"}
+{"instruction": "Mate X7有第二代红枫功能吗？", "output": "第二代红枫"}
+{"instruction": "哪些产品支持第二代红枫？", "output": "Mate X7"}
+{"instruction": "哪些产品有第二代红枫功能？", "output": "Mate X7"}
+{"instruction": "Mate X7在什么价位段？", "output": "12000元以上"}
+{"instruction": "华为12000元以上价位有哪些产品？", "output": "Mate X7"}
+{"instruction": "Mate X7的售价是多少？", "output": "¥12999起"}
+{"instruction": "Mate X7多少钱？", "output": "¥12999起"}
+{"instruction": "Mate X7的产品定位是什么？", "output": "超高端商务"}
+{"instruction": "Mate X7主打什么定位？", "output": "超高端商务"}
+{"instruction": "华为超高端商务定位的产品有哪些？", "output": "Mate X7"}
+{"instruction": "哪些产品定位为超高端商务？", "output": "Mate X7"}
+{"instruction": "Mate X7的产品定位是什么？", "output": "横向大折叠"}
+{"instruction": "Mate X7主打什么定位？", "output": "横向大折叠"}
+{"instruction": "华为横向大折叠定位的产品有哪些？", "output": "Mate X7"}
+{"instruction": "哪些产品定位为横向大折叠？", "output": "Mate X7"}
+{"instruction": "Mate X6属于什么分类？", "output": "横向大折叠"}
+{"instruction": "Mate X6归属哪个Positioning？", "output": "横向大折叠"}
+{"instruction": "横向大折叠包含哪些产品？", "output": "Mate X6"}
+{"instruction": "横向大折叠下面有什么？", "output": "Mate X6"}
+{"instruction": "Mate X6搭载什么芯片？", "output": "麒麟9000S Pro"}
+{"instruction": "Mate X6用的什么处理器？", "output": "麒麟9000S Pro"}
+{"instruction": "哪些产品搭载麒麟9000S Pro？", "output": "Mate X6"}
+{"instruction": "麒麟9000S Pro用于哪些产品？", "output": "Mate X6"}
+{"instruction": "Mate X6支持分布式玄武架构吗？", "output": "分布式玄武架构"}
+{"instruction": "Mate X6有分布式玄武架构功能吗？", "output": "分布式玄武架构"}
+{"instruction": "哪些产品支持分布式玄武架构？", "output": "Mate X6"}
+{"instruction": "哪些产品有分布式玄武架构功能？", "output": "Mate X6"}
+{"instruction": "Mate X6在什么价位段？", "output": "8000-12000元"}
+{"instruction": "华为8000-12000元价位有哪些产品？", "output": "Mate X6"}
+{"instruction": "Mate X6的售价是多少？", "output": "¥10999起"}
+{"instruction": "Mate X6多少钱？", "output": "¥10999起"}
+{"instruction": "Mate X6的产品定位是什么？", "output": "超高端商务"}
+{"instruction": "Mate X6主打什么定位？", "output": "超高端商务"}
+{"instruction": "华为超高端商务定位的产品有哪些？", "output": "Mate X6"}
+{"instruction": "哪些产品定位为超高端商务？", "output": "Mate X6"}
+{"instruction": "Mate X6的产品定位是什么？", "output": "横向大折叠"}
+{"instruction": "Mate X6主打什么定位？", "output": "横向大折叠"}
+{"instruction": "华为横向大折叠定位的产品有哪些？", "output": "Mate X6"}
+{"instruction": "哪些产品定位为横向大折叠？", "output": "Mate X6"}
+{"instruction": "Mate X8属于什么分类？", "output": "横向大折叠"}
+{"instruction": "Mate X8归属哪个Positioning？", "output": "横向大折叠"}
+{"instruction": "横向大折叠包含哪些产品？", "output": "Mate X8"}
+{"instruction": "横向大折叠下面有什么？", "output": "Mate X8"}
+{"instruction": "Mate X8搭载什么芯片？", "output": "麒麟9050 Pro"}
+{"instruction": "Mate X8用的什么处理器？", "output": "麒麟9050 Pro"}
+{"instruction": "哪些产品搭载麒麟9050 Pro？", "output": "Mate X8"}
+{"instruction": "麒麟9050 Pro用于哪些产品？", "output": "Mate X8"}
+{"instruction": "Mate X8支持8.15寸内屏吗？", "output": "8.15寸内屏"}
+{"instruction": "Mate X8有8.15寸内屏功能吗？", "output": "8.15寸内屏"}
+{"instruction": "哪些产品支持8.15寸内屏？", "output": "Mate X8"}
+{"instruction": "哪些产品有8.15寸内屏功能？", "output": "Mate X8"}
+{"instruction": "Mate X8的电池容量是多少？", "output": "6000mAh"}
+{"instruction": "Mate X8的产品定位是什么？", "output": "超高端商务"}
+{"instruction": "Mate X8主打什么定位？", "output": "超高端商务"}
+{"instruction": "华为超高端商务定位的产品有哪些？", "output": "Mate X8"}
+{"instruction": "哪些产品定位为超高端商务？", "output": "Mate X8"}
+{"instruction": "Mate X8的产品定位是什么？", "output": "横向大折叠"}
+{"instruction": "Mate X8主打什么定位？", "output": "横向大折叠"}
+{"instruction": "华为横向大折叠定位的产品有哪些？", "output": "Mate X8"}
+{"instruction": "哪些产品定位为横向大折叠？", "output": "Mate X8"}
+{"instruction": "Mate XTs 非凡大师属于什么分类？", "output": "三折叠"}
+{"instruction": "Mate XTs 非凡大师归属哪个Positioning？", "output": "三折叠"}
+{"instruction": "三折叠包含哪些产品？", "output": "Mate XTs 非凡大师"}
+{"instruction": "三折叠下面有什么？", "output": "Mate XTs 非凡大师"}
+{"instruction": "三折叠属于什么分类？", "output": "折叠屏"}
+{"instruction": "三折叠归属哪个Series？", "output": "折叠屏"}
+{"instruction": "折叠屏包含哪些产品？", "output": "三折叠"}
+{"instruction": "折叠屏下面有什么？", "output": "三折叠"}
+{"instruction": "Mate XTs 非凡大师支持10.1寸展开当平板用吗？", "output": "10.1寸展开当平板用"}
+{"instruction": "Mate XTs 非凡大师有10.1寸展开当平板用功能吗？", "output": "10.1寸展开当平板用"}
+{"instruction": "哪些产品支持10.1寸展开当平板用？", "output": "Mate XTs 非凡大师"}
+{"instruction": "哪些产品有10.1寸展开当平板用功能？", "output": "Mate XTs 非凡大师"}
+{"instruction": "Mate XTs 非凡大师支持PC级应用吗？", "output": "PC级应用"}
+{"instruction": "Mate XTs 非凡大师有PC级应用功能吗？", "output": "PC级应用"}
+{"instruction": "哪些产品支持PC级应用？", "output": "Mate XTs 非凡大师"}
+{"instruction": "哪些产品有PC级应用功能？", "output": "Mate XTs 非凡大师"}
+{"instruction": "Mate XTs 非凡大师支持三折叠形态吗？", "output": "三折叠形态"}
+{"instruction": "Mate XTs 非凡大师有三折叠形态功能吗？", "output": "三折叠形态"}
+{"instruction": "哪些产品支持三折叠形态？", "output": "Mate XTs 非凡大师"}
+{"instruction": "哪些产品有三折叠形态功能？", "output": "Mate XTs 非凡大师"}
+{"instruction": "Mate XTs 非凡大师在什么价位段？", "output": "12000元以上"}
+{"instruction": "华为12000元以上价位有哪些产品？", "output": "Mate XTs 非凡大师"}
+{"instruction": "Mate XTs 非凡大师的售价是多少？", "output": "¥18000起"}
+{"instruction": "Mate XTs 非凡大师多少钱？", "output": "¥18000起"}
+{"instruction": "Mate XTs 非凡大师的产品定位是什么？", "output": "超高端商务"}
+{"instruction": "Mate XTs 非凡大师主打什么定位？", "output": "超高端商务"}
+{"instruction": "华为超高端商务定位的产品有哪些？", "output": "Mate XTs 非凡大师"}
+{"instruction": "哪些产品定位为超高端商务？", "output": "Mate XTs 非凡大师"}
+{"instruction": "Mate XTs 非凡大师的产品定位是什么？", "output": "三折叠"}
+{"instruction": "Mate XTs 非凡大师主打什么定位？", "output": "三折叠"}
+{"instruction": "华为三折叠定位的产品有哪些？", "output": "Mate XTs 非凡大师"}
+{"instruction": "哪些产品定位为三折叠？", "output": "Mate XTs 非凡大师"}
+{"instruction": "Mate XTs 非凡大师的产品定位是什么？", "output": "折叠屏天花板"}
+{"instruction": "Mate XTs 非凡大师主打什么定位？", "output": "折叠屏天花板"}
+{"instruction": "华为折叠屏天花板定位的产品有哪些？", "output": "Mate XTs 非凡大师"}
+{"instruction": "哪些产品定位为折叠屏天花板？", "output": "Mate XTs 非凡大师"}
+{"instruction": "Mate XT2属于什么分类？", "output": "三折叠"}
+{"instruction": "Mate XT2归属哪个Positioning？", "output": "三折叠"}
+{"instruction": "三折叠包含哪些产品？", "output": "Mate XT2"}
+{"instruction": "三折叠下面有什么？", "output": "Mate XT2"}
+{"instruction": "Mate XT2搭载什么芯片？", "output": "麒麟9050"}
+{"instruction": "Mate XT2用的什么处理器？", "output": "麒麟9050"}
+{"instruction": "哪些产品搭载麒麟9050？", "output": "Mate XT2"}
+{"instruction": "麒麟9050用于哪些产品？", "output": "Mate XT2"}
+{"instruction": "Mate XT2支持U型三折叠吗？", "output": "U型三折叠"}
+{"instruction": "Mate XT2有U型三折叠功能吗？", "output": "U型三折叠"}
+{"instruction": "哪些产品支持U型三折叠？", "output": "Mate XT2"}
+{"instruction": "哪些产品有U型三折叠功能？", "output": "Mate XT2"}
+{"instruction": "Mate XT2支持独立外屏吗？", "output": "独立外屏"}
+{"instruction": "Mate XT2有独立外屏功能吗？", "output": "独立外屏"}
+{"instruction": "哪些产品支持独立外屏？", "output": "Mate XT2"}
+{"instruction": "哪些产品有独立外屏功能？", "output": "Mate XT2"}
+{"instruction": "Mate XT2的产品定位是什么？", "output": "超高端商务"}
+{"instruction": "Mate XT2主打什么定位？", "output": "超高端商务"}
+{"instruction": "华为超高端商务定位的产品有哪些？", "output": "Mate XT2"}
+{"instruction": "哪些产品定位为超高端商务？", "output": "Mate XT2"}
+{"instruction": "Mate XT2的产品定位是什么？", "output": "三折叠"}
+{"instruction": "Mate XT2主打什么定位？", "output": "三折叠"}
+{"instruction": "华为三折叠定位的产品有哪些？", "output": "Mate XT2"}
+{"instruction": "哪些产品定位为三折叠？", "output": "Mate XT2"}
+{"instruction": "Mate XT2是哪一年发布的？", "output": "2026年"}
+{"instruction": "Pura X Max属于什么分类？", "output": "阔折叠"}
+{"instruction": "Pura X Max归属哪个Positioning？", "output": "阔折叠"}
+{"instruction": "阔折叠包含哪些产品？", "output": "Pura X Max"}
+{"instruction": "阔折叠下面有什么？", "output": "Pura X Max"}
+{"instruction": "阔折叠属于什么分类？", "output": "折叠屏"}
+{"instruction": "阔折叠归属哪个Series？", "output": "折叠屏"}
+{"instruction": "折叠屏包含哪些产品？", "output": "阔折叠"}
+{"instruction": "折叠屏下面有什么？", "output": "阔折叠"}
+{"instruction": "Pura X Max搭载什么芯片？", "output": "麒麟9030 Pro"}
+{"instruction": "Pura X Max用的什么处理器？", "output": "麒麟9030 Pro"}
+{"instruction": "哪些产品搭载麒麟9030 Pro？", "output": "Pura X Max"}
+{"instruction": "麒麟9030 Pro用于哪些产品？", "output": "Pura X Max"}
+{"instruction": "Pura X Max支持7.7寸内屏吗？", "output": "7.7寸内屏"}
+{"instruction": "Pura X Max有7.7寸内屏功能吗？", "output": "7.7寸内屏"}
+{"instruction": "哪些产品支持7.7寸内屏？", "output": "Pura X Max"}
+{"instruction": "哪些产品有7.7寸内屏功能？", "output": "Pura X Max"}
+{"instruction": "Pura X Max支持16:10阔型屏吗？", "output": "16:10阔型屏"}
+{"instruction": "Pura X Max有16:10阔型屏功能吗？", "output": "16:10阔型屏"}
+{"instruction": "哪些产品支持16:10阔型屏？", "output": "Pura X Max"}
+{"instruction": "哪些产品有16:10阔型屏功能？", "output": "Pura X Max"}
+{"instruction": "Pura X Max支持IP58/59吗？", "output": "IP58/59"}
+{"instruction": "Pura X Max有IP58/59功能吗？", "output": "IP58/59"}
+{"instruction": "哪些产品支持IP58/59？", "output": "Pura X Max"}
+{"instruction": "哪些产品有IP58/59功能？", "output": "Pura X Max"}
+{"instruction": "Pura X Max在什么价位段？", "output": "8000-12000元"}
+{"instruction": "华为8000-12000元价位有哪些产品？", "output": "Pura X Max"}
+{"instruction": "Pura X Max的售价是多少？", "output": "¥10999起"}
+{"instruction": "Pura X Max多少钱？", "output": "¥10999起"}
+{"instruction": "Pura X Max的产品定位是什么？", "output": "高端时尚"}
+{"instruction": "Pura X Max主打什么定位？", "output": "高端时尚"}
+{"instruction": "华为高端时尚定位的产品有哪些？", "output": "Pura X Max"}
+{"instruction": "哪些产品定位为高端时尚？", "output": "Pura X Max"}
+{"instruction": "Pura X Max的产品定位是什么？", "output": "阔折叠"}
+{"instruction": "Pura X Max主打什么定位？", "output": "阔折叠"}
+{"instruction": "华为阔折叠定位的产品有哪些？", "output": "Pura X Max"}
+{"instruction": "哪些产品定位为阔折叠？", "output": "Pura X Max"}
+{"instruction": "Pura X属于什么分类？", "output": "阔折叠"}
+{"instruction": "Pura X归属哪个Positioning？", "output": "阔折叠"}
+{"instruction": "阔折叠包含哪些产品？", "output": "Pura X"}
+{"instruction": "阔折叠下面有什么？", "output": "Pura X"}
+{"instruction": "Pura X搭载什么芯片？", "output": "麒麟9020"}
+{"instruction": "Pura X用的什么处理器？", "output": "麒麟9020"}
+{"instruction": "哪些产品搭载麒麟9020？", "output": "Pura X"}
+{"instruction": "麒麟9020用于哪些产品？", "output": "Pura X"}
+{"instruction": "Pura X支持6.3寸16:10阔型屏吗？", "output": "6.3寸16:10阔型屏"}
+{"instruction": "Pura X有6.3寸16:10阔型屏功能吗？", "output": "6.3寸16:10阔型屏"}
+{"instruction": "哪些产品支持6.3寸16:10阔型屏？", "output": "Pura X"}
+{"instruction": "哪些产品有6.3寸16:10阔型屏功能？", "output": "Pura X"}
+{"instruction": "Pura X支持7499较亲民折叠吗？", "output": "7499较亲民折叠"}
+{"instruction": "Pura X有7499较亲民折叠功能吗？", "output": "7499较亲民折叠"}
+{"instruction": "哪些产品支持7499较亲民折叠？", "output": "Pura X"}
+{"instruction": "哪些产品有7499较亲民折叠功能？", "output": "Pura X"}
+{"instruction": "Pura X在什么价位段？", "output": "6000-8000元"}
+{"instruction": "华为6000-8000元价位有哪些产品？", "output": "Pura X"}
+{"instruction": "Pura X的售价是多少？", "output": "¥7499起"}
+{"instruction": "Pura X多少钱？", "output": "¥7499起"}
+{"instruction": "Pura X的产品定位是什么？", "output": "高端时尚"}
+{"instruction": "Pura X主打什么定位？", "output": "高端时尚"}
+{"instruction": "华为高端时尚定位的产品有哪些？", "output": "Pura X"}
+{"instruction": "哪些产品定位为高端时尚？", "output": "Pura X"}
+{"instruction": "Pura X的产品定位是什么？", "output": "阔折叠"}
+{"instruction": "Pura X主打什么定位？", "output": "阔折叠"}
+{"instruction": "华为阔折叠定位的产品有哪些？", "output": "Pura X"}
+{"instruction": "哪些产品定位为阔折叠？", "output": "Pura X"}
+{"instruction": "Pocket 2属于什么分类？", "output": "竖向小折叠"}
+{"instruction": "Pocket 2归属哪个Positioning？", "output": "竖向小折叠"}
+{"instruction": "竖向小折叠包含哪些产品？", "output": "Pocket 2"}
+{"instruction": "竖向小折叠下面有什么？", "output": "Pocket 2"}
+{"instruction": "竖向小折叠属于什么分类？", "output": "折叠屏"}
+{"instruction": "竖向小折叠归属哪个Series？", "output": "折叠屏"}
+{"instruction": "折叠屏包含哪些产品？", "output": "竖向小折叠"}
+{"instruction": "折叠屏下面有什么？", "output": "竖向小折叠"}
+{"instruction": "Pocket 2支持玄武水滴铰链吗？", "output": "玄武水滴铰链"}
+{"instruction": "Pocket 2有玄武水滴铰链功能吗？", "output": "玄武水滴铰链"}
+{"instruction": "哪些产品支持玄武水滴铰链？", "output": "Pocket 2"}
+{"instruction": "哪些产品有玄武水滴铰链功能？", "output": "Pocket 2"}
+{"instruction": "Pocket 2在什么价位段？", "output": "6000-8000元"}
+{"instruction": "华为6000-8000元价位有哪些产品？", "output": "Pocket 2"}
+{"instruction": "Pocket 2的售价是多少？", "output": "¥7999起"}
+{"instruction": "Pocket 2多少钱？", "output": "¥7999起"}
+{"instruction": "Pocket 2的产品定位是什么？", "output": "高端时尚"}
+{"instruction": "Pocket 2主打什么定位？", "output": "高端时尚"}
+{"instruction": "华为高端时尚定位的产品有哪些？", "output": "Pocket 2"}
+{"instruction": "哪些产品定位为高端时尚？", "output": "Pocket 2"}
+{"instruction": "Pocket 2的产品定位是什么？", "output": "竖向小折叠"}
+{"instruction": "Pocket 2主打什么定位？", "output": "竖向小折叠"}
+{"instruction": "华为竖向小折叠定位的产品有哪些？", "output": "Pocket 2"}
+{"instruction": "哪些产品定位为竖向小折叠？", "output": "Pocket 2"}
+{"instruction": "Nova Flip 2属于什么分类？", "output": "竖向小折叠"}
+{"instruction": "Nova Flip 2归属哪个Positioning？", "output": "竖向小折叠"}
+{"instruction": "竖向小折叠包含哪些产品？", "output": "Nova Flip 2"}
+{"instruction": "竖向小折叠下面有什么？", "output": "Nova Flip 2"}
+{"instruction": "Nova Flip 2搭载什么芯片？", "output": "麒麟8030"}
+{"instruction": "Nova Flip 2用的什么处理器？", "output": "麒麟8030"}
+{"instruction": "哪些产品搭载麒麟8030？", "output": "Nova Flip 2"}
+{"instruction": "麒麟8030用于哪些产品？", "output": "Nova Flip 2"}
+{"instruction": "Nova Flip 2支持nova首款新折叠吗？", "output": "nova首款新折叠"}
+{"instruction": "Nova Flip 2有nova首款新折叠功能吗？", "output": "nova首款新折叠"}
+{"instruction": "哪些产品支持nova首款新折叠？", "output": "Nova Flip 2"}
+{"instruction": "哪些产品有nova首款新折叠功能？", "output": "Nova Flip 2"}
+{"instruction": "Nova Flip 2在什么价位段？", "output": "4000-6000元"}
+{"instruction": "华为4000-6000元价位有哪些产品？", "output": "Nova Flip 2"}
+{"instruction": "Nova Flip 2的售价是多少？", "output": "¥4999"}
+{"instruction": "Nova Flip 2多少钱？", "output": "¥4999"}
+{"instruction": "Nova Flip 2的产品定位是什么？", "output": "中端时尚"}
+{"instruction": "Nova Flip 2主打什么定位？", "output": "中端时尚"}
+{"instruction": "华为中端时尚定位的产品有哪些？", "output": "Nova Flip 2"}
+{"instruction": "哪些产品定位为中端时尚？", "output": "Nova Flip 2"}
+{"instruction": "Nova Flip 2的产品定位是什么？", "output": "竖向小折叠"}
+{"instruction": "Nova Flip 2主打什么定位？", "output": "竖向小折叠"}
+{"instruction": "华为竖向小折叠定位的产品有哪些？", "output": "Nova Flip 2"}
+{"instruction": "哪些产品定位为竖向小折叠？", "output": "Nova Flip 2"}
+{"instruction": "Nova Flip 2是哪一年发布的？", "output": "2026年"}
+{"instruction": "Nova Flip S属于什么分类？", "output": "竖向小折叠"}
+{"instruction": "Nova Flip S归属哪个Positioning？", "output": "竖向小折叠"}
+{"instruction": "竖向小折叠包含哪些产品？", "output": "Nova Flip S"}
+{"instruction": "竖向小折叠下面有什么？", "output": "Nova Flip S"}
+{"instruction": "Nova Flip S在什么价位段？", "output": "2000-4000元"}
+{"instruction": "华为2000-4000元价位有哪些产品？", "output": "Nova Flip S"}
+{"instruction": "Nova Flip S的售价是多少？", "output": "¥3388起"}
+{"instruction": "Nova Flip S多少钱？", "output": "¥3388起"}
+{"instruction": "Nova Flip S的产品定位是什么？", "output": "入门时尚"}
+{"instruction": "Nova Flip S主打什么定位？", "output": "入门时尚"}
+{"instruction": "华为入门时尚定位的产品有哪些？", "output": "Nova Flip S"}
+{"instruction": "哪些产品定位为入门时尚？", "output": "Nova Flip S"}
+{"instruction": "Nova Flip S的产品定位是什么？", "output": "竖向小折叠"}
+{"instruction": "Nova Flip S主打什么定位？", "output": "竖向小折叠"}
+{"instruction": "华为竖向小折叠定位的产品有哪些？", "output": "Nova Flip S"}
+{"instruction": "哪些产品定位为竖向小折叠？", "output": "Nova Flip S"}
+{"instruction": "nova 16 SE属于什么分类？", "output": "nova 16 系列"}
+{"instruction": "nova 16 SE归属哪个SubSeries？", "output": "nova 16 系列"}
+{"instruction": "nova 16 系列包含哪些产品？", "output": "nova 16 SE"}
+{"instruction": "nova 16 系列下面有什么？", "output": "nova 16 SE"}
+{"instruction": "nova 16 系列属于什么分类？", "output": "nova 系列"}
+{"instruction": "nova 16 系列归属哪个Series？", "output": "nova 系列"}
+{"instruction": "nova 系列包含哪些产品？", "output": "nova 16 系列"}
+{"instruction": "nova 系列下面有什么？", "output": "nova 16 系列"}
+{"instruction": "nova 系列属于什么分类？", "output": "手机"}
+{"instruction": "nova 系列归属哪个Category？", "output": "手机"}
+{"instruction": "手机包含哪些产品？", "output": "nova 系列"}
+{"instruction": "手机下面有什么？", "output": "nova 系列"}
+{"instruction": "nova 16 SE支持第一代红枫影像吗？", "output": "第一代红枫影像"}
+{"instruction": "nova 16 SE有第一代红枫影像功能吗？", "output": "第一代红枫影像"}
+{"instruction": "哪些产品支持第一代红枫影像？", "output": "nova 16 SE"}
+{"instruction": "哪些产品有第一代红枫影像功能？", "output": "nova 16 SE"}
+{"instruction": "nova 16 SE在什么价位段？", "output": "2000-4000元"}
+{"instruction": "华为2000-4000元价位有哪些产品？", "output": "nova 16 SE"}
+{"instruction": "nova 16 SE的售价是多少？", "output": "¥2000-3000"}
+{"instruction": "nova 16 SE多少钱？", "output": "¥2000-3000"}
+{"instruction": "nova 16 SE的产品定位是什么？", "output": "中低端潮流"}
+{"instruction": "nova 16 SE主打什么定位？", "output": "中低端潮流"}
+{"instruction": "华为中低端潮流定位的产品有哪些？", "output": "nova 16 SE"}
+{"instruction": "哪些产品定位为中低端潮流？", "output": "nova 16 SE"}
+{"instruction": "nova 16 SE的产品定位是什么？", "output": "年轻影像入门"}
+{"instruction": "nova 16 SE主打什么定位？", "output": "年轻影像入门"}
+{"instruction": "华为年轻影像入门定位的产品有哪些？", "output": "nova 16 SE"}
+{"instruction": "哪些产品定位为年轻影像入门？", "output": "nova 16 SE"}
+{"instruction": "nova 16属于什么分类？", "output": "nova 16 系列"}
+{"instruction": "nova 16归属哪个SubSeries？", "output": "nova 16 系列"}
+{"instruction": "nova 16 系列包含哪些产品？", "output": "nova 16"}
+{"instruction": "nova 16 系列下面有什么？", "output": "nova 16"}
+{"instruction": "nova 16搭载什么芯片？", "output": "麒麟9010S"}
+{"instruction": "nova 16用的什么处理器？", "output": "麒麟9010S"}
+{"instruction": "哪些产品搭载麒麟9010S？", "output": "nova 16"}
+{"instruction": "麒麟9010S用于哪些产品？", "output": "nova 16"}
+{"instruction": "nova 16的电池容量是多少？", "output": "7000mAh"}
+{"instruction": "nova 16支持什么快充？", "output": "100W快充"}
+{"instruction": "nova 16在什么价位段？", "output": "2000-4000元"}
+{"instruction": "华为2000-4000元价位有哪些产品？", "output": "nova 16"}
+{"instruction": "nova 16的售价是多少？", "output": "¥3499起"}
+{"instruction": "nova 16多少钱？", "output": "¥3499起"}
+{"instruction": "nova 16的产品定位是什么？", "output": "中端潮流"}
+{"instruction": "nova 16主打什么定位？", "output": "中端潮流"}
+{"instruction": "华为中端潮流定位的产品有哪些？", "output": "nova 16"}
+{"instruction": "哪些产品定位为中端潮流？", "output": "nova 16"}
+{"instruction": "nova 16的产品定位是什么？", "output": "年轻续航王"}
+{"instruction": "nova 16主打什么定位？", "output": "年轻续航王"}
+{"instruction": "华为年轻续航王定位的产品有哪些？", "output": "nova 16"}
+{"instruction": "哪些产品定位为年轻续航王？", "output": "nova 16"}
+{"instruction": "nova 16 Pro属于什么分类？", "output": "nova 16 系列"}
+{"instruction": "nova 16 Pro归属哪个SubSeries？", "output": "nova 16 系列"}
+{"instruction": "nova 16 系列包含哪些产品？", "output": "nova 16 Pro"}
+{"instruction": "nova 16 系列下面有什么？", "output": "nova 16 Pro"}
+{"instruction": "nova 16 Pro支持256GB到1TB全覆盖吗？", "output": "256GB到1TB全覆盖"}
+{"instruction": "nova 16 Pro有256GB到1TB全覆盖功能吗？", "output": "256GB到1TB全覆盖"}
+{"instruction": "哪些产品支持256GB到1TB全覆盖？", "output": "nova 16 Pro"}
+{"instruction": "哪些产品有256GB到1TB全覆盖功能？", "output": "nova 16 Pro"}
+{"instruction": "nova 16 Pro在什么价位段？", "output": "2000-4000元"}
+{"instruction": "华为2000-4000元价位有哪些产品？", "output": "nova 16 Pro"}
+{"instruction": "nova 16 Pro的售价是多少？", "output": "¥3899起"}
+{"instruction": "nova 16 Pro多少钱？", "output": "¥3899起"}
+{"instruction": "nova 16 Pro的产品定位是什么？", "output": "中高端潮流"}
+{"instruction": "nova 16 Pro主打什么定位？", "output": "中高端潮流"}
+{"instruction": "华为中高端潮流定位的产品有哪些？", "output": "nova 16 Pro"}
+{"instruction": "哪些产品定位为中高端潮流？", "output": "nova 16 Pro"}
+{"instruction": "nova 16 Pro的产品定位是什么？", "output": "年轻影像Pro"}
+{"instruction": "nova 16 Pro主打什么定位？", "output": "年轻影像Pro"}
+{"instruction": "华为年轻影像Pro定位的产品有哪些？", "output": "nova 16 Pro"}
+{"instruction": "哪些产品定位为年轻影像Pro？", "output": "nova 16 Pro"}
+{"instruction": "nova 16 Ultra属于什么分类？", "output": "nova 16 系列"}
+{"instruction": "nova 16 Ultra归属哪个SubSeries？", "output": "nova 16 系列"}
+{"instruction": "nova 16 系列包含哪些产品？", "output": "nova 16 Ultra"}
+{"instruction": "nova 16 系列下面有什么？", "output": "nova 16 Ultra"}
+{"instruction": "nova 16 Ultra支持nova最强影像吗？", "output": "nova最强影像"}
+{"instruction": "nova 16 Ultra有nova最强影像功能吗？", "output": "nova最强影像"}
+{"instruction": "哪些产品支持nova最强影像？", "output": "nova 16 Ultra"}
+{"instruction": "哪些产品有nova最强影像功能？", "output": "nova 16 Ultra"}
+{"instruction": "nova 16 Ultra在什么价位段？", "output": "4000-6000元"}
+{"instruction": "华为4000-6000元价位有哪些产品？", "output": "nova 16 Ultra"}
+{"instruction": "nova 16 Ultra的售价是多少？", "output": "¥4699起"}
+{"instruction": "nova 16 Ultra多少钱？", "output": "¥4699起"}
+{"instruction": "nova 16 Ultra的产品定位是什么？", "output": "中高端潮流"}
+{"instruction": "nova 16 Ultra主打什么定位？", "output": "中高端潮流"}
+{"instruction": "华为中高端潮流定位的产品有哪些？", "output": "nova 16 Ultra"}
+{"instruction": "哪些产品定位为中高端潮流？", "output": "nova 16 Ultra"}
+{"instruction": "nova 16 Ultra的产品定位是什么？", "output": "nova顶配"}
+{"instruction": "nova 16 Ultra主打什么定位？", "output": "nova顶配"}
+{"instruction": "华为nova顶配定位的产品有哪些？", "output": "nova 16 Ultra"}
+{"instruction": "哪些产品定位为nova顶配？", "output": "nova 16 Ultra"}
+{"instruction": "畅享 90属于什么分类？", "output": "畅享 90 系列"}
+{"instruction": "畅享 90归属哪个SubSeries？", "output": "畅享 90 系列"}
+{"instruction": "畅享 90 系列包含哪些产品？", "output": "畅享 90"}
+{"instruction": "畅享 90 系列下面有什么？", "output": "畅享 90"}
+{"instruction": "畅享 90 系列属于什么分类？", "output": "畅享系列"}
+{"instruction": "畅享 90 系列归属哪个Series？", "output": "畅享系列"}
+{"instruction": "畅享系列包含哪些产品？", "output": "畅享 90 系列"}
+{"instruction": "畅享系列下面有什么？", "output": "畅享 90 系列"}
+{"instruction": "畅享系列属于什么分类？", "output": "手机"}
+{"instruction": "畅享系列归属哪个Category？", "output": "手机"}
+{"instruction": "手机包含哪些产品？", "output": "畅享系列"}
+{"instruction": "手机下面有什么？", "output": "畅享系列"}
+{"instruction": "畅享 90搭载什么芯片？", "output": "麒麟8000A"}
+{"instruction": "畅享 90用的什么处理器？", "output": "麒麟8000A"}
+{"instruction": "哪些产品搭载麒麟8000A？", "output": "畅享 90"}
+{"instruction": "麒麟8000A用于哪些产品？", "output": "畅享 90"}
+{"instruction": "畅享 90支持1299千元5G吗？", "output": "1299千元5G"}
+{"instruction": "畅享 90有1299千元5G功能吗？", "output": "1299千元5G"}
+{"instruction": "哪些产品支持1299千元5G？", "output": "畅享 90"}
+{"instruction": "哪些产品有1299千元5G功能？", "output": "畅享 90"}
+{"instruction": "畅享 90的电池容量是多少？", "output": "6620mAh"}
+{"instruction": "畅享 90在什么价位段？", "output": "2000元以下"}
+{"instruction": "华为2000元以下价位有哪些产品？", "output": "畅享 90"}
+{"instruction": "畅享 90的售价是多少？", "output": "¥1299起"}
+{"instruction": "畅享 90多少钱？", "output": "¥1299起"}
+{"instruction": "畅享 90的产品定位是什么？", "output": "入门实用"}
+{"instruction": "畅享 90主打什么定位？", "output": "入门实用"}
+{"instruction": "华为入门实用定位的产品有哪些？", "output": "畅享 90"}
+{"instruction": "哪些产品定位为入门实用？", "output": "畅享 90"}
+{"instruction": "畅享 90的产品定位是什么？", "output": "千元5G"}
+{"instruction": "畅享 90主打什么定位？", "output": "千元5G"}
+{"instruction": "华为千元5G定位的产品有哪些？", "output": "畅享 90"}
+{"instruction": "哪些产品定位为千元5G？", "output": "畅享 90"}
+{"instruction": "畅享 90 Plus属于什么分类？", "output": "畅享 90 系列"}
+{"instruction": "畅享 90 Plus归属哪个SubSeries？", "output": "畅享 90 系列"}
+{"instruction": "畅享 90 系列包含哪些产品？", "output": "畅享 90 Plus"}
+{"instruction": "畅享 90 系列下面有什么？", "output": "畅享 90 Plus"}
+{"instruction": "畅享 90 Plus搭载什么芯片？", "output": "麒麟8000"}
+{"instruction": "畅享 90 Plus用的什么处理器？", "output": "麒麟8000"}
+{"instruction": "哪些产品搭载麒麟8000？", "output": "畅享 90 Plus"}
+{"instruction": "麒麟8000用于哪些产品？", "output": "畅享 90 Plus"}
+{"instruction": "畅享 90 Plus的电池容量是多少？", "output": "6620mAh"}
+{"instruction": "畅享 90 Plus在什么价位段？", "output": "2000元以下"}
+{"instruction": "华为2000元以下价位有哪些产品？", "output": "畅享 90 Plus"}
+{"instruction": "畅享 90 Plus的售价是多少？", "output": "¥1499起"}
+{"instruction": "畅享 90 Plus多少钱？", "output": "¥1499起"}
+{"instruction": "畅享 90 Plus的产品定位是什么？", "output": "入门实用"}
+{"instruction": "畅享 90 Plus主打什么定位？", "output": "入门实用"}
+{"instruction": "华为入门实用定位的产品有哪些？", "output": "畅享 90 Plus"}
+{"instruction": "哪些产品定位为入门实用？", "output": "畅享 90 Plus"}
+{"instruction": "畅享 90 Plus的产品定位是什么？", "output": "大屏5G"}
+{"instruction": "畅享 90 Plus主打什么定位？", "output": "大屏5G"}
+{"instruction": "华为大屏5G定位的产品有哪些？", "output": "畅享 90 Plus"}
+{"instruction": "哪些产品定位为大屏5G？", "output": "畅享 90 Plus"}
+{"instruction": "畅享 90 Pro Max属于什么分类？", "output": "畅享 90 系列"}
+{"instruction": "畅享 90 Pro Max归属哪个SubSeries？", "output": "畅享 90 系列"}
+{"instruction": "畅享 90 系列包含哪些产品？", "output": "畅享 90 Pro Max"}
+{"instruction": "畅享 90 系列下面有什么？", "output": "畅享 90 Pro Max"}
+{"instruction": "畅享 90 Pro Max支持6.84寸OLED吗？", "output": "6.84寸OLED"}
+{"instruction": "畅享 90 Pro Max有6.84寸OLED功能吗？", "output": "6.84寸OLED"}
+{"instruction": "哪些产品支持6.84寸OLED？", "output": "畅享 90 Pro Max"}
+{"instruction": "哪些产品有6.84寸OLED功能？", "output": "畅享 90 Pro Max"}
+{"instruction": "畅享 90 Pro Max支持NFC吗？", "output": "NFC"}
+{"instruction": "畅享 90 Pro Max有NFC功能吗？", "output": "NFC"}
+{"instruction": "哪些产品支持NFC？", "output": "畅享 90 Pro Max"}
+{"instruction": "哪些产品有NFC功能？", "output": "畅享 90 Pro Max"}
+{"instruction": "畅享 90 Pro Max支持千元续航王吗？", "output": "千元续航王"}
+{"instruction": "畅享 90 Pro Max有千元续航王功能吗？", "output": "千元续航王"}
+{"instruction": "哪些产品支持千元续航王？", "output": "畅享 90 Pro Max"}
+{"instruction": "哪些产品有千元续航王功能？", "output": "畅享 90 Pro Max"}
+{"instruction": "畅享 90 Pro Max的电池容量是多少？", "output": "8500mAh"}
+{"instruction": "畅享 90 Pro Max的屏幕是什么类型？", "output": "OLED"}
+{"instruction": "畅享 90 Pro Max用的什么屏幕？", "output": "OLED"}
+{"instruction": "畅享 90 Pro Max在什么价位段？", "output": "2000元以下"}
+{"instruction": "华为2000元以下价位有哪些产品？", "output": "畅享 90 Pro Max"}
+{"instruction": "畅享 90 Pro Max的售价是多少？", "output": "¥1699起"}
+{"instruction": "畅享 90 Pro Max多少钱？", "output": "¥1699起"}
+{"instruction": "畅享 90 Pro Max的产品定位是什么？", "output": "入门实用"}
+{"instruction": "畅享 90 Pro Max主打什么定位？", "output": "入门实用"}
+{"instruction": "华为入门实用定位的产品有哪些？", "output": "畅享 90 Pro Max"}
+{"instruction": "哪些产品定位为入门实用？", "output": "畅享 90 Pro Max"}
+{"instruction": "畅享 90 Pro Max的产品定位是什么？", "output": "长续航机皇"}
+{"instruction": "畅享 90 Pro Max主打什么定位？", "output": "长续航机皇"}
+{"instruction": "华为长续航机皇定位的产品有哪些？", "output": "畅享 90 Pro Max"}
+{"instruction": "哪些产品定位为长续航机皇？", "output": "畅享 90 Pro Max"}
+{"instruction": "MatePad Pro 13.2 2025属于什么分类？", "output": "MatePad Pro 系列"}
+{"instruction": "MatePad Pro 13.2 2025归属哪个SubSeries？", "output": "MatePad Pro 系列"}
+{"instruction": "MatePad Pro 系列包含哪些产品？", "output": "MatePad Pro 13.2 2025"}
+{"instruction": "MatePad Pro 系列下面有什么？", "output": "MatePad Pro 13.2 2025"}
+{"instruction": "MatePad Pro 系列属于什么分类？", "output": "MatePad Pro 系列"}
+{"instruction": "MatePad Pro 系列归属哪个SubSeries？", "output": "MatePad Pro 系列"}
+{"instruction": "MatePad Pro 系列包含哪些产品？", "output": "MatePad Pro 系列"}
+{"instruction": "MatePad Pro 系列下面有什么？", "output": "MatePad Pro 系列"}
+{"instruction": "MatePad Pro 系列属于什么分类？", "output": "平板"}
+{"instruction": "MatePad Pro 系列归属哪个Category？", "output": "平板"}
+{"instruction": "平板包含哪些产品？", "output": "MatePad Pro 系列"}
+{"instruction": "平板下面有什么？", "output": "MatePad Pro 系列"}
+{"instruction": "平板属于什么分类？", "output": "华为"}
+{"instruction": "平板归属哪个Company？", "output": "华为"}
+{"instruction": "华为包含哪些产品？", "output": "平板"}
+{"instruction": "华为下面有什么？", "output": "平板"}
+{"instruction": "MatePad Pro 13.2 2025搭载什么芯片？", "output": "麒麟9010"}
+{"instruction": "MatePad Pro 13.2 2025用的什么处理器？", "output": "麒麟9010"}
+{"instruction": "哪些产品搭载麒麟9010？", "output": "MatePad Pro 13.2 2025"}
+{"instruction": "麒麟9010用于哪些产品？", "output": "MatePad Pro 13.2 2025"}
+{"instruction": "MatePad Pro 13.2 2025支持13.2寸柔性OLED吗？", "output": "13.2寸柔性OLED"}
+{"instruction": "MatePad Pro 13.2 2025有13.2寸柔性OLED功能吗？", "output": "13.2寸柔性OLED"}
+{"instruction": "哪些产品支持13.2寸柔性OLED？", "output": "MatePad Pro 13.2 2025"}
+{"instruction": "哪些产品有13.2寸柔性OLED功能？", "output": "MatePad Pro 13.2 2025"}
+{"instruction": "MatePad Pro 13.2 2025的屏幕是什么类型？", "output": "柔性OLED"}
+{"instruction": "MatePad Pro 13.2 2025用的什么屏幕？", "output": "柔性OLED"}
+{"instruction": "MatePad Pro 13.2 2025支持什么快充？", "output": "88W快充"}
+{"instruction": "MatePad Pro 13.2 2025在什么价位段？", "output": "4000-6000元"}
+{"instruction": "华为4000-6000元价位有哪些产品？", "output": "MatePad Pro 13.2 2025"}
+{"instruction": "MatePad Pro 13.2 2025的售价是多少？", "output": "¥4350起"}
+{"instruction": "MatePad Pro 13.2 2025多少钱？", "output": "¥4350起"}
+{"instruction": "MatePad Pro 13.2 2025的产品定位是什么？", "output": "专业旗舰平板"}
+{"instruction": "MatePad Pro 13.2 2025主打什么定位？", "output": "专业旗舰平板"}
+{"instruction": "华为专业旗舰平板定位的产品有哪些？", "output": "MatePad Pro 13.2 2025"}
+{"instruction": "哪些产品定位为专业旗舰平板？", "output": "MatePad Pro 13.2 2025"}
+{"instruction": "MatePad Pro 13.2 2025的产品定位是什么？", "output": "创意生产力"}
+{"instruction": "MatePad Pro 13.2 2025主打什么定位？", "output": "创意生产力"}
+{"instruction": "华为创意生产力定位的产品有哪些？", "output": "MatePad Pro 13.2 2025"}
+{"instruction": "哪些产品定位为创意生产力？", "output": "MatePad Pro 13.2 2025"}
+{"instruction": "MatePad Pro 12.2 2025属于什么分类？", "output": "MatePad Pro 系列"}
+{"instruction": "MatePad Pro 12.2 2025归属哪个SubSeries？", "output": "MatePad Pro 系列"}
+{"instruction": "MatePad Pro 系列包含哪些产品？", "output": "MatePad Pro 12.2 2025"}
+{"instruction": "MatePad Pro 系列下面有什么？", "output": "MatePad Pro 12.2 2025"}
+{"instruction": "MatePad Pro 12.2 2025支持12.2寸双层OLED吗？", "output": "12.2寸双层OLED"}
+{"instruction": "MatePad Pro 12.2 2025有12.2寸双层OLED功能吗？", "output": "12.2寸双层OLED"}
+{"instruction": "哪些产品支持12.2寸双层OLED？", "output": "MatePad Pro 12.2 2025"}
+{"instruction": "哪些产品有12.2寸双层OLED功能？", "output": "MatePad Pro 12.2 2025"}
+{"instruction": "MatePad Pro 12.2 2025支持10100mAh吗？", "output": "10100mAh"}
+{"instruction": "MatePad Pro 12.2 2025有10100mAh功能吗？", "output": "10100mAh"}
+{"instruction": "哪些产品支持10100mAh？", "output": "MatePad Pro 12.2 2025"}
+{"instruction": "哪些产品有10100mAh功能？", "output": "MatePad Pro 12.2 2025"}
+{"instruction": "MatePad Pro 12.2 2025的电池容量是多少？", "output": "10100mAh"}
+{"instruction": "MatePad Pro 12.2 2025的屏幕是什么类型？", "output": "双层OLED"}
+{"instruction": "MatePad Pro 12.2 2025用的什么屏幕？", "output": "双层OLED"}
+{"instruction": "MatePad Pro 12.2 2025在什么价位段？", "output": "2000-4000元"}
+{"instruction": "华为2000-4000元价位有哪些产品？", "output": "MatePad Pro 12.2 2025"}
+{"instruction": "MatePad Pro 12.2 2025的售价是多少？", "output": "¥3199起"}
+{"instruction": "MatePad Pro 12.2 2025多少钱？", "output": "¥3199起"}
+{"instruction": "MatePad Pro 12.2 2025的产品定位是什么？", "output": "专业旗舰平板"}
+{"instruction": "MatePad Pro 12.2 2025主打什么定位？", "output": "专业旗舰平板"}
+{"instruction": "华为专业旗舰平板定位的产品有哪些？", "output": "MatePad Pro 12.2 2025"}
+{"instruction": "哪些产品定位为专业旗舰平板？", "output": "MatePad Pro 12.2 2025"}
+{"instruction": "MatePad Pro 12.2 2025的产品定位是什么？", "output": "画质旗舰"}
+{"instruction": "MatePad Pro 12.2 2025主打什么定位？", "output": "画质旗舰"}
+{"instruction": "华为画质旗舰定位的产品有哪些？", "output": "MatePad Pro 12.2 2025"}
+{"instruction": "哪些产品定位为画质旗舰？", "output": "MatePad Pro 12.2 2025"}
+{"instruction": "MatePad Pro 2026属于什么分类？", "output": "MatePad Pro 系列"}
+{"instruction": "MatePad Pro 2026归属哪个SubSeries？", "output": "MatePad Pro 系列"}
+{"instruction": "MatePad Pro 系列包含哪些产品？", "output": "MatePad Pro 2026"}
+{"instruction": "MatePad Pro 系列下面有什么？", "output": "MatePad Pro 2026"}
+{"instruction": "MatePad Pro 2026支持北斗卫星通讯吗？", "output": "北斗卫星通讯"}
+{"instruction": "MatePad Pro 2026有北斗卫星通讯功能吗？", "output": "北斗卫星通讯"}
+{"instruction": "哪些产品支持北斗卫星通讯？", "output": "MatePad Pro 2026"}
+{"instruction": "哪些产品有北斗卫星通讯功能？", "output": "MatePad Pro 2026"}
+{"instruction": "MatePad Pro 2026支持4.7mm超薄吗？", "output": "4.7mm超薄"}
+{"instruction": "MatePad Pro 2026有4.7mm超薄功能吗？", "output": "4.7mm超薄"}
+{"instruction": "哪些产品支持4.7mm超薄？", "output": "MatePad Pro 2026"}
+{"instruction": "哪些产品有4.7mm超薄功能？", "output": "MatePad Pro 2026"}
+{"instruction": "MatePad Pro 2026支持12寸OLED吗？", "output": "12寸OLED"}
+{"instruction": "MatePad Pro 2026有12寸OLED功能吗？", "output": "12寸OLED"}
+{"instruction": "哪些产品支持12寸OLED？", "output": "MatePad Pro 2026"}
+{"instruction": "哪些产品有12寸OLED功能？", "output": "MatePad Pro 2026"}
+{"instruction": "MatePad Pro 2026支持麒麟T93吗？", "output": "麒麟T93"}
+{"instruction": "MatePad Pro 2026有麒麟T93功能吗？", "output": "麒麟T93"}
+{"instruction": "哪些产品支持麒麟T93？", "output": "MatePad Pro 2026"}
+{"instruction": "哪些产品有麒麟T93功能？", "output": "MatePad Pro 2026"}
+{"instruction": "MatePad Pro 2026的屏幕是什么类型？", "output": "OLED"}
+{"instruction": "MatePad Pro 2026用的什么屏幕？", "output": "OLED"}
+{"instruction": "MatePad Pro 2026支持卫星通信吗？", "output": "卫星通信"}
+{"instruction": "MatePad Pro 2026有卫星通信功能吗？", "output": "卫星通信"}
+{"instruction": "哪些产品支持卫星通信？", "output": "MatePad Pro 2026"}
+{"instruction": "哪些产品有卫星通信功能？", "output": "MatePad Pro 2026"}
+{"instruction": "MatePad Pro 2026的产品定位是什么？", "output": "专业旗舰平板"}
+{"instruction": "MatePad Pro 2026主打什么定位？", "output": "专业旗舰平板"}
+{"instruction": "华为专业旗舰平板定位的产品有哪些？", "output": "MatePad Pro 2026"}
+{"instruction": "哪些产品定位为专业旗舰平板？", "output": "MatePad Pro 2026"}
+{"instruction": "MatePad Pro 2026的产品定位是什么？", "output": "卫星平板"}
+{"instruction": "MatePad Pro 2026主打什么定位？", "output": "卫星平板"}
+{"instruction": "华为卫星平板定位的产品有哪些？", "output": "MatePad Pro 2026"}
+{"instruction": "哪些产品定位为卫星平板？", "output": "MatePad Pro 2026"}
+{"instruction": "MatePad Edge属于什么分类？", "output": "MatePad Pro 系列"}
+{"instruction": "MatePad Edge归属哪个SubSeries？", "output": "MatePad Pro 系列"}
+{"instruction": "MatePad Pro 系列包含哪些产品？", "output": "MatePad Edge"}
+{"instruction": "MatePad Pro 系列下面有什么？", "output": "MatePad Edge"}
+{"instruction": "MatePad Edge支持24GB+1TB吗？", "output": "24GB+1TB"}
+{"instruction": "MatePad Edge有24GB+1TB功能吗？", "output": "24GB+1TB"}
+{"instruction": "哪些产品支持24GB+1TB？", "output": "MatePad Edge"}
+{"instruction": "哪些产品有24GB+1TB功能？", "output": "MatePad Edge"}
+{"instruction": "MatePad Edge支持万元二合一吗？", "output": "万元二合一"}
+{"instruction": "MatePad Edge有万元二合一功能吗？", "output": "万元二合一"}
+{"instruction": "哪些产品支持万元二合一？", "output": "MatePad Edge"}
+{"instruction": "哪些产品有万元二合一功能？", "output": "MatePad Edge"}
+{"instruction": "MatePad Edge在什么价位段？", "output": "8000-12000元"}
+{"instruction": "华为8000-12000元价位有哪些产品？", "output": "MatePad Edge"}
+{"instruction": "MatePad Edge的售价是多少？", "output": "¥9999"}
+{"instruction": "MatePad Edge多少钱？", "output": "¥9999"}
+{"instruction": "MatePad Edge的产品定位是什么？", "output": "专业旗舰平板"}
+{"instruction": "MatePad Edge主打什么定位？", "output": "专业旗舰平板"}
+{"instruction": "华为专业旗舰平板定位的产品有哪些？", "output": "MatePad Edge"}
+{"instruction": "哪些产品定位为专业旗舰平板？", "output": "MatePad Edge"}
+{"instruction": "MatePad Edge的产品定位是什么？", "output": "二合一"}
+{"instruction": "MatePad Edge主打什么定位？", "output": "二合一"}
+{"instruction": "华为二合一定位的产品有哪些？", "output": "MatePad Edge"}
+{"instruction": "哪些产品定位为二合一？", "output": "MatePad Edge"}
+{"instruction": "MatePad Air 12 2025属于什么分类？", "output": "MatePad Air 系列"}
+{"instruction": "MatePad Air 12 2025归属哪个SubSeries？", "output": "MatePad Air 系列"}
+{"instruction": "MatePad Air 系列包含哪些产品？", "output": "MatePad Air 12 2025"}
+{"instruction": "MatePad Air 系列下面有什么？", "output": "MatePad Air 12 2025"}
+{"instruction": "MatePad Air 系列属于什么分类？", "output": "MatePad Air 系列"}
+{"instruction": "MatePad Air 系列归属哪个SubSeries？", "output": "MatePad Air 系列"}
+{"instruction": "MatePad Air 系列包含哪些产品？", "output": "MatePad Air 系列"}
+{"instruction": "MatePad Air 系列下面有什么？", "output": "MatePad Air 系列"}
+{"instruction": "MatePad Air 系列属于什么分类？", "output": "平板"}
+{"instruction": "MatePad Air 系列归属哪个Category？", "output": "平板"}
+{"instruction": "平板包含哪些产品？", "output": "MatePad Air 系列"}
+{"instruction": "平板下面有什么？", "output": "MatePad Air 系列"}
+{"instruction": "MatePad Air 12 2025搭载什么芯片？", "output": "麒麟900"}
+{"instruction": "MatePad Air 12 2025用的什么处理器？", "output": "麒麟900"}
+{"instruction": "哪些产品搭载麒麟900？", "output": "MatePad Air 12 2025"}
+{"instruction": "麒麟900用于哪些产品？", "output": "MatePad Air 12 2025"}
+{"instruction": "MatePad Air 12 2025支持12寸2.8K 144Hz吗？", "output": "12寸2.8K 144Hz"}
+{"instruction": "MatePad Air 12 2025有12寸2.8K 144Hz功能吗？", "output": "12寸2.8K 144Hz"}
+{"instruction": "哪些产品支持12寸2.8K 144Hz？", "output": "MatePad Air 12 2025"}
+{"instruction": "哪些产品有12寸2.8K 144Hz功能？", "output": "MatePad Air 12 2025"}
+{"instruction": "MatePad Air 12 2025支持10100mAh吗？", "output": "10100mAh"}
+{"instruction": "MatePad Air 12 2025有10100mAh功能吗？", "output": "10100mAh"}
+{"instruction": "哪些产品支持10100mAh？", "output": "MatePad Air 12 2025"}
+{"instruction": "哪些产品有10100mAh功能？", "output": "MatePad Air 12 2025"}
+{"instruction": "MatePad Air 12 2025的电池容量是多少？", "output": "10100mAh"}
+{"instruction": "MatePad Air 12 2025在什么价位段？", "output": "2000-4000元"}
+{"instruction": "华为2000-4000元价位有哪些产品？", "output": "MatePad Air 12 2025"}
+{"instruction": "MatePad Air 12 2025的售价是多少？", "output": "¥2125起"}
+{"instruction": "MatePad Air 12 2025多少钱？", "output": "¥2125起"}
+{"instruction": "MatePad Air 12 2025的产品定位是什么？", "output": "中高端平板"}
+{"instruction": "MatePad Air 12 2025主打什么定位？", "output": "中高端平板"}
+{"instruction": "华为中高端平板定位的产品有哪些？", "output": "MatePad Air 12 2025"}
+{"instruction": "哪些产品定位为中高端平板？", "output": "MatePad Air 12 2025"}
+{"instruction": "MatePad Air 12 2025的产品定位是什么？", "output": "轻办公手绘"}
+{"instruction": "MatePad Air 12 2025主打什么定位？", "output": "轻办公手绘"}
+{"instruction": "华为轻办公手绘定位的产品有哪些？", "output": "MatePad Air 12 2025"}
+{"instruction": "哪些产品定位为轻办公手绘？", "output": "MatePad Air 12 2025"}
+{"instruction": "MatePad Air 2026属于什么分类？", "output": "MatePad Air 系列"}
+{"instruction": "MatePad Air 2026归属哪个SubSeries？", "output": "MatePad Air 系列"}
+{"instruction": "MatePad Air 系列包含哪些产品？", "output": "MatePad Air 2026"}
+{"instruction": "MatePad Air 系列下面有什么？", "output": "MatePad Air 2026"}
+{"instruction": "MatePad Air 2026支持PaperMatte柔光屏吗？", "output": "PaperMatte柔光屏"}
+{"instruction": "MatePad Air 2026有PaperMatte柔光屏功能吗？", "output": "PaperMatte柔光屏"}
+{"instruction": "哪些产品支持PaperMatte柔光屏？", "output": "MatePad Air 2026"}
+{"instruction": "哪些产品有PaperMatte柔光屏功能？", "output": "MatePad Air 2026"}
+{"instruction": "MatePad Air 2026支持麒麟T93C吗？", "output": "麒麟T93C"}
+{"instruction": "MatePad Air 2026有麒麟T93C功能吗？", "output": "麒麟T93C"}
+{"instruction": "哪些产品支持麒麟T93C？", "output": "MatePad Air 2026"}
+{"instruction": "哪些产品有麒麟T93C功能？", "output": "MatePad Air 2026"}
+{"instruction": "MatePad Air 2026的产品定位是什么？", "output": "中高端平板"}
+{"instruction": "MatePad Air 2026主打什么定位？", "output": "中高端平板"}
+{"instruction": "华为中高端平板定位的产品有哪些？", "output": "MatePad Air 2026"}
+{"instruction": "哪些产品定位为中高端平板？", "output": "MatePad Air 2026"}
+{"instruction": "MatePad Air 2026的产品定位是什么？", "output": "护眼办公"}
+{"instruction": "MatePad Air 2026主打什么定位？", "output": "护眼办公"}
+{"instruction": "华为护眼办公定位的产品有哪些？", "output": "MatePad Air 2026"}
+{"instruction": "哪些产品定位为护眼办公？", "output": "MatePad Air 2026"}
+{"instruction": "MatePad Mini属于什么分类？", "output": "MatePad Mini 系列"}
+{"instruction": "MatePad Mini归属哪个SubSeries？", "output": "MatePad Mini 系列"}
+{"instruction": "MatePad Mini 系列包含哪些产品？", "output": "MatePad Mini"}
+{"instruction": "MatePad Mini 系列下面有什么？", "output": "MatePad Mini"}
+{"instruction": "MatePad Mini 系列属于什么分类？", "output": "MatePad Mini 系列"}
+{"instruction": "MatePad Mini 系列归属哪个SubSeries？", "output": "MatePad Mini 系列"}
+{"instruction": "MatePad Mini 系列包含哪些产品？", "output": "MatePad Mini 系列"}
+{"instruction": "MatePad Mini 系列下面有什么？", "output": "MatePad Mini 系列"}
+{"instruction": "MatePad Mini 系列属于什么分类？", "output": "平板"}
+{"instruction": "MatePad Mini 系列归属哪个Category？", "output": "平板"}
+{"instruction": "平板包含哪些产品？", "output": "MatePad Mini 系列"}
+{"instruction": "平板下面有什么？", "output": "MatePad Mini 系列"}
+{"instruction": "MatePad Mini支持悦读版/柔光版/全网通多版本可选吗？", "output": "悦读版/柔光版/全网通多版本可选"}
+{"instruction": "MatePad Mini有悦读版/柔光版/全网通多版本可选功能吗？", "output": "悦读版/柔光版/全网通多版本可选"}
+{"instruction": "哪些产品支持悦读版/柔光版/全网通多版本可选？", "output": "MatePad Mini"}
+{"instruction": "哪些产品有悦读版/柔光版/全网通多版本可选功能？", "output": "MatePad Mini"}
+{"instruction": "MatePad Mini在什么价位段？", "output": "2000-4000元"}
+{"instruction": "华为2000-4000元价位有哪些产品？", "output": "MatePad Mini"}
+{"instruction": "MatePad Mini的售价是多少？", "output": "¥2465起"}
+{"instruction": "MatePad Mini多少钱？", "output": "¥2465起"}
+{"instruction": "MatePad Mini的产品定位是什么？", "output": "轻薄便携平板"}
+{"instruction": "MatePad Mini主打什么定位？", "output": "轻薄便携平板"}
+{"instruction": "华为轻薄便携平板定位的产品有哪些？", "output": "MatePad Mini"}
+{"instruction": "哪些产品定位为轻薄便携平板？", "output": "MatePad Mini"}
+{"instruction": "MatePad Mini的产品定位是什么？", "output": "阅读娱乐"}
+{"instruction": "MatePad Mini主打什么定位？", "output": "阅读娱乐"}
+{"instruction": "华为阅读娱乐定位的产品有哪些？", "output": "MatePad Mini"}
+{"instruction": "哪些产品定位为阅读娱乐？", "output": "MatePad Mini"}
+{"instruction": "MatePad 11.5 S属于什么分类？", "output": "MatePad 11.5 S 系列"}
+{"instruction": "MatePad 11.5 S归属哪个SubSeries？", "output": "MatePad 11.5 S 系列"}
+{"instruction": "MatePad 11.5 S 系列包含哪些产品？", "output": "MatePad 11.5 S"}
+{"instruction": "MatePad 11.5 S 系列下面有什么？", "output": "MatePad 11.5 S"}
+{"instruction": "MatePad 11.5 S 系列属于什么分类？", "output": "MatePad 11.5 S 系列"}
+{"instruction": "MatePad 11.5 S 系列归属哪个SubSeries？", "output": "MatePad 11.5 S 系列"}
+{"instruction": "MatePad 11.5 S 系列包含哪些产品？", "output": "MatePad 11.5 S 系列"}
+{"instruction": "MatePad 11.5 S 系列下面有什么？", "output": "MatePad 11.5 S 系列"}
+{"instruction": "MatePad 11.5 S 系列属于什么分类？", "output": "平板"}
+{"instruction": "MatePad 11.5 S 系列归属哪个Category？", "output": "平板"}
+{"instruction": "平板包含哪些产品？", "output": "MatePad 11.5 S 系列"}
+{"instruction": "平板下面有什么？", "output": "MatePad 11.5 S 系列"}
+{"instruction": "MatePad 11.5 S支持2.8K 144Hz吗？", "output": "2.8K 144Hz"}
+{"instruction": "MatePad 11.5 S有2.8K 144Hz功能吗？", "output": "2.8K 144Hz"}
+{"instruction": "哪些产品支持2.8K 144Hz？", "output": "MatePad 11.5 S"}
+{"instruction": "哪些产品有2.8K 144Hz功能？", "output": "MatePad 11.5 S"}
+{"instruction": "MatePad 11.5 S支持柔光屏可选吗？", "output": "柔光屏可选"}
+{"instruction": "MatePad 11.5 S有柔光屏可选功能吗？", "output": "柔光屏可选"}
+{"instruction": "哪些产品支持柔光屏可选？", "output": "MatePad 11.5 S"}
+{"instruction": "哪些产品有柔光屏可选功能？", "output": "MatePad 11.5 S"}
+{"instruction": "MatePad 11.5 S支持学生党首选吗？", "output": "学生党首选"}
+{"instruction": "MatePad 11.5 S有学生党首选功能吗？", "output": "学生党首选"}
+{"instruction": "哪些产品支持学生党首选？", "output": "MatePad 11.5 S"}
+{"instruction": "哪些产品有学生党首选功能？", "output": "MatePad 11.5 S"}
+{"instruction": "MatePad 11.5 S在什么价位段？", "output": "2000元以下"}
+{"instruction": "华为2000元以下价位有哪些产品？", "output": "MatePad 11.5 S"}
+{"instruction": "MatePad 11.5 S的售价是多少？", "output": "¥1670起"}
+{"instruction": "MatePad 11.5 S多少钱？", "output": "¥1670起"}
+{"instruction": "MatePad 11.5 S的产品定位是什么？", "output": "中端性价比平板"}
+{"instruction": "MatePad 11.5 S主打什么定位？", "output": "中端性价比平板"}
+{"instruction": "华为中端性价比平板定位的产品有哪些？", "output": "MatePad 11.5 S"}
+{"instruction": "哪些产品定位为中端性价比平板？", "output": "MatePad 11.5 S"}
+{"instruction": "MatePad 11.5 S的产品定位是什么？", "output": "学生笔记"}
+{"instruction": "MatePad 11.5 S主打什么定位？", "output": "学生笔记"}
+{"instruction": "华为学生笔记定位的产品有哪些？", "output": "MatePad 11.5 S"}
+{"instruction": "哪些产品定位为学生笔记？", "output": "MatePad 11.5 S"}
+{"instruction": "MatePad 11.5 2026属于什么分类？", "output": "MatePad 数字系列"}
+{"instruction": "MatePad 11.5 2026归属哪个SubSeries？", "output": "MatePad 数字系列"}
+{"instruction": "MatePad 数字系列包含哪些产品？", "output": "MatePad 11.5 2026"}
+{"instruction": "MatePad 数字系列下面有什么？", "output": "MatePad 11.5 2026"}
+{"instruction": "MatePad 数字系列属于什么分类？", "output": "MatePad 数字系列"}
+{"instruction": "MatePad 数字系列归属哪个SubSeries？", "output": "MatePad 数字系列"}
+{"instruction": "MatePad 数字系列包含哪些产品？", "output": "MatePad 数字系列"}
+{"instruction": "MatePad 数字系列下面有什么？", "output": "MatePad 数字系列"}
+{"instruction": "MatePad 数字系列属于什么分类？", "output": "平板"}
+{"instruction": "MatePad 数字系列归属哪个Category？", "output": "平板"}
+{"instruction": "平板包含哪些产品？", "output": "MatePad 数字系列"}
+{"instruction": "平板下面有什么？", "output": "MatePad 数字系列"}
+{"instruction": "MatePad 11.5 2026支持护眼屏吗？", "output": "护眼屏"}
+{"instruction": "MatePad 11.5 2026有护眼屏功能吗？", "output": "护眼屏"}
+{"instruction": "哪些产品支持护眼屏？", "output": "MatePad 11.5 2026"}
+{"instruction": "哪些产品有护眼屏功能？", "output": "MatePad 11.5 2026"}
+{"instruction": "MatePad 11.5 2026支持鸿蒙AI吗？", "output": "鸿蒙AI"}
+{"instruction": "MatePad 11.5 2026有鸿蒙AI功能吗？", "output": "鸿蒙AI"}
+{"instruction": "哪些产品支持鸿蒙AI？", "output": "MatePad 11.5 2026"}
+{"instruction": "哪些产品有鸿蒙AI功能？", "output": "MatePad 11.5 2026"}
+{"instruction": "MatePad 11.5 2026支持柔光版/全网通可选吗？", "output": "柔光版/全网通可选"}
+{"instruction": "MatePad 11.5 2026有柔光版/全网通可选功能吗？", "output": "柔光版/全网通可选"}
+{"instruction": "哪些产品支持柔光版/全网通可选？", "output": "MatePad 11.5 2026"}
+{"instruction": "哪些产品有柔光版/全网通可选功能？", "output": "MatePad 11.5 2026"}
+{"instruction": "MatePad 11.5 2026在什么价位段？", "output": "2000元以下"}
+{"instruction": "华为2000元以下价位有哪些产品？", "output": "MatePad 11.5 2026"}
+{"instruction": "MatePad 11.5 2026的售价是多少？", "output": "¥1530起"}
+{"instruction": "MatePad 11.5 2026多少钱？", "output": "¥1530起"}
+{"instruction": "MatePad 11.5 2026的产品定位是什么？", "output": "入门性价比平板"}
+{"instruction": "MatePad 11.5 2026主打什么定位？", "output": "入门性价比平板"}
+{"instruction": "华为入门性价比平板定位的产品有哪些？", "output": "MatePad 11.5 2026"}
+{"instruction": "哪些产品定位为入门性价比平板？", "output": "MatePad 11.5 2026"}
+{"instruction": "MatePad 11.5 2026的产品定位是什么？", "output": "追剧网课"}
+{"instruction": "MatePad 11.5 2026主打什么定位？", "output": "追剧网课"}
+{"instruction": "华为追剧网课定位的产品有哪些？", "output": "MatePad 11.5 2026"}
+{"instruction": "哪些产品定位为追剧网课？", "output": "MatePad 11.5 2026"}
+{"instruction": "MatePad SE 标准版 11寸属于什么分类？", "output": "MatePad SE 系列"}
+{"instruction": "MatePad SE 标准版 11寸归属哪个SubSeries？", "output": "MatePad SE 系列"}
+{"instruction": "MatePad SE 系列包含哪些产品？", "output": "MatePad SE 标准版 11寸"}
+{"instruction": "MatePad SE 系列下面有什么？", "output": "MatePad SE 标准版 11寸"}
+{"instruction": "MatePad SE 系列属于什么分类？", "output": "MatePad SE 系列"}
+{"instruction": "MatePad SE 系列归属哪个SubSeries？", "output": "MatePad SE 系列"}
+{"instruction": "MatePad SE 系列包含哪些产品？", "output": "MatePad SE 系列"}
+{"instruction": "MatePad SE 系列下面有什么？", "output": "MatePad SE 系列"}
+{"instruction": "MatePad SE 系列属于什么分类？", "output": "平板"}
+{"instruction": "MatePad SE 系列归属哪个Category？", "output": "平板"}
+{"instruction": "平板包含哪些产品？", "output": "MatePad SE 系列"}
+{"instruction": "平板下面有什么？", "output": "MatePad SE 系列"}
+{"instruction": "MatePad SE 标准版 11寸搭载什么芯片？", "output": "骁龙685"}
+{"instruction": "MatePad SE 标准版 11寸用的什么处理器？", "output": "骁龙685"}
+{"instruction": "哪些产品搭载骁龙685？", "output": "MatePad SE 标准版 11寸"}
+{"instruction": "骁龙685用于哪些产品？", "output": "MatePad SE 标准版 11寸"}
+{"instruction": "MatePad SE 标准版 11寸的电池容量是多少？", "output": "7700mAh"}
+{"instruction": "MatePad SE 标准版 11寸在什么价位段？", "output": "2000元以下"}
+{"instruction": "华为2000元以下价位有哪些产品？", "output": "MatePad SE 标准版 11寸"}
+{"instruction": "MatePad SE 标准版 11寸的售价是多少？", "output": "¥1399起"}
+{"instruction": "MatePad SE 标准版 11寸多少钱？", "output": "¥1399起"}
+{"instruction": "MatePad SE 标准版 11寸的产品定位是什么？", "output": "千元入门平板"}
+{"instruction": "MatePad SE 标准版 11寸主打什么定位？", "output": "千元入门平板"}
+{"instruction": "华为千元入门平板定位的产品有哪些？", "output": "MatePad SE 标准版 11寸"}
+{"instruction": "哪些产品定位为千元入门平板？", "output": "MatePad SE 标准版 11寸"}
+{"instruction": "MatePad SE 标准版 11寸的产品定位是什么？", "output": "网课追剧"}
+{"instruction": "MatePad SE 标准版 11寸主打什么定位？", "output": "网课追剧"}
+{"instruction": "华为网课追剧定位的产品有哪些？", "output": "MatePad SE 标准版 11寸"}
+{"instruction": "哪些产品定位为网课追剧？", "output": "MatePad SE 标准版 11寸"}
+{"instruction": "MateBook Fold 非凡大师属于什么分类？", "output": "MateBook Fold 系列"}
+{"instruction": "MateBook Fold 非凡大师归属哪个SubSeries？", "output": "MateBook Fold 系列"}
+{"instruction": "MateBook Fold 系列包含哪些产品？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "MateBook Fold 系列下面有什么？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "MateBook Fold 系列属于什么分类？", "output": "MateBook Fold 系列"}
+{"instruction": "MateBook Fold 系列归属哪个SubSeries？", "output": "MateBook Fold 系列"}
+{"instruction": "MateBook Fold 系列包含哪些产品？", "output": "MateBook Fold 系列"}
+{"instruction": "MateBook Fold 系列下面有什么？", "output": "MateBook Fold 系列"}
+{"instruction": "MateBook Fold 系列属于什么分类？", "output": "笔记本"}
+{"instruction": "MateBook Fold 系列归属哪个Category？", "output": "笔记本"}
+{"instruction": "笔记本包含哪些产品？", "output": "MateBook Fold 系列"}
+{"instruction": "笔记本下面有什么？", "output": "MateBook Fold 系列"}
+{"instruction": "笔记本属于什么分类？", "output": "华为"}
+{"instruction": "笔记本归属哪个Company？", "output": "华为"}
+{"instruction": "华为包含哪些产品？", "output": "笔记本"}
+{"instruction": "华为下面有什么？", "output": "笔记本"}
+{"instruction": "MateBook Fold 非凡大师支持18寸折叠巨幕吗？", "output": "18寸折叠巨幕"}
+{"instruction": "MateBook Fold 非凡大师有18寸折叠巨幕功能吗？", "output": "18寸折叠巨幕"}
+{"instruction": "哪些产品支持18寸折叠巨幕？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "哪些产品有18寸折叠巨幕功能？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "MateBook Fold 非凡大师支持24999最贵华为PC吗？", "output": "24999最贵华为PC"}
+{"instruction": "MateBook Fold 非凡大师有24999最贵华为PC功能吗？", "output": "24999最贵华为PC"}
+{"instruction": "哪些产品支持24999最贵华为PC？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "哪些产品有24999最贵华为PC功能？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "MateBook Fold 非凡大师支持双层OLED吗？", "output": "双层OLED"}
+{"instruction": "MateBook Fold 非凡大师有双层OLED功能吗？", "output": "双层OLED"}
+{"instruction": "哪些产品支持双层OLED？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "哪些产品有双层OLED功能？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "MateBook Fold 非凡大师支持玄武水滴铰链吗？", "output": "玄武水滴铰链"}
+{"instruction": "MateBook Fold 非凡大师有玄武水滴铰链功能吗？", "output": "玄武水滴铰链"}
+{"instruction": "哪些产品支持玄武水滴铰链？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "哪些产品有玄武水滴铰链功能？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "MateBook Fold 非凡大师支持鸿蒙系统吗？", "output": "鸿蒙系统"}
+{"instruction": "MateBook Fold 非凡大师有鸿蒙系统功能吗？", "output": "鸿蒙系统"}
+{"instruction": "哪些产品支持鸿蒙系统？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "哪些产品有鸿蒙系统功能？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "MateBook Fold 非凡大师的屏幕是什么类型？", "output": "双层OLED"}
+{"instruction": "MateBook Fold 非凡大师用的什么屏幕？", "output": "双层OLED"}
+{"instruction": "MateBook Fold 非凡大师在什么价位段？", "output": "12000元以上"}
+{"instruction": "华为12000元以上价位有哪些产品？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "MateBook Fold 非凡大师的售价是多少？", "output": "¥24999"}
+{"instruction": "MateBook Fold 非凡大师多少钱？", "output": "¥24999"}
+{"instruction": "MateBook Fold 非凡大师的产品定位是什么？", "output": "超高端折叠PC"}
+{"instruction": "MateBook Fold 非凡大师主打什么定位？", "output": "超高端折叠PC"}
+{"instruction": "华为超高端折叠PC定位的产品有哪些？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "哪些产品定位为超高端折叠PC？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "MateBook Fold 非凡大师的产品定位是什么？", "output": "革命形态"}
+{"instruction": "MateBook Fold 非凡大师主打什么定位？", "output": "革命形态"}
+{"instruction": "华为革命形态定位的产品有哪些？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "哪些产品定位为革命形态？", "output": "MateBook Fold 非凡大师"}
+{"instruction": "MateBook Pro S属于什么分类？", "output": "MateBook Pro 系列"}
+{"instruction": "MateBook Pro S归属哪个SubSeries？", "output": "MateBook Pro 系列"}
+{"instruction": "MateBook Pro 系列包含哪些产品？", "output": "MateBook Pro S"}
+{"instruction": "MateBook Pro 系列下面有什么？", "output": "MateBook Pro S"}
+{"instruction": "MateBook Pro 系列属于什么分类？", "output": "MateBook Pro 系列"}
+{"instruction": "MateBook Pro 系列归属哪个SubSeries？", "output": "MateBook Pro 系列"}
+{"instruction": "MateBook Pro 系列包含哪些产品？", "output": "MateBook Pro 系列"}
+{"instruction": "MateBook Pro 系列下面有什么？", "output": "MateBook Pro 系列"}
+{"instruction": "MateBook Pro 系列属于什么分类？", "output": "笔记本"}
+{"instruction": "MateBook Pro 系列归属哪个Category？", "output": "笔记本"}
+{"instruction": "笔记本包含哪些产品？", "output": "MateBook Pro 系列"}
+{"instruction": "笔记本下面有什么？", "output": "MateBook Pro 系列"}
+{"instruction": "MateBook Pro S支持798g极致轻吗？", "output": "798g极致轻"}
+{"instruction": "MateBook Pro S有798g极致轻功能吗？", "output": "798g极致轻"}
+{"instruction": "哪些产品支持798g极致轻？", "output": "MateBook Pro S"}
+{"instruction": "哪些产品有798g极致轻功能？", "output": "MateBook Pro S"}
+{"instruction": "MateBook Pro S支持镁锂合金一体吗？", "output": "镁锂合金一体"}
+{"instruction": "MateBook Pro S有镁锂合金一体功能吗？", "output": "镁锂合金一体"}
+{"instruction": "哪些产品支持镁锂合金一体？", "output": "MateBook Pro S"}
+{"instruction": "哪些产品有镁锂合金一体功能？", "output": "MateBook Pro S"}
+{"instruction": "MateBook Pro S支持标准版到14999典藏版吗？", "output": "标准版到14999典藏版"}
+{"instruction": "MateBook Pro S有标准版到14999典藏版功能吗？", "output": "标准版到14999典藏版"}
+{"instruction": "哪些产品支持标准版到14999典藏版？", "output": "MateBook Pro S"}
+{"instruction": "哪些产品有标准版到14999典藏版功能？", "output": "MateBook Pro S"}
+{"instruction": "MateBook Pro S在什么价位段？", "output": "6000-8000元"}
+{"instruction": "华为6000-8000元价位有哪些产品？", "output": "MateBook Pro S"}
+{"instruction": "MateBook Pro S的售价是多少？", "output": "¥7999起"}
+{"instruction": "MateBook Pro S多少钱？", "output": "¥7999起"}
+{"instruction": "MateBook Pro S的产品定位是什么？", "output": "鸿蒙超轻薄本"}
+{"instruction": "MateBook Pro S主打什么定位？", "output": "鸿蒙超轻薄本"}
+{"instruction": "华为鸿蒙超轻薄本定位的产品有哪些？", "output": "MateBook Pro S"}
+{"instruction": "哪些产品定位为鸿蒙超轻薄本？", "output": "MateBook Pro S"}
+{"instruction": "MateBook Pro S的产品定位是什么？", "output": "极致便携"}
+{"instruction": "MateBook Pro S主打什么定位？", "output": "极致便携"}
+{"instruction": "华为极致便携定位的产品有哪些？", "output": "MateBook Pro S"}
+{"instruction": "哪些产品定位为极致便携？", "output": "MateBook Pro S"}
+{"instruction": "MateBook Pro属于什么分类？", "output": "MateBook Pro 系列"}
+{"instruction": "MateBook Pro归属哪个SubSeries？", "output": "MateBook Pro 系列"}
+{"instruction": "MateBook Pro 系列包含哪些产品？", "output": "MateBook Pro"}
+{"instruction": "MateBook Pro 系列下面有什么？", "output": "MateBook Pro"}
+{"instruction": "MateBook Pro支持麒麟X90 Plus吗？", "output": "麒麟X90 Plus"}
+{"instruction": "MateBook Pro有麒麟X90 Plus功能吗？", "output": "麒麟X90 Plus"}
+{"instruction": "哪些产品支持麒麟X90 Plus？", "output": "MateBook Pro"}
+{"instruction": "哪些产品有麒麟X90 Plus功能？", "output": "MateBook Pro"}
+{"instruction": "MateBook Pro支持40W性能释放吗？", "output": "40W性能释放"}
+{"instruction": "MateBook Pro有40W性能释放功能吗？", "output": "40W性能释放"}
+{"instruction": "哪些产品支持40W性能释放？", "output": "MateBook Pro"}
+{"instruction": "哪些产品有40W性能释放功能？", "output": "MateBook Pro"}
+{"instruction": "MateBook Pro有多重？", "output": "970.0g"}
+{"instruction": "MateBook Pro的产品定位是什么？", "output": "鸿蒙超轻薄本"}
+{"instruction": "MateBook Pro主打什么定位？", "output": "鸿蒙超轻薄本"}
+{"instruction": "华为鸿蒙超轻薄本定位的产品有哪些？", "output": "MateBook Pro"}
+{"instruction": "哪些产品定位为鸿蒙超轻薄本？", "output": "MateBook Pro"}
+{"instruction": "MateBook Pro的产品定位是什么？", "output": "全能轻薄"}
+{"instruction": "MateBook Pro主打什么定位？", "output": "全能轻薄"}
+{"instruction": "华为全能轻薄定位的产品有哪些？", "output": "MateBook Pro"}
+{"instruction": "哪些产品定位为全能轻薄？", "output": "MateBook Pro"}
+{"instruction": "MateBook X Pro属于什么分类？", "output": "MateBook X Pro 系列"}
+{"instruction": "MateBook X Pro归属哪个SubSeries？", "output": "MateBook X Pro 系列"}
+{"instruction": "MateBook X Pro 系列包含哪些产品？", "output": "MateBook X Pro"}
+{"instruction": "MateBook X Pro 系列下面有什么？", "output": "MateBook X Pro"}
+{"instruction": "MateBook X Pro 系列属于什么分类？", "output": "MateBook X Pro 系列"}
+{"instruction": "MateBook X Pro 系列归属哪个SubSeries？", "output": "MateBook X Pro 系列"}
+{"instruction": "MateBook X Pro 系列包含哪些产品？", "output": "MateBook X Pro 系列"}
+{"instruction": "MateBook X Pro 系列下面有什么？", "output": "MateBook X Pro 系列"}
+{"instruction": "MateBook X Pro 系列属于什么分类？", "output": "笔记本"}
+{"instruction": "MateBook X Pro 系列归属哪个Category？", "output": "笔记本"}
+{"instruction": "笔记本包含哪些产品？", "output": "MateBook X Pro 系列"}
+{"instruction": "笔记本下面有什么？", "output": "MateBook X Pro 系列"}
+{"instruction": "MateBook X Pro搭载什么芯片？", "output": "酷睿Ultra9"}
+{"instruction": "MateBook X Pro用的什么处理器？", "output": "酷睿Ultra9"}
+{"instruction": "哪些产品搭载酷睿Ultra9？", "output": "MateBook X Pro"}
+{"instruction": "酷睿Ultra9用于哪些产品？", "output": "MateBook X Pro"}
+{"instruction": "MateBook X Pro支持3.1K OLED柔性屏吗？", "output": "3.1K OLED柔性屏"}
+{"instruction": "MateBook X Pro有3.1K OLED柔性屏功能吗？", "output": "3.1K OLED柔性屏"}
+{"instruction": "哪些产品支持3.1K OLED柔性屏？", "output": "MateBook X Pro"}
+{"instruction": "哪些产品有3.1K OLED柔性屏功能？", "output": "MateBook X Pro"}
+{"instruction": "MateBook X Pro支持32GB+2TB吗？", "output": "32GB+2TB"}
+{"instruction": "MateBook X Pro有32GB+2TB功能吗？", "output": "32GB+2TB"}
+{"instruction": "哪些产品支持32GB+2TB？", "output": "MateBook X Pro"}
+{"instruction": "哪些产品有32GB+2TB功能？", "output": "MateBook X Pro"}
+{"instruction": "MateBook X Pro的屏幕是什么类型？", "output": "OLED"}
+{"instruction": "MateBook X Pro用的什么屏幕？", "output": "OLED"}
+{"instruction": "MateBook X Pro支持什么快充？", "output": "140W超级快充"}
+{"instruction": "MateBook X Pro的产品定位是什么？", "output": "Windows旗舰"}
+{"instruction": "MateBook X Pro主打什么定位？", "output": "Windows旗舰"}
+{"instruction": "华为Windows旗舰定位的产品有哪些？", "output": "MateBook X Pro"}
+{"instruction": "哪些产品定位为Windows旗舰？", "output": "MateBook X Pro"}
+{"instruction": "MateBook X Pro的产品定位是什么？", "output": "顶级屏幕"}
+{"instruction": "MateBook X Pro主打什么定位？", "output": "顶级屏幕"}
+{"instruction": "华为顶级屏幕定位的产品有哪些？", "output": "MateBook X Pro"}
+{"instruction": "哪些产品定位为顶级屏幕？", "output": "MateBook X Pro"}
+{"instruction": "MateBook 14 鸿蒙版属于什么分类？", "output": "MateBook 数字系列"}
+{"instruction": "MateBook 14 鸿蒙版归属哪个SubSeries？", "output": "MateBook 数字系列"}
+{"instruction": "MateBook 数字系列包含哪些产品？", "output": "MateBook 14 鸿蒙版"}
+{"instruction": "MateBook 数字系列下面有什么？", "output": "MateBook 14 鸿蒙版"}
+{"instruction": "MateBook 数字系列属于什么分类？", "output": "MateBook 数字系列"}
+{"instruction": "MateBook 数字系列归属哪个SubSeries？", "output": "MateBook 数字系列"}
+{"instruction": "MateBook 数字系列包含哪些产品？", "output": "MateBook 数字系列"}
+{"instruction": "MateBook 数字系列下面有什么？", "output": "MateBook 数字系列"}
+{"instruction": "MateBook 数字系列属于什么分类？", "output": "笔记本"}
+{"instruction": "MateBook 数字系列归属哪个Category？", "output": "笔记本"}
+{"instruction": "笔记本包含哪些产品？", "output": "MateBook 数字系列"}
+{"instruction": "笔记本下面有什么？", "output": "MateBook 数字系列"}
+{"instruction": "MateBook 14 鸿蒙版支持首款数字系列鸿蒙PC吗？", "output": "首款数字系列鸿蒙PC"}
+{"instruction": "MateBook 14 鸿蒙版有首款数字系列鸿蒙PC功能吗？", "output": "首款数字系列鸿蒙PC"}
+{"instruction": "哪些产品支持首款数字系列鸿蒙PC？", "output": "MateBook 14 鸿蒙版"}
+{"instruction": "哪些产品有首款数字系列鸿蒙PC功能？", "output": "MateBook 14 鸿蒙版"}
+{"instruction": "MateBook 14 鸿蒙版在什么价位段？", "output": "6000-8000元"}
+{"instruction": "华为6000-8000元价位有哪些产品？", "output": "MateBook 14 鸿蒙版"}
+{"instruction": "MateBook 14 鸿蒙版的售价是多少？", "output": "¥6599起"}
+{"instruction": "MateBook 14 鸿蒙版多少钱？", "output": "¥6599起"}
+{"instruction": "MateBook 14 鸿蒙版的产品定位是什么？", "output": "均衡轻薄本"}
+{"instruction": "MateBook 14 鸿蒙版主打什么定位？", "output": "均衡轻薄本"}
+{"instruction": "华为均衡轻薄本定位的产品有哪些？", "output": "MateBook 14 鸿蒙版"}
+{"instruction": "哪些产品定位为均衡轻薄本？", "output": "MateBook 14 鸿蒙版"}
+{"instruction": "MateBook 14 鸿蒙版的产品定位是什么？", "output": "鸿蒙入门PC"}
+{"instruction": "MateBook 14 鸿蒙版主打什么定位？", "output": "鸿蒙入门PC"}
+{"instruction": "华为鸿蒙入门PC定位的产品有哪些？", "output": "MateBook 14 鸿蒙版"}
+{"instruction": "哪些产品定位为鸿蒙入门PC？", "output": "MateBook 14 鸿蒙版"}
+{"instruction": "MateBook 14 Linux 版属于什么分类？", "output": "MateBook 数字系列"}
+{"instruction": "MateBook 14 Linux 版归属哪个SubSeries？", "output": "MateBook 数字系列"}
+{"instruction": "MateBook 数字系列包含哪些产品？", "output": "MateBook 14 Linux 版"}
+{"instruction": "MateBook 数字系列下面有什么？", "output": "MateBook 14 Linux 版"}
+{"instruction": "MateBook 14 Linux 版支持1.31kg轻薄吗？", "output": "1.31kg轻薄"}
+{"instruction": "MateBook 14 Linux 版有1.31kg轻薄功能吗？", "output": "1.31kg轻薄"}
+{"instruction": "哪些产品支持1.31kg轻薄？", "output": "MateBook 14 Linux 版"}
+{"instruction": "哪些产品有1.31kg轻薄功能？", "output": "MateBook 14 Linux 版"}
+{"instruction": "MateBook 14 Linux 版的产品定位是什么？", "output": "均衡轻薄本"}
+{"instruction": "MateBook 14 Linux 版主打什么定位？", "output": "均衡轻薄本"}
+{"instruction": "华为均衡轻薄本定位的产品有哪些？", "output": "MateBook 14 Linux 版"}
+{"instruction": "哪些产品定位为均衡轻薄本？", "output": "MateBook 14 Linux 版"}
+{"instruction": "MateBook 14 Linux 版的产品定位是什么？", "output": "开发者友好"}
+{"instruction": "MateBook 14 Linux 版主打什么定位？", "output": "开发者友好"}
+{"instruction": "华为开发者友好定位的产品有哪些？", "output": "MateBook 14 Linux 版"}
+{"instruction": "哪些产品定位为开发者友好？", "output": "MateBook 14 Linux 版"}
+{"instruction": "MateBook D 16 SE属于什么分类？", "output": "MateBook D 系列"}
+{"instruction": "MateBook D 16 SE归属哪个SubSeries？", "output": "MateBook D 系列"}
+{"instruction": "MateBook D 系列包含哪些产品？", "output": "MateBook D 16 SE"}
+{"instruction": "MateBook D 系列下面有什么？", "output": "MateBook D 16 SE"}
+{"instruction": "MateBook D 系列属于什么分类？", "output": "MateBook D 系列"}
+{"instruction": "MateBook D 系列归属哪个SubSeries？", "output": "MateBook D 系列"}
+{"instruction": "MateBook D 系列包含哪些产品？", "output": "MateBook D 系列"}
+{"instruction": "MateBook D 系列下面有什么？", "output": "MateBook D 系列"}
+{"instruction": "MateBook D 系列属于什么分类？", "output": "笔记本"}
+{"instruction": "MateBook D 系列归属哪个Category？", "output": "笔记本"}
+{"instruction": "笔记本包含哪些产品？", "output": "MateBook D 系列"}
+{"instruction": "笔记本下面有什么？", "output": "MateBook D 系列"}
+{"instruction": "MateBook D 16 SE支持16寸护眼屏吗？", "output": "16寸护眼屏"}
+{"instruction": "MateBook D 16 SE有16寸护眼屏功能吗？", "output": "16寸护眼屏"}
+{"instruction": "哪些产品支持16寸护眼屏？", "output": "MateBook D 16 SE"}
+{"instruction": "哪些产品有16寸护眼屏功能？", "output": "MateBook D 16 SE"}
+{"instruction": "MateBook D 16 SE支持数字小键盘吗？", "output": "数字小键盘"}
+{"instruction": "MateBook D 16 SE有数字小键盘功能吗？", "output": "数字小键盘"}
+{"instruction": "哪些产品支持数字小键盘？", "output": "MateBook D 16 SE"}
+{"instruction": "哪些产品有数字小键盘功能？", "output": "MateBook D 16 SE"}
+{"instruction": "MateBook D 16 SE在什么价位段？", "output": "4000-6000元"}
+{"instruction": "华为4000-6000元价位有哪些产品？", "output": "MateBook D 16 SE"}
+{"instruction": "MateBook D 16 SE的售价是多少？", "output": "¥4000-5000"}
+{"instruction": "MateBook D 16 SE多少钱？", "output": "¥4000-5000"}
+{"instruction": "MateBook D 16 SE的产品定位是什么？", "output": "入门轻薄本"}
+{"instruction": "MateBook D 16 SE主打什么定位？", "output": "入门轻薄本"}
+{"instruction": "华为入门轻薄本定位的产品有哪些？", "output": "MateBook D 16 SE"}
+{"instruction": "哪些产品定位为入门轻薄本？", "output": "MateBook D 16 SE"}
+{"instruction": "MateBook D 16 SE的产品定位是什么？", "output": "大屏办公"}
+{"instruction": "MateBook D 16 SE主打什么定位？", "output": "大屏办公"}
+{"instruction": "华为大屏办公定位的产品有哪些？", "output": "MateBook D 16 SE"}
+{"instruction": "哪些产品定位为大屏办公？", "output": "MateBook D 16 SE"}
+{"instruction": "MateBook E / E GO属于什么分类？", "output": "MateBook E 系列"}
+{"instruction": "MateBook E / E GO归属哪个SubSeries？", "output": "MateBook E 系列"}
+{"instruction": "MateBook E 系列包含哪些产品？", "output": "MateBook E / E GO"}
+{"instruction": "MateBook E 系列下面有什么？", "output": "MateBook E / E GO"}
+{"instruction": "MateBook E 系列属于什么分类？", "output": "MateBook E 系列"}
+{"instruction": "MateBook E 系列归属哪个SubSeries？", "output": "MateBook E 系列"}
+{"instruction": "MateBook E 系列包含哪些产品？", "output": "MateBook E 系列"}
+{"instruction": "MateBook E 系列下面有什么？", "output": "MateBook E 系列"}
+{"instruction": "MateBook E 系列属于什么分类？", "output": "笔记本"}
+{"instruction": "MateBook E 系列归属哪个Category？", "output": "笔记本"}
+{"instruction": "笔记本包含哪些产品？", "output": "MateBook E 系列"}
+{"instruction": "笔记本下面有什么？", "output": "MateBook E 系列"}
+{"instruction": "MateBook E / E GO支持可拆卸设计吗？", "output": "可拆卸设计"}
+{"instruction": "MateBook E / E GO有可拆卸设计功能吗？", "output": "可拆卸设计"}
+{"instruction": "哪些产品支持可拆卸设计？", "output": "MateBook E / E GO"}
+{"instruction": "哪些产品有可拆卸设计功能？", "output": "MateBook E / E GO"}
+{"instruction": "MateBook E / E GO支持平板笔记本二合一吗？", "output": "平板笔记本二合一"}
+{"instruction": "MateBook E / E GO有平板笔记本二合一功能吗？", "output": "平板笔记本二合一"}
+{"instruction": "哪些产品支持平板笔记本二合一？", "output": "MateBook E / E GO"}
+{"instruction": "哪些产品有平板笔记本二合一功能？", "output": "MateBook E / E GO"}
+{"instruction": "MateBook E / E GO的产品定位是什么？", "output": "二合一平板PC"}
+{"instruction": "MateBook E / E GO主打什么定位？", "output": "二合一平板PC"}
+{"instruction": "华为二合一平板PC定位的产品有哪些？", "output": "MateBook E / E GO"}
+{"instruction": "哪些产品定位为二合一平板PC？", "output": "MateBook E / E GO"}
+{"instruction": "MateBook E / E GO的产品定位是什么？", "output": "可拆卸"}
+{"instruction": "MateBook E / E GO主打什么定位？", "output": "可拆卸"}
+{"instruction": "华为可拆卸定位的产品有哪些？", "output": "MateBook E / E GO"}
+{"instruction": "哪些产品定位为可拆卸？", "output": "MateBook E / E GO"}
+{"instruction": "WATCH Ultimate 2属于什么分类？", "output": "WATCH Ultimate 系列"}
+{"instruction": "WATCH Ultimate 2归属哪个SubSeries？", "output": "WATCH Ultimate 系列"}
+{"instruction": "WATCH Ultimate 系列包含哪些产品？", "output": "WATCH Ultimate 2"}
+{"instruction": "WATCH Ultimate 系列下面有什么？", "output": "WATCH Ultimate 2"}
+{"instruction": "WATCH Ultimate 系列属于什么分类？", "output": "WATCH Ultimate 系列"}
+{"instruction": "WATCH Ultimate 系列归属哪个SubSeries？", "output": "WATCH Ultimate 系列"}
+{"instruction": "WATCH Ultimate 系列包含哪些产品？", "output": "WATCH Ultimate 系列"}
+{"instruction": "WATCH Ultimate 系列下面有什么？", "output": "WATCH Ultimate 系列"}
+{"instruction": "WATCH Ultimate 系列属于什么分类？", "output": "智能手表"}
+{"instruction": "WATCH Ultimate 系列归属哪个Category？", "output": "智能手表"}
+{"instruction": "智能手表包含哪些产品？", "output": "WATCH Ultimate 系列"}
+{"instruction": "智能手表下面有什么？", "output": "WATCH Ultimate 系列"}
+{"instruction": "智能手表属于什么分类？", "output": "华为"}
+{"instruction": "智能手表归属哪个Company？", "output": "华为"}
+{"instruction": "华为包含哪些产品？", "output": "智能手表"}
+{"instruction": "华为下面有什么？", "output": "智能手表"}
+{"instruction": "WATCH Ultimate 2支持北斗卫星语音消息吗？", "output": "北斗卫星语音消息"}
+{"instruction": "WATCH Ultimate 2有北斗卫星语音消息功能吗？", "output": "北斗卫星语音消息"}
+{"instruction": "哪些产品支持北斗卫星语音消息？", "output": "WATCH Ultimate 2"}
+{"instruction": "哪些产品有北斗卫星语音消息功能？", "output": "WATCH Ultimate 2"}
+{"instruction": "WATCH Ultimate 2支持150米潜水带音频吗？", "output": "150米潜水带音频"}
+{"instruction": "WATCH Ultimate 2有150米潜水带音频功能吗？", "output": "150米潜水带音频"}
+{"instruction": "哪些产品支持150米潜水带音频？", "output": "WATCH Ultimate 2"}
+{"instruction": "哪些产品有150米潜水带音频功能？", "output": "WATCH Ultimate 2"}
+{"instruction": "WATCH Ultimate 2支持水下声呐通信吗？", "output": "水下声呐通信"}
+{"instruction": "WATCH Ultimate 2有水下声呐通信功能吗？", "output": "水下声呐通信"}
+{"instruction": "哪些产品支持水下声呐通信？", "output": "WATCH Ultimate 2"}
+{"instruction": "哪些产品有水下声呐通信功能？", "output": "WATCH Ultimate 2"}
+{"instruction": "WATCH Ultimate 2支持双向北斗卫星吗？", "output": "双向北斗卫星"}
+{"instruction": "WATCH Ultimate 2有双向北斗卫星功能吗？", "output": "双向北斗卫星"}
+{"instruction": "哪些产品支持双向北斗卫星？", "output": "WATCH Ultimate 2"}
+{"instruction": "哪些产品有双向北斗卫星功能？", "output": "WATCH Ultimate 2"}
+{"instruction": "WATCH Ultimate 2支持卫星通信吗？", "output": "卫星通信"}
+{"instruction": "WATCH Ultimate 2有卫星通信功能吗？", "output": "卫星通信"}
+{"instruction": "哪些产品支持卫星通信？", "output": "WATCH Ultimate 2"}
+{"instruction": "哪些产品有卫星通信功能？", "output": "WATCH Ultimate 2"}
+{"instruction": "WATCH Ultimate 2的产品定位是什么？", "output": "户外顶配"}
+{"instruction": "WATCH Ultimate 2主打什么定位？", "output": "户外顶配"}
+{"instruction": "华为户外顶配定位的产品有哪些？", "output": "WATCH Ultimate 2"}
+{"instruction": "哪些产品定位为户外顶配？", "output": "WATCH Ultimate 2"}
+{"instruction": "WATCH Ultimate 2的产品定位是什么？", "output": "探险旗舰"}
+{"instruction": "WATCH Ultimate 2主打什么定位？", "output": "探险旗舰"}
+{"instruction": "华为探险旗舰定位的产品有哪些？", "output": "WATCH Ultimate 2"}
+{"instruction": "哪些产品定位为探险旗舰？", "output": "WATCH Ultimate 2"}
+{"instruction": "ULTIMATE DESIGN 紫金属于什么分类？", "output": "WATCH Ultimate 系列"}
+{"instruction": "ULTIMATE DESIGN 紫金归属哪个SubSeries？", "output": "WATCH Ultimate 系列"}
+{"instruction": "WATCH Ultimate 系列包含哪些产品？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "WATCH Ultimate 系列下面有什么？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "ULTIMATE DESIGN 紫金支持10段18K黄金吗？", "output": "10段18K黄金"}
+{"instruction": "ULTIMATE DESIGN 紫金有10段18K黄金功能吗？", "output": "10段18K黄金"}
+{"instruction": "哪些产品支持10段18K黄金？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "哪些产品有10段18K黄金功能？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "ULTIMATE DESIGN 紫金支持紫色陶瓷表圈吗？", "output": "紫色陶瓷表圈"}
+{"instruction": "ULTIMATE DESIGN 紫金有紫色陶瓷表圈功能吗？", "output": "紫色陶瓷表圈"}
+{"instruction": "哪些产品支持紫色陶瓷表圈？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "哪些产品有紫色陶瓷表圈功能？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "ULTIMATE DESIGN 紫金支持eSIM吗？", "output": "eSIM"}
+{"instruction": "ULTIMATE DESIGN 紫金有eSIM功能吗？", "output": "eSIM"}
+{"instruction": "哪些产品支持eSIM？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "哪些产品有eSIM功能？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "ULTIMATE DESIGN 紫金支持26888最贵华为表吗？", "output": "26888最贵华为表"}
+{"instruction": "ULTIMATE DESIGN 紫金有26888最贵华为表功能吗？", "output": "26888最贵华为表"}
+{"instruction": "哪些产品支持26888最贵华为表？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "哪些产品有26888最贵华为表功能？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "ULTIMATE DESIGN 紫金在什么价位段？", "output": "12000元以上"}
+{"instruction": "华为12000元以上价位有哪些产品？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "ULTIMATE DESIGN 紫金的售价是多少？", "output": "¥26888"}
+{"instruction": "ULTIMATE DESIGN 紫金多少钱？", "output": "¥26888"}
+{"instruction": "ULTIMATE DESIGN 紫金的产品定位是什么？", "output": "奢华腕表"}
+{"instruction": "ULTIMATE DESIGN 紫金主打什么定位？", "output": "奢华腕表"}
+{"instruction": "华为奢华腕表定位的产品有哪些？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "哪些产品定位为奢华腕表？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "ULTIMATE DESIGN 紫金的产品定位是什么？", "output": "珠宝手表"}
+{"instruction": "ULTIMATE DESIGN 紫金主打什么定位？", "output": "珠宝手表"}
+{"instruction": "华为珠宝手表定位的产品有哪些？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "哪些产品定位为珠宝手表？", "output": "ULTIMATE DESIGN 紫金"}
+{"instruction": "ULTIMATE DESIGN 星钻属于什么分类？", "output": "WATCH Ultimate 系列"}
+{"instruction": "ULTIMATE DESIGN 星钻归属哪个SubSeries？", "output": "WATCH Ultimate 系列"}
+{"instruction": "WATCH Ultimate 系列包含哪些产品？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "WATCH Ultimate 系列下面有什么？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "ULTIMATE DESIGN 星钻支持98颗天然钻石吗？", "output": "98颗天然钻石"}
+{"instruction": "ULTIMATE DESIGN 星钻有98颗天然钻石功能吗？", "output": "98颗天然钻石"}
+{"instruction": "哪些产品支持98颗天然钻石？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "哪些产品有98颗天然钻石功能？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "ULTIMATE DESIGN 星钻支持前LV珠宝总监设计吗？", "output": "前LV珠宝总监设计"}
+{"instruction": "ULTIMATE DESIGN 星钻有前LV珠宝总监设计功能吗？", "output": "前LV珠宝总监设计"}
+{"instruction": "哪些产品支持前LV珠宝总监设计？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "哪些产品有前LV珠宝总监设计功能？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "ULTIMATE DESIGN 星钻支持刘雯代言吗？", "output": "刘雯代言"}
+{"instruction": "ULTIMATE DESIGN 星钻有刘雯代言功能吗？", "output": "刘雯代言"}
+{"instruction": "哪些产品支持刘雯代言？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "哪些产品有刘雯代言功能？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "ULTIMATE DESIGN 星钻支持ECG吗？", "output": "ECG"}
+{"instruction": "ULTIMATE DESIGN 星钻有ECG功能吗？", "output": "ECG"}
+{"instruction": "哪些产品支持ECG？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "哪些产品有ECG功能？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "ULTIMATE DESIGN 星钻支持血糖血压评估吗？", "output": "血糖血压评估"}
+{"instruction": "ULTIMATE DESIGN 星钻有血糖血压评估功能吗？", "output": "血糖血压评估"}
+{"instruction": "哪些产品支持血糖血压评估？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "哪些产品有血糖血压评估功能？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "ULTIMATE DESIGN 星钻支持血压监测吗？", "output": "血压监测"}
+{"instruction": "ULTIMATE DESIGN 星钻有血压监测功能吗？", "output": "血压监测"}
+{"instruction": "哪些产品支持血压监测？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "哪些产品有血压监测功能？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "ULTIMATE DESIGN 星钻的产品定位是什么？", "output": "奢华腕表"}
+{"instruction": "ULTIMATE DESIGN 星钻主打什么定位？", "output": "奢华腕表"}
+{"instruction": "华为奢华腕表定位的产品有哪些？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "哪些产品定位为奢华腕表？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "ULTIMATE DESIGN 星钻的产品定位是什么？", "output": "高级珠宝手表"}
+{"instruction": "ULTIMATE DESIGN 星钻主打什么定位？", "output": "高级珠宝手表"}
+{"instruction": "华为高级珠宝手表定位的产品有哪些？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "哪些产品定位为高级珠宝手表？", "output": "ULTIMATE DESIGN 星钻"}
+{"instruction": "WATCH GT 7 Pro 46mm属于什么分类？", "output": "WATCH GT 系列"}
+{"instruction": "WATCH GT 7 Pro 46mm归属哪个SubSeries？", "output": "WATCH GT 系列"}
+{"instruction": "WATCH GT 系列包含哪些产品？", "output": "WATCH GT 7 Pro 46mm"}
+{"instruction": "WATCH GT 系列下面有什么？", "output": "WATCH GT 7 Pro 46mm"}
+{"instruction": "WATCH GT 系列属于什么分类？", "output": "WATCH GT 系列"}
+{"instruction": "WATCH GT 系列归属哪个SubSeries？", "output": "WATCH GT 系列"}
+{"instruction": "WATCH GT 系列包含哪些产品？", "output": "WATCH GT 系列"}
+{"instruction": "WATCH GT 系列下面有什么？", "output": "WATCH GT 系列"}
+{"instruction": "WATCH GT 系列属于什么分类？", "output": "智能手表"}
+{"instruction": "WATCH GT 系列归属哪个Category？", "output": "智能手表"}
+{"instruction": "智能手表包含哪些产品？", "output": "WATCH GT 系列"}
+{"instruction": "智能手表下面有什么？", "output": "WATCH GT 系列"}
+{"instruction": "WATCH GT 7 Pro 46mm支持钛合金+蓝宝石吗？", "output": "钛合金+蓝宝石"}
+{"instruction": "WATCH GT 7 Pro 46mm有钛合金+蓝宝石功能吗？", "output": "钛合金+蓝宝石"}
+{"instruction": "哪些产品支持钛合金+蓝宝石？", "output": "WATCH GT 7 Pro 46mm"}
+{"instruction": "哪些产品有钛合金+蓝宝石功能？", "output": "WATCH GT 7 Pro 46mm"}
+{"instruction": "WATCH GT 7 Pro 46mm支持专业登山潜水模式吗？", "output": "专业登山潜水模式"}
+{"instruction": "WATCH GT 7 Pro 46mm有专业登山潜水模式功能吗？", "output": "专业登山潜水模式"}
+{"instruction": "哪些产品支持专业登山潜水模式？", "output": "WATCH GT 7 Pro 46mm"}
+{"instruction": "哪些产品有专业登山潜水模式功能？", "output": "WATCH GT 7 Pro 46mm"}
+{"instruction": "WATCH GT 7 Pro 46mm在什么价位段？", "output": "2000-4000元"}
+{"instruction": "华为2000-4000元价位有哪些产品？", "output": "WATCH GT 7 Pro 46mm"}
+{"instruction": "WATCH GT 7 Pro 46mm的售价是多少？", "output": "¥2488起"}
+{"instruction": "WATCH GT 7 Pro 46mm多少钱？", "output": "¥2488起"}
+{"instruction": "WATCH GT 7 Pro 46mm的产品定位是什么？", "output": "长续航户外旗舰"}
+{"instruction": "WATCH GT 7 Pro 46mm主打什么定位？", "output": "长续航户外旗舰"}
+{"instruction": "华为长续航户外旗舰定位的产品有哪些？", "output": "WATCH GT 7 Pro 46mm"}
+{"instruction": "哪些产品定位为长续航户外旗舰？", "output": "WATCH GT 7 Pro 46mm"}
+{"instruction": "WATCH GT 7 Pro 46mm的产品定位是什么？", "output": "专业运动"}
+{"instruction": "WATCH GT 7 Pro 46mm主打什么定位？", "output": "专业运动"}
+{"instruction": "华为专业运动定位的产品有哪些？", "output": "WATCH GT 7 Pro 46mm"}
+{"instruction": "哪些产品定位为专业运动？", "output": "WATCH GT 7 Pro 46mm"}
+{"instruction": "WATCH GT 7 46mm属于什么分类？", "output": "WATCH GT 系列"}
+{"instruction": "WATCH GT 7 46mm归属哪个SubSeries？", "output": "WATCH GT 系列"}
+{"instruction": "WATCH GT 系列包含哪些产品？", "output": "WATCH GT 7 46mm"}
+{"instruction": "WATCH GT 系列下面有什么？", "output": "WATCH GT 7 46mm"}
+{"instruction": "WATCH GT 7 46mm支持骑行模拟功率吗？", "output": "骑行模拟功率"}
+{"instruction": "WATCH GT 7 46mm有骑行模拟功率功能吗？", "output": "骑行模拟功率"}
+{"instruction": "哪些产品支持骑行模拟功率？", "output": "WATCH GT 7 46mm"}
+{"instruction": "哪些产品有骑行模拟功率功能？", "output": "WATCH GT 7 46mm"}
+{"instruction": "WATCH GT 7 46mm在什么价位段？", "output": "2000元以下"}
+{"instruction": "华为2000元以下价位有哪些产品？", "output": "WATCH GT 7 46mm"}
+{"instruction": "WATCH GT 7 46mm的售价是多少？", "output": "¥1588起"}
+{"instruction": "WATCH GT 7 46mm多少钱？", "output": "¥1588起"}
+{"instruction": "WATCH GT 7 46mm的产品定位是什么？", "output": "长续航运动"}
+{"instruction": "WATCH GT 7 46mm主打什么定位？", "output": "长续航运动"}
+{"instruction": "华为长续航运动定位的产品有哪些？", "output": "WATCH GT 7 46mm"}
+{"instruction": "哪些产品定位为长续航运动？", "output": "WATCH GT 7 46mm"}
+{"instruction": "WATCH GT 7 46mm的产品定位是什么？", "output": "全能表"}
+{"instruction": "WATCH GT 7 46mm主打什么定位？", "output": "全能表"}
+{"instruction": "华为全能表定位的产品有哪些？", "output": "WATCH GT 7 46mm"}
+{"instruction": "哪些产品定位为全能表？", "output": "WATCH GT 7 46mm"}
+{"instruction": "WATCH GT 7 41mm属于什么分类？", "output": "WATCH GT 系列"}
+{"instruction": "WATCH GT 7 41mm归属哪个SubSeries？", "output": "WATCH GT 系列"}
+{"instruction": "WATCH GT 系列包含哪些产品？", "output": "WATCH GT 7 41mm"}
+{"instruction": "WATCH GT 系列下面有什么？", "output": "WATCH GT 7 41mm"}
+{"instruction": "WATCH GT 7 41mm支持小巧女款吗？", "output": "小巧女款"}
+{"instruction": "WATCH GT 7 41mm有小巧女款功能吗？", "output": "小巧女款"}
+{"instruction": "哪些产品支持小巧女款？", "output": "WATCH GT 7 41mm"}
+{"instruction": "哪些产品有小巧女款功能？", "output": "WATCH GT 7 41mm"}
+{"instruction": "WATCH GT 7 41mm在什么价位段？", "output": "2000元以下"}
+{"instruction": "华为2000元以下价位有哪些产品？", "output": "WATCH GT 7 41mm"}
+{"instruction": "WATCH GT 7 41mm的售价是多少？", "output": "¥1488起"}
+{"instruction": "WATCH GT 7 41mm多少钱？", "output": "¥1488起"}
+{"instruction": "WATCH GT 7 41mm的产品定位是什么？", "output": "长续航运动"}
+{"instruction": "WATCH GT 7 41mm主打什么定位？", "output": "长续航运动"}
+{"instruction": "华为长续航运动定位的产品有哪些？", "output": "WATCH GT 7 41mm"}
+{"instruction": "哪些产品定位为长续航运动？", "output": "WATCH GT 7 41mm"}
+{"instruction": "WATCH GT 7 41mm的产品定位是什么？", "output": "女性向"}
+{"instruction": "WATCH GT 7 41mm主打什么定位？", "output": "女性向"}
+{"instruction": "华为女性向定位的产品有哪些？", "output": "WATCH GT 7 41mm"}
+{"instruction": "哪些产品定位为女性向？", "output": "WATCH GT 7 41mm"}
+{"instruction": "WATCH D2属于什么分类？", "output": "WATCH D 系列"}
+{"instruction": "WATCH D2归属哪个SubSeries？", "output": "WATCH D 系列"}
+{"instruction": "WATCH D 系列包含哪些产品？", "output": "WATCH D2"}
+{"instruction": "WATCH D 系列下面有什么？", "output": "WATCH D2"}
+{"instruction": "WATCH D 系列属于什么分类？", "output": "WATCH D 系列"}
+{"instruction": "WATCH D 系列归属哪个SubSeries？", "output": "WATCH D 系列"}
+{"instruction": "WATCH D 系列包含哪些产品？", "output": "WATCH D 系列"}
+{"instruction": "WATCH D 系列下面有什么？", "output": "WATCH D 系列"}
+{"instruction": "WATCH D 系列属于什么分类？", "output": "智能手表"}
+{"instruction": "WATCH D 系列归属哪个Category？", "output": "智能手表"}
+{"instruction": "智能手表包含哪些产品？", "output": "WATCH D 系列"}
+{"instruction": "智能手表下面有什么？", "output": "WATCH D 系列"}
+{"instruction": "WATCH D2支持医疗级动态血压监测吗？", "output": "医疗级动态血压监测"}
+{"instruction": "WATCH D2有医疗级动态血压监测功能吗？", "output": "医疗级动态血压监测"}
+{"instruction": "哪些产品支持医疗级动态血压监测？", "output": "WATCH D2"}
+{"instruction": "哪些产品有医疗级动态血压监测功能？", "output": "WATCH D2"}
+{"instruction": "WATCH D2支持写入中国高血压防治指南吗？", "output": "写入中国高血压防治指南"}
+{"instruction": "WATCH D2有写入中国高血压防治指南功能吗？", "output": "写入中国高血压防治指南"}
+{"instruction": "哪些产品支持写入中国高血压防治指南？", "output": "WATCH D2"}
+{"instruction": "哪些产品有写入中国高血压防治指南功能？", "output": "WATCH D2"}
+{"instruction": "WATCH D2支持血压监测吗？", "output": "血压监测"}
+{"instruction": "WATCH D2有血压监测功能吗？", "output": "血压监测"}
+{"instruction": "哪些产品支持血压监测？", "output": "WATCH D2"}
+{"instruction": "哪些产品有血压监测功能？", "output": "WATCH D2"}
+{"instruction": "WATCH D2的产品定位是什么？", "output": "健康监测"}
+{"instruction": "WATCH D2主打什么定位？", "output": "健康监测"}
+{"instruction": "华为健康监测定位的产品有哪些？", "output": "WATCH D2"}
+{"instruction": "哪些产品定位为健康监测？", "output": "WATCH D2"}
+{"instruction": "WATCH D2的产品定位是什么？", "output": "医疗级穿戴"}
+{"instruction": "WATCH D2主打什么定位？", "output": "医疗级穿戴"}
+{"instruction": "华为医疗级穿戴定位的产品有哪些？", "output": "WATCH D2"}
+{"instruction": "哪些产品定位为医疗级穿戴？", "output": "WATCH D2"}
+{"instruction": "WATCH Buds 2属于什么分类？", "output": "WATCH Buds 系列"}
+{"instruction": "WATCH Buds 2归属哪个SubSeries？", "output": "WATCH Buds 系列"}
+{"instruction": "WATCH Buds 系列包含哪些产品？", "output": "WATCH Buds 2"}
+{"instruction": "WATCH Buds 系列下面有什么？", "output": "WATCH Buds 2"}
+{"instruction": "WATCH Buds 系列属于什么分类？", "output": "WATCH Buds 系列"}
+{"instruction": "WATCH Buds 系列归属哪个SubSeries？", "output": "WATCH Buds 系列"}
+{"instruction": "WATCH Buds 系列包含哪些产品？", "output": "WATCH Buds 系列"}
+{"instruction": "WATCH Buds 系列下面有什么？", "output": "WATCH Buds 系列"}
+{"instruction": "WATCH Buds 系列属于什么分类？", "output": "智能手表"}
+{"instruction": "WATCH Buds 系列归属哪个Category？", "output": "智能手表"}
+{"instruction": "智能手表包含哪些产品？", "output": "WATCH Buds 系列"}
+{"instruction": "智能手表下面有什么？", "output": "WATCH Buds 系列"}
+{"instruction": "WATCH Buds 2支持手表藏耳机吗？", "output": "手表藏耳机"}
+{"instruction": "WATCH Buds 2有手表藏耳机功能吗？", "output": "手表藏耳机"}
+{"instruction": "哪些产品支持手表藏耳机？", "output": "WATCH Buds 2"}
+{"instruction": "哪些产品有手表藏耳机功能？", "output": "WATCH Buds 2"}
+{"instruction": "WATCH Buds 2支持54.5g钛合金吗？", "output": "54.5g钛合金"}
+{"instruction": "WATCH Buds 2有54.5g钛合金功能吗？", "output": "54.5g钛合金"}
+{"instruction": "哪些产品支持54.5g钛合金？", "output": "WATCH Buds 2"}
+{"instruction": "哪些产品有54.5g钛合金功能？", "output": "WATCH Buds 2"}
+{"instruction": "WATCH Buds 2支持1.5寸LTPO 3000nit吗？", "output": "1.5寸LTPO 3000nit"}
+{"instruction": "WATCH Buds 2有1.5寸LTPO 3000nit功能吗？", "output": "1.5寸LTPO 3000nit"}
+{"instruction": "哪些产品支持1.5寸LTPO 3000nit？", "output": "WATCH Buds 2"}
+{"instruction": "哪些产品有1.5寸LTPO 3000nit功能？", "output": "WATCH Buds 2"}
+{"instruction": "WATCH Buds 2支持耳机4g每只吗？", "output": "耳机4g每只"}
+{"instruction": "WATCH Buds 2有耳机4g每只功能吗？", "output": "耳机4g每只"}
+{"instruction": "哪些产品支持耳机4g每只？", "output": "WATCH Buds 2"}
+{"instruction": "哪些产品有耳机4g每只功能？", "output": "WATCH Buds 2"}
+{"instruction": "WATCH Buds 2支持不分左右耳吗？", "output": "不分左右耳"}
+{"instruction": "WATCH Buds 2有不分左右耳功能吗？", "output": "不分左右耳"}
+{"instruction": "哪些产品支持不分左右耳？", "output": "WATCH Buds 2"}
+{"instruction": "哪些产品有不分左右耳功能？", "output": "WATCH Buds 2"}
+{"instruction": "WATCH Buds 2的屏幕是什么类型？", "output": "LTPO"}
+{"instruction": "WATCH Buds 2用的什么屏幕？", "output": "LTPO"}
+{"instruction": "WATCH Buds 2的产品定位是什么？", "output": "创新形态"}
+{"instruction": "WATCH Buds 2主打什么定位？", "output": "创新形态"}
+{"instruction": "华为创新形态定位的产品有哪些？", "output": "WATCH Buds 2"}
+{"instruction": "哪些产品定位为创新形态？", "output": "WATCH Buds 2"}
+{"instruction": "WATCH Buds 2的产品定位是什么？", "output": "二合一穿戴"}
+{"instruction": "WATCH Buds 2主打什么定位？", "output": "二合一穿戴"}
+{"instruction": "华为二合一穿戴定位的产品有哪些？", "output": "WATCH Buds 2"}
+{"instruction": "哪些产品定位为二合一穿戴？", "output": "WATCH Buds 2"}
+{"instruction": "WATCH FIT 5 Pro属于什么分类？", "output": "WATCH FIT 系列"}
+{"instruction": "WATCH FIT 5 Pro归属哪个SubSeries？", "output": "WATCH FIT 系列"}
+{"instruction": "WATCH FIT 系列包含哪些产品？", "output": "WATCH FIT 5 Pro"}
+{"instruction": "WATCH FIT 系列下面有什么？", "output": "WATCH FIT 5 Pro"}
+{"instruction": "WATCH FIT 系列属于什么分类？", "output": "WATCH FIT 系列"}
+{"instruction": "WATCH FIT 系列归属哪个SubSeries？", "output": "WATCH FIT 系列"}
+{"instruction": "WATCH FIT 系列包含哪些产品？", "output": "WATCH FIT 系列"}
+{"instruction": "WATCH FIT 系列下面有什么？", "output": "WATCH FIT 系列"}
+{"instruction": "WATCH FIT 系列属于什么分类？", "output": "智能手表"}
+{"instruction": "WATCH FIT 系列归属哪个Category？", "output": "智能手表"}
+{"instruction": "智能手表包含哪些产品？", "output": "WATCH FIT 系列"}
+{"instruction": "智能手表下面有什么？", "output": "WATCH FIT 系列"}
+{"instruction": "WATCH FIT 5 Pro支持1.92寸LTPO吗？", "output": "1.92寸LTPO"}
+{"instruction": "WATCH FIT 5 Pro有1.92寸LTPO功能吗？", "output": "1.92寸LTPO"}
+{"instruction": "哪些产品支持1.92寸LTPO？", "output": "WATCH FIT 5 Pro"}
+{"instruction": "哪些产品有1.92寸LTPO功能？", "output": "WATCH FIT 5 Pro"}
+{"instruction": "WATCH FIT 5 Pro支持ECG吗？", "output": "ECG"}
+{"instruction": "WATCH FIT 5 Pro有ECG功能吗？", "output": "ECG"}
+{"instruction": "哪些产品支持ECG？", "output": "WATCH FIT 5 Pro"}
+{"instruction": "哪些产品有ECG功能？", "output": "WATCH FIT 5 Pro"}
+{"instruction": "WATCH FIT 5 Pro支持血糖风险评估吗？", "output": "血糖风险评估"}
+{"instruction": "WATCH FIT 5 Pro有血糖风险评估功能吗？", "output": "血糖风险评估"}
+{"instruction": "哪些产品支持血糖风险评估？", "output": "WATCH FIT 5 Pro"}
+{"instruction": "哪些产品有血糖风险评估功能？", "output": "WATCH FIT 5 Pro"}
+{"instruction": "WATCH FIT 5 Pro的屏幕是什么类型？", "output": "LTPO"}
+{"instruction": "WATCH FIT 5 Pro用的什么屏幕？", "output": "LTPO"}
+{"instruction": "WATCH FIT 5 Pro的产品定位是什么？", "output": "时尚轻量"}
+{"instruction": "WATCH FIT 5 Pro主打什么定位？", "output": "时尚轻量"}
+{"instruction": "华为时尚轻量定位的产品有哪些？", "output": "WATCH FIT 5 Pro"}
+{"instruction": "哪些产品定位为时尚轻量？", "output": "WATCH FIT 5 Pro"}
+{"instruction": "WATCH FIT 5 Pro的产品定位是什么？", "output": "全功能轻量"}
+{"instruction": "WATCH FIT 5 Pro主打什么定位？", "output": "全功能轻量"}
+{"instruction": "华为全功能轻量定位的产品有哪些？", "output": "WATCH FIT 5 Pro"}
+{"instruction": "哪些产品定位为全功能轻量？", "output": "WATCH FIT 5 Pro"}
+{"instruction": "WATCH FIT 5属于什么分类？", "output": "WATCH FIT 系列"}
+{"instruction": "WATCH FIT 5归属哪个SubSeries？", "output": "WATCH FIT 系列"}
+{"instruction": "WATCH FIT 系列包含哪些产品？", "output": "WATCH FIT 5"}
+{"instruction": "WATCH FIT 系列下面有什么？", "output": "WATCH FIT 5"}
+{"instruction": "WATCH FIT 5支持27g极致轻吗？", "output": "27g极致轻"}
+{"instruction": "WATCH FIT 5有27g极致轻功能吗？", "output": "27g极致轻"}
+{"instruction": "哪些产品支持27g极致轻？", "output": "WATCH FIT 5"}
+{"instruction": "哪些产品有27g极致轻功能？", "output": "WATCH FIT 5"}
+{"instruction": "WATCH FIT 5的产品定位是什么？", "output": "时尚轻量"}
+{"instruction": "WATCH FIT 5主打什么定位？", "output": "时尚轻量"}
+{"instruction": "华为时尚轻量定位的产品有哪些？", "output": "WATCH FIT 5"}
+{"instruction": "哪些产品定位为时尚轻量？", "output": "WATCH FIT 5"}
+{"instruction": "WATCH FIT 5的产品定位是什么？", "output": "潮流轻便"}
+{"instruction": "WATCH FIT 5主打什么定位？", "output": "潮流轻便"}
+{"instruction": "华为潮流轻便定位的产品有哪些？", "output": "WATCH FIT 5"}
+{"instruction": "哪些产品定位为潮流轻便？", "output": "WATCH FIT 5"}
+{"instruction": "WATCH GT Runner 2属于什么分类？", "output": "WATCH GT Runner 系列"}
+{"instruction": "WATCH GT Runner 2归属哪个SubSeries？", "output": "WATCH GT Runner 系列"}
+{"instruction": "WATCH GT Runner 系列包含哪些产品？", "output": "WATCH GT Runner 2"}
+{"instruction": "WATCH GT Runner 系列下面有什么？", "output": "WATCH GT Runner 2"}
+{"instruction": "WATCH GT Runner 系列属于什么分类？", "output": "WATCH GT Runner 系列"}
+{"instruction": "WATCH GT Runner 系列归属哪个SubSeries？", "output": "WATCH GT Runner 系列"}
+{"instruction": "WATCH GT Runner 系列包含哪些产品？", "output": "WATCH GT Runner 系列"}
+{"instruction": "WATCH GT Runner 系列下面有什么？", "output": "WATCH GT Runner 系列"}
+{"instruction": "WATCH GT Runner 系列属于什么分类？", "output": "智能手表"}
+{"instruction": "WATCH GT Runner 系列归属哪个Category？", "output": "智能手表"}
+{"instruction": "智能手表包含哪些产品？", "output": "WATCH GT Runner 系列"}
+{"instruction": "智能手表下面有什么？", "output": "WATCH GT Runner 系列"}
+{"instruction": "WATCH GT Runner 2支持轻量化吗？", "output": "轻量化"}
+{"instruction": "WATCH GT Runner 2有轻量化功能吗？", "output": "轻量化"}
+{"instruction": "哪些产品支持轻量化？", "output": "WATCH GT Runner 2"}
+{"instruction": "哪些产品有轻量化功能？", "output": "WATCH GT Runner 2"}
+{"instruction": "WATCH GT Runner 2支持专业跑步指标吗？", "output": "专业跑步指标"}
+{"instruction": "WATCH GT Runner 2有专业跑步指标功能吗？", "output": "专业跑步指标"}
+{"instruction": "哪些产品支持专业跑步指标？", "output": "WATCH GT Runner 2"}
+{"instruction": "哪些产品有专业跑步指标功能？", "output": "WATCH GT Runner 2"}
+{"instruction": "WATCH GT Runner 2的产品定位是什么？", "output": "专业跑步"}
+{"instruction": "WATCH GT Runner 2主打什么定位？", "output": "专业跑步"}
+{"instruction": "华为专业跑步定位的产品有哪些？", "output": "WATCH GT Runner 2"}
+{"instruction": "哪些产品定位为专业跑步？", "output": "WATCH GT Runner 2"}
+{"instruction": "WATCH GT Runner 2的产品定位是什么？", "output": "轻量运动"}
+{"instruction": "WATCH GT Runner 2主打什么定位？", "output": "轻量运动"}
+{"instruction": "华为轻量运动定位的产品有哪些？", "output": "WATCH GT Runner 2"}
+{"instruction": "哪些产品定位为轻量运动？", "output": "WATCH GT Runner 2"}
+{"instruction": "华为手环 11属于什么分类？", "output": "手环系列"}
+{"instruction": "华为手环 11归属哪个SubSeries？", "output": "手环系列"}
+{"instruction": "手环系列包含哪些产品？", "output": "华为手环 11"}
+{"instruction": "手环系列下面有什么？", "output": "华为手环 11"}
+{"instruction": "手环系列属于什么分类？", "output": "手环系列"}
+{"instruction": "手环系列归属哪个SubSeries？", "output": "手环系列"}
+{"instruction": "手环系列包含哪些产品？", "output": "手环系列"}
+{"instruction": "手环系列下面有什么？", "output": "手环系列"}
+{"instruction": "手环系列属于什么分类？", "output": "智能手表"}
+{"instruction": "手环系列归属哪个Category？", "output": "智能手表"}
+{"instruction": "智能手表包含哪些产品？", "output": "手环系列"}
+{"instruction": "智能手表下面有什么？", "output": "手环系列"}
+{"instruction": "华为手环 11支持入门健康监测吗？", "output": "入门健康监测"}
+{"instruction": "华为手环 11有入门健康监测功能吗？", "output": "入门健康监测"}
+{"instruction": "哪些产品支持入门健康监测？", "output": "华为手环 11"}
+{"instruction": "哪些产品有入门健康监测功能？", "output": "华为手环 11"}
+{"instruction": "华为手环 11的产品定位是什么？", "output": "入门穿戴"}
+{"instruction": "华为手环 11主打什么定位？", "output": "入门穿戴"}
+{"instruction": "华为入门穿戴定位的产品有哪些？", "output": "华为手环 11"}
+{"instruction": "哪些产品定位为入门穿戴？", "output": "华为手环 11"}
+{"instruction": "华为手环 11的产品定位是什么？", "output": "基础健康"}
+{"instruction": "华为手环 11主打什么定位？", "output": "基础健康"}
+{"instruction": "华为基础健康定位的产品有哪些？", "output": "华为手环 11"}
+{"instruction": "哪些产品定位为基础健康？", "output": "华为手环 11"}
+{"instruction": "FreeBuds Pro 5 悦彰属于什么分类？", "output": "FreeBuds Pro 系列"}
+{"instruction": "FreeBuds Pro 5 悦彰归属哪个SubSeries？", "output": "FreeBuds Pro 系列"}
+{"instruction": "FreeBuds Pro 系列包含哪些产品？", "output": "FreeBuds Pro 5 悦彰"}
+{"instruction": "FreeBuds Pro 系列下面有什么？", "output": "FreeBuds Pro 5 悦彰"}
+{"instruction": "FreeBuds Pro 系列属于什么分类？", "output": "FreeBuds Pro 系列"}
+{"instruction": "FreeBuds Pro 系列归属哪个SubSeries？", "output": "FreeBuds Pro 系列"}
+{"instruction": "FreeBuds Pro 系列包含哪些产品？", "output": "FreeBuds Pro 系列"}
+{"instruction": "FreeBuds Pro 系列下面有什么？", "output": "FreeBuds Pro 系列"}
+{"instruction": "FreeBuds Pro 系列属于什么分类？", "output": "耳机"}
+{"instruction": "FreeBuds Pro 系列归属哪个Category？", "output": "耳机"}
+{"instruction": "耳机包含哪些产品？", "output": "FreeBuds Pro 系列"}
+{"instruction": "耳机下面有什么？", "output": "FreeBuds Pro 系列"}
+{"instruction": "耳机属于什么分类？", "output": "华为"}
+{"instruction": "耳机归属哪个Company？", "output": "华为"}
+{"instruction": "华为包含哪些产品？", "output": "耳机"}
+{"instruction": "华为下面有什么？", "output": "耳机"}
+{"instruction": "FreeBuds Pro 5 悦彰的产品定位是什么？", "output": "旗舰入耳降噪"}
+{"instruction": "FreeBuds Pro 5 悦彰主打什么定位？", "output": "旗舰入耳降噪"}
+{"instruction": "华为旗舰入耳降噪定位的产品有哪些？", "output": "FreeBuds Pro 5 悦彰"}
+{"instruction": "哪些产品定位为旗舰入耳降噪？", "output": "FreeBuds Pro 5 悦彰"}
+{"instruction": "FreeBuds Pro 5 悦彰的产品定位是什么？", "output": "音质旗舰"}
+{"instruction": "FreeBuds Pro 5 悦彰主打什么定位？", "output": "音质旗舰"}
+{"instruction": "华为音质旗舰定位的产品有哪些？", "output": "FreeBuds Pro 5 悦彰"}
+{"instruction": "哪些产品定位为音质旗舰？", "output": "FreeBuds Pro 5 悦彰"}
+{"instruction": "FreeBuds Pro 5 悦彰是哪一年发布的？", "output": "2025年"}
+{"instruction": "FreeBuds 7i属于什么分类？", "output": "FreeBuds 数字系列"}
+{"instruction": "FreeBuds 7i归属哪个SubSeries？", "output": "FreeBuds 数字系列"}
+{"instruction": "FreeBuds 数字系列包含哪些产品？", "output": "FreeBuds 7i"}
+{"instruction": "FreeBuds 数字系列下面有什么？", "output": "FreeBuds 7i"}
+{"instruction": "FreeBuds 数字系列属于什么分类？", "output": "FreeBuds 数字系列"}
+{"instruction": "FreeBuds 数字系列归属哪个SubSeries？", "output": "FreeBuds 数字系列"}
+{"instruction": "FreeBuds 数字系列包含哪些产品？", "output": "FreeBuds 数字系列"}
+{"instruction": "FreeBuds 数字系列下面有什么？", "output": "FreeBuds 数字系列"}
+{"instruction": "FreeBuds 数字系列属于什么分类？", "output": "耳机"}
+{"instruction": "FreeBuds 数字系列归属哪个Category？", "output": "耳机"}
+{"instruction": "耳机包含哪些产品？", "output": "FreeBuds 数字系列"}
+{"instruction": "耳机下面有什么？", "output": "FreeBuds 数字系列"}
+{"instruction": "FreeBuds 7i支持海外主打款吗？", "output": "海外主打款"}
+{"instruction": "FreeBuds 7i有海外主打款功能吗？", "output": "海外主打款"}
+{"instruction": "哪些产品支持海外主打款？", "output": "FreeBuds 7i"}
+{"instruction": "哪些产品有海外主打款功能？", "output": "FreeBuds 7i"}
+{"instruction": "FreeBuds 7i的产品定位是什么？", "output": "半开放"}
+{"instruction": "FreeBuds 7i主打什么定位？", "output": "半开放"}
+{"instruction": "华为半开放定位的产品有哪些？", "output": "FreeBuds 7i"}
+{"instruction": "哪些产品定位为半开放？", "output": "FreeBuds 7i"}
+{"instruction": "FreeBuds 7i的产品定位是什么？", "output": "海外主力"}
+{"instruction": "FreeBuds 7i主打什么定位？", "output": "海外主力"}
+{"instruction": "华为海外主力定位的产品有哪些？", "output": "FreeBuds 7i"}
+{"instruction": "哪些产品定位为海外主力？", "output": "FreeBuds 7i"}
+{"instruction": "FreeBuds 6属于什么分类？", "output": "FreeBuds 数字系列"}
+{"instruction": "FreeBuds 6归属哪个SubSeries？", "output": "FreeBuds 数字系列"}
+{"instruction": "FreeBuds 数字系列包含哪些产品？", "output": "FreeBuds 6"}
+{"instruction": "FreeBuds 数字系列下面有什么？", "output": "FreeBuds 6"}
+{"instruction": "FreeBuds 6支持首款半开放悦彰吗？", "output": "首款半开放悦彰"}
+{"instruction": "FreeBuds 6有首款半开放悦彰功能吗？", "output": "首款半开放悦彰"}
+{"instruction": "哪些产品支持首款半开放悦彰？", "output": "FreeBuds 6"}
+{"instruction": "哪些产品有首款半开放悦彰功能？", "output": "FreeBuds 6"}
+{"instruction": "FreeBuds 6支持11mm动圈+微平板吗？", "output": "11mm动圈+微平板"}
+{"instruction": "FreeBuds 6有11mm动圈+微平板功能吗？", "output": "11mm动圈+微平板"}
+{"instruction": "哪些产品支持11mm动圈+微平板？", "output": "FreeBuds 6"}
+{"instruction": "哪些产品有11mm动圈+微平板功能？", "output": "FreeBuds 6"}
+{"instruction": "FreeBuds 6支持2.3Mbps无损传输吗？", "output": "2.3Mbps无损传输"}
+{"instruction": "FreeBuds 6有2.3Mbps无损传输功能吗？", "output": "2.3Mbps无损传输"}
+{"instruction": "哪些产品支持2.3Mbps无损传输？", "output": "FreeBuds 6"}
+{"instruction": "哪些产品有2.3Mbps无损传输功能？", "output": "FreeBuds 6"}
+{"instruction": "FreeBuds 6的产品定位是什么？", "output": "半开放旗舰"}
+{"instruction": "FreeBuds 6主打什么定位？", "output": "半开放旗舰"}
+{"instruction": "华为半开放旗舰定位的产品有哪些？", "output": "FreeBuds 6"}
+{"instruction": "哪些产品定位为半开放旗舰？", "output": "FreeBuds 6"}
+{"instruction": "FreeBuds 6的产品定位是什么？", "output": "音质半开放"}
+{"instruction": "FreeBuds 6主打什么定位？", "output": "音质半开放"}
+{"instruction": "华为音质半开放定位的产品有哪些？", "output": "FreeBuds 6"}
+{"instruction": "哪些产品定位为音质半开放？", "output": "FreeBuds 6"}
+{"instruction": "FreeClip 2属于什么分类？", "output": "FreeClip 系列"}
+{"instruction": "FreeClip 2归属哪个SubSeries？", "output": "FreeClip 系列"}
+{"instruction": "FreeClip 系列包含哪些产品？", "output": "FreeClip 2"}
+{"instruction": "FreeClip 系列下面有什么？", "output": "FreeClip 2"}
+{"instruction": "FreeClip 系列属于什么分类？", "output": "FreeClip 系列"}
+{"instruction": "FreeClip 系列归属哪个SubSeries？", "output": "FreeClip 系列"}
+{"instruction": "FreeClip 系列包含哪些产品？", "output": "FreeClip 系列"}
+{"instruction": "FreeClip 系列下面有什么？", "output": "FreeClip 系列"}
+{"instruction": "FreeClip 系列属于什么分类？", "output": "耳机"}
+{"instruction": "FreeClip 系列归属哪个Category？", "output": "耳机"}
+{"instruction": "耳机包含哪些产品？", "output": "FreeClip 系列"}
+{"instruction": "耳机下面有什么？", "output": "FreeClip 系列"}
+{"instruction": "FreeClip 2支持不塞耳朵吗？", "output": "不塞耳朵"}
+{"instruction": "FreeClip 2有不塞耳朵功能吗？", "output": "不塞耳朵"}
+{"instruction": "哪些产品支持不塞耳朵？", "output": "FreeClip 2"}
+{"instruction": "哪些产品有不塞耳朵功能？", "output": "FreeClip 2"}
+{"instruction": "FreeClip 2支持5.1g极致轻吗？", "output": "5.1g极致轻"}
+{"instruction": "FreeClip 2有5.1g极致轻功能吗？", "output": "5.1g极致轻"}
+{"instruction": "哪些产品支持5.1g极致轻？", "output": "FreeClip 2"}
+{"instruction": "哪些产品有5.1g极致轻功能？", "output": "FreeClip 2"}
+{"instruction": "FreeClip 2支持AI算力提升10倍吗？", "output": "AI算力提升10倍"}
+{"instruction": "FreeClip 2有AI算力提升10倍功能吗？", "output": "AI算力提升10倍"}
+{"instruction": "哪些产品支持AI算力提升10倍？", "output": "FreeClip 2"}
+{"instruction": "哪些产品有AI算力提升10倍功能？", "output": "FreeClip 2"}
+{"instruction": "FreeClip 2支持AI翻译吗？", "output": "AI翻译"}
+{"instruction": "FreeClip 2有AI翻译功能吗？", "output": "AI翻译"}
+{"instruction": "哪些产品支持AI翻译？", "output": "FreeClip 2"}
+{"instruction": "哪些产品有AI翻译功能？", "output": "FreeClip 2"}
+{"instruction": "FreeClip 2支持38小时总续航吗？", "output": "38小时总续航"}
+{"instruction": "FreeClip 2有38小时总续航功能吗？", "output": "38小时总续航"}
+{"instruction": "哪些产品支持38小时总续航？", "output": "FreeClip 2"}
+{"instruction": "哪些产品有38小时总续航功能？", "output": "FreeClip 2"}
+{"instruction": "FreeClip 2在什么价位段？", "output": "2000元以下"}
+{"instruction": "华为2000元以下价位有哪些产品？", "output": "FreeClip 2"}
+{"instruction": "FreeClip 2的售价是多少？", "output": "¥1299"}
+{"instruction": "FreeClip 2多少钱？", "output": "¥1299"}
+{"instruction": "FreeClip 2的产品定位是什么？", "output": "耳夹开放式"}
+{"instruction": "FreeClip 2主打什么定位？", "output": "耳夹开放式"}
+{"instruction": "华为耳夹开放式定位的产品有哪些？", "output": "FreeClip 2"}
+{"instruction": "哪些产品定位为耳夹开放式？", "output": "FreeClip 2"}
+{"instruction": "FreeClip 2的产品定位是什么？", "output": "潮流穿戴"}
+{"instruction": "FreeClip 2主打什么定位？", "output": "潮流穿戴"}
+{"instruction": "华为潮流穿戴定位的产品有哪些？", "output": "FreeClip 2"}
+{"instruction": "哪些产品定位为潮流穿戴？", "output": "FreeClip 2"}
+{"instruction": "Sound X5 悦彰属于什么分类？", "output": "Sound 系列"}
+{"instruction": "Sound X5 悦彰归属哪个SubSeries？", "output": "Sound 系列"}
+{"instruction": "Sound 系列包含哪些产品？", "output": "Sound X5 悦彰"}
+{"instruction": "Sound 系列下面有什么？", "output": "Sound X5 悦彰"}
+{"instruction": "Sound 系列属于什么分类？", "output": "Sound 系列"}
+{"instruction": "Sound 系列归属哪个SubSeries？", "output": "Sound 系列"}
+{"instruction": "Sound 系列包含哪些产品？", "output": "Sound 系列"}
+{"instruction": "Sound 系列下面有什么？", "output": "Sound 系列"}
+{"instruction": "Sound 系列属于什么分类？", "output": "音箱"}
+{"instruction": "Sound 系列归属哪个Category？", "output": "音箱"}
+{"instruction": "音箱包含哪些产品？", "output": "Sound 系列"}
+{"instruction": "音箱下面有什么？", "output": "Sound 系列"}
+{"instruction": "音箱属于什么分类？", "output": "华为"}
+{"instruction": "音箱归属哪个Company？", "output": "华为"}
+{"instruction": "华为包含哪些产品？", "output": "音箱"}
+{"instruction": "华为下面有什么？", "output": "音箱"}
+{"instruction": "Sound X5 悦彰支持帝瓦雷联合调音吗？", "output": "帝瓦雷联合调音"}
+{"instruction": "Sound X5 悦彰有帝瓦雷联合调音功能吗？", "output": "帝瓦雷联合调音"}
+{"instruction": "哪些产品支持帝瓦雷联合调音？", "output": "Sound X5 悦彰"}
+{"instruction": "哪些产品有帝瓦雷联合调音功能？", "output": "Sound X5 悦彰"}
+{"instruction": "Sound X5 悦彰支持发布会音响担当吗？", "output": "发布会音响担当"}
+{"instruction": "Sound X5 悦彰有发布会音响担当功能吗？", "output": "发布会音响担当"}
+{"instruction": "哪些产品支持发布会音响担当？", "output": "Sound X5 悦彰"}
+{"instruction": "哪些产品有发布会音响担当功能？", "output": "Sound X5 悦彰"}
+{"instruction": "Sound X5 悦彰的产品定位是什么？", "output": "旗舰智能音箱"}
+{"instruction": "Sound X5 悦彰主打什么定位？", "output": "旗舰智能音箱"}
+{"instruction": "华为旗舰智能音箱定位的产品有哪些？", "output": "Sound X5 悦彰"}
+{"instruction": "哪些产品定位为旗舰智能音箱？", "output": "Sound X5 悦彰"}
+{"instruction": "Sound X5 悦彰的产品定位是什么？", "output": "HiFi音箱"}
+{"instruction": "Sound X5 悦彰主打什么定位？", "output": "HiFi音箱"}
+{"instruction": "华为HiFi音箱定位的产品有哪些？", "output": "Sound X5 悦彰"}
+{"instruction": "哪些产品定位为HiFi音箱？", "output": "Sound X5 悦彰"}
+{"instruction": "Sound Joy 系列属于什么分类？", "output": "Sound Joy 系列"}
+{"instruction": "Sound Joy 系列归属哪个SubSeries？", "output": "Sound Joy 系列"}
+{"instruction": "Sound Joy 系列包含哪些产品？", "output": "Sound Joy 系列"}
+{"instruction": "Sound Joy 系列下面有什么？", "output": "Sound Joy 系列"}
+{"instruction": "Sound Joy 系列属于什么分类？", "output": "音箱"}
+{"instruction": "Sound Joy 系列归属哪个Category？", "output": "音箱"}
+{"instruction": "音箱包含哪些产品？", "output": "Sound Joy 系列"}
+{"instruction": "音箱下面有什么？", "output": "Sound Joy 系列"}
+{"instruction": "Sound Joy 系列支持便携蓝牙吗？", "output": "便携蓝牙"}
+{"instruction": "Sound Joy 系列有便携蓝牙功能吗？", "output": "便携蓝牙"}
+{"instruction": "哪些产品支持便携蓝牙？", "output": "Sound Joy 系列"}
+{"instruction": "哪些产品有便携蓝牙功能？", "output": "Sound Joy 系列"}
+{"instruction": "Sound Joy 系列支持户外用吗？", "output": "户外用"}
+{"instruction": "Sound Joy 系列有户外用功能吗？", "output": "户外用"}
+{"instruction": "哪些产品支持户外用？", "output": "Sound Joy 系列"}
+{"instruction": "哪些产品有户外用功能？", "output": "Sound Joy 系列"}
+{"instruction": "Sound Joy 系列的产品定位是什么？", "output": "便携蓝牙音箱"}
+{"instruction": "Sound Joy 系列主打什么定位？", "output": "便携蓝牙音箱"}
+{"instruction": "华为便携蓝牙音箱定位的产品有哪些？", "output": "Sound Joy 系列"}
+{"instruction": "哪些产品定位为便携蓝牙音箱？", "output": "Sound Joy 系列"}
+{"instruction": "Sound Joy 系列的产品定位是什么？", "output": "户外音乐"}
+{"instruction": "Sound Joy 系列主打什么定位？", "output": "户外音乐"}
+{"instruction": "华为户外音乐定位的产品有哪些？", "output": "Sound Joy 系列"}
+{"instruction": "哪些产品定位为户外音乐？", "output": "Sound Joy 系列"}
+{"instruction": "MateTV Max属于什么分类？", "output": "Vision 系列"}
+{"instruction": "MateTV Max归属哪个SubSeries？", "output": "Vision 系列"}
+{"instruction": "Vision 系列包含哪些产品？", "output": "MateTV Max"}
+{"instruction": "Vision 系列下面有什么？", "output": "MateTV Max"}
+{"instruction": "Vision 系列属于什么分类？", "output": "Vision 系列"}
+{"instruction": "Vision 系列归属哪个SubSeries？", "output": "Vision 系列"}
+{"instruction": "Vision 系列包含哪些产品？", "output": "Vision 系列"}
+{"instruction": "Vision 系列下面有什么？", "output": "Vision 系列"}
+{"instruction": "Vision 系列属于什么分类？", "output": "智慧屏"}
+{"instruction": "Vision 系列归属哪个Category？", "output": "智慧屏"}
+{"instruction": "智慧屏包含哪些产品？", "output": "Vision 系列"}
+{"instruction": "智慧屏下面有什么？", "output": "Vision 系列"}
+{"instruction": "智慧屏属于什么分类？", "output": "华为"}
+{"instruction": "智慧屏归属哪个Company？", "output": "华为"}
+{"instruction": "华为包含哪些产品？", "output": "智慧屏"}
+{"instruction": "华为下面有什么？", "output": "智慧屏"}
+{"instruction": "MateTV Max支持110寸巨幕吗？", "output": "110寸巨幕"}
+{"instruction": "MateTV Max有110寸巨幕功能吗？", "output": "110寸巨幕"}
+{"instruction": "哪些产品支持110寸巨幕？", "output": "MateTV Max"}
+{"instruction": "哪些产品有110寸巨幕功能？", "output": "MateTV Max"}
+{"instruction": "MateTV Max支持史上最大Mate吗？", "output": "史上最大Mate"}
+{"instruction": "MateTV Max有史上最大Mate功能吗？", "output": "史上最大Mate"}
+{"instruction": "哪些产品支持史上最大Mate？", "output": "MateTV Max"}
+{"instruction": "哪些产品有史上最大Mate功能？", "output": "MateTV Max"}
+{"instruction": "MateTV Max支持64999最贵华为屏吗？", "output": "64999最贵华为屏"}
+{"instruction": "MateTV Max有64999最贵华为屏功能吗？", "output": "64999最贵华为屏"}
+{"instruction": "哪些产品支持64999最贵华为屏？", "output": "MateTV Max"}
+{"instruction": "哪些产品有64999最贵华为屏功能？", "output": "MateTV Max"}
+{"instruction": "MateTV Max在什么价位段？", "output": "12000元以上"}
+{"instruction": "华为12000元以上价位有哪些产品？", "output": "MateTV Max"}
+{"instruction": "MateTV Max的售价是多少？", "output": "¥64999"}
+{"instruction": "MateTV Max多少钱？", "output": "¥64999"}
+{"instruction": "MateTV Max的产品定位是什么？", "output": "巨幕旗舰"}
+{"instruction": "MateTV Max主打什么定位？", "output": "巨幕旗舰"}
+{"instruction": "华为巨幕旗舰定位的产品有哪些？", "output": "MateTV Max"}
+{"instruction": "哪些产品定位为巨幕旗舰？", "output": "MateTV Max"}
+{"instruction": "MateTV Max的产品定位是什么？", "output": "家庭影院"}
+{"instruction": "MateTV Max主打什么定位？", "output": "家庭影院"}
+{"instruction": "华为家庭影院定位的产品有哪些？", "output": "MateTV Max"}
+{"instruction": "哪些产品定位为家庭影院？", "output": "MateTV Max"}
+{"instruction": "Vision 智慧屏 6 Pro属于什么分类？", "output": "Vision 系列"}
+{"instruction": "Vision 智慧屏 6 Pro归属哪个SubSeries？", "output": "Vision 系列"}
+{"instruction": "Vision 系列包含哪些产品？", "output": "Vision 智慧屏 6 Pro"}
+{"instruction": "Vision 系列下面有什么？", "output": "Vision 智慧屏 6 Pro"}
+{"instruction": "Vision 智慧屏 6 Pro支持Super MiniLED黑晶屏吗？", "output": "Super MiniLED黑晶屏"}
+{"instruction": "Vision 智慧屏 6 Pro有Super MiniLED黑晶屏功能吗？", "output": "Super MiniLED黑晶屏"}
+{"instruction": "哪些产品支持Super MiniLED黑晶屏？", "output": "Vision 智慧屏 6 Pro"}
+{"instruction": "哪些产品有Super MiniLED黑晶屏功能？", "output": "Vision 智慧屏 6 Pro"}
+{"instruction": "Vision 智慧屏 6 Pro支持130W Hi-Fi音响吗？", "output": "130W Hi-Fi音响"}
+{"instruction": "Vision 智慧屏 6 Pro有130W Hi-Fi音响功能吗？", "output": "130W Hi-Fi音响"}
+{"instruction": "哪些产品支持130W Hi-Fi音响？", "output": "Vision 智慧屏 6 Pro"}
+{"instruction": "哪些产品有130W Hi-Fi音响功能？", "output": "Vision 智慧屏 6 Pro"}
+{"instruction": "Vision 智慧屏 6 Pro支持触控书写吗？", "output": "触控书写"}
+{"instruction": "Vision 智慧屏 6 Pro有触控书写功能吗？", "output": "触控书写"}
+{"instruction": "哪些产品支持触控书写？", "output": "Vision 智慧屏 6 Pro"}
+{"instruction": "哪些产品有触控书写功能？", "output": "Vision 智慧屏 6 Pro"}
+{"instruction": "Vision 智慧屏 6 Pro的屏幕是什么类型？", "output": "MiniLED"}
+{"instruction": "Vision 智慧屏 6 Pro用的什么屏幕？", "output": "MiniLED"}
+{"instruction": "Vision 智慧屏 6 Pro在什么价位段？", "output": "4000-6000元"}
+{"instruction": "华为4000-6000元价位有哪些产品？", "output": "Vision 智慧屏 6 Pro"}
+{"instruction": "Vision 智慧屏 6 Pro的售价是多少？", "output": "¥5999起"}
+{"instruction": "Vision 智慧屏 6 Pro多少钱？", "output": "¥5999起"}
+{"instruction": "Vision 智慧屏 6 Pro的产品定位是什么？", "output": "旗舰智慧屏"}
+{"instruction": "Vision 智慧屏 6 Pro主打什么定位？", "output": "旗舰智慧屏"}
+{"instruction": "华为旗舰智慧屏定位的产品有哪些？", "output": "Vision 智慧屏 6 Pro"}
+{"instruction": "哪些产品定位为旗舰智慧屏？", "output": "Vision 智慧屏 6 Pro"}
+{"instruction": "Vision 智慧屏 6 Pro的产品定位是什么？", "output": "家庭影院"}
+{"instruction": "Vision 智慧屏 6 Pro主打什么定位？", "output": "家庭影院"}
+{"instruction": "华为家庭影院定位的产品有哪些？", "output": "Vision 智慧屏 6 Pro"}
+{"instruction": "哪些产品定位为家庭影院？", "output": "Vision 智慧屏 6 Pro"}
+{"instruction": "Vision 智慧屏 6属于什么分类？", "output": "Vision 系列"}
+{"instruction": "Vision 智慧屏 6归属哪个SubSeries？", "output": "Vision 系列"}
+{"instruction": "Vision 系列包含哪些产品？", "output": "Vision 智慧屏 6"}
+{"instruction": "Vision 系列下面有什么？", "output": "Vision 智慧屏 6"}
+{"instruction": "Vision 智慧屏 6支持Super MiniLED千级分区吗？", "output": "Super MiniLED千级分区"}
+{"instruction": "Vision 智慧屏 6有Super MiniLED千级分区功能吗？", "output": "Super MiniLED千级分区"}
+{"instruction": "哪些产品支持Super MiniLED千级分区？", "output": "Vision 智慧屏 6"}
+{"instruction": "哪些产品有Super MiniLED千级分区功能？", "output": "Vision 智慧屏 6"}
+{"instruction": "Vision 智慧屏 6支持4.9cm超薄吗？", "output": "4.9cm超薄"}
+{"instruction": "Vision 智慧屏 6有4.9cm超薄功能吗？", "output": "4.9cm超薄"}
+{"instruction": "哪些产品支持4.9cm超薄？", "output": "Vision 智慧屏 6"}
+{"instruction": "哪些产品有4.9cm超薄功能？", "output": "Vision 智慧屏 6"}
+{"instruction": "Vision 智慧屏 6支持4K 144Hz吗？", "output": "4K 144Hz"}
+{"instruction": "Vision 智慧屏 6有4K 144Hz功能吗？", "output": "4K 144Hz"}
+{"instruction": "哪些产品支持4K 144Hz？", "output": "Vision 智慧屏 6"}
+{"instruction": "哪些产品有4K 144Hz功能？", "output": "Vision 智慧屏 6"}
+{"instruction": "Vision 智慧屏 6的屏幕是什么类型？", "output": "MiniLED"}
+{"instruction": "Vision 智慧屏 6用的什么屏幕？", "output": "MiniLED"}
+{"instruction": "Vision 智慧屏 6在什么价位段？", "output": "6000-8000元"}
+{"instruction": "华为6000-8000元价位有哪些产品？", "output": "Vision 智慧屏 6"}
+{"instruction": "Vision 智慧屏 6的售价是多少？", "output": "¥6199起"}
+{"instruction": "Vision 智慧屏 6多少钱？", "output": "¥6199起"}
+{"instruction": "Vision 智慧屏 6的产品定位是什么？", "output": "高端智慧屏"}
+{"instruction": "Vision 智慧屏 6主打什么定位？", "output": "高端智慧屏"}
+{"instruction": "华为高端智慧屏定位的产品有哪些？", "output": "Vision 智慧屏 6"}
+{"instruction": "哪些产品定位为高端智慧屏？", "output": "Vision 智慧屏 6"}
+{"instruction": "Vision 智慧屏 6的产品定位是什么？", "output": "MiniLED"}
+{"instruction": "Vision 智慧屏 6主打什么定位？", "output": "MiniLED"}
+{"instruction": "华为MiniLED定位的产品有哪些？", "output": "Vision 智慧屏 6"}
+{"instruction": "哪些产品定位为MiniLED？", "output": "Vision 智慧屏 6"}
+{"instruction": "Vision 智慧屏 6 SE RGB属于什么分类？", "output": "Vision 系列"}
+{"instruction": "Vision 智慧屏 6 SE RGB归属哪个SubSeries？", "output": "Vision 系列"}
+{"instruction": "Vision 系列包含哪些产品？", "output": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "Vision 系列下面有什么？", "output": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "Vision 智慧屏 6 SE RGB支持全球首款RGB-MiniLED吗？", "output": "全球首款RGB-MiniLED"}
+{"instruction": "Vision 智慧屏 6 SE RGB有全球首款RGB-MiniLED功能吗？", "output": "全球首款RGB-MiniLED"}
+{"instruction": "哪些产品支持全球首款RGB-MiniLED？", "output": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "哪些产品有全球首款RGB-MiniLED功能？", "output": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "Vision 智慧屏 6 SE RGB支持105% BT.2020色域吗？", "output": "105% BT.2020色域"}
+{"instruction": "Vision 智慧屏 6 SE RGB有105% BT.2020色域功能吗？", "output": "105% BT.2020色域"}
+{"instruction": "哪些产品支持105% BT.2020色域？", "output": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "哪些产品有105% BT.2020色域功能？", "output": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "Vision 智慧屏 6 SE RGB支持三原色独立发光吗？", "output": "三原色独立发光"}
+{"instruction": "Vision 智慧屏 6 SE RGB有三原色独立发光功能吗？", "output": "三原色独立发光"}
+{"instruction": "哪些产品支持三原色独立发光？", "output": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "哪些产品有三原色独立发光功能？", "output": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "Vision 智慧屏 6 SE RGB的屏幕是什么类型？", "output": "MiniLED"}
+{"instruction": "Vision 智慧屏 6 SE RGB用的什么屏幕？", "output": "MiniLED"}
+{"instruction": "Vision 智慧屏 6 SE RGB在什么价位段？", "output": "2000-4000元"}
+{"instruction": "华为2000-4000元价位有哪些产品？", "output": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "Vision 智慧屏 6 SE RGB的售价是多少？", "output": "¥2974起"}
+{"instruction": "Vision 智慧屏 6 SE RGB多少钱？", "output": "¥2974起"}
+{"instruction": "Vision 智慧屏 6 SE RGB的产品定位是什么？", "output": "高端智慧屏"}
+{"instruction": "Vision 智慧屏 6 SE RGB主打什么定位？", "output": "高端智慧屏"}
+{"instruction": "华为高端智慧屏定位的产品有哪些？", "output": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "哪些产品定位为高端智慧屏？", "output": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "Vision 智慧屏 6 SE RGB的产品定位是什么？", "output": "画质突破"}
+{"instruction": "Vision 智慧屏 6 SE RGB主打什么定位？", "output": "画质突破"}
+{"instruction": "华为画质突破定位的产品有哪些？", "output": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "哪些产品定位为画质突破？", "output": "Vision 智慧屏 6 SE RGB"}
+{"instruction": "鸿蒙 AI 眼镜属于什么分类？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "鸿蒙 AI 眼镜归属哪个SubSeries？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "鸿蒙 AI 眼镜包含哪些产品？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "鸿蒙 AI 眼镜下面有什么？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "鸿蒙 AI 眼镜属于什么分类？", "output": "智能眼镜"}
+{"instruction": "鸿蒙 AI 眼镜归属哪个Category？", "output": "智能眼镜"}
+{"instruction": "智能眼镜包含哪些产品？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "智能眼镜下面有什么？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "智能眼镜属于什么分类？", "output": "华为"}
+{"instruction": "智能眼镜归属哪个Company？", "output": "华为"}
+{"instruction": "华为包含哪些产品？", "output": "智能眼镜"}
+{"instruction": "华为下面有什么？", "output": "智能眼镜"}
+{"instruction": "鸿蒙 AI 眼镜支持35.5g比Meta轻吗？", "output": "35.5g比Meta轻"}
+{"instruction": "鸿蒙 AI 眼镜有35.5g比Meta轻功能吗？", "output": "35.5g比Meta轻"}
+{"instruction": "哪些产品支持35.5g比Meta轻？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "哪些产品有35.5g比Meta轻功能？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "鸿蒙 AI 眼镜支持6.25mm超薄镜腿吗？", "output": "6.25mm超薄镜腿"}
+{"instruction": "鸿蒙 AI 眼镜有6.25mm超薄镜腿功能吗？", "output": "6.25mm超薄镜腿"}
+{"instruction": "哪些产品支持6.25mm超薄镜腿？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "哪些产品有6.25mm超薄镜腿功能？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "鸿蒙 AI 眼镜支持1200万摄像头吗？", "output": "1200万摄像头"}
+{"instruction": "鸿蒙 AI 眼镜有1200万摄像头功能吗？", "output": "1200万摄像头"}
+{"instruction": "哪些产品支持1200万摄像头？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "哪些产品有1200万摄像头功能？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "鸿蒙 AI 眼镜支持AI指向问答吗？", "output": "AI指向问答"}
+{"instruction": "鸿蒙 AI 眼镜有AI指向问答功能吗？", "output": "AI指向问答"}
+{"instruction": "哪些产品支持AI指向问答？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "哪些产品有AI指向问答功能？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "鸿蒙 AI 眼镜支持同声传译吗？", "output": "同声传译"}
+{"instruction": "鸿蒙 AI 眼镜有同声传译功能吗？", "output": "同声传译"}
+{"instruction": "哪些产品支持同声传译？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "哪些产品有同声传译功能？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "鸿蒙 AI 眼镜支持光学镜/太阳镜双版本吗？", "output": "光学镜/太阳镜双版本"}
+{"instruction": "鸿蒙 AI 眼镜有光学镜/太阳镜双版本功能吗？", "output": "光学镜/太阳镜双版本"}
+{"instruction": "哪些产品支持光学镜/太阳镜双版本？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "哪些产品有光学镜/太阳镜双版本功能？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "鸿蒙 AI 眼镜在什么价位段？", "output": "2000-4000元"}
+{"instruction": "华为2000-4000元价位有哪些产品？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "鸿蒙 AI 眼镜的售价是多少？", "output": "¥2499"}
+{"instruction": "鸿蒙 AI 眼镜多少钱？", "output": "¥2499"}
+{"instruction": "鸿蒙 AI 眼镜的产品定位是什么？", "output": "智能穿戴眼镜"}
+{"instruction": "鸿蒙 AI 眼镜主打什么定位？", "output": "智能穿戴眼镜"}
+{"instruction": "华为智能穿戴眼镜定位的产品有哪些？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "哪些产品定位为智能穿戴眼镜？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "鸿蒙 AI 眼镜的产品定位是什么？", "output": "AI助手"}
+{"instruction": "鸿蒙 AI 眼镜主打什么定位？", "output": "AI助手"}
+{"instruction": "华为AI助手定位的产品有哪些？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "哪些产品定位为AI助手？", "output": "鸿蒙 AI 眼镜"}
+{"instruction": "MateView GT属于什么分类？", "output": "MateView 系列"}
+{"instruction": "MateView GT归属哪个SubSeries？", "output": "MateView 系列"}
+{"instruction": "MateView 系列包含哪些产品？", "output": "MateView GT"}
+{"instruction": "MateView 系列下面有什么？", "output": "MateView GT"}
+{"instruction": "MateView 系列属于什么分类？", "output": "MateView 系列"}
+{"instruction": "MateView 系列归属哪个SubSeries？", "output": "MateView 系列"}
+{"instruction": "MateView 系列包含哪些产品？", "output": "MateView 系列"}
+{"instruction": "MateView 系列下面有什么？", "output": "MateView 系列"}
+{"instruction": "MateView 系列属于什么分类？", "output": "显示器"}
+{"instruction": "MateView 系列归属哪个Category？", "output": "显示器"}
+{"instruction": "显示器包含哪些产品？", "output": "MateView 系列"}
+{"instruction": "显示器下面有什么？", "output": "MateView 系列"}
+{"instruction": "显示器属于什么分类？", "output": "华为"}
+{"instruction": "显示器归属哪个Company？", "output": "华为"}
+{"instruction": "华为包含哪些产品？", "output": "显示器"}
+{"instruction": "华为下面有什么？", "output": "显示器"}
+{"instruction": "MateView GT支持电竞曲面屏吗？", "output": "电竞曲面屏"}
+{"instruction": "MateView GT有电竞曲面屏功能吗？", "output": "电竞曲面屏"}
+{"instruction": "哪些产品支持电竞曲面屏？", "output": "MateView GT"}
+{"instruction": "哪些产品有电竞曲面屏功能？", "output": "MateView GT"}
+{"instruction": "MateView GT的产品定位是什么？", "output": "电竞显示器"}
+{"instruction": "MateView GT主打什么定位？", "output": "电竞显示器"}
+{"instruction": "华为电竞显示器定位的产品有哪些？", "output": "MateView GT"}
+{"instruction": "哪些产品定位为电竞显示器？", "output": "MateView GT"}
+{"instruction": "MateView GT的产品定位是什么？", "output": "曲面屏"}
+{"instruction": "MateView GT主打什么定位？", "output": "曲面屏"}
+{"instruction": "华为曲面屏定位的产品有哪些？", "output": "MateView GT"}
+{"instruction": "哪些产品定位为曲面屏？", "output": "MateView GT"}
+{"instruction": "尊界 V800属于什么分类？", "output": "尊界"}
+{"instruction": "尊界 V800归属哪个SubSeries？", "output": "尊界"}
+{"instruction": "尊界包含哪些产品？", "output": "尊界 V800"}
+{"instruction": "尊界下面有什么？", "output": "尊界 V800"}
+{"instruction": "尊界属于什么分类？", "output": "尊界"}
+{"instruction": "尊界归属哪个SubSeries？", "output": "尊界"}
+{"instruction": "尊界包含哪些产品？", "output": "尊界"}
+{"instruction": "尊界下面有什么？", "output": "尊界"}
+{"instruction": "尊界属于什么分类？", "output": "智能汽车"}
+{"instruction": "尊界归属哪个Category？", "output": "智能汽车"}
+{"instruction": "智能汽车包含哪些产品？", "output": "尊界"}
+{"instruction": "智能汽车下面有什么？", "output": "尊界"}
+{"instruction": "智能汽车属于什么分类？", "output": "华为"}
+{"instruction": "智能汽车归属哪个Company？", "output": "华为"}
+{"instruction": "华为包含哪些产品？", "output": "智能汽车"}
+{"instruction": "华为下面有什么？", "output": "智能汽车"}
+{"instruction": "尊界 V800支持旗舰MPV吗？", "output": "旗舰MPV"}
+{"instruction": "尊界 V800有旗舰MPV功能吗？", "output": "旗舰MPV"}
+{"instruction": "哪些产品支持旗舰MPV？", "output": "尊界 V800"}
+{"instruction": "哪些产品有旗舰MPV功能？", "output": "尊界 V800"}
+{"instruction": "尊界 V800支持76.6万起吗？", "output": "76.6万起"}
+{"instruction": "尊界 V800有76.6万起功能吗？", "output": "76.6万起"}
+{"instruction": "哪些产品支持76.6万起？", "output": "尊界 V800"}
+{"instruction": "哪些产品有76.6万起功能？", "output": "尊界 V800"}
+{"instruction": "尊界 V800支持华为系最贵车型吗？", "output": "华为系最贵车型"}
+{"instruction": "尊界 V800有华为系最贵车型功能吗？", "output": "华为系最贵车型"}
+{"instruction": "哪些产品支持华为系最贵车型？", "output": "尊界 V800"}
+{"instruction": "哪些产品有华为系最贵车型功能？", "output": "尊界 V800"}
+{"instruction": "尊界 V800在什么价位段？", "output": "2000元以下"}
+{"instruction": "华为2000元以下价位有哪些产品？", "output": "尊界 V800"}
+{"instruction": "尊界 V800的售价是多少？", "output": "¥76.6万起"}
+{"instruction": "尊界 V800多少钱？", "output": "¥76.6万起"}
+{"instruction": "尊界 V800的产品定位是什么？", "output": "超豪华旗舰MPV"}
+{"instruction": "尊界 V800主打什么定位？", "output": "超豪华旗舰MPV"}
+{"instruction": "华为超豪华旗舰MPV定位的产品有哪些？", "output": "尊界 V800"}
+{"instruction": "哪些产品定位为超豪华旗舰MPV？", "output": "尊界 V800"}
+{"instruction": "尊界 V800的产品定位是什么？", "output": "尊界旗舰"}
+{"instruction": "尊界 V800主打什么定位？", "output": "尊界旗舰"}
+{"instruction": "华为尊界旗舰定位的产品有哪些？", "output": "尊界 V800"}
+{"instruction": "哪些产品定位为尊界旗舰？", "output": "尊界 V800"}
+{"instruction": "尊界 V680属于什么分类？", "output": "尊界"}
+{"instruction": "尊界 V680归属哪个SubSeries？", "output": "尊界"}
+{"instruction": "尊界包含哪些产品？", "output": "尊界 V680"}
+{"instruction": "尊界下面有什么？", "output": "尊界 V680"}
+{"instruction": "尊界 V680支持旗舰MPV吗？", "output": "旗舰MPV"}
+{"instruction": "尊界 V680有旗舰MPV功能吗？", "output": "旗舰MPV"}
+{"instruction": "哪些产品支持旗舰MPV？", "output": "尊界 V680"}
+{"instruction": "哪些产品有旗舰MPV功能？", "output": "尊界 V680"}
+{"instruction": "尊界 V680支持64.8万起吗？", "output": "64.8万起"}
+{"instruction": "尊界 V680有64.8万起功能吗？", "output": "64.8万起"}
+{"instruction": "哪些产品支持64.8万起？", "output": "尊界 V680"}
+{"instruction": "哪些产品有64.8万起功能？", "output": "尊界 V680"}
+{"instruction": "尊界 V680在什么价位段？", "output": "2000元以下"}
+{"instruction": "华为2000元以下价位有哪些产品？", "output": "尊界 V680"}
+{"instruction": "尊界 V680的售价是多少？", "output": "¥64.8万起"}
+{"instruction": "尊界 V680多少钱？", "output": "¥64.8万起"}
+{"instruction": "尊界 V680的产品定位是什么？", "output": "超豪华MPV"}
+{"instruction": "尊界 V680主打什么定位？", "output": "超豪华MPV"}
+{"instruction": "华为超豪华MPV定位的产品有哪些？", "output": "尊界 V680"}
+{"instruction": "哪些产品定位为超豪华MPV？", "output": "尊界 V680"}
+{"instruction": "尊界 V680的产品定位是什么？", "output": "尊界入门"}
+{"instruction": "尊界 V680主打什么定位？", "output": "尊界入门"}
+{"instruction": "华为尊界入门定位的产品有哪些？", "output": "尊界 V680"}
+{"instruction": "哪些产品定位为尊界入门？", "output": "尊界 V680"}
+{"instruction": "享界 G9属于什么分类？", "output": "享界"}
+{"instruction": "享界 G9归属哪个SubSeries？", "output": "享界"}
+{"instruction": "享界包含哪些产品？", "output": "享界 G9"}
+{"instruction": "享界下面有什么？", "output": "享界 G9"}
+{"instruction": "享界属于什么分类？", "output": "享界"}
+{"instruction": "享界归属哪个SubSeries？", "output": "享界"}
+{"instruction": "享界包含哪些产品？", "output": "享界"}
+{"instruction": "享界下面有什么？", "output": "享界"}
+{"instruction": "享界属于什么分类？", "output": "智能汽车"}
+{"instruction": "享界归属哪个Category？", "output": "智能汽车"}
+{"instruction": "智能汽车包含哪些产品？", "output": "享界"}
+{"instruction": "智能汽车下面有什么？", "output": "享界"}
+{"instruction": "享界 G9支持硬派SUV吗？", "output": "硬派SUV"}
+{"instruction": "享界 G9有硬派SUV功能吗？", "output": "硬派SUV"}
+{"instruction": "哪些产品支持硬派SUV？", "output": "享界 G9"}
+{"instruction": "哪些产品有硬派SUV功能？", "output": "享界 G9"}
+{"instruction": "享界 G9支持对标奔驰大G吗？", "output": "对标奔驰大G"}
+{"instruction": "享界 G9有对标奔驰大G功能吗？", "output": "对标奔驰大G"}
+{"instruction": "哪些产品支持对标奔驰大G？", "output": "享界 G9"}
+{"instruction": "哪些产品有对标奔驰大G功能？", "output": "享界 G9"}
+{"instruction": "享界 G9支持43.98万起吗？", "output": "43.98万起"}
+{"instruction": "享界 G9有43.98万起功能吗？", "output": "43.98万起"}
+{"instruction": "哪些产品支持43.98万起？", "output": "享界 G9"}
+{"instruction": "哪些产品有43.98万起功能？", "output": "享界 G9"}
+{"instruction": "享界 G9在什么价位段？", "output": "2000元以下"}
+{"instruction": "华为2000元以下价位有哪些产品？", "output": "享界 G9"}
+{"instruction": "享界 G9的售价是多少？", "output": "¥43.98万起"}
+{"instruction": "享界 G9多少钱？", "output": "¥43.98万起"}
+{"instruction": "享界 G9的产品定位是什么？", "output": "豪华硬派SUV"}
+{"instruction": "享界 G9主打什么定位？", "output": "豪华硬派SUV"}
+{"instruction": "华为豪华硬派SUV定位的产品有哪些？", "output": "享界 G9"}
+{"instruction": "哪些产品定位为豪华硬派SUV？", "output": "享界 G9"}
+{"instruction": "享界 G9的产品定位是什么？", "output": "对标大G"}
+{"instruction": "享界 G9主打什么定位？", "output": "对标大G"}
+{"instruction": "华为对标大G定位的产品有哪些？", "output": "享界 G9"}
+{"instruction": "哪些产品定位为对标大G？", "output": "享界 G9"}
+{"instruction": "享界 S9 / S9T属于什么分类？", "output": "享界"}
+{"instruction": "享界 S9 / S9T归属哪个SubSeries？", "output": "享界"}
+{"instruction": "享界包含哪些产品？", "output": "享界 S9 / S9T"}
+{"instruction": "享界下面有什么？", "output": "享界 S9 / S9T"}
+{"instruction": "享界 S9 / S9T支持豪华轿车吗？", "output": "豪华轿车"}
+{"instruction": "享界 S9 / S9T有豪华轿车功能吗？", "output": "豪华轿车"}
+{"instruction": "哪些产品支持豪华轿车？", "output": "享界 S9 / S9T"}
+{"instruction": "哪些产品有豪华轿车功能？", "output": "享界 S9 / S9T"}
+{"instruction": "享界 S9 / S9T的产品定位是什么？", "output": "豪华轿车"}
+{"instruction": "享界 S9 / S9T主打什么定位？", "output": "豪华轿车"}
+{"instruction": "华为豪华轿车定位的产品有哪些？", "output": "享界 S9 / S9T"}
+{"instruction": "哪些产品定位为豪华轿车？", "output": "享界 S9 / S9T"}
+{"instruction": "问界 M8属于什么分类？", "output": "问界"}
+{"instruction": "问界 M8归属哪个SubSeries？", "output": "问界"}
+{"instruction": "问界包含哪些产品？", "output": "问界 M8"}
+{"instruction": "问界下面有什么？", "output": "问界 M8"}
+{"instruction": "问界属于什么分类？", "output": "问界"}
+{"instruction": "问界归属哪个SubSeries？", "output": "问界"}
+{"instruction": "问界包含哪些产品？", "output": "问界"}
+{"instruction": "问界下面有什么？", "output": "问界"}
+{"instruction": "问界属于什么分类？", "output": "智能汽车"}
+{"instruction": "问界归属哪个Category？", "output": "智能汽车"}
+{"instruction": "智能汽车包含哪些产品？", "output": "问界"}
+{"instruction": "智能汽车下面有什么？", "output": "问界"}
+{"instruction": "问界 M8支持大型SUV吗？", "output": "大型SUV"}
+{"instruction": "问界 M8有大型SUV功能吗？", "output": "大型SUV"}
+{"instruction": "哪些产品支持大型SUV？", "output": "问界 M8"}
+{"instruction": "哪些产品有大型SUV功能？", "output": "问界 M8"}
+{"instruction": "问界 M8支持问界走量主力吗？", "output": "问界走量主力"}
+{"instruction": "问界 M8有问界走量主力功能吗？", "output": "问界走量主力"}
+{"instruction": "哪些产品支持问界走量主力？", "output": "问界 M8"}
+{"instruction": "哪些产品有问界走量主力功能？", "output": "问界 M8"}
+{"instruction": "问界 M8的产品定位是什么？", "output": "大型SUV"}
+{"instruction": "问界 M8主打什么定位？", "output": "大型SUV"}
+{"instruction": "华为大型SUV定位的产品有哪些？", "output": "问界 M8"}
+{"instruction": "哪些产品定位为大型SUV？", "output": "问界 M8"}
+{"instruction": "问界 M8的产品定位是什么？", "output": "走量担当"}
+{"instruction": "问界 M8主打什么定位？", "output": "走量担当"}
+{"instruction": "华为走量担当定位的产品有哪些？", "output": "问界 M8"}
+{"instruction": "哪些产品定位为走量担当？", "output": "问界 M8"}
+{"instruction": "问界 M7属于什么分类？", "output": "问界"}
+{"instruction": "问界 M7归属哪个SubSeries？", "output": "问界"}
+{"instruction": "问界包含哪些产品？", "output": "问界 M7"}
+{"instruction": "问界下面有什么？", "output": "问界 M7"}
+{"instruction": "问界 M7支持中大型SUV吗？", "output": "中大型SUV"}
+{"instruction": "问界 M7有中大型SUV功能吗？", "output": "中大型SUV"}
+{"instruction": "哪些产品支持中大型SUV？", "output": "问界 M7"}
+{"instruction": "哪些产品有中大型SUV功能？", "output": "问界 M7"}
+{"instruction": "问界 M7的产品定位是什么？", "output": "中大型SUV"}
+{"instruction": "问界 M7主打什么定位？", "output": "中大型SUV"}
+{"instruction": "华为中大型SUV定位的产品有哪些？", "output": "问界 M7"}
+{"instruction": "哪些产品定位为中大型SUV？", "output": "问界 M7"}
+{"instruction": "问界 M6属于什么分类？", "output": "问界"}
+{"instruction": "问界 M6归属哪个SubSeries？", "output": "问界"}
+{"instruction": "问界包含哪些产品？", "output": "问界 M6"}
+{"instruction": "问界下面有什么？", "output": "问界 M6"}
+{"instruction": "问界 M6支持中型SUV吗？", "output": "中型SUV"}
+{"instruction": "问界 M6有中型SUV功能吗？", "output": "中型SUV"}
+{"instruction": "哪些产品支持中型SUV？", "output": "问界 M6"}
+{"instruction": "哪些产品有中型SUV功能？", "output": "问界 M6"}
+{"instruction": "问界 M6的产品定位是什么？", "output": "中型SUV"}
+{"instruction": "问界 M6主打什么定位？", "output": "中型SUV"}
+{"instruction": "华为中型SUV定位的产品有哪些？", "output": "问界 M6"}
+{"instruction": "哪些产品定位为中型SUV？", "output": "问界 M6"}
+{"instruction": "智界 V9属于什么分类？", "output": "智界"}
+{"instruction": "智界 V9归属哪个SubSeries？", "output": "智界"}
+{"instruction": "智界包含哪些产品？", "output": "智界 V9"}
+{"instruction": "智界下面有什么？", "output": "智界 V9"}
+{"instruction": "智界属于什么分类？", "output": "智界"}
+{"instruction": "智界归属哪个SubSeries？", "output": "智界"}
+{"instruction": "智界包含哪些产品？", "output": "智界"}
+{"instruction": "智界下面有什么？", "output": "智界"}
+{"instruction": "智界属于什么分类？", "output": "智能汽车"}
+{"instruction": "智界归属哪个Category？", "output": "智能汽车"}
+{"instruction": "智能汽车包含哪些产品？", "output": "智界"}
+{"instruction": "智能汽车下面有什么？", "output": "智界"}
+{"instruction": "智界 V9支持轿跑SUV吗？", "output": "轿跑SUV"}
+{"instruction": "智界 V9有轿跑SUV功能吗？", "output": "轿跑SUV"}
+{"instruction": "哪些产品支持轿跑SUV？", "output": "智界 V9"}
+{"instruction": "哪些产品有轿跑SUV功能？", "output": "智界 V9"}
+{"instruction": "智界 V9的产品定位是什么？", "output": "轿跑SUV"}
+{"instruction": "智界 V9主打什么定位？", "output": "轿跑SUV"}
+{"instruction": "华为轿跑SUV定位的产品有哪些？", "output": "智界 V9"}
+{"instruction": "哪些产品定位为轿跑SUV？", "output": "智界 V9"}
+{"instruction": "智界 R7属于什么分类？", "output": "智界"}
+{"instruction": "智界 R7归属哪个SubSeries？", "output": "智界"}
+{"instruction": "智界包含哪些产品？", "output": "智界 R7"}
+{"instruction": "智界下面有什么？", "output": "智界 R7"}
+{"instruction": "智界 R7支持轿跑SUV吗？", "output": "轿跑SUV"}
+{"instruction": "智界 R7有轿跑SUV功能吗？", "output": "轿跑SUV"}
+{"instruction": "哪些产品支持轿跑SUV？", "output": "智界 R7"}
+{"instruction": "哪些产品有轿跑SUV功能？", "output": "智界 R7"}
+{"instruction": "智界 R7的产品定位是什么？", "output": "轿跑SUV"}
+{"instruction": "智界 R7主打什么定位？", "output": "轿跑SUV"}
+{"instruction": "华为轿跑SUV定位的产品有哪些？", "output": "智界 R7"}
+{"instruction": "哪些产品定位为轿跑SUV？", "output": "智界 R7"}
+{"instruction": "智界 新S7属于什么分类？", "output": "智界"}
+{"instruction": "智界 新S7归属哪个SubSeries？", "output": "智界"}
+{"instruction": "智界包含哪些产品？", "output": "智界 新S7"}
+{"instruction": "智界下面有什么？", "output": "智界 新S7"}
+{"instruction": "智界 新S7支持轿车吗？", "output": "轿车"}
+{"instruction": "智界 新S7有轿车功能吗？", "output": "轿车"}
+{"instruction": "哪些产品支持轿车？", "output": "智界 新S7"}
+{"instruction": "哪些产品有轿车功能？", "output": "智界 新S7"}
+{"instruction": "智界 新S7的产品定位是什么？", "output": "轿车"}
+{"instruction": "智界 新S7主打什么定位？", "output": "轿车"}
+{"instruction": "华为轿车定位的产品有哪些？", "output": "智界 新S7"}
+{"instruction": "哪些产品定位为轿车？", "output": "智界 新S7"}
+{"instruction": "尚界 Z7 / Z7T属于什么分类？", "output": "尚界"}
+{"instruction": "尚界 Z7 / Z7T归属哪个SubSeries？", "output": "尚界"}
+{"instruction": "尚界包含哪些产品？", "output": "尚界 Z7 / Z7T"}
+{"instruction": "尚界下面有什么？", "output": "尚界 Z7 / Z7T"}
+{"instruction": "尚界属于什么分类？", "output": "尚界"}
+{"instruction": "尚界归属哪个SubSeries？", "output": "尚界"}
+{"instruction": "尚界包含哪些产品？", "output": "尚界"}
+{"instruction": "尚界下面有什么？", "output": "尚界"}
+{"instruction": "尚界属于什么分类？", "output": "智能汽车"}
+{"instruction": "尚界归属哪个Category？", "output": "智能汽车"}
+{"instruction": "智能汽车包含哪些产品？", "output": "尚界"}
+{"instruction": "智能汽车下面有什么？", "output": "尚界"}
+{"instruction": "尚界 Z7 / Z7T支持年轻人轿跑吗？", "output": "年轻人轿跑"}
+{"instruction": "尚界 Z7 / Z7T有年轻人轿跑功能吗？", "output": "年轻人轿跑"}
+{"instruction": "哪些产品支持年轻人轿跑？", "output": "尚界 Z7 / Z7T"}
+{"instruction": "哪些产品有年轻人轿跑功能？", "output": "尚界 Z7 / Z7T"}
+{"instruction": "尚界 Z7 / Z7T的产品定位是什么？", "output": "年轻轿跑"}
+{"instruction": "尚界 Z7 / Z7T主打什么定位？", "output": "年轻轿跑"}
+{"instruction": "华为年轻轿跑定位的产品有哪些？", "output": "尚界 Z7 / Z7T"}
+{"instruction": "哪些产品定位为年轻轿跑？", "output": "尚界 Z7 / Z7T"}
+{"instruction": "Mate 80 系列全系搭载什么芯片？", "output": "麒麟9030"}
+{"instruction": "Mate 80 系列标配什么处理器？", "output": "麒麟9030"}
+{"instruction": "Mate 系列即将发布全系搭载什么芯片？", "output": "麒麟2026"}
+{"instruction": "Mate 系列即将发布标配什么处理器？", "output": "麒麟2026"}
+{"instruction": "Pura 90 系列全系搭载什么芯片？", "output": "麒麟9030S"}
+{"instruction": "Pura 90 系列标配什么处理器？", "output": "麒麟9030S"}
+{"instruction": "nova 16 系列全系搭载什么芯片？", "output": "麒麟9010S"}
+{"instruction": "nova 16 系列标配什么处理器？", "output": "麒麟9010S"}
+{"instruction": "MatePad Pro 系列全系搭载什么芯片？", "output": "麒麟9010"}
+{"instruction": "MatePad Pro 系列标配什么处理器？", "output": "麒麟9010"}
+{"instruction": "MatePad Air 系列全系搭载什么芯片？", "output": "麒麟900"}
+{"instruction": "MatePad Air 系列标配什么处理器？", "output": "麒麟900"}
+{"instruction": "MatePad SE 系列全系搭载什么芯片？", "output": "骁龙685"}
+{"instruction": "MatePad SE 系列标配什么处理器？", "output": "骁龙685"}
+{"instruction": "MateBook X Pro 系列全系搭载什么芯片？", "output": "酷睿Ultra9"}
+{"instruction": "MateBook X Pro 系列标配什么处理器？", "output": "酷睿Ultra9"}

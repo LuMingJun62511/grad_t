@@ -1,0 +1,1006 @@
+{"instruction": "具有「首配3D人脸」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首配3D人脸 -> Mate 80 -> ... -> 华为"}
+{"instruction": "「首配3D人脸」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首配3D人脸 -> Mate 80 -> ... -> 华为"}
+{"instruction": "「首配3D人脸」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首配3D人脸 -> Mate 80 -> ... -> 手机"}
+{"instruction": "具备「首配3D人脸」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首配3D人脸 -> Mate 80 -> ... -> 手机"}
+{"instruction": "「首配3D人脸」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首配3D人脸 -> Mate 80 -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「首配3D人脸」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首配3D人脸 -> Mate 80 -> ... -> Mate 系列"}
+{"instruction": "「首配3D人脸」是华为哪款产品的特性？", "output": "Mate 80", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首配3D人脸 -> Mate 80"}
+{"instruction": "哪款华为产品有「首配3D人脸」？", "output": "Mate 80", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首配3D人脸 -> Mate 80"}
+{"instruction": "具有「3999起亲民价」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3999起亲民价 -> Mate 80 -> ... -> 华为"}
+{"instruction": "「3999起亲民价」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3999起亲民价 -> Mate 80 -> ... -> 华为"}
+{"instruction": "「3999起亲民价」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3999起亲民价 -> Mate 80 -> ... -> 手机"}
+{"instruction": "具备「3999起亲民价」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3999起亲民价 -> Mate 80 -> ... -> 手机"}
+{"instruction": "「3999起亲民价」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3999起亲民价 -> Mate 80 -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「3999起亲民价」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3999起亲民价 -> Mate 80 -> ... -> Mate 系列"}
+{"instruction": "「3999起亲民价」是华为哪款产品的特性？", "output": "Mate 80", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3999起亲民价 -> Mate 80"}
+{"instruction": "哪款华为产品有「3999起亲民价」？", "output": "Mate 80", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3999起亲民价 -> Mate 80"}
+{"instruction": "具有「WiFi7」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "WiFi7 -> Mate 80 Pro -> ... -> 华为"}
+{"instruction": "「WiFi7」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "WiFi7 -> Mate 80 Pro -> ... -> 华为"}
+{"instruction": "「WiFi7」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "WiFi7 -> Mate 80 Pro -> ... -> 手机"}
+{"instruction": "具备「WiFi7」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "WiFi7 -> Mate 80 Pro -> ... -> 手机"}
+{"instruction": "「WiFi7」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "WiFi7 -> Mate 80 Pro -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「WiFi7」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "WiFi7 -> Mate 80 Pro -> ... -> Mate 系列"}
+{"instruction": "「WiFi7」是华为哪款产品的特性？", "output": "Mate 80 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "WiFi7 -> Mate 80 Pro"}
+{"instruction": "哪款华为产品有「WiFi7」？", "output": "Mate 80 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "WiFi7 -> Mate 80 Pro"}
+{"instruction": "具有「6.9寸微曲屏」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸微曲屏 -> Mate 80 Pro -> ... -> 华为"}
+{"instruction": "「6.9寸微曲屏」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸微曲屏 -> Mate 80 Pro -> ... -> 华为"}
+{"instruction": "「6.9寸微曲屏」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸微曲屏 -> Mate 80 Pro -> ... -> 手机"}
+{"instruction": "具备「6.9寸微曲屏」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸微曲屏 -> Mate 80 Pro -> ... -> 手机"}
+{"instruction": "「6.9寸微曲屏」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸微曲屏 -> Mate 80 Pro -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「6.9寸微曲屏」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸微曲屏 -> Mate 80 Pro -> ... -> Mate 系列"}
+{"instruction": "「6.9寸微曲屏」是华为哪款产品的特性？", "output": "Mate 80 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸微曲屏 -> Mate 80 Pro"}
+{"instruction": "哪款华为产品有「6.9寸微曲屏」？", "output": "Mate 80 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸微曲屏 -> Mate 80 Pro"}
+{"instruction": "具有「双潜望长焦」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望长焦 -> Mate 80 Pro Max -> ... -> 华为"}
+{"instruction": "「双潜望长焦」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望长焦 -> Mate 80 Pro Max -> ... -> 华为"}
+{"instruction": "「双潜望长焦」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望长焦 -> Mate 80 Pro Max -> ... -> 手机"}
+{"instruction": "具备「双潜望长焦」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望长焦 -> Mate 80 Pro Max -> ... -> 手机"}
+{"instruction": "「双潜望长焦」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望长焦 -> Mate 80 Pro Max -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「双潜望长焦」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望长焦 -> Mate 80 Pro Max -> ... -> Mate 系列"}
+{"instruction": "「双潜望长焦」是华为哪款产品的特性？", "output": "Mate 80 Pro Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望长焦 -> Mate 80 Pro Max"}
+{"instruction": "哪款华为产品有「双潜望长焦」？", "output": "Mate 80 Pro Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望长焦 -> Mate 80 Pro Max"}
+{"instruction": "具有「Pro Max升级版」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Pro Max升级版 -> Mate 80 Pro Max 风驰版 -> ... -> 华为"}
+{"instruction": "「Pro Max升级版」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Pro Max升级版 -> Mate 80 Pro Max 风驰版 -> ... -> 华为"}
+{"instruction": "「Pro Max升级版」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Pro Max升级版 -> Mate 80 Pro Max 风驰版 -> ... -> 手机"}
+{"instruction": "具备「Pro Max升级版」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Pro Max升级版 -> Mate 80 Pro Max 风驰版 -> ... -> 手机"}
+{"instruction": "「Pro Max升级版」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Pro Max升级版 -> Mate 80 Pro Max 风驰版 -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「Pro Max升级版」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Pro Max升级版 -> Mate 80 Pro Max 风驰版 -> ... -> Mate 系列"}
+{"instruction": "「Pro Max升级版」是华为哪款产品的特性？", "output": "Mate 80 Pro Max 风驰版", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Pro Max升级版 -> Mate 80 Pro Max 风驰版"}
+{"instruction": "哪款华为产品有「Pro Max升级版」？", "output": "Mate 80 Pro Max 风驰版", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Pro Max升级版 -> Mate 80 Pro Max 风驰版"}
+{"instruction": "具有「全金属玄武架构」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "全金属玄武架构 -> Mate 80 RS 非凡大师 -> ... -> 华为"}
+{"instruction": "「全金属玄武架构」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "全金属玄武架构 -> Mate 80 RS 非凡大师 -> ... -> 华为"}
+{"instruction": "「全金属玄武架构」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "全金属玄武架构 -> Mate 80 RS 非凡大师 -> ... -> 手机"}
+{"instruction": "具备「全金属玄武架构」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "全金属玄武架构 -> Mate 80 RS 非凡大师 -> ... -> 手机"}
+{"instruction": "「全金属玄武架构」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "全金属玄武架构 -> Mate 80 RS 非凡大师 -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「全金属玄武架构」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "全金属玄武架构 -> Mate 80 RS 非凡大师 -> ... -> Mate 系列"}
+{"instruction": "「全金属玄武架构」是华为哪款产品的特性？", "output": "Mate 80 RS 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "全金属玄武架构 -> Mate 80 RS 非凡大师"}
+{"instruction": "哪款华为产品有「全金属玄武架构」？", "output": "Mate 80 RS 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "全金属玄武架构 -> Mate 80 RS 非凡大师"}
+{"instruction": "具有「双潜望」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望 -> Mate 80 RS 非凡大师 -> ... -> 华为"}
+{"instruction": "「双潜望」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望 -> Mate 80 RS 非凡大师 -> ... -> 华为"}
+{"instruction": "「双潜望」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望 -> Mate 80 RS 非凡大师 -> ... -> 手机"}
+{"instruction": "具备「双潜望」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望 -> Mate 80 RS 非凡大师 -> ... -> 手机"}
+{"instruction": "「双潜望」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望 -> Mate 80 RS 非凡大师 -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「双潜望」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望 -> Mate 80 RS 非凡大师 -> ... -> Mate 系列"}
+{"instruction": "「双潜望」是华为哪款产品的特性？", "output": "Mate 80 RS 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望 -> Mate 80 RS 非凡大师"}
+{"instruction": "哪款华为产品有「双潜望」？", "output": "Mate 80 RS 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双潜望 -> Mate 80 RS 非凡大师"}
+{"instruction": "具有「6.9寸LTPO」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸LTPO -> Mate 70 Pro -> ... -> 华为"}
+{"instruction": "「6.9寸LTPO」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸LTPO -> Mate 70 Pro -> ... -> 华为"}
+{"instruction": "「6.9寸LTPO」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸LTPO -> Mate 70 Pro -> ... -> 手机"}
+{"instruction": "具备「6.9寸LTPO」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸LTPO -> Mate 70 Pro -> ... -> 手机"}
+{"instruction": "「6.9寸LTPO」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸LTPO -> Mate 70 Pro -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「6.9寸LTPO」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸LTPO -> Mate 70 Pro -> ... -> Mate 系列"}
+{"instruction": "「6.9寸LTPO」是华为哪款产品的特性？", "output": "Mate 70 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸LTPO -> Mate 70 Pro"}
+{"instruction": "哪款华为产品有「6.9寸LTPO」？", "output": "Mate 70 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.9寸LTPO -> Mate 70 Pro"}
+{"instruction": "具有「微距长焦」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微距长焦 -> Mate 70 Pro -> ... -> 华为"}
+{"instruction": "「微距长焦」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微距长焦 -> Mate 70 Pro -> ... -> 华为"}
+{"instruction": "「微距长焦」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微距长焦 -> Mate 70 Pro -> ... -> 手机"}
+{"instruction": "具备「微距长焦」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微距长焦 -> Mate 70 Pro -> ... -> 手机"}
+{"instruction": "「微距长焦」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微距长焦 -> Mate 70 Pro -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「微距长焦」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微距长焦 -> Mate 70 Pro -> ... -> Mate 系列"}
+{"instruction": "「微距长焦」是华为哪款产品的特性？", "output": "Mate 70 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微距长焦 -> Mate 70 Pro"}
+{"instruction": "哪款华为产品有「微距长焦」？", "output": "Mate 70 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微距长焦 -> Mate 70 Pro"}
+{"instruction": "具有「价格更友好」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "价格更友好 -> Mate 70 Pro 优享版 -> ... -> 华为"}
+{"instruction": "「价格更友好」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "价格更友好 -> Mate 70 Pro 优享版 -> ... -> 华为"}
+{"instruction": "「价格更友好」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "价格更友好 -> Mate 70 Pro 优享版 -> ... -> 手机"}
+{"instruction": "具备「价格更友好」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "价格更友好 -> Mate 70 Pro 优享版 -> ... -> 手机"}
+{"instruction": "「价格更友好」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "价格更友好 -> Mate 70 Pro 优享版 -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「价格更友好」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "价格更友好 -> Mate 70 Pro 优享版 -> ... -> Mate 系列"}
+{"instruction": "「价格更友好」是华为哪款产品的特性？", "output": "Mate 70 Pro 优享版", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "价格更友好 -> Mate 70 Pro 优享版"}
+{"instruction": "哪款华为产品有「价格更友好」？", "output": "Mate 70 Pro 优享版", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "价格更友好 -> Mate 70 Pro 优享版"}
+{"instruction": "具有「16GB大内存」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16GB大内存 -> Mate 70 Pro+ -> ... -> 华为"}
+{"instruction": "「16GB大内存」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16GB大内存 -> Mate 70 Pro+ -> ... -> 华为"}
+{"instruction": "「16GB大内存」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16GB大内存 -> Mate 70 Pro+ -> ... -> 手机"}
+{"instruction": "具备「16GB大内存」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16GB大内存 -> Mate 70 Pro+ -> ... -> 手机"}
+{"instruction": "「16GB大内存」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16GB大内存 -> Mate 70 Pro+ -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「16GB大内存」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16GB大内存 -> Mate 70 Pro+ -> ... -> Mate 系列"}
+{"instruction": "「16GB大内存」是华为哪款产品的特性？", "output": "Mate 70 Pro+", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16GB大内存 -> Mate 70 Pro+"}
+{"instruction": "哪款华为产品有「16GB大内存」？", "output": "Mate 70 Pro+", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16GB大内存 -> Mate 70 Pro+"}
+{"instruction": "具有「2K直屏」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2K直屏 -> Mate 70 Pro+ -> ... -> 华为"}
+{"instruction": "「2K直屏」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2K直屏 -> Mate 70 Pro+ -> ... -> 华为"}
+{"instruction": "「2K直屏」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2K直屏 -> Mate 70 Pro+ -> ... -> 手机"}
+{"instruction": "具备「2K直屏」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2K直屏 -> Mate 70 Pro+ -> ... -> 手机"}
+{"instruction": "「2K直屏」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2K直屏 -> Mate 70 Pro+ -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「2K直屏」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2K直屏 -> Mate 70 Pro+ -> ... -> Mate 系列"}
+{"instruction": "「2K直屏」是华为哪款产品的特性？", "output": "Mate 70 Pro+", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2K直屏 -> Mate 70 Pro+"}
+{"instruction": "哪款华为产品有「2K直屏」？", "output": "Mate 70 Pro+", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2K直屏 -> Mate 70 Pro+"}
+{"instruction": "具有「天通卫星」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通卫星 -> Mate 70 Pro+ -> ... -> 华为"}
+{"instruction": "「天通卫星」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通卫星 -> Mate 70 Pro+ -> ... -> 华为"}
+{"instruction": "「天通卫星」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通卫星 -> Mate 70 Pro+ -> ... -> 手机"}
+{"instruction": "具备「天通卫星」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通卫星 -> Mate 70 Pro+ -> ... -> 手机"}
+{"instruction": "「天通卫星」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通卫星 -> Mate 70 Pro+ -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「天通卫星」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通卫星 -> Mate 70 Pro+ -> ... -> Mate 系列"}
+{"instruction": "「天通卫星」是华为哪款产品的特性？", "output": "Mate 70 Pro+", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通卫星 -> Mate 70 Pro+"}
+{"instruction": "哪款华为产品有「天通卫星」？", "output": "Mate 70 Pro+", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通卫星 -> Mate 70 Pro+"}
+{"instruction": "具有「双层OLED微曲屏」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双层OLED微曲屏 -> Mate 70 RS 非凡大师 -> ... -> 华为"}
+{"instruction": "「双层OLED微曲屏」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双层OLED微曲屏 -> Mate 70 RS 非凡大师 -> ... -> 华为"}
+{"instruction": "「双层OLED微曲屏」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双层OLED微曲屏 -> Mate 70 RS 非凡大师 -> ... -> 手机"}
+{"instruction": "具备「双层OLED微曲屏」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双层OLED微曲屏 -> Mate 70 RS 非凡大师 -> ... -> 手机"}
+{"instruction": "「双层OLED微曲屏」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双层OLED微曲屏 -> Mate 70 RS 非凡大师 -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「双层OLED微曲屏」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双层OLED微曲屏 -> Mate 70 RS 非凡大师 -> ... -> Mate 系列"}
+{"instruction": "「双层OLED微曲屏」是华为哪款产品的特性？", "output": "Mate 70 RS 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双层OLED微曲屏 -> Mate 70 RS 非凡大师"}
+{"instruction": "哪款华为产品有「双层OLED微曲屏」？", "output": "Mate 70 RS 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双层OLED微曲屏 -> Mate 70 RS 非凡大师"}
+{"instruction": "具有「7寸大屏」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7寸大屏 -> Mate 70 Air -> ... -> 华为"}
+{"instruction": "「7寸大屏」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7寸大屏 -> Mate 70 Air -> ... -> 华为"}
+{"instruction": "「7寸大屏」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7寸大屏 -> Mate 70 Air -> ... -> 手机"}
+{"instruction": "具备「7寸大屏」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7寸大屏 -> Mate 70 Air -> ... -> 手机"}
+{"instruction": "「7寸大屏」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7寸大屏 -> Mate 70 Air -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「7寸大屏」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7寸大屏 -> Mate 70 Air -> ... -> Mate 系列"}
+{"instruction": "「7寸大屏」是华为哪款产品的特性？", "output": "Mate 70 Air", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7寸大屏 -> Mate 70 Air"}
+{"instruction": "哪款华为产品有「7寸大屏」？", "output": "Mate 70 Air", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7寸大屏 -> Mate 70 Air"}
+{"instruction": "具有「3170起最便宜Mate」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3170起最便宜Mate -> Mate 70 Air -> ... -> 华为"}
+{"instruction": "「3170起最便宜Mate」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3170起最便宜Mate -> Mate 70 Air -> ... -> 华为"}
+{"instruction": "「3170起最便宜Mate」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3170起最便宜Mate -> Mate 70 Air -> ... -> 手机"}
+{"instruction": "具备「3170起最便宜Mate」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3170起最便宜Mate -> Mate 70 Air -> ... -> 手机"}
+{"instruction": "「3170起最便宜Mate」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3170起最便宜Mate -> Mate 70 Air -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「3170起最便宜Mate」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3170起最便宜Mate -> Mate 70 Air -> ... -> Mate 系列"}
+{"instruction": "「3170起最便宜Mate」是华为哪款产品的特性？", "output": "Mate 70 Air", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3170起最便宜Mate -> Mate 70 Air"}
+{"instruction": "哪款华为产品有「3170起最便宜Mate」？", "output": "Mate 70 Air", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3170起最便宜Mate -> Mate 70 Air"}
+{"instruction": "具有「HarmonyOS 7」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 7 -> Mate 90 系列 -> ... -> 华为"}
+{"instruction": "「HarmonyOS 7」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 7 -> Mate 90 系列 -> ... -> 华为"}
+{"instruction": "「HarmonyOS 7」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 7 -> Mate 90 系列 -> ... -> 手机"}
+{"instruction": "具备「HarmonyOS 7」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 7 -> Mate 90 系列 -> ... -> 手机"}
+{"instruction": "「HarmonyOS 7」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 7 -> Mate 90 系列 -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「HarmonyOS 7」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 7 -> Mate 90 系列 -> ... -> Mate 系列"}
+{"instruction": "「HarmonyOS 7」是华为哪款产品的特性？", "output": "Mate 90 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 7 -> Mate 90 系列"}
+{"instruction": "哪款华为产品有「HarmonyOS 7」？", "output": "Mate 90 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 7 -> Mate 90 系列"}
+{"instruction": "具有「5G回归」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5G回归 -> Mate 90 系列 -> ... -> 华为"}
+{"instruction": "「5G回归」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5G回归 -> Mate 90 系列 -> ... -> 华为"}
+{"instruction": "「5G回归」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5G回归 -> Mate 90 系列 -> ... -> 手机"}
+{"instruction": "具备「5G回归」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5G回归 -> Mate 90 系列 -> ... -> 手机"}
+{"instruction": "「5G回归」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5G回归 -> Mate 90 系列 -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「5G回归」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5G回归 -> Mate 90 系列 -> ... -> Mate 系列"}
+{"instruction": "「5G回归」是华为哪款产品的特性？", "output": "Mate 90 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5G回归 -> Mate 90 系列"}
+{"instruction": "哪款华为产品有「5G回归」？", "output": "Mate 90 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5G回归 -> Mate 90 系列"}
+{"instruction": "具有「HarmonyOS 6.1」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 6.1 -> Pura 90 -> ... -> 华为"}
+{"instruction": "「HarmonyOS 6.1」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 6.1 -> Pura 90 -> ... -> 华为"}
+{"instruction": "「HarmonyOS 6.1」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 6.1 -> Pura 90 -> ... -> 手机"}
+{"instruction": "具备「HarmonyOS 6.1」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 6.1 -> Pura 90 -> ... -> 手机"}
+{"instruction": "「HarmonyOS 6.1」这一特性属于华为哪个系列？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 6.1 -> Pura 90 -> ... -> Pura 系列"}
+{"instruction": "华为哪个系列的产品有「HarmonyOS 6.1」？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 6.1 -> Pura 90 -> ... -> Pura 系列"}
+{"instruction": "「HarmonyOS 6.1」是华为哪款产品的特性？", "output": "Pura 90", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 6.1 -> Pura 90"}
+{"instruction": "哪款华为产品有「HarmonyOS 6.1」？", "output": "Pura 90", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "HarmonyOS 6.1 -> Pura 90"}
+{"instruction": "具有「6.6寸唯一直屏Pura」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.6寸唯一直屏Pura -> Pura 80 -> ... -> 华为"}
+{"instruction": "「6.6寸唯一直屏Pura」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.6寸唯一直屏Pura -> Pura 80 -> ... -> 华为"}
+{"instruction": "「6.6寸唯一直屏Pura」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.6寸唯一直屏Pura -> Pura 80 -> ... -> 手机"}
+{"instruction": "具备「6.6寸唯一直屏Pura」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.6寸唯一直屏Pura -> Pura 80 -> ... -> 手机"}
+{"instruction": "「6.6寸唯一直屏Pura」这一特性属于华为哪个系列？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.6寸唯一直屏Pura -> Pura 80 -> ... -> Pura 系列"}
+{"instruction": "华为哪个系列的产品有「6.6寸唯一直屏Pura」？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.6寸唯一直屏Pura -> Pura 80 -> ... -> Pura 系列"}
+{"instruction": "「6.6寸唯一直屏Pura」是华为哪款产品的特性？", "output": "Pura 80", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.6寸唯一直屏Pura -> Pura 80"}
+{"instruction": "哪款华为产品有「6.6寸唯一直屏Pura」？", "output": "Pura 80", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.6寸唯一直屏Pura -> Pura 80"}
+{"instruction": "具有「1寸大底RYYB」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸大底RYYB -> Pura 80 Pro -> ... -> 华为"}
+{"instruction": "「1寸大底RYYB」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸大底RYYB -> Pura 80 Pro -> ... -> 华为"}
+{"instruction": "「1寸大底RYYB」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸大底RYYB -> Pura 80 Pro -> ... -> 手机"}
+{"instruction": "具备「1寸大底RYYB」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸大底RYYB -> Pura 80 Pro -> ... -> 手机"}
+{"instruction": "「1寸大底RYYB」这一特性属于华为哪个系列？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸大底RYYB -> Pura 80 Pro -> ... -> Pura 系列"}
+{"instruction": "华为哪个系列的产品有「1寸大底RYYB」？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸大底RYYB -> Pura 80 Pro -> ... -> Pura 系列"}
+{"instruction": "「1寸大底RYYB」是华为哪款产品的特性？", "output": "Pura 80 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸大底RYYB -> Pura 80 Pro"}
+{"instruction": "哪款华为产品有「1寸大底RYYB」？", "output": "Pura 80 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸大底RYYB -> Pura 80 Pro"}
+{"instruction": "具有「1寸高动态版」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸高动态版 -> Pura 80 Pro+ -> ... -> 华为"}
+{"instruction": "「1寸高动态版」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸高动态版 -> Pura 80 Pro+ -> ... -> 华为"}
+{"instruction": "「1寸高动态版」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸高动态版 -> Pura 80 Pro+ -> ... -> 手机"}
+{"instruction": "具备「1寸高动态版」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸高动态版 -> Pura 80 Pro+ -> ... -> 手机"}
+{"instruction": "「1寸高动态版」这一特性属于华为哪个系列？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸高动态版 -> Pura 80 Pro+ -> ... -> Pura 系列"}
+{"instruction": "华为哪个系列的产品有「1寸高动态版」？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸高动态版 -> Pura 80 Pro+ -> ... -> Pura 系列"}
+{"instruction": "「1寸高动态版」是华为哪款产品的特性？", "output": "Pura 80 Pro+", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸高动态版 -> Pura 80 Pro+"}
+{"instruction": "哪款华为产品有「1寸高动态版」？", "output": "Pura 80 Pro+", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1寸高动态版 -> Pura 80 Pro+"}
+{"instruction": "具有「天通+北斗双卫星」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通+北斗双卫星 -> Pura 80 Pro+ -> ... -> 华为"}
+{"instruction": "「天通+北斗双卫星」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通+北斗双卫星 -> Pura 80 Pro+ -> ... -> 华为"}
+{"instruction": "「天通+北斗双卫星」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通+北斗双卫星 -> Pura 80 Pro+ -> ... -> 手机"}
+{"instruction": "具备「天通+北斗双卫星」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通+北斗双卫星 -> Pura 80 Pro+ -> ... -> 手机"}
+{"instruction": "「天通+北斗双卫星」这一特性属于华为哪个系列？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通+北斗双卫星 -> Pura 80 Pro+ -> ... -> Pura 系列"}
+{"instruction": "华为哪个系列的产品有「天通+北斗双卫星」？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通+北斗双卫星 -> Pura 80 Pro+ -> ... -> Pura 系列"}
+{"instruction": "「天通+北斗双卫星」是华为哪款产品的特性？", "output": "Pura 80 Pro+", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通+北斗双卫星 -> Pura 80 Pro+"}
+{"instruction": "哪款华为产品有「天通+北斗双卫星」？", "output": "Pura 80 Pro+", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "天通+北斗双卫星 -> Pura 80 Pro+"}
+{"instruction": "具有「一镜双目双焦段长焦」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "一镜双目双焦段长焦 -> Pura 80 Ultra -> ... -> 华为"}
+{"instruction": "「一镜双目双焦段长焦」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "一镜双目双焦段长焦 -> Pura 80 Ultra -> ... -> 华为"}
+{"instruction": "「一镜双目双焦段长焦」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "一镜双目双焦段长焦 -> Pura 80 Ultra -> ... -> 手机"}
+{"instruction": "具备「一镜双目双焦段长焦」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "一镜双目双焦段长焦 -> Pura 80 Ultra -> ... -> 手机"}
+{"instruction": "「一镜双目双焦段长焦」这一特性属于华为哪个系列？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "一镜双目双焦段长焦 -> Pura 80 Ultra -> ... -> Pura 系列"}
+{"instruction": "华为哪个系列的产品有「一镜双目双焦段长焦」？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "一镜双目双焦段长焦 -> Pura 80 Ultra -> ... -> Pura 系列"}
+{"instruction": "「一镜双目双焦段长焦」是华为哪款产品的特性？", "output": "Pura 80 Ultra", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "一镜双目双焦段长焦 -> Pura 80 Ultra"}
+{"instruction": "哪款华为产品有「一镜双目双焦段长焦」？", "output": "Pura 80 Ultra", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "一镜双目双焦段长焦 -> Pura 80 Ultra"}
+{"instruction": "具有「万元影像机皇」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "万元影像机皇 -> Pura 80 Ultra -> ... -> 华为"}
+{"instruction": "「万元影像机皇」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "万元影像机皇 -> Pura 80 Ultra -> ... -> 华为"}
+{"instruction": "「万元影像机皇」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "万元影像机皇 -> Pura 80 Ultra -> ... -> 手机"}
+{"instruction": "具备「万元影像机皇」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "万元影像机皇 -> Pura 80 Ultra -> ... -> 手机"}
+{"instruction": "「万元影像机皇」这一特性属于华为哪个系列？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "万元影像机皇 -> Pura 80 Ultra -> ... -> Pura 系列"}
+{"instruction": "华为哪个系列的产品有「万元影像机皇」？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "万元影像机皇 -> Pura 80 Ultra -> ... -> Pura 系列"}
+{"instruction": "「万元影像机皇」是华为哪款产品的特性？", "output": "Pura 80 Ultra", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "万元影像机皇 -> Pura 80 Ultra"}
+{"instruction": "哪款华为产品有「万元影像机皇」？", "output": "Pura 80 Ultra", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "万元影像机皇 -> Pura 80 Ultra"}
+{"instruction": "具有「8.0寸内屏」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.0寸内屏 -> Mate X7 -> ... -> 华为"}
+{"instruction": "「8.0寸内屏」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.0寸内屏 -> Mate X7 -> ... -> 华为"}
+{"instruction": "「8.0寸内屏」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.0寸内屏 -> Mate X7 -> ... -> 手机"}
+{"instruction": "具备「8.0寸内屏」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.0寸内屏 -> Mate X7 -> ... -> 手机"}
+{"instruction": "「8.0寸内屏」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.0寸内屏 -> Mate X7 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「8.0寸内屏」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.0寸内屏 -> Mate X7 -> ... -> 折叠屏"}
+{"instruction": "「8.0寸内屏」是华为哪款产品的特性？", "output": "Mate X7", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.0寸内屏 -> Mate X7"}
+{"instruction": "哪款华为产品有「8.0寸内屏」？", "output": "Mate X7", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.0寸内屏 -> Mate X7"}
+{"instruction": "具有「第二代红枫」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第二代红枫 -> Mate X7 -> ... -> 华为"}
+{"instruction": "「第二代红枫」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第二代红枫 -> Mate X7 -> ... -> 华为"}
+{"instruction": "「第二代红枫」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第二代红枫 -> Mate X7 -> ... -> 手机"}
+{"instruction": "具备「第二代红枫」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第二代红枫 -> Mate X7 -> ... -> 手机"}
+{"instruction": "「第二代红枫」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第二代红枫 -> Mate X7 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「第二代红枫」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第二代红枫 -> Mate X7 -> ... -> 折叠屏"}
+{"instruction": "「第二代红枫」是华为哪款产品的特性？", "output": "Mate X7", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第二代红枫 -> Mate X7"}
+{"instruction": "哪款华为产品有「第二代红枫」？", "output": "Mate X7", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第二代红枫 -> Mate X7"}
+{"instruction": "具有「分布式玄武架构」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "分布式玄武架构 -> Mate X6 -> ... -> 华为"}
+{"instruction": "「分布式玄武架构」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "分布式玄武架构 -> Mate X6 -> ... -> 华为"}
+{"instruction": "「分布式玄武架构」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "分布式玄武架构 -> Mate X6 -> ... -> 手机"}
+{"instruction": "具备「分布式玄武架构」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "分布式玄武架构 -> Mate X6 -> ... -> 手机"}
+{"instruction": "「分布式玄武架构」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "分布式玄武架构 -> Mate X6 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「分布式玄武架构」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "分布式玄武架构 -> Mate X6 -> ... -> 折叠屏"}
+{"instruction": "「分布式玄武架构」是华为哪款产品的特性？", "output": "Mate X6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "分布式玄武架构 -> Mate X6"}
+{"instruction": "哪款华为产品有「分布式玄武架构」？", "output": "Mate X6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "分布式玄武架构 -> Mate X6"}
+{"instruction": "具有「8.15寸内屏」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.15寸内屏 -> Mate X8 -> ... -> 华为"}
+{"instruction": "「8.15寸内屏」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.15寸内屏 -> Mate X8 -> ... -> 华为"}
+{"instruction": "「8.15寸内屏」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.15寸内屏 -> Mate X8 -> ... -> 手机"}
+{"instruction": "具备「8.15寸内屏」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.15寸内屏 -> Mate X8 -> ... -> 手机"}
+{"instruction": "「8.15寸内屏」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.15寸内屏 -> Mate X8 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「8.15寸内屏」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.15寸内屏 -> Mate X8 -> ... -> 折叠屏"}
+{"instruction": "「8.15寸内屏」是华为哪款产品的特性？", "output": "Mate X8", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.15寸内屏 -> Mate X8"}
+{"instruction": "哪款华为产品有「8.15寸内屏」？", "output": "Mate X8", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8.15寸内屏 -> Mate X8"}
+{"instruction": "具有「10.1寸展开当平板用」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "10.1寸展开当平板用 -> Mate XTs 非凡大师 -> ... -> 华为"}
+{"instruction": "「10.1寸展开当平板用」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "10.1寸展开当平板用 -> Mate XTs 非凡大师 -> ... -> 华为"}
+{"instruction": "「10.1寸展开当平板用」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "10.1寸展开当平板用 -> Mate XTs 非凡大师 -> ... -> 手机"}
+{"instruction": "具备「10.1寸展开当平板用」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "10.1寸展开当平板用 -> Mate XTs 非凡大师 -> ... -> 手机"}
+{"instruction": "「10.1寸展开当平板用」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "10.1寸展开当平板用 -> Mate XTs 非凡大师 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「10.1寸展开当平板用」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "10.1寸展开当平板用 -> Mate XTs 非凡大师 -> ... -> 折叠屏"}
+{"instruction": "「10.1寸展开当平板用」是华为哪款产品的特性？", "output": "Mate XTs 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "10.1寸展开当平板用 -> Mate XTs 非凡大师"}
+{"instruction": "哪款华为产品有「10.1寸展开当平板用」？", "output": "Mate XTs 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "10.1寸展开当平板用 -> Mate XTs 非凡大师"}
+{"instruction": "具有「PC级应用」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "PC级应用 -> Mate XTs 非凡大师 -> ... -> 华为"}
+{"instruction": "「PC级应用」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "PC级应用 -> Mate XTs 非凡大师 -> ... -> 华为"}
+{"instruction": "「PC级应用」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "PC级应用 -> Mate XTs 非凡大师 -> ... -> 手机"}
+{"instruction": "具备「PC级应用」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "PC级应用 -> Mate XTs 非凡大师 -> ... -> 手机"}
+{"instruction": "「PC级应用」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "PC级应用 -> Mate XTs 非凡大师 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「PC级应用」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "PC级应用 -> Mate XTs 非凡大师 -> ... -> 折叠屏"}
+{"instruction": "「PC级应用」是华为哪款产品的特性？", "output": "Mate XTs 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "PC级应用 -> Mate XTs 非凡大师"}
+{"instruction": "哪款华为产品有「PC级应用」？", "output": "Mate XTs 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "PC级应用 -> Mate XTs 非凡大师"}
+{"instruction": "具有「三折叠形态」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "三折叠形态 -> Mate XTs 非凡大师 -> ... -> 华为"}
+{"instruction": "「三折叠形态」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "三折叠形态 -> Mate XTs 非凡大师 -> ... -> 华为"}
+{"instruction": "「三折叠形态」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "三折叠形态 -> Mate XTs 非凡大师 -> ... -> 手机"}
+{"instruction": "具备「三折叠形态」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "三折叠形态 -> Mate XTs 非凡大师 -> ... -> 手机"}
+{"instruction": "「三折叠形态」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "三折叠形态 -> Mate XTs 非凡大师 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「三折叠形态」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "三折叠形态 -> Mate XTs 非凡大师 -> ... -> 折叠屏"}
+{"instruction": "「三折叠形态」是华为哪款产品的特性？", "output": "Mate XTs 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "三折叠形态 -> Mate XTs 非凡大师"}
+{"instruction": "哪款华为产品有「三折叠形态」？", "output": "Mate XTs 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "三折叠形态 -> Mate XTs 非凡大师"}
+{"instruction": "具有「U型三折叠」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "U型三折叠 -> Mate XT2 -> ... -> 华为"}
+{"instruction": "「U型三折叠」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "U型三折叠 -> Mate XT2 -> ... -> 华为"}
+{"instruction": "「U型三折叠」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "U型三折叠 -> Mate XT2 -> ... -> 手机"}
+{"instruction": "具备「U型三折叠」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "U型三折叠 -> Mate XT2 -> ... -> 手机"}
+{"instruction": "「U型三折叠」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "U型三折叠 -> Mate XT2 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「U型三折叠」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "U型三折叠 -> Mate XT2 -> ... -> 折叠屏"}
+{"instruction": "「U型三折叠」是华为哪款产品的特性？", "output": "Mate XT2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "U型三折叠 -> Mate XT2"}
+{"instruction": "哪款华为产品有「U型三折叠」？", "output": "Mate XT2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "U型三折叠 -> Mate XT2"}
+{"instruction": "具有「独立外屏」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "独立外屏 -> Mate XT2 -> ... -> 华为"}
+{"instruction": "「独立外屏」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "独立外屏 -> Mate XT2 -> ... -> 华为"}
+{"instruction": "「独立外屏」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "独立外屏 -> Mate XT2 -> ... -> 手机"}
+{"instruction": "具备「独立外屏」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "独立外屏 -> Mate XT2 -> ... -> 手机"}
+{"instruction": "「独立外屏」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "独立外屏 -> Mate XT2 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「独立外屏」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "独立外屏 -> Mate XT2 -> ... -> 折叠屏"}
+{"instruction": "「独立外屏」是华为哪款产品的特性？", "output": "Mate XT2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "独立外屏 -> Mate XT2"}
+{"instruction": "哪款华为产品有「独立外屏」？", "output": "Mate XT2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "独立外屏 -> Mate XT2"}
+{"instruction": "具有「7.7寸内屏」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7.7寸内屏 -> Pura X Max -> ... -> 华为"}
+{"instruction": "「7.7寸内屏」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7.7寸内屏 -> Pura X Max -> ... -> 华为"}
+{"instruction": "「7.7寸内屏」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7.7寸内屏 -> Pura X Max -> ... -> 手机"}
+{"instruction": "具备「7.7寸内屏」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7.7寸内屏 -> Pura X Max -> ... -> 手机"}
+{"instruction": "「7.7寸内屏」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7.7寸内屏 -> Pura X Max -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「7.7寸内屏」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7.7寸内屏 -> Pura X Max -> ... -> 折叠屏"}
+{"instruction": "「7.7寸内屏」是华为哪款产品的特性？", "output": "Pura X Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7.7寸内屏 -> Pura X Max"}
+{"instruction": "哪款华为产品有「7.7寸内屏」？", "output": "Pura X Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7.7寸内屏 -> Pura X Max"}
+{"instruction": "具有「16:10阔型屏」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16:10阔型屏 -> Pura X Max -> ... -> 华为"}
+{"instruction": "「16:10阔型屏」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16:10阔型屏 -> Pura X Max -> ... -> 华为"}
+{"instruction": "「16:10阔型屏」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16:10阔型屏 -> Pura X Max -> ... -> 手机"}
+{"instruction": "具备「16:10阔型屏」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16:10阔型屏 -> Pura X Max -> ... -> 手机"}
+{"instruction": "「16:10阔型屏」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16:10阔型屏 -> Pura X Max -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「16:10阔型屏」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16:10阔型屏 -> Pura X Max -> ... -> 折叠屏"}
+{"instruction": "「16:10阔型屏」是华为哪款产品的特性？", "output": "Pura X Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16:10阔型屏 -> Pura X Max"}
+{"instruction": "哪款华为产品有「16:10阔型屏」？", "output": "Pura X Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16:10阔型屏 -> Pura X Max"}
+{"instruction": "具有「IP58/59」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "IP58/59 -> Pura X Max -> ... -> 华为"}
+{"instruction": "「IP58/59」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "IP58/59 -> Pura X Max -> ... -> 华为"}
+{"instruction": "「IP58/59」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "IP58/59 -> Pura X Max -> ... -> 手机"}
+{"instruction": "具备「IP58/59」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "IP58/59 -> Pura X Max -> ... -> 手机"}
+{"instruction": "「IP58/59」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "IP58/59 -> Pura X Max -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「IP58/59」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "IP58/59 -> Pura X Max -> ... -> 折叠屏"}
+{"instruction": "「IP58/59」是华为哪款产品的特性？", "output": "Pura X Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "IP58/59 -> Pura X Max"}
+{"instruction": "哪款华为产品有「IP58/59」？", "output": "Pura X Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "IP58/59 -> Pura X Max"}
+{"instruction": "具有「6.3寸16:10阔型屏」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.3寸16:10阔型屏 -> Pura X -> ... -> 华为"}
+{"instruction": "「6.3寸16:10阔型屏」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.3寸16:10阔型屏 -> Pura X -> ... -> 华为"}
+{"instruction": "「6.3寸16:10阔型屏」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.3寸16:10阔型屏 -> Pura X -> ... -> 手机"}
+{"instruction": "具备「6.3寸16:10阔型屏」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.3寸16:10阔型屏 -> Pura X -> ... -> 手机"}
+{"instruction": "「6.3寸16:10阔型屏」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.3寸16:10阔型屏 -> Pura X -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「6.3寸16:10阔型屏」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.3寸16:10阔型屏 -> Pura X -> ... -> 折叠屏"}
+{"instruction": "「6.3寸16:10阔型屏」是华为哪款产品的特性？", "output": "Pura X", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.3寸16:10阔型屏 -> Pura X"}
+{"instruction": "哪款华为产品有「6.3寸16:10阔型屏」？", "output": "Pura X", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.3寸16:10阔型屏 -> Pura X"}
+{"instruction": "具有「7499较亲民折叠」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7499较亲民折叠 -> Pura X -> ... -> 华为"}
+{"instruction": "「7499较亲民折叠」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7499较亲民折叠 -> Pura X -> ... -> 华为"}
+{"instruction": "「7499较亲民折叠」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7499较亲民折叠 -> Pura X -> ... -> 手机"}
+{"instruction": "具备「7499较亲民折叠」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7499较亲民折叠 -> Pura X -> ... -> 手机"}
+{"instruction": "「7499较亲民折叠」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7499较亲民折叠 -> Pura X -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「7499较亲民折叠」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7499较亲民折叠 -> Pura X -> ... -> 折叠屏"}
+{"instruction": "「7499较亲民折叠」是华为哪款产品的特性？", "output": "Pura X", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7499较亲民折叠 -> Pura X"}
+{"instruction": "哪款华为产品有「7499较亲民折叠」？", "output": "Pura X", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7499较亲民折叠 -> Pura X"}
+{"instruction": "具有「nova首款新折叠」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova首款新折叠 -> Nova Flip 2 -> ... -> 华为"}
+{"instruction": "「nova首款新折叠」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova首款新折叠 -> Nova Flip 2 -> ... -> 华为"}
+{"instruction": "「nova首款新折叠」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova首款新折叠 -> Nova Flip 2 -> ... -> 手机"}
+{"instruction": "具备「nova首款新折叠」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova首款新折叠 -> Nova Flip 2 -> ... -> 手机"}
+{"instruction": "「nova首款新折叠」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova首款新折叠 -> Nova Flip 2 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「nova首款新折叠」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova首款新折叠 -> Nova Flip 2 -> ... -> 折叠屏"}
+{"instruction": "「nova首款新折叠」是华为哪款产品的特性？", "output": "Nova Flip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova首款新折叠 -> Nova Flip 2"}
+{"instruction": "哪款华为产品有「nova首款新折叠」？", "output": "Nova Flip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova首款新折叠 -> Nova Flip 2"}
+{"instruction": "具有「第一代红枫影像」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第一代红枫影像 -> nova 16 SE -> ... -> 华为"}
+{"instruction": "「第一代红枫影像」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第一代红枫影像 -> nova 16 SE -> ... -> 华为"}
+{"instruction": "「第一代红枫影像」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第一代红枫影像 -> nova 16 SE -> ... -> 手机"}
+{"instruction": "具备「第一代红枫影像」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第一代红枫影像 -> nova 16 SE -> ... -> 手机"}
+{"instruction": "「第一代红枫影像」这一特性属于华为哪个系列？", "output": "nova 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第一代红枫影像 -> nova 16 SE -> ... -> nova 系列"}
+{"instruction": "华为哪个系列的产品有「第一代红枫影像」？", "output": "nova 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第一代红枫影像 -> nova 16 SE -> ... -> nova 系列"}
+{"instruction": "「第一代红枫影像」是华为哪款产品的特性？", "output": "nova 16 SE", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第一代红枫影像 -> nova 16 SE"}
+{"instruction": "哪款华为产品有「第一代红枫影像」？", "output": "nova 16 SE", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "第一代红枫影像 -> nova 16 SE"}
+{"instruction": "具有「256GB到1TB全覆盖」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "256GB到1TB全覆盖 -> nova 16 Pro -> ... -> 华为"}
+{"instruction": "「256GB到1TB全覆盖」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "256GB到1TB全覆盖 -> nova 16 Pro -> ... -> 华为"}
+{"instruction": "「256GB到1TB全覆盖」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "256GB到1TB全覆盖 -> nova 16 Pro -> ... -> 手机"}
+{"instruction": "具备「256GB到1TB全覆盖」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "256GB到1TB全覆盖 -> nova 16 Pro -> ... -> 手机"}
+{"instruction": "「256GB到1TB全覆盖」这一特性属于华为哪个系列？", "output": "nova 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "256GB到1TB全覆盖 -> nova 16 Pro -> ... -> nova 系列"}
+{"instruction": "华为哪个系列的产品有「256GB到1TB全覆盖」？", "output": "nova 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "256GB到1TB全覆盖 -> nova 16 Pro -> ... -> nova 系列"}
+{"instruction": "「256GB到1TB全覆盖」是华为哪款产品的特性？", "output": "nova 16 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "256GB到1TB全覆盖 -> nova 16 Pro"}
+{"instruction": "哪款华为产品有「256GB到1TB全覆盖」？", "output": "nova 16 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "256GB到1TB全覆盖 -> nova 16 Pro"}
+{"instruction": "具有「nova最强影像」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova最强影像 -> nova 16 Ultra -> ... -> 华为"}
+{"instruction": "「nova最强影像」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova最强影像 -> nova 16 Ultra -> ... -> 华为"}
+{"instruction": "「nova最强影像」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova最强影像 -> nova 16 Ultra -> ... -> 手机"}
+{"instruction": "具备「nova最强影像」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova最强影像 -> nova 16 Ultra -> ... -> 手机"}
+{"instruction": "「nova最强影像」这一特性属于华为哪个系列？", "output": "nova 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova最强影像 -> nova 16 Ultra -> ... -> nova 系列"}
+{"instruction": "华为哪个系列的产品有「nova最强影像」？", "output": "nova 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova最强影像 -> nova 16 Ultra -> ... -> nova 系列"}
+{"instruction": "「nova最强影像」是华为哪款产品的特性？", "output": "nova 16 Ultra", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova最强影像 -> nova 16 Ultra"}
+{"instruction": "哪款华为产品有「nova最强影像」？", "output": "nova 16 Ultra", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "nova最强影像 -> nova 16 Ultra"}
+{"instruction": "具有「1299千元5G」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1299千元5G -> 畅享 90 -> ... -> 华为"}
+{"instruction": "「1299千元5G」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1299千元5G -> 畅享 90 -> ... -> 华为"}
+{"instruction": "「1299千元5G」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1299千元5G -> 畅享 90 -> ... -> 手机"}
+{"instruction": "具备「1299千元5G」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1299千元5G -> 畅享 90 -> ... -> 手机"}
+{"instruction": "「1299千元5G」这一特性属于华为哪个系列？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1299千元5G -> 畅享 90 -> ... -> 畅享系列"}
+{"instruction": "华为哪个系列的产品有「1299千元5G」？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1299千元5G -> 畅享 90 -> ... -> 畅享系列"}
+{"instruction": "「1299千元5G」是华为哪款产品的特性？", "output": "畅享 90", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1299千元5G -> 畅享 90"}
+{"instruction": "哪款华为产品有「1299千元5G」？", "output": "畅享 90", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1299千元5G -> 畅享 90"}
+{"instruction": "具有「6.84寸OLED」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.84寸OLED -> 畅享 90 Pro Max -> ... -> 华为"}
+{"instruction": "「6.84寸OLED」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.84寸OLED -> 畅享 90 Pro Max -> ... -> 华为"}
+{"instruction": "「6.84寸OLED」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.84寸OLED -> 畅享 90 Pro Max -> ... -> 手机"}
+{"instruction": "具备「6.84寸OLED」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.84寸OLED -> 畅享 90 Pro Max -> ... -> 手机"}
+{"instruction": "「6.84寸OLED」这一特性属于华为哪个系列？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.84寸OLED -> 畅享 90 Pro Max -> ... -> 畅享系列"}
+{"instruction": "华为哪个系列的产品有「6.84寸OLED」？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.84寸OLED -> 畅享 90 Pro Max -> ... -> 畅享系列"}
+{"instruction": "「6.84寸OLED」是华为哪款产品的特性？", "output": "畅享 90 Pro Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.84寸OLED -> 畅享 90 Pro Max"}
+{"instruction": "哪款华为产品有「6.84寸OLED」？", "output": "畅享 90 Pro Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.84寸OLED -> 畅享 90 Pro Max"}
+{"instruction": "具有「NFC」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "NFC -> 畅享 90 Pro Max -> ... -> 华为"}
+{"instruction": "「NFC」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "NFC -> 畅享 90 Pro Max -> ... -> 华为"}
+{"instruction": "「NFC」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "NFC -> 畅享 90 Pro Max -> ... -> 手机"}
+{"instruction": "具备「NFC」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "NFC -> 畅享 90 Pro Max -> ... -> 手机"}
+{"instruction": "「NFC」这一特性属于华为哪个系列？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "NFC -> 畅享 90 Pro Max -> ... -> 畅享系列"}
+{"instruction": "华为哪个系列的产品有「NFC」？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "NFC -> 畅享 90 Pro Max -> ... -> 畅享系列"}
+{"instruction": "「NFC」是华为哪款产品的特性？", "output": "畅享 90 Pro Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "NFC -> 畅享 90 Pro Max"}
+{"instruction": "哪款华为产品有「NFC」？", "output": "畅享 90 Pro Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "NFC -> 畅享 90 Pro Max"}
+{"instruction": "具有「千元续航王」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "千元续航王 -> 畅享 90 Pro Max -> ... -> 华为"}
+{"instruction": "「千元续航王」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "千元续航王 -> 畅享 90 Pro Max -> ... -> 华为"}
+{"instruction": "「千元续航王」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "千元续航王 -> 畅享 90 Pro Max -> ... -> 手机"}
+{"instruction": "具备「千元续航王」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "千元续航王 -> 畅享 90 Pro Max -> ... -> 手机"}
+{"instruction": "「千元续航王」这一特性属于华为哪个系列？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "千元续航王 -> 畅享 90 Pro Max -> ... -> 畅享系列"}
+{"instruction": "华为哪个系列的产品有「千元续航王」？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "千元续航王 -> 畅享 90 Pro Max -> ... -> 畅享系列"}
+{"instruction": "「千元续航王」是华为哪款产品的特性？", "output": "畅享 90 Pro Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "千元续航王 -> 畅享 90 Pro Max"}
+{"instruction": "哪款华为产品有「千元续航王」？", "output": "畅享 90 Pro Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "千元续航王 -> 畅享 90 Pro Max"}
+{"instruction": "具有「13.2寸柔性OLED」这一特性的是哪家公司的产品？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "13.2寸柔性OLED -> MatePad Pro 13.2 2025 -> ... -> MatePad Pro 系列"}
+{"instruction": "「13.2寸柔性OLED」是哪个品牌的功能？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "13.2寸柔性OLED -> MatePad Pro 13.2 2025 -> ... -> MatePad Pro 系列"}
+{"instruction": "「13.2寸柔性OLED」是华为哪款产品的特性？", "output": "MatePad Pro 13.2 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "13.2寸柔性OLED -> MatePad Pro 13.2 2025"}
+{"instruction": "哪款华为产品有「13.2寸柔性OLED」？", "output": "MatePad Pro 13.2 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "13.2寸柔性OLED -> MatePad Pro 13.2 2025"}
+{"instruction": "具有「12.2寸双层OLED」这一特性的是哪家公司的产品？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "12.2寸双层OLED -> MatePad Pro 12.2 2025 -> ... -> MatePad Pro 系列"}
+{"instruction": "「12.2寸双层OLED」是哪个品牌的功能？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "12.2寸双层OLED -> MatePad Pro 12.2 2025 -> ... -> MatePad Pro 系列"}
+{"instruction": "「12.2寸双层OLED」是华为哪款产品的特性？", "output": "MatePad Pro 12.2 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "12.2寸双层OLED -> MatePad Pro 12.2 2025"}
+{"instruction": "哪款华为产品有「12.2寸双层OLED」？", "output": "MatePad Pro 12.2 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "12.2寸双层OLED -> MatePad Pro 12.2 2025"}
+{"instruction": "具有「北斗卫星通讯」这一特性的是哪家公司的产品？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "北斗卫星通讯 -> MatePad Pro 2026 -> ... -> MatePad Pro 系列"}
+{"instruction": "「北斗卫星通讯」是哪个品牌的功能？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "北斗卫星通讯 -> MatePad Pro 2026 -> ... -> MatePad Pro 系列"}
+{"instruction": "「北斗卫星通讯」是华为哪款产品的特性？", "output": "MatePad Pro 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "北斗卫星通讯 -> MatePad Pro 2026"}
+{"instruction": "哪款华为产品有「北斗卫星通讯」？", "output": "MatePad Pro 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "北斗卫星通讯 -> MatePad Pro 2026"}
+{"instruction": "具有「4.7mm超薄」这一特性的是哪家公司的产品？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "4.7mm超薄 -> MatePad Pro 2026 -> ... -> MatePad Pro 系列"}
+{"instruction": "「4.7mm超薄」是哪个品牌的功能？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "4.7mm超薄 -> MatePad Pro 2026 -> ... -> MatePad Pro 系列"}
+{"instruction": "「4.7mm超薄」是华为哪款产品的特性？", "output": "MatePad Pro 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "4.7mm超薄 -> MatePad Pro 2026"}
+{"instruction": "哪款华为产品有「4.7mm超薄」？", "output": "MatePad Pro 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "4.7mm超薄 -> MatePad Pro 2026"}
+{"instruction": "具有「12寸OLED」这一特性的是哪家公司的产品？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "12寸OLED -> MatePad Pro 2026 -> ... -> MatePad Pro 系列"}
+{"instruction": "「12寸OLED」是哪个品牌的功能？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "12寸OLED -> MatePad Pro 2026 -> ... -> MatePad Pro 系列"}
+{"instruction": "「12寸OLED」是华为哪款产品的特性？", "output": "MatePad Pro 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "12寸OLED -> MatePad Pro 2026"}
+{"instruction": "哪款华为产品有「12寸OLED」？", "output": "MatePad Pro 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "12寸OLED -> MatePad Pro 2026"}
+{"instruction": "具有「麒麟T93」这一特性的是哪家公司的产品？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟T93 -> MatePad Pro 2026 -> ... -> MatePad Pro 系列"}
+{"instruction": "「麒麟T93」是哪个品牌的功能？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟T93 -> MatePad Pro 2026 -> ... -> MatePad Pro 系列"}
+{"instruction": "「麒麟T93」是华为哪款产品的特性？", "output": "MatePad Pro 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟T93 -> MatePad Pro 2026"}
+{"instruction": "哪款华为产品有「麒麟T93」？", "output": "MatePad Pro 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟T93 -> MatePad Pro 2026"}
+{"instruction": "具有「24GB+1TB」这一特性的是哪家公司的产品？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "24GB+1TB -> MatePad Edge -> ... -> MatePad Pro 系列"}
+{"instruction": "「24GB+1TB」是哪个品牌的功能？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "24GB+1TB -> MatePad Edge -> ... -> MatePad Pro 系列"}
+{"instruction": "「24GB+1TB」是华为哪款产品的特性？", "output": "MatePad Edge", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "24GB+1TB -> MatePad Edge"}
+{"instruction": "哪款华为产品有「24GB+1TB」？", "output": "MatePad Edge", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "24GB+1TB -> MatePad Edge"}
+{"instruction": "具有「万元二合一」这一特性的是哪家公司的产品？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "万元二合一 -> MatePad Edge -> ... -> MatePad Pro 系列"}
+{"instruction": "「万元二合一」是哪个品牌的功能？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "万元二合一 -> MatePad Edge -> ... -> MatePad Pro 系列"}
+{"instruction": "「万元二合一」是华为哪款产品的特性？", "output": "MatePad Edge", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "万元二合一 -> MatePad Edge"}
+{"instruction": "哪款华为产品有「万元二合一」？", "output": "MatePad Edge", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "万元二合一 -> MatePad Edge"}
+{"instruction": "具有「12寸2.8K 144Hz」这一特性的是哪家公司的产品？", "output": "MatePad Air 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "12寸2.8K 144Hz -> MatePad Air 12 2025 -> ... -> MatePad Air 系列"}
+{"instruction": "「12寸2.8K 144Hz」是哪个品牌的功能？", "output": "MatePad Air 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "12寸2.8K 144Hz -> MatePad Air 12 2025 -> ... -> MatePad Air 系列"}
+{"instruction": "「12寸2.8K 144Hz」是华为哪款产品的特性？", "output": "MatePad Air 12 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "12寸2.8K 144Hz -> MatePad Air 12 2025"}
+{"instruction": "哪款华为产品有「12寸2.8K 144Hz」？", "output": "MatePad Air 12 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "12寸2.8K 144Hz -> MatePad Air 12 2025"}
+{"instruction": "具有「PaperMatte柔光屏」这一特性的是哪家公司的产品？", "output": "MatePad Air 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "PaperMatte柔光屏 -> MatePad Air 2026 -> ... -> MatePad Air 系列"}
+{"instruction": "「PaperMatte柔光屏」是哪个品牌的功能？", "output": "MatePad Air 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "PaperMatte柔光屏 -> MatePad Air 2026 -> ... -> MatePad Air 系列"}
+{"instruction": "「PaperMatte柔光屏」是华为哪款产品的特性？", "output": "MatePad Air 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "PaperMatte柔光屏 -> MatePad Air 2026"}
+{"instruction": "哪款华为产品有「PaperMatte柔光屏」？", "output": "MatePad Air 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "PaperMatte柔光屏 -> MatePad Air 2026"}
+{"instruction": "具有「麒麟T93C」这一特性的是哪家公司的产品？", "output": "MatePad Air 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟T93C -> MatePad Air 2026 -> ... -> MatePad Air 系列"}
+{"instruction": "「麒麟T93C」是哪个品牌的功能？", "output": "MatePad Air 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟T93C -> MatePad Air 2026 -> ... -> MatePad Air 系列"}
+{"instruction": "「麒麟T93C」是华为哪款产品的特性？", "output": "MatePad Air 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟T93C -> MatePad Air 2026"}
+{"instruction": "哪款华为产品有「麒麟T93C」？", "output": "MatePad Air 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟T93C -> MatePad Air 2026"}
+{"instruction": "具有「悦读版/柔光版/全网通多版本可选」这一特性的是哪家公司的产品？", "output": "MatePad Mini 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "悦读版/柔光版/全网通多版本可选 -> MatePad Mini -> ... -> MatePad Mini 系列"}
+{"instruction": "「悦读版/柔光版/全网通多版本可选」是哪个品牌的功能？", "output": "MatePad Mini 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "悦读版/柔光版/全网通多版本可选 -> MatePad Mini -> ... -> MatePad Mini 系列"}
+{"instruction": "「悦读版/柔光版/全网通多版本可选」是华为哪款产品的特性？", "output": "MatePad Mini", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "悦读版/柔光版/全网通多版本可选 -> MatePad Mini"}
+{"instruction": "哪款华为产品有「悦读版/柔光版/全网通多版本可选」？", "output": "MatePad Mini", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "悦读版/柔光版/全网通多版本可选 -> MatePad Mini"}
+{"instruction": "具有「2.8K 144Hz」这一特性的是哪家公司的产品？", "output": "MatePad 11.5 S 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2.8K 144Hz -> MatePad 11.5 S -> ... -> MatePad 11.5 S 系列"}
+{"instruction": "「2.8K 144Hz」是哪个品牌的功能？", "output": "MatePad 11.5 S 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2.8K 144Hz -> MatePad 11.5 S -> ... -> MatePad 11.5 S 系列"}
+{"instruction": "「2.8K 144Hz」是华为哪款产品的特性？", "output": "MatePad 11.5 S", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2.8K 144Hz -> MatePad 11.5 S"}
+{"instruction": "哪款华为产品有「2.8K 144Hz」？", "output": "MatePad 11.5 S", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2.8K 144Hz -> MatePad 11.5 S"}
+{"instruction": "具有「柔光屏可选」这一特性的是哪家公司的产品？", "output": "MatePad 11.5 S 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "柔光屏可选 -> MatePad 11.5 S -> ... -> MatePad 11.5 S 系列"}
+{"instruction": "「柔光屏可选」是哪个品牌的功能？", "output": "MatePad 11.5 S 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "柔光屏可选 -> MatePad 11.5 S -> ... -> MatePad 11.5 S 系列"}
+{"instruction": "「柔光屏可选」是华为哪款产品的特性？", "output": "MatePad 11.5 S", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "柔光屏可选 -> MatePad 11.5 S"}
+{"instruction": "哪款华为产品有「柔光屏可选」？", "output": "MatePad 11.5 S", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "柔光屏可选 -> MatePad 11.5 S"}
+{"instruction": "具有「学生党首选」这一特性的是哪家公司的产品？", "output": "MatePad 11.5 S 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "学生党首选 -> MatePad 11.5 S -> ... -> MatePad 11.5 S 系列"}
+{"instruction": "「学生党首选」是哪个品牌的功能？", "output": "MatePad 11.5 S 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "学生党首选 -> MatePad 11.5 S -> ... -> MatePad 11.5 S 系列"}
+{"instruction": "「学生党首选」是华为哪款产品的特性？", "output": "MatePad 11.5 S", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "学生党首选 -> MatePad 11.5 S"}
+{"instruction": "哪款华为产品有「学生党首选」？", "output": "MatePad 11.5 S", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "学生党首选 -> MatePad 11.5 S"}
+{"instruction": "具有「护眼屏」这一特性的是哪家公司的产品？", "output": "MatePad 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "护眼屏 -> MatePad 11.5 2026 -> ... -> MatePad 数字系列"}
+{"instruction": "「护眼屏」是哪个品牌的功能？", "output": "MatePad 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "护眼屏 -> MatePad 11.5 2026 -> ... -> MatePad 数字系列"}
+{"instruction": "「护眼屏」是华为哪款产品的特性？", "output": "MatePad 11.5 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "护眼屏 -> MatePad 11.5 2026"}
+{"instruction": "哪款华为产品有「护眼屏」？", "output": "MatePad 11.5 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "护眼屏 -> MatePad 11.5 2026"}
+{"instruction": "具有「鸿蒙AI」这一特性的是哪家公司的产品？", "output": "MatePad 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "鸿蒙AI -> MatePad 11.5 2026 -> ... -> MatePad 数字系列"}
+{"instruction": "「鸿蒙AI」是哪个品牌的功能？", "output": "MatePad 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "鸿蒙AI -> MatePad 11.5 2026 -> ... -> MatePad 数字系列"}
+{"instruction": "「鸿蒙AI」是华为哪款产品的特性？", "output": "MatePad 11.5 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "鸿蒙AI -> MatePad 11.5 2026"}
+{"instruction": "哪款华为产品有「鸿蒙AI」？", "output": "MatePad 11.5 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "鸿蒙AI -> MatePad 11.5 2026"}
+{"instruction": "具有「柔光版/全网通可选」这一特性的是哪家公司的产品？", "output": "MatePad 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "柔光版/全网通可选 -> MatePad 11.5 2026 -> ... -> MatePad 数字系列"}
+{"instruction": "「柔光版/全网通可选」是哪个品牌的功能？", "output": "MatePad 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "柔光版/全网通可选 -> MatePad 11.5 2026 -> ... -> MatePad 数字系列"}
+{"instruction": "「柔光版/全网通可选」是华为哪款产品的特性？", "output": "MatePad 11.5 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "柔光版/全网通可选 -> MatePad 11.5 2026"}
+{"instruction": "哪款华为产品有「柔光版/全网通可选」？", "output": "MatePad 11.5 2026", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "柔光版/全网通可选 -> MatePad 11.5 2026"}
+{"instruction": "具有「18寸折叠巨幕」这一特性的是哪家公司的产品？", "output": "MateBook Fold 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "18寸折叠巨幕 -> MateBook Fold 非凡大师 -> ... -> MateBook Fold 系列"}
+{"instruction": "「18寸折叠巨幕」是哪个品牌的功能？", "output": "MateBook Fold 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "18寸折叠巨幕 -> MateBook Fold 非凡大师 -> ... -> MateBook Fold 系列"}
+{"instruction": "「18寸折叠巨幕」是华为哪款产品的特性？", "output": "MateBook Fold 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "18寸折叠巨幕 -> MateBook Fold 非凡大师"}
+{"instruction": "哪款华为产品有「18寸折叠巨幕」？", "output": "MateBook Fold 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "18寸折叠巨幕 -> MateBook Fold 非凡大师"}
+{"instruction": "具有「24999最贵华为PC」这一特性的是哪家公司的产品？", "output": "MateBook Fold 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "24999最贵华为PC -> MateBook Fold 非凡大师 -> ... -> MateBook Fold 系列"}
+{"instruction": "「24999最贵华为PC」是哪个品牌的功能？", "output": "MateBook Fold 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "24999最贵华为PC -> MateBook Fold 非凡大师 -> ... -> MateBook Fold 系列"}
+{"instruction": "「24999最贵华为PC」是华为哪款产品的特性？", "output": "MateBook Fold 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "24999最贵华为PC -> MateBook Fold 非凡大师"}
+{"instruction": "哪款华为产品有「24999最贵华为PC」？", "output": "MateBook Fold 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "24999最贵华为PC -> MateBook Fold 非凡大师"}
+{"instruction": "具有「鸿蒙系统」这一特性的是哪家公司的产品？", "output": "MateBook Fold 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "鸿蒙系统 -> MateBook Fold 非凡大师 -> ... -> MateBook Fold 系列"}
+{"instruction": "「鸿蒙系统」是哪个品牌的功能？", "output": "MateBook Fold 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "鸿蒙系统 -> MateBook Fold 非凡大师 -> ... -> MateBook Fold 系列"}
+{"instruction": "「鸿蒙系统」是华为哪款产品的特性？", "output": "MateBook Fold 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "鸿蒙系统 -> MateBook Fold 非凡大师"}
+{"instruction": "哪款华为产品有「鸿蒙系统」？", "output": "MateBook Fold 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "鸿蒙系统 -> MateBook Fold 非凡大师"}
+{"instruction": "具有「798g极致轻」这一特性的是哪家公司的产品？", "output": "MateBook Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "798g极致轻 -> MateBook Pro S -> ... -> MateBook Pro 系列"}
+{"instruction": "「798g极致轻」是哪个品牌的功能？", "output": "MateBook Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "798g极致轻 -> MateBook Pro S -> ... -> MateBook Pro 系列"}
+{"instruction": "「798g极致轻」是华为哪款产品的特性？", "output": "MateBook Pro S", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "798g极致轻 -> MateBook Pro S"}
+{"instruction": "哪款华为产品有「798g极致轻」？", "output": "MateBook Pro S", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "798g极致轻 -> MateBook Pro S"}
+{"instruction": "具有「镁锂合金一体」这一特性的是哪家公司的产品？", "output": "MateBook Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "镁锂合金一体 -> MateBook Pro S -> ... -> MateBook Pro 系列"}
+{"instruction": "「镁锂合金一体」是哪个品牌的功能？", "output": "MateBook Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "镁锂合金一体 -> MateBook Pro S -> ... -> MateBook Pro 系列"}
+{"instruction": "「镁锂合金一体」是华为哪款产品的特性？", "output": "MateBook Pro S", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "镁锂合金一体 -> MateBook Pro S"}
+{"instruction": "哪款华为产品有「镁锂合金一体」？", "output": "MateBook Pro S", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "镁锂合金一体 -> MateBook Pro S"}
+{"instruction": "具有「标准版到14999典藏版」这一特性的是哪家公司的产品？", "output": "MateBook Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "标准版到14999典藏版 -> MateBook Pro S -> ... -> MateBook Pro 系列"}
+{"instruction": "「标准版到14999典藏版」是哪个品牌的功能？", "output": "MateBook Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "标准版到14999典藏版 -> MateBook Pro S -> ... -> MateBook Pro 系列"}
+{"instruction": "「标准版到14999典藏版」是华为哪款产品的特性？", "output": "MateBook Pro S", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "标准版到14999典藏版 -> MateBook Pro S"}
+{"instruction": "哪款华为产品有「标准版到14999典藏版」？", "output": "MateBook Pro S", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "标准版到14999典藏版 -> MateBook Pro S"}
+{"instruction": "具有「麒麟X90 Plus」这一特性的是哪家公司的产品？", "output": "MateBook Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟X90 Plus -> MateBook Pro -> ... -> MateBook Pro 系列"}
+{"instruction": "「麒麟X90 Plus」是哪个品牌的功能？", "output": "MateBook Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟X90 Plus -> MateBook Pro -> ... -> MateBook Pro 系列"}
+{"instruction": "「麒麟X90 Plus」是华为哪款产品的特性？", "output": "MateBook Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟X90 Plus -> MateBook Pro"}
+{"instruction": "哪款华为产品有「麒麟X90 Plus」？", "output": "MateBook Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟X90 Plus -> MateBook Pro"}
+{"instruction": "具有「40W性能释放」这一特性的是哪家公司的产品？", "output": "MateBook Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "40W性能释放 -> MateBook Pro -> ... -> MateBook Pro 系列"}
+{"instruction": "「40W性能释放」是哪个品牌的功能？", "output": "MateBook Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "40W性能释放 -> MateBook Pro -> ... -> MateBook Pro 系列"}
+{"instruction": "「40W性能释放」是华为哪款产品的特性？", "output": "MateBook Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "40W性能释放 -> MateBook Pro"}
+{"instruction": "哪款华为产品有「40W性能释放」？", "output": "MateBook Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "40W性能释放 -> MateBook Pro"}
+{"instruction": "具有「3.1K OLED柔性屏」这一特性的是哪家公司的产品？", "output": "MateBook X Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3.1K OLED柔性屏 -> MateBook X Pro -> ... -> MateBook X Pro 系列"}
+{"instruction": "「3.1K OLED柔性屏」是哪个品牌的功能？", "output": "MateBook X Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3.1K OLED柔性屏 -> MateBook X Pro -> ... -> MateBook X Pro 系列"}
+{"instruction": "「3.1K OLED柔性屏」是华为哪款产品的特性？", "output": "MateBook X Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3.1K OLED柔性屏 -> MateBook X Pro"}
+{"instruction": "哪款华为产品有「3.1K OLED柔性屏」？", "output": "MateBook X Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "3.1K OLED柔性屏 -> MateBook X Pro"}
+{"instruction": "具有「32GB+2TB」这一特性的是哪家公司的产品？", "output": "MateBook X Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "32GB+2TB -> MateBook X Pro -> ... -> MateBook X Pro 系列"}
+{"instruction": "「32GB+2TB」是哪个品牌的功能？", "output": "MateBook X Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "32GB+2TB -> MateBook X Pro -> ... -> MateBook X Pro 系列"}
+{"instruction": "「32GB+2TB」是华为哪款产品的特性？", "output": "MateBook X Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "32GB+2TB -> MateBook X Pro"}
+{"instruction": "哪款华为产品有「32GB+2TB」？", "output": "MateBook X Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "32GB+2TB -> MateBook X Pro"}
+{"instruction": "具有「首款数字系列鸿蒙PC」这一特性的是哪家公司的产品？", "output": "MateBook 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首款数字系列鸿蒙PC -> MateBook 14 鸿蒙版 -> ... -> MateBook 数字系列"}
+{"instruction": "「首款数字系列鸿蒙PC」是哪个品牌的功能？", "output": "MateBook 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首款数字系列鸿蒙PC -> MateBook 14 鸿蒙版 -> ... -> MateBook 数字系列"}
+{"instruction": "「首款数字系列鸿蒙PC」是华为哪款产品的特性？", "output": "MateBook 14 鸿蒙版", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首款数字系列鸿蒙PC -> MateBook 14 鸿蒙版"}
+{"instruction": "哪款华为产品有「首款数字系列鸿蒙PC」？", "output": "MateBook 14 鸿蒙版", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首款数字系列鸿蒙PC -> MateBook 14 鸿蒙版"}
+{"instruction": "具有「1.31kg轻薄」这一特性的是哪家公司的产品？", "output": "MateBook 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1.31kg轻薄 -> MateBook 14 Linux 版 -> ... -> MateBook 数字系列"}
+{"instruction": "「1.31kg轻薄」是哪个品牌的功能？", "output": "MateBook 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1.31kg轻薄 -> MateBook 14 Linux 版 -> ... -> MateBook 数字系列"}
+{"instruction": "「1.31kg轻薄」是华为哪款产品的特性？", "output": "MateBook 14 Linux 版", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1.31kg轻薄 -> MateBook 14 Linux 版"}
+{"instruction": "哪款华为产品有「1.31kg轻薄」？", "output": "MateBook 14 Linux 版", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1.31kg轻薄 -> MateBook 14 Linux 版"}
+{"instruction": "具有「16寸护眼屏」这一特性的是哪家公司的产品？", "output": "MateBook D 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16寸护眼屏 -> MateBook D 16 SE -> ... -> MateBook D 系列"}
+{"instruction": "「16寸护眼屏」是哪个品牌的功能？", "output": "MateBook D 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16寸护眼屏 -> MateBook D 16 SE -> ... -> MateBook D 系列"}
+{"instruction": "「16寸护眼屏」是华为哪款产品的特性？", "output": "MateBook D 16 SE", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16寸护眼屏 -> MateBook D 16 SE"}
+{"instruction": "哪款华为产品有「16寸护眼屏」？", "output": "MateBook D 16 SE", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "16寸护眼屏 -> MateBook D 16 SE"}
+{"instruction": "具有「数字小键盘」这一特性的是哪家公司的产品？", "output": "MateBook D 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "数字小键盘 -> MateBook D 16 SE -> ... -> MateBook D 系列"}
+{"instruction": "「数字小键盘」是哪个品牌的功能？", "output": "MateBook D 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "数字小键盘 -> MateBook D 16 SE -> ... -> MateBook D 系列"}
+{"instruction": "「数字小键盘」是华为哪款产品的特性？", "output": "MateBook D 16 SE", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "数字小键盘 -> MateBook D 16 SE"}
+{"instruction": "哪款华为产品有「数字小键盘」？", "output": "MateBook D 16 SE", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "数字小键盘 -> MateBook D 16 SE"}
+{"instruction": "具有「可拆卸设计」这一特性的是哪家公司的产品？", "output": "MateBook E 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "可拆卸设计 -> MateBook E / E GO -> ... -> MateBook E 系列"}
+{"instruction": "「可拆卸设计」是哪个品牌的功能？", "output": "MateBook E 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "可拆卸设计 -> MateBook E / E GO -> ... -> MateBook E 系列"}
+{"instruction": "「可拆卸设计」是华为哪款产品的特性？", "output": "MateBook E / E GO", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "可拆卸设计 -> MateBook E / E GO"}
+{"instruction": "哪款华为产品有「可拆卸设计」？", "output": "MateBook E / E GO", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "可拆卸设计 -> MateBook E / E GO"}
+{"instruction": "具有「平板笔记本二合一」这一特性的是哪家公司的产品？", "output": "MateBook E 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "平板笔记本二合一 -> MateBook E / E GO -> ... -> MateBook E 系列"}
+{"instruction": "「平板笔记本二合一」是哪个品牌的功能？", "output": "MateBook E 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "平板笔记本二合一 -> MateBook E / E GO -> ... -> MateBook E 系列"}
+{"instruction": "「平板笔记本二合一」是华为哪款产品的特性？", "output": "MateBook E / E GO", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "平板笔记本二合一 -> MateBook E / E GO"}
+{"instruction": "哪款华为产品有「平板笔记本二合一」？", "output": "MateBook E / E GO", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "平板笔记本二合一 -> MateBook E / E GO"}
+{"instruction": "具有「北斗卫星语音消息」这一特性的是哪家公司的产品？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "北斗卫星语音消息 -> WATCH Ultimate 2 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「北斗卫星语音消息」是哪个品牌的功能？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "北斗卫星语音消息 -> WATCH Ultimate 2 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「北斗卫星语音消息」是华为哪款产品的特性？", "output": "WATCH Ultimate 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "北斗卫星语音消息 -> WATCH Ultimate 2"}
+{"instruction": "哪款华为产品有「北斗卫星语音消息」？", "output": "WATCH Ultimate 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "北斗卫星语音消息 -> WATCH Ultimate 2"}
+{"instruction": "具有「150米潜水带音频」这一特性的是哪家公司的产品？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "150米潜水带音频 -> WATCH Ultimate 2 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「150米潜水带音频」是哪个品牌的功能？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "150米潜水带音频 -> WATCH Ultimate 2 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「150米潜水带音频」是华为哪款产品的特性？", "output": "WATCH Ultimate 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "150米潜水带音频 -> WATCH Ultimate 2"}
+{"instruction": "哪款华为产品有「150米潜水带音频」？", "output": "WATCH Ultimate 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "150米潜水带音频 -> WATCH Ultimate 2"}
+{"instruction": "具有「水下声呐通信」这一特性的是哪家公司的产品？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "水下声呐通信 -> WATCH Ultimate 2 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「水下声呐通信」是哪个品牌的功能？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "水下声呐通信 -> WATCH Ultimate 2 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「水下声呐通信」是华为哪款产品的特性？", "output": "WATCH Ultimate 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "水下声呐通信 -> WATCH Ultimate 2"}
+{"instruction": "哪款华为产品有「水下声呐通信」？", "output": "WATCH Ultimate 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "水下声呐通信 -> WATCH Ultimate 2"}
+{"instruction": "具有「双向北斗卫星」这一特性的是哪家公司的产品？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双向北斗卫星 -> WATCH Ultimate 2 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「双向北斗卫星」是哪个品牌的功能？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双向北斗卫星 -> WATCH Ultimate 2 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「双向北斗卫星」是华为哪款产品的特性？", "output": "WATCH Ultimate 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双向北斗卫星 -> WATCH Ultimate 2"}
+{"instruction": "哪款华为产品有「双向北斗卫星」？", "output": "WATCH Ultimate 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "双向北斗卫星 -> WATCH Ultimate 2"}
+{"instruction": "具有「10段18K黄金」这一特性的是哪家公司的产品？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "10段18K黄金 -> ULTIMATE DESIGN 紫金 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「10段18K黄金」是哪个品牌的功能？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "10段18K黄金 -> ULTIMATE DESIGN 紫金 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「10段18K黄金」是华为哪款产品的特性？", "output": "ULTIMATE DESIGN 紫金", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "10段18K黄金 -> ULTIMATE DESIGN 紫金"}
+{"instruction": "哪款华为产品有「10段18K黄金」？", "output": "ULTIMATE DESIGN 紫金", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "10段18K黄金 -> ULTIMATE DESIGN 紫金"}
+{"instruction": "具有「紫色陶瓷表圈」这一特性的是哪家公司的产品？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "紫色陶瓷表圈 -> ULTIMATE DESIGN 紫金 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「紫色陶瓷表圈」是哪个品牌的功能？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "紫色陶瓷表圈 -> ULTIMATE DESIGN 紫金 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「紫色陶瓷表圈」是华为哪款产品的特性？", "output": "ULTIMATE DESIGN 紫金", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "紫色陶瓷表圈 -> ULTIMATE DESIGN 紫金"}
+{"instruction": "哪款华为产品有「紫色陶瓷表圈」？", "output": "ULTIMATE DESIGN 紫金", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "紫色陶瓷表圈 -> ULTIMATE DESIGN 紫金"}
+{"instruction": "具有「eSIM」这一特性的是哪家公司的产品？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "eSIM -> ULTIMATE DESIGN 紫金 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「eSIM」是哪个品牌的功能？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "eSIM -> ULTIMATE DESIGN 紫金 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「eSIM」是华为哪款产品的特性？", "output": "ULTIMATE DESIGN 紫金", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "eSIM -> ULTIMATE DESIGN 紫金"}
+{"instruction": "哪款华为产品有「eSIM」？", "output": "ULTIMATE DESIGN 紫金", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "eSIM -> ULTIMATE DESIGN 紫金"}
+{"instruction": "具有「26888最贵华为表」这一特性的是哪家公司的产品？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "26888最贵华为表 -> ULTIMATE DESIGN 紫金 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「26888最贵华为表」是哪个品牌的功能？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "26888最贵华为表 -> ULTIMATE DESIGN 紫金 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「26888最贵华为表」是华为哪款产品的特性？", "output": "ULTIMATE DESIGN 紫金", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "26888最贵华为表 -> ULTIMATE DESIGN 紫金"}
+{"instruction": "哪款华为产品有「26888最贵华为表」？", "output": "ULTIMATE DESIGN 紫金", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "26888最贵华为表 -> ULTIMATE DESIGN 紫金"}
+{"instruction": "具有「98颗天然钻石」这一特性的是哪家公司的产品？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "98颗天然钻石 -> ULTIMATE DESIGN 星钻 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「98颗天然钻石」是哪个品牌的功能？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "98颗天然钻石 -> ULTIMATE DESIGN 星钻 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「98颗天然钻石」是华为哪款产品的特性？", "output": "ULTIMATE DESIGN 星钻", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "98颗天然钻石 -> ULTIMATE DESIGN 星钻"}
+{"instruction": "哪款华为产品有「98颗天然钻石」？", "output": "ULTIMATE DESIGN 星钻", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "98颗天然钻石 -> ULTIMATE DESIGN 星钻"}
+{"instruction": "具有「前LV珠宝总监设计」这一特性的是哪家公司的产品？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "前LV珠宝总监设计 -> ULTIMATE DESIGN 星钻 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「前LV珠宝总监设计」是哪个品牌的功能？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "前LV珠宝总监设计 -> ULTIMATE DESIGN 星钻 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「前LV珠宝总监设计」是华为哪款产品的特性？", "output": "ULTIMATE DESIGN 星钻", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "前LV珠宝总监设计 -> ULTIMATE DESIGN 星钻"}
+{"instruction": "哪款华为产品有「前LV珠宝总监设计」？", "output": "ULTIMATE DESIGN 星钻", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "前LV珠宝总监设计 -> ULTIMATE DESIGN 星钻"}
+{"instruction": "具有「刘雯代言」这一特性的是哪家公司的产品？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "刘雯代言 -> ULTIMATE DESIGN 星钻 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「刘雯代言」是哪个品牌的功能？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "刘雯代言 -> ULTIMATE DESIGN 星钻 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「刘雯代言」是华为哪款产品的特性？", "output": "ULTIMATE DESIGN 星钻", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "刘雯代言 -> ULTIMATE DESIGN 星钻"}
+{"instruction": "哪款华为产品有「刘雯代言」？", "output": "ULTIMATE DESIGN 星钻", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "刘雯代言 -> ULTIMATE DESIGN 星钻"}
+{"instruction": "具有「血糖血压评估」这一特性的是哪家公司的产品？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "血糖血压评估 -> ULTIMATE DESIGN 星钻 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「血糖血压评估」是哪个品牌的功能？", "output": "WATCH Ultimate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "血糖血压评估 -> ULTIMATE DESIGN 星钻 -> ... -> WATCH Ultimate 系列"}
+{"instruction": "「血糖血压评估」是华为哪款产品的特性？", "output": "ULTIMATE DESIGN 星钻", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "血糖血压评估 -> ULTIMATE DESIGN 星钻"}
+{"instruction": "哪款华为产品有「血糖血压评估」？", "output": "ULTIMATE DESIGN 星钻", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "血糖血压评估 -> ULTIMATE DESIGN 星钻"}
+{"instruction": "具有「钛合金+蓝宝石」这一特性的是哪家公司的产品？", "output": "WATCH GT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "钛合金+蓝宝石 -> WATCH GT 7 Pro 46mm -> ... -> WATCH GT 系列"}
+{"instruction": "「钛合金+蓝宝石」是哪个品牌的功能？", "output": "WATCH GT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "钛合金+蓝宝石 -> WATCH GT 7 Pro 46mm -> ... -> WATCH GT 系列"}
+{"instruction": "「钛合金+蓝宝石」是华为哪款产品的特性？", "output": "WATCH GT 7 Pro 46mm", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "钛合金+蓝宝石 -> WATCH GT 7 Pro 46mm"}
+{"instruction": "哪款华为产品有「钛合金+蓝宝石」？", "output": "WATCH GT 7 Pro 46mm", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "钛合金+蓝宝石 -> WATCH GT 7 Pro 46mm"}
+{"instruction": "具有「专业登山潜水模式」这一特性的是哪家公司的产品？", "output": "WATCH GT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "专业登山潜水模式 -> WATCH GT 7 Pro 46mm -> ... -> WATCH GT 系列"}
+{"instruction": "「专业登山潜水模式」是哪个品牌的功能？", "output": "WATCH GT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "专业登山潜水模式 -> WATCH GT 7 Pro 46mm -> ... -> WATCH GT 系列"}
+{"instruction": "「专业登山潜水模式」是华为哪款产品的特性？", "output": "WATCH GT 7 Pro 46mm", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "专业登山潜水模式 -> WATCH GT 7 Pro 46mm"}
+{"instruction": "哪款华为产品有「专业登山潜水模式」？", "output": "WATCH GT 7 Pro 46mm", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "专业登山潜水模式 -> WATCH GT 7 Pro 46mm"}
+{"instruction": "具有「骑行模拟功率」这一特性的是哪家公司的产品？", "output": "WATCH GT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "骑行模拟功率 -> WATCH GT 7 46mm -> ... -> WATCH GT 系列"}
+{"instruction": "「骑行模拟功率」是哪个品牌的功能？", "output": "WATCH GT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "骑行模拟功率 -> WATCH GT 7 46mm -> ... -> WATCH GT 系列"}
+{"instruction": "「骑行模拟功率」是华为哪款产品的特性？", "output": "WATCH GT 7 46mm", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "骑行模拟功率 -> WATCH GT 7 46mm"}
+{"instruction": "哪款华为产品有「骑行模拟功率」？", "output": "WATCH GT 7 46mm", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "骑行模拟功率 -> WATCH GT 7 46mm"}
+{"instruction": "具有「小巧女款」这一特性的是哪家公司的产品？", "output": "WATCH GT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "小巧女款 -> WATCH GT 7 41mm -> ... -> WATCH GT 系列"}
+{"instruction": "「小巧女款」是哪个品牌的功能？", "output": "WATCH GT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "小巧女款 -> WATCH GT 7 41mm -> ... -> WATCH GT 系列"}
+{"instruction": "「小巧女款」是华为哪款产品的特性？", "output": "WATCH GT 7 41mm", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "小巧女款 -> WATCH GT 7 41mm"}
+{"instruction": "哪款华为产品有「小巧女款」？", "output": "WATCH GT 7 41mm", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "小巧女款 -> WATCH GT 7 41mm"}
+{"instruction": "具有「医疗级动态血压监测」这一特性的是哪家公司的产品？", "output": "WATCH D 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "医疗级动态血压监测 -> WATCH D2 -> ... -> WATCH D 系列"}
+{"instruction": "「医疗级动态血压监测」是哪个品牌的功能？", "output": "WATCH D 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "医疗级动态血压监测 -> WATCH D2 -> ... -> WATCH D 系列"}
+{"instruction": "「医疗级动态血压监测」是华为哪款产品的特性？", "output": "WATCH D2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "医疗级动态血压监测 -> WATCH D2"}
+{"instruction": "哪款华为产品有「医疗级动态血压监测」？", "output": "WATCH D2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "医疗级动态血压监测 -> WATCH D2"}
+{"instruction": "具有「写入中国高血压防治指南」这一特性的是哪家公司的产品？", "output": "WATCH D 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "写入中国高血压防治指南 -> WATCH D2 -> ... -> WATCH D 系列"}
+{"instruction": "「写入中国高血压防治指南」是哪个品牌的功能？", "output": "WATCH D 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "写入中国高血压防治指南 -> WATCH D2 -> ... -> WATCH D 系列"}
+{"instruction": "「写入中国高血压防治指南」是华为哪款产品的特性？", "output": "WATCH D2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "写入中国高血压防治指南 -> WATCH D2"}
+{"instruction": "哪款华为产品有「写入中国高血压防治指南」？", "output": "WATCH D2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "写入中国高血压防治指南 -> WATCH D2"}
+{"instruction": "具有「手表藏耳机」这一特性的是哪家公司的产品？", "output": "WATCH Buds 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "手表藏耳机 -> WATCH Buds 2 -> ... -> WATCH Buds 系列"}
+{"instruction": "「手表藏耳机」是哪个品牌的功能？", "output": "WATCH Buds 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "手表藏耳机 -> WATCH Buds 2 -> ... -> WATCH Buds 系列"}
+{"instruction": "「手表藏耳机」是华为哪款产品的特性？", "output": "WATCH Buds 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "手表藏耳机 -> WATCH Buds 2"}
+{"instruction": "哪款华为产品有「手表藏耳机」？", "output": "WATCH Buds 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "手表藏耳机 -> WATCH Buds 2"}
+{"instruction": "具有「54.5g钛合金」这一特性的是哪家公司的产品？", "output": "WATCH Buds 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "54.5g钛合金 -> WATCH Buds 2 -> ... -> WATCH Buds 系列"}
+{"instruction": "「54.5g钛合金」是哪个品牌的功能？", "output": "WATCH Buds 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "54.5g钛合金 -> WATCH Buds 2 -> ... -> WATCH Buds 系列"}
+{"instruction": "「54.5g钛合金」是华为哪款产品的特性？", "output": "WATCH Buds 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "54.5g钛合金 -> WATCH Buds 2"}
+{"instruction": "哪款华为产品有「54.5g钛合金」？", "output": "WATCH Buds 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "54.5g钛合金 -> WATCH Buds 2"}
+{"instruction": "具有「1.5寸LTPO 3000nit」这一特性的是哪家公司的产品？", "output": "WATCH Buds 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1.5寸LTPO 3000nit -> WATCH Buds 2 -> ... -> WATCH Buds 系列"}
+{"instruction": "「1.5寸LTPO 3000nit」是哪个品牌的功能？", "output": "WATCH Buds 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1.5寸LTPO 3000nit -> WATCH Buds 2 -> ... -> WATCH Buds 系列"}
+{"instruction": "「1.5寸LTPO 3000nit」是华为哪款产品的特性？", "output": "WATCH Buds 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1.5寸LTPO 3000nit -> WATCH Buds 2"}
+{"instruction": "哪款华为产品有「1.5寸LTPO 3000nit」？", "output": "WATCH Buds 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1.5寸LTPO 3000nit -> WATCH Buds 2"}
+{"instruction": "具有「耳机4g每只」这一特性的是哪家公司的产品？", "output": "WATCH Buds 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "耳机4g每只 -> WATCH Buds 2 -> ... -> WATCH Buds 系列"}
+{"instruction": "「耳机4g每只」是哪个品牌的功能？", "output": "WATCH Buds 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "耳机4g每只 -> WATCH Buds 2 -> ... -> WATCH Buds 系列"}
+{"instruction": "「耳机4g每只」是华为哪款产品的特性？", "output": "WATCH Buds 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "耳机4g每只 -> WATCH Buds 2"}
+{"instruction": "哪款华为产品有「耳机4g每只」？", "output": "WATCH Buds 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "耳机4g每只 -> WATCH Buds 2"}
+{"instruction": "具有「不分左右耳」这一特性的是哪家公司的产品？", "output": "WATCH Buds 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "不分左右耳 -> WATCH Buds 2 -> ... -> WATCH Buds 系列"}
+{"instruction": "「不分左右耳」是哪个品牌的功能？", "output": "WATCH Buds 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "不分左右耳 -> WATCH Buds 2 -> ... -> WATCH Buds 系列"}
+{"instruction": "「不分左右耳」是华为哪款产品的特性？", "output": "WATCH Buds 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "不分左右耳 -> WATCH Buds 2"}
+{"instruction": "哪款华为产品有「不分左右耳」？", "output": "WATCH Buds 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "不分左右耳 -> WATCH Buds 2"}
+{"instruction": "具有「1.92寸LTPO」这一特性的是哪家公司的产品？", "output": "WATCH FIT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1.92寸LTPO -> WATCH FIT 5 Pro -> ... -> WATCH FIT 系列"}
+{"instruction": "「1.92寸LTPO」是哪个品牌的功能？", "output": "WATCH FIT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1.92寸LTPO -> WATCH FIT 5 Pro -> ... -> WATCH FIT 系列"}
+{"instruction": "「1.92寸LTPO」是华为哪款产品的特性？", "output": "WATCH FIT 5 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1.92寸LTPO -> WATCH FIT 5 Pro"}
+{"instruction": "哪款华为产品有「1.92寸LTPO」？", "output": "WATCH FIT 5 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1.92寸LTPO -> WATCH FIT 5 Pro"}
+{"instruction": "具有「血糖风险评估」这一特性的是哪家公司的产品？", "output": "WATCH FIT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "血糖风险评估 -> WATCH FIT 5 Pro -> ... -> WATCH FIT 系列"}
+{"instruction": "「血糖风险评估」是哪个品牌的功能？", "output": "WATCH FIT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "血糖风险评估 -> WATCH FIT 5 Pro -> ... -> WATCH FIT 系列"}
+{"instruction": "「血糖风险评估」是华为哪款产品的特性？", "output": "WATCH FIT 5 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "血糖风险评估 -> WATCH FIT 5 Pro"}
+{"instruction": "哪款华为产品有「血糖风险评估」？", "output": "WATCH FIT 5 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "血糖风险评估 -> WATCH FIT 5 Pro"}
+{"instruction": "具有「27g极致轻」这一特性的是哪家公司的产品？", "output": "WATCH FIT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "27g极致轻 -> WATCH FIT 5 -> ... -> WATCH FIT 系列"}
+{"instruction": "「27g极致轻」是哪个品牌的功能？", "output": "WATCH FIT 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "27g极致轻 -> WATCH FIT 5 -> ... -> WATCH FIT 系列"}
+{"instruction": "「27g极致轻」是华为哪款产品的特性？", "output": "WATCH FIT 5", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "27g极致轻 -> WATCH FIT 5"}
+{"instruction": "哪款华为产品有「27g极致轻」？", "output": "WATCH FIT 5", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "27g极致轻 -> WATCH FIT 5"}
+{"instruction": "具有「轻量化」这一特性的是哪家公司的产品？", "output": "WATCH GT Runner 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "轻量化 -> WATCH GT Runner 2 -> ... -> WATCH GT Runner 系列"}
+{"instruction": "「轻量化」是哪个品牌的功能？", "output": "WATCH GT Runner 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "轻量化 -> WATCH GT Runner 2 -> ... -> WATCH GT Runner 系列"}
+{"instruction": "「轻量化」是华为哪款产品的特性？", "output": "WATCH GT Runner 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "轻量化 -> WATCH GT Runner 2"}
+{"instruction": "哪款华为产品有「轻量化」？", "output": "WATCH GT Runner 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "轻量化 -> WATCH GT Runner 2"}
+{"instruction": "具有「专业跑步指标」这一特性的是哪家公司的产品？", "output": "WATCH GT Runner 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "专业跑步指标 -> WATCH GT Runner 2 -> ... -> WATCH GT Runner 系列"}
+{"instruction": "「专业跑步指标」是哪个品牌的功能？", "output": "WATCH GT Runner 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "专业跑步指标 -> WATCH GT Runner 2 -> ... -> WATCH GT Runner 系列"}
+{"instruction": "「专业跑步指标」是华为哪款产品的特性？", "output": "WATCH GT Runner 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "专业跑步指标 -> WATCH GT Runner 2"}
+{"instruction": "哪款华为产品有「专业跑步指标」？", "output": "WATCH GT Runner 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "专业跑步指标 -> WATCH GT Runner 2"}
+{"instruction": "具有「入门健康监测」这一特性的是哪家公司的产品？", "output": "手环系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "入门健康监测 -> 华为手环 11 -> ... -> 手环系列"}
+{"instruction": "「入门健康监测」是哪个品牌的功能？", "output": "手环系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "入门健康监测 -> 华为手环 11 -> ... -> 手环系列"}
+{"instruction": "「入门健康监测」是华为哪款产品的特性？", "output": "华为手环 11", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "入门健康监测 -> 华为手环 11"}
+{"instruction": "哪款华为产品有「入门健康监测」？", "output": "华为手环 11", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "入门健康监测 -> 华为手环 11"}
+{"instruction": "具有「海外主打款」这一特性的是哪家公司的产品？", "output": "FreeBuds 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "海外主打款 -> FreeBuds 7i -> ... -> FreeBuds 数字系列"}
+{"instruction": "「海外主打款」是哪个品牌的功能？", "output": "FreeBuds 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "海外主打款 -> FreeBuds 7i -> ... -> FreeBuds 数字系列"}
+{"instruction": "「海外主打款」是华为哪款产品的特性？", "output": "FreeBuds 7i", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "海外主打款 -> FreeBuds 7i"}
+{"instruction": "哪款华为产品有「海外主打款」？", "output": "FreeBuds 7i", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "海外主打款 -> FreeBuds 7i"}
+{"instruction": "具有「首款半开放悦彰」这一特性的是哪家公司的产品？", "output": "FreeBuds 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首款半开放悦彰 -> FreeBuds 6 -> ... -> FreeBuds 数字系列"}
+{"instruction": "「首款半开放悦彰」是哪个品牌的功能？", "output": "FreeBuds 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首款半开放悦彰 -> FreeBuds 6 -> ... -> FreeBuds 数字系列"}
+{"instruction": "「首款半开放悦彰」是华为哪款产品的特性？", "output": "FreeBuds 6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首款半开放悦彰 -> FreeBuds 6"}
+{"instruction": "哪款华为产品有「首款半开放悦彰」？", "output": "FreeBuds 6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "首款半开放悦彰 -> FreeBuds 6"}
+{"instruction": "具有「11mm动圈+微平板」这一特性的是哪家公司的产品？", "output": "FreeBuds 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "11mm动圈+微平板 -> FreeBuds 6 -> ... -> FreeBuds 数字系列"}
+{"instruction": "「11mm动圈+微平板」是哪个品牌的功能？", "output": "FreeBuds 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "11mm动圈+微平板 -> FreeBuds 6 -> ... -> FreeBuds 数字系列"}
+{"instruction": "「11mm动圈+微平板」是华为哪款产品的特性？", "output": "FreeBuds 6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "11mm动圈+微平板 -> FreeBuds 6"}
+{"instruction": "哪款华为产品有「11mm动圈+微平板」？", "output": "FreeBuds 6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "11mm动圈+微平板 -> FreeBuds 6"}
+{"instruction": "具有「2.3Mbps无损传输」这一特性的是哪家公司的产品？", "output": "FreeBuds 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2.3Mbps无损传输 -> FreeBuds 6 -> ... -> FreeBuds 数字系列"}
+{"instruction": "「2.3Mbps无损传输」是哪个品牌的功能？", "output": "FreeBuds 数字系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2.3Mbps无损传输 -> FreeBuds 6 -> ... -> FreeBuds 数字系列"}
+{"instruction": "「2.3Mbps无损传输」是华为哪款产品的特性？", "output": "FreeBuds 6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2.3Mbps无损传输 -> FreeBuds 6"}
+{"instruction": "哪款华为产品有「2.3Mbps无损传输」？", "output": "FreeBuds 6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "2.3Mbps无损传输 -> FreeBuds 6"}
+{"instruction": "具有「不塞耳朵」这一特性的是哪家公司的产品？", "output": "FreeClip 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "不塞耳朵 -> FreeClip 2 -> ... -> FreeClip 系列"}
+{"instruction": "「不塞耳朵」是哪个品牌的功能？", "output": "FreeClip 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "不塞耳朵 -> FreeClip 2 -> ... -> FreeClip 系列"}
+{"instruction": "「不塞耳朵」是华为哪款产品的特性？", "output": "FreeClip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "不塞耳朵 -> FreeClip 2"}
+{"instruction": "哪款华为产品有「不塞耳朵」？", "output": "FreeClip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "不塞耳朵 -> FreeClip 2"}
+{"instruction": "具有「5.1g极致轻」这一特性的是哪家公司的产品？", "output": "FreeClip 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5.1g极致轻 -> FreeClip 2 -> ... -> FreeClip 系列"}
+{"instruction": "「5.1g极致轻」是哪个品牌的功能？", "output": "FreeClip 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5.1g极致轻 -> FreeClip 2 -> ... -> FreeClip 系列"}
+{"instruction": "「5.1g极致轻」是华为哪款产品的特性？", "output": "FreeClip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5.1g极致轻 -> FreeClip 2"}
+{"instruction": "哪款华为产品有「5.1g极致轻」？", "output": "FreeClip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5.1g极致轻 -> FreeClip 2"}
+{"instruction": "具有「AI算力提升10倍」这一特性的是哪家公司的产品？", "output": "FreeClip 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "AI算力提升10倍 -> FreeClip 2 -> ... -> FreeClip 系列"}
+{"instruction": "「AI算力提升10倍」是哪个品牌的功能？", "output": "FreeClip 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "AI算力提升10倍 -> FreeClip 2 -> ... -> FreeClip 系列"}
+{"instruction": "「AI算力提升10倍」是华为哪款产品的特性？", "output": "FreeClip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "AI算力提升10倍 -> FreeClip 2"}
+{"instruction": "哪款华为产品有「AI算力提升10倍」？", "output": "FreeClip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "AI算力提升10倍 -> FreeClip 2"}
+{"instruction": "具有「AI翻译」这一特性的是哪家公司的产品？", "output": "FreeClip 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "AI翻译 -> FreeClip 2 -> ... -> FreeClip 系列"}
+{"instruction": "「AI翻译」是哪个品牌的功能？", "output": "FreeClip 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "AI翻译 -> FreeClip 2 -> ... -> FreeClip 系列"}
+{"instruction": "「AI翻译」是华为哪款产品的特性？", "output": "FreeClip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "AI翻译 -> FreeClip 2"}
+{"instruction": "哪款华为产品有「AI翻译」？", "output": "FreeClip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "AI翻译 -> FreeClip 2"}
+{"instruction": "具有「38小时总续航」这一特性的是哪家公司的产品？", "output": "FreeClip 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "38小时总续航 -> FreeClip 2 -> ... -> FreeClip 系列"}
+{"instruction": "「38小时总续航」是哪个品牌的功能？", "output": "FreeClip 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "38小时总续航 -> FreeClip 2 -> ... -> FreeClip 系列"}
+{"instruction": "「38小时总续航」是华为哪款产品的特性？", "output": "FreeClip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "38小时总续航 -> FreeClip 2"}
+{"instruction": "哪款华为产品有「38小时总续航」？", "output": "FreeClip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "38小时总续航 -> FreeClip 2"}
+{"instruction": "具有「帝瓦雷联合调音」这一特性的是哪家公司的产品？", "output": "Sound 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "帝瓦雷联合调音 -> Sound X5 悦彰 -> ... -> Sound 系列"}
+{"instruction": "「帝瓦雷联合调音」是哪个品牌的功能？", "output": "Sound 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "帝瓦雷联合调音 -> Sound X5 悦彰 -> ... -> Sound 系列"}
+{"instruction": "「帝瓦雷联合调音」是华为哪款产品的特性？", "output": "Sound X5 悦彰", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "帝瓦雷联合调音 -> Sound X5 悦彰"}
+{"instruction": "哪款华为产品有「帝瓦雷联合调音」？", "output": "Sound X5 悦彰", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "帝瓦雷联合调音 -> Sound X5 悦彰"}
+{"instruction": "具有「发布会音响担当」这一特性的是哪家公司的产品？", "output": "Sound 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "发布会音响担当 -> Sound X5 悦彰 -> ... -> Sound 系列"}
+{"instruction": "「发布会音响担当」是哪个品牌的功能？", "output": "Sound 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "发布会音响担当 -> Sound X5 悦彰 -> ... -> Sound 系列"}
+{"instruction": "「发布会音响担当」是华为哪款产品的特性？", "output": "Sound X5 悦彰", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "发布会音响担当 -> Sound X5 悦彰"}
+{"instruction": "哪款华为产品有「发布会音响担当」？", "output": "Sound X5 悦彰", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "发布会音响担当 -> Sound X5 悦彰"}
+{"instruction": "具有「便携蓝牙」这一特性的是哪家公司的产品？", "output": "Sound Joy 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "便携蓝牙 -> Sound Joy 系列 -> ... -> Sound Joy 系列"}
+{"instruction": "「便携蓝牙」是哪个品牌的功能？", "output": "Sound Joy 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "便携蓝牙 -> Sound Joy 系列 -> ... -> Sound Joy 系列"}
+{"instruction": "「便携蓝牙」是华为哪款产品的特性？", "output": "Sound Joy 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "便携蓝牙 -> Sound Joy 系列"}
+{"instruction": "哪款华为产品有「便携蓝牙」？", "output": "Sound Joy 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "便携蓝牙 -> Sound Joy 系列"}
+{"instruction": "具有「户外用」这一特性的是哪家公司的产品？", "output": "Sound Joy 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "户外用 -> Sound Joy 系列 -> ... -> Sound Joy 系列"}
+{"instruction": "「户外用」是哪个品牌的功能？", "output": "Sound Joy 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "户外用 -> Sound Joy 系列 -> ... -> Sound Joy 系列"}
+{"instruction": "「户外用」是华为哪款产品的特性？", "output": "Sound Joy 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "户外用 -> Sound Joy 系列"}
+{"instruction": "哪款华为产品有「户外用」？", "output": "Sound Joy 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "户外用 -> Sound Joy 系列"}
+{"instruction": "具有「110寸巨幕」这一特性的是哪家公司的产品？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "110寸巨幕 -> MateTV Max -> ... -> Vision 系列"}
+{"instruction": "「110寸巨幕」是哪个品牌的功能？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "110寸巨幕 -> MateTV Max -> ... -> Vision 系列"}
+{"instruction": "「110寸巨幕」是华为哪款产品的特性？", "output": "MateTV Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "110寸巨幕 -> MateTV Max"}
+{"instruction": "哪款华为产品有「110寸巨幕」？", "output": "MateTV Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "110寸巨幕 -> MateTV Max"}
+{"instruction": "具有「史上最大Mate」这一特性的是哪家公司的产品？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "史上最大Mate -> MateTV Max -> ... -> Vision 系列"}
+{"instruction": "「史上最大Mate」是哪个品牌的功能？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "史上最大Mate -> MateTV Max -> ... -> Vision 系列"}
+{"instruction": "「史上最大Mate」是华为哪款产品的特性？", "output": "MateTV Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "史上最大Mate -> MateTV Max"}
+{"instruction": "哪款华为产品有「史上最大Mate」？", "output": "MateTV Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "史上最大Mate -> MateTV Max"}
+{"instruction": "具有「64999最贵华为屏」这一特性的是哪家公司的产品？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "64999最贵华为屏 -> MateTV Max -> ... -> Vision 系列"}
+{"instruction": "「64999最贵华为屏」是哪个品牌的功能？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "64999最贵华为屏 -> MateTV Max -> ... -> Vision 系列"}
+{"instruction": "「64999最贵华为屏」是华为哪款产品的特性？", "output": "MateTV Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "64999最贵华为屏 -> MateTV Max"}
+{"instruction": "哪款华为产品有「64999最贵华为屏」？", "output": "MateTV Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "64999最贵华为屏 -> MateTV Max"}
+{"instruction": "具有「Super MiniLED黑晶屏」这一特性的是哪家公司的产品？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Super MiniLED黑晶屏 -> Vision 智慧屏 6 Pro -> ... -> Vision 系列"}
+{"instruction": "「Super MiniLED黑晶屏」是哪个品牌的功能？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Super MiniLED黑晶屏 -> Vision 智慧屏 6 Pro -> ... -> Vision 系列"}
+{"instruction": "「Super MiniLED黑晶屏」是华为哪款产品的特性？", "output": "Vision 智慧屏 6 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Super MiniLED黑晶屏 -> Vision 智慧屏 6 Pro"}
+{"instruction": "哪款华为产品有「Super MiniLED黑晶屏」？", "output": "Vision 智慧屏 6 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Super MiniLED黑晶屏 -> Vision 智慧屏 6 Pro"}
+{"instruction": "具有「130W Hi-Fi音响」这一特性的是哪家公司的产品？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "130W Hi-Fi音响 -> Vision 智慧屏 6 Pro -> ... -> Vision 系列"}
+{"instruction": "「130W Hi-Fi音响」是哪个品牌的功能？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "130W Hi-Fi音响 -> Vision 智慧屏 6 Pro -> ... -> Vision 系列"}
+{"instruction": "「130W Hi-Fi音响」是华为哪款产品的特性？", "output": "Vision 智慧屏 6 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "130W Hi-Fi音响 -> Vision 智慧屏 6 Pro"}
+{"instruction": "哪款华为产品有「130W Hi-Fi音响」？", "output": "Vision 智慧屏 6 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "130W Hi-Fi音响 -> Vision 智慧屏 6 Pro"}
+{"instruction": "具有「触控书写」这一特性的是哪家公司的产品？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "触控书写 -> Vision 智慧屏 6 Pro -> ... -> Vision 系列"}
+{"instruction": "「触控书写」是哪个品牌的功能？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "触控书写 -> Vision 智慧屏 6 Pro -> ... -> Vision 系列"}
+{"instruction": "「触控书写」是华为哪款产品的特性？", "output": "Vision 智慧屏 6 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "触控书写 -> Vision 智慧屏 6 Pro"}
+{"instruction": "哪款华为产品有「触控书写」？", "output": "Vision 智慧屏 6 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "触控书写 -> Vision 智慧屏 6 Pro"}
+{"instruction": "具有「Super MiniLED千级分区」这一特性的是哪家公司的产品？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Super MiniLED千级分区 -> Vision 智慧屏 6 -> ... -> Vision 系列"}
+{"instruction": "「Super MiniLED千级分区」是哪个品牌的功能？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Super MiniLED千级分区 -> Vision 智慧屏 6 -> ... -> Vision 系列"}
+{"instruction": "「Super MiniLED千级分区」是华为哪款产品的特性？", "output": "Vision 智慧屏 6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Super MiniLED千级分区 -> Vision 智慧屏 6"}
+{"instruction": "哪款华为产品有「Super MiniLED千级分区」？", "output": "Vision 智慧屏 6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "Super MiniLED千级分区 -> Vision 智慧屏 6"}
+{"instruction": "具有「4.9cm超薄」这一特性的是哪家公司的产品？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "4.9cm超薄 -> Vision 智慧屏 6 -> ... -> Vision 系列"}
+{"instruction": "「4.9cm超薄」是哪个品牌的功能？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "4.9cm超薄 -> Vision 智慧屏 6 -> ... -> Vision 系列"}
+{"instruction": "「4.9cm超薄」是华为哪款产品的特性？", "output": "Vision 智慧屏 6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "4.9cm超薄 -> Vision 智慧屏 6"}
+{"instruction": "哪款华为产品有「4.9cm超薄」？", "output": "Vision 智慧屏 6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "4.9cm超薄 -> Vision 智慧屏 6"}
+{"instruction": "具有「4K 144Hz」这一特性的是哪家公司的产品？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "4K 144Hz -> Vision 智慧屏 6 -> ... -> Vision 系列"}
+{"instruction": "「4K 144Hz」是哪个品牌的功能？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "4K 144Hz -> Vision 智慧屏 6 -> ... -> Vision 系列"}
+{"instruction": "「4K 144Hz」是华为哪款产品的特性？", "output": "Vision 智慧屏 6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "4K 144Hz -> Vision 智慧屏 6"}
+{"instruction": "哪款华为产品有「4K 144Hz」？", "output": "Vision 智慧屏 6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "4K 144Hz -> Vision 智慧屏 6"}
+{"instruction": "具有「全球首款RGB-MiniLED」这一特性的是哪家公司的产品？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "全球首款RGB-MiniLED -> Vision 智慧屏 6 SE RGB -> ... -> Vision 系列"}
+{"instruction": "「全球首款RGB-MiniLED」是哪个品牌的功能？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "全球首款RGB-MiniLED -> Vision 智慧屏 6 SE RGB -> ... -> Vision 系列"}
+{"instruction": "「全球首款RGB-MiniLED」是华为哪款产品的特性？", "output": "Vision 智慧屏 6 SE RGB", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "全球首款RGB-MiniLED -> Vision 智慧屏 6 SE RGB"}
+{"instruction": "哪款华为产品有「全球首款RGB-MiniLED」？", "output": "Vision 智慧屏 6 SE RGB", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "全球首款RGB-MiniLED -> Vision 智慧屏 6 SE RGB"}
+{"instruction": "具有「105% BT.2020色域」这一特性的是哪家公司的产品？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "105% BT.2020色域 -> Vision 智慧屏 6 SE RGB -> ... -> Vision 系列"}
+{"instruction": "「105% BT.2020色域」是哪个品牌的功能？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "105% BT.2020色域 -> Vision 智慧屏 6 SE RGB -> ... -> Vision 系列"}
+{"instruction": "「105% BT.2020色域」是华为哪款产品的特性？", "output": "Vision 智慧屏 6 SE RGB", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "105% BT.2020色域 -> Vision 智慧屏 6 SE RGB"}
+{"instruction": "哪款华为产品有「105% BT.2020色域」？", "output": "Vision 智慧屏 6 SE RGB", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "105% BT.2020色域 -> Vision 智慧屏 6 SE RGB"}
+{"instruction": "具有「三原色独立发光」这一特性的是哪家公司的产品？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "三原色独立发光 -> Vision 智慧屏 6 SE RGB -> ... -> Vision 系列"}
+{"instruction": "「三原色独立发光」是哪个品牌的功能？", "output": "Vision 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "三原色独立发光 -> Vision 智慧屏 6 SE RGB -> ... -> Vision 系列"}
+{"instruction": "「三原色独立发光」是华为哪款产品的特性？", "output": "Vision 智慧屏 6 SE RGB", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "三原色独立发光 -> Vision 智慧屏 6 SE RGB"}
+{"instruction": "哪款华为产品有「三原色独立发光」？", "output": "Vision 智慧屏 6 SE RGB", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "三原色独立发光 -> Vision 智慧屏 6 SE RGB"}
+{"instruction": "具有「35.5g比Meta轻」这一特性的是哪家公司的产品？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "35.5g比Meta轻 -> 鸿蒙 AI 眼镜 -> ... -> 鸿蒙 AI 眼镜"}
+{"instruction": "「35.5g比Meta轻」是哪个品牌的功能？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "35.5g比Meta轻 -> 鸿蒙 AI 眼镜 -> ... -> 鸿蒙 AI 眼镜"}
+{"instruction": "「35.5g比Meta轻」是华为哪款产品的特性？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "35.5g比Meta轻 -> 鸿蒙 AI 眼镜"}
+{"instruction": "哪款华为产品有「35.5g比Meta轻」？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "35.5g比Meta轻 -> 鸿蒙 AI 眼镜"}
+{"instruction": "具有「6.25mm超薄镜腿」这一特性的是哪家公司的产品？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.25mm超薄镜腿 -> 鸿蒙 AI 眼镜 -> ... -> 鸿蒙 AI 眼镜"}
+{"instruction": "「6.25mm超薄镜腿」是哪个品牌的功能？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.25mm超薄镜腿 -> 鸿蒙 AI 眼镜 -> ... -> 鸿蒙 AI 眼镜"}
+{"instruction": "「6.25mm超薄镜腿」是华为哪款产品的特性？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.25mm超薄镜腿 -> 鸿蒙 AI 眼镜"}
+{"instruction": "哪款华为产品有「6.25mm超薄镜腿」？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6.25mm超薄镜腿 -> 鸿蒙 AI 眼镜"}
+{"instruction": "具有「1200万摄像头」这一特性的是哪家公司的产品？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1200万摄像头 -> 鸿蒙 AI 眼镜 -> ... -> 鸿蒙 AI 眼镜"}
+{"instruction": "「1200万摄像头」是哪个品牌的功能？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1200万摄像头 -> 鸿蒙 AI 眼镜 -> ... -> 鸿蒙 AI 眼镜"}
+{"instruction": "「1200万摄像头」是华为哪款产品的特性？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1200万摄像头 -> 鸿蒙 AI 眼镜"}
+{"instruction": "哪款华为产品有「1200万摄像头」？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "1200万摄像头 -> 鸿蒙 AI 眼镜"}
+{"instruction": "具有「AI指向问答」这一特性的是哪家公司的产品？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "AI指向问答 -> 鸿蒙 AI 眼镜 -> ... -> 鸿蒙 AI 眼镜"}
+{"instruction": "「AI指向问答」是哪个品牌的功能？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "AI指向问答 -> 鸿蒙 AI 眼镜 -> ... -> 鸿蒙 AI 眼镜"}
+{"instruction": "「AI指向问答」是华为哪款产品的特性？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "AI指向问答 -> 鸿蒙 AI 眼镜"}
+{"instruction": "哪款华为产品有「AI指向问答」？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "AI指向问答 -> 鸿蒙 AI 眼镜"}
+{"instruction": "具有「同声传译」这一特性的是哪家公司的产品？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "同声传译 -> 鸿蒙 AI 眼镜 -> ... -> 鸿蒙 AI 眼镜"}
+{"instruction": "「同声传译」是哪个品牌的功能？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "同声传译 -> 鸿蒙 AI 眼镜 -> ... -> 鸿蒙 AI 眼镜"}
+{"instruction": "「同声传译」是华为哪款产品的特性？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "同声传译 -> 鸿蒙 AI 眼镜"}
+{"instruction": "哪款华为产品有「同声传译」？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "同声传译 -> 鸿蒙 AI 眼镜"}
+{"instruction": "具有「光学镜/太阳镜双版本」这一特性的是哪家公司的产品？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "光学镜/太阳镜双版本 -> 鸿蒙 AI 眼镜 -> ... -> 鸿蒙 AI 眼镜"}
+{"instruction": "「光学镜/太阳镜双版本」是哪个品牌的功能？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "光学镜/太阳镜双版本 -> 鸿蒙 AI 眼镜 -> ... -> 鸿蒙 AI 眼镜"}
+{"instruction": "「光学镜/太阳镜双版本」是华为哪款产品的特性？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "光学镜/太阳镜双版本 -> 鸿蒙 AI 眼镜"}
+{"instruction": "哪款华为产品有「光学镜/太阳镜双版本」？", "output": "鸿蒙 AI 眼镜", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "光学镜/太阳镜双版本 -> 鸿蒙 AI 眼镜"}
+{"instruction": "具有「电竞曲面屏」这一特性的是哪家公司的产品？", "output": "MateView 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "电竞曲面屏 -> MateView GT -> ... -> MateView 系列"}
+{"instruction": "「电竞曲面屏」是哪个品牌的功能？", "output": "MateView 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "电竞曲面屏 -> MateView GT -> ... -> MateView 系列"}
+{"instruction": "「电竞曲面屏」是华为哪款产品的特性？", "output": "MateView GT", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "电竞曲面屏 -> MateView GT"}
+{"instruction": "哪款华为产品有「电竞曲面屏」？", "output": "MateView GT", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "电竞曲面屏 -> MateView GT"}
+{"instruction": "具有「76.6万起」这一特性的是哪家公司的产品？", "output": "尊界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "76.6万起 -> 尊界 V800 -> ... -> 尊界"}
+{"instruction": "「76.6万起」是哪个品牌的功能？", "output": "尊界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "76.6万起 -> 尊界 V800 -> ... -> 尊界"}
+{"instruction": "「76.6万起」是华为哪款产品的特性？", "output": "尊界 V800", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "76.6万起 -> 尊界 V800"}
+{"instruction": "哪款华为产品有「76.6万起」？", "output": "尊界 V800", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "76.6万起 -> 尊界 V800"}
+{"instruction": "具有「华为系最贵车型」这一特性的是哪家公司的产品？", "output": "尊界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "华为系最贵车型 -> 尊界 V800 -> ... -> 尊界"}
+{"instruction": "「华为系最贵车型」是哪个品牌的功能？", "output": "尊界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "华为系最贵车型 -> 尊界 V800 -> ... -> 尊界"}
+{"instruction": "「华为系最贵车型」是华为哪款产品的特性？", "output": "尊界 V800", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "华为系最贵车型 -> 尊界 V800"}
+{"instruction": "哪款华为产品有「华为系最贵车型」？", "output": "尊界 V800", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "华为系最贵车型 -> 尊界 V800"}
+{"instruction": "具有「64.8万起」这一特性的是哪家公司的产品？", "output": "尊界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "64.8万起 -> 尊界 V680 -> ... -> 尊界"}
+{"instruction": "「64.8万起」是哪个品牌的功能？", "output": "尊界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "64.8万起 -> 尊界 V680 -> ... -> 尊界"}
+{"instruction": "「64.8万起」是华为哪款产品的特性？", "output": "尊界 V680", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "64.8万起 -> 尊界 V680"}
+{"instruction": "哪款华为产品有「64.8万起」？", "output": "尊界 V680", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "64.8万起 -> 尊界 V680"}
+{"instruction": "具有「硬派SUV」这一特性的是哪家公司的产品？", "output": "享界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "硬派SUV -> 享界 G9 -> ... -> 享界"}
+{"instruction": "「硬派SUV」是哪个品牌的功能？", "output": "享界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "硬派SUV -> 享界 G9 -> ... -> 享界"}
+{"instruction": "「硬派SUV」是华为哪款产品的特性？", "output": "享界 G9", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "硬派SUV -> 享界 G9"}
+{"instruction": "哪款华为产品有「硬派SUV」？", "output": "享界 G9", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "硬派SUV -> 享界 G9"}
+{"instruction": "具有「对标奔驰大G」这一特性的是哪家公司的产品？", "output": "享界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "对标奔驰大G -> 享界 G9 -> ... -> 享界"}
+{"instruction": "「对标奔驰大G」是哪个品牌的功能？", "output": "享界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "对标奔驰大G -> 享界 G9 -> ... -> 享界"}
+{"instruction": "「对标奔驰大G」是华为哪款产品的特性？", "output": "享界 G9", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "对标奔驰大G -> 享界 G9"}
+{"instruction": "哪款华为产品有「对标奔驰大G」？", "output": "享界 G9", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "对标奔驰大G -> 享界 G9"}
+{"instruction": "具有「43.98万起」这一特性的是哪家公司的产品？", "output": "享界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "43.98万起 -> 享界 G9 -> ... -> 享界"}
+{"instruction": "「43.98万起」是哪个品牌的功能？", "output": "享界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "43.98万起 -> 享界 G9 -> ... -> 享界"}
+{"instruction": "「43.98万起」是华为哪款产品的特性？", "output": "享界 G9", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "43.98万起 -> 享界 G9"}
+{"instruction": "哪款华为产品有「43.98万起」？", "output": "享界 G9", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "43.98万起 -> 享界 G9"}
+{"instruction": "具有「问界走量主力」这一特性的是哪家公司的产品？", "output": "问界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "问界走量主力 -> 问界 M8 -> ... -> 问界"}
+{"instruction": "「问界走量主力」是哪个品牌的功能？", "output": "问界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "问界走量主力 -> 问界 M8 -> ... -> 问界"}
+{"instruction": "「问界走量主力」是华为哪款产品的特性？", "output": "问界 M8", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "问界走量主力 -> 问界 M8"}
+{"instruction": "哪款华为产品有「问界走量主力」？", "output": "问界 M8", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "问界走量主力 -> 问界 M8"}
+{"instruction": "具有「年轻人轿跑」这一特性的是哪家公司的产品？", "output": "尚界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "年轻人轿跑 -> 尚界 Z7 / Z7T -> ... -> 尚界"}
+{"instruction": "「年轻人轿跑」是哪个品牌的功能？", "output": "尚界", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "年轻人轿跑 -> 尚界 Z7 / Z7T -> ... -> 尚界"}
+{"instruction": "「年轻人轿跑」是华为哪款产品的特性？", "output": "尚界 Z7 / Z7T", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "年轻人轿跑 -> 尚界 Z7 / Z7T"}
+{"instruction": "哪款华为产品有「年轻人轿跑」？", "output": "尚界 Z7 / Z7T", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "年轻人轿跑 -> 尚界 Z7 / Z7T"}
+{"instruction": "具有「麒麟9030」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030 -> Mate 80 Pro -> ... -> 华为"}
+{"instruction": "「麒麟9030」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030 -> Mate 80 Pro -> ... -> 华为"}
+{"instruction": "「麒麟9030」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030 -> Mate 80 Pro -> ... -> 手机"}
+{"instruction": "具备「麒麟9030」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030 -> Mate 80 Pro -> ... -> 手机"}
+{"instruction": "「麒麟9030」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030 -> Mate 80 Pro -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「麒麟9030」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030 -> Mate 80 Pro -> ... -> Mate 系列"}
+{"instruction": "「麒麟9030」是华为哪款产品的特性？", "output": "Mate 80 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030 -> Mate 80 Pro"}
+{"instruction": "哪款华为产品有「麒麟9030」？", "output": "Mate 80 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030 -> Mate 80 Pro"}
+{"instruction": "具有「麒麟9020A」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9020A -> Mate 70 Pro 优享版 -> ... -> 华为"}
+{"instruction": "「麒麟9020A」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9020A -> Mate 70 Pro 优享版 -> ... -> 华为"}
+{"instruction": "「麒麟9020A」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9020A -> Mate 70 Pro 优享版 -> ... -> 手机"}
+{"instruction": "具备「麒麟9020A」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9020A -> Mate 70 Pro 优享版 -> ... -> 手机"}
+{"instruction": "「麒麟9020A」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9020A -> Mate 70 Pro 优享版 -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「麒麟9020A」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9020A -> Mate 70 Pro 优享版 -> ... -> Mate 系列"}
+{"instruction": "「麒麟9020A」是华为哪款产品的特性？", "output": "Mate 70 Pro 优享版", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9020A -> Mate 70 Pro 优享版"}
+{"instruction": "哪款华为产品有「麒麟9020A」？", "output": "Mate 70 Pro 优享版", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9020A -> Mate 70 Pro 优享版"}
+{"instruction": "具有「麒麟2026」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟2026 -> Mate 90 系列 -> ... -> 华为"}
+{"instruction": "「麒麟2026」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟2026 -> Mate 90 系列 -> ... -> 华为"}
+{"instruction": "「麒麟2026」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟2026 -> Mate 90 系列 -> ... -> 手机"}
+{"instruction": "具备「麒麟2026」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟2026 -> Mate 90 系列 -> ... -> 手机"}
+{"instruction": "「麒麟2026」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟2026 -> Mate 90 系列 -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「麒麟2026」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟2026 -> Mate 90 系列 -> ... -> Mate 系列"}
+{"instruction": "「麒麟2026」是华为哪款产品的特性？", "output": "Mate 90 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟2026 -> Mate 90 系列"}
+{"instruction": "哪款华为产品有「麒麟2026」？", "output": "Mate 90 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟2026 -> Mate 90 系列"}
+{"instruction": "具有「麒麟9030S」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030S -> Pura 90 Pro -> ... -> 华为"}
+{"instruction": "「麒麟9030S」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030S -> Pura 90 Pro -> ... -> 华为"}
+{"instruction": "「麒麟9030S」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030S -> Pura 90 Pro -> ... -> 手机"}
+{"instruction": "具备「麒麟9030S」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030S -> Pura 90 Pro -> ... -> 手机"}
+{"instruction": "「麒麟9030S」这一特性属于华为哪个系列？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030S -> Pura 90 Pro -> ... -> Pura 系列"}
+{"instruction": "华为哪个系列的产品有「麒麟9030S」？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030S -> Pura 90 Pro -> ... -> Pura 系列"}
+{"instruction": "「麒麟9030S」是华为哪款产品的特性？", "output": "Pura 90 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030S -> Pura 90 Pro"}
+{"instruction": "哪款华为产品有「麒麟9030S」？", "output": "Pura 90 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9030S -> Pura 90 Pro"}
+{"instruction": "具有「麒麟9000S Pro」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9000S Pro -> Mate X6 -> ... -> 华为"}
+{"instruction": "「麒麟9000S Pro」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9000S Pro -> Mate X6 -> ... -> 华为"}
+{"instruction": "「麒麟9000S Pro」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9000S Pro -> Mate X6 -> ... -> 手机"}
+{"instruction": "具备「麒麟9000S Pro」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9000S Pro -> Mate X6 -> ... -> 手机"}
+{"instruction": "「麒麟9000S Pro」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9000S Pro -> Mate X6 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「麒麟9000S Pro」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9000S Pro -> Mate X6 -> ... -> 折叠屏"}
+{"instruction": "「麒麟9000S Pro」是华为哪款产品的特性？", "output": "Mate X6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9000S Pro -> Mate X6"}
+{"instruction": "哪款华为产品有「麒麟9000S Pro」？", "output": "Mate X6", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9000S Pro -> Mate X6"}
+{"instruction": "具有「麒麟9050 Pro」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 Pro -> Mate X8 -> ... -> 华为"}
+{"instruction": "「麒麟9050 Pro」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 Pro -> Mate X8 -> ... -> 华为"}
+{"instruction": "「麒麟9050 Pro」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 Pro -> Mate X8 -> ... -> 手机"}
+{"instruction": "具备「麒麟9050 Pro」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 Pro -> Mate X8 -> ... -> 手机"}
+{"instruction": "「麒麟9050 Pro」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 Pro -> Mate X8 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「麒麟9050 Pro」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 Pro -> Mate X8 -> ... -> 折叠屏"}
+{"instruction": "「麒麟9050 Pro」是华为哪款产品的特性？", "output": "Mate X8", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 Pro -> Mate X8"}
+{"instruction": "哪款华为产品有「麒麟9050 Pro」？", "output": "Mate X8", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 Pro -> Mate X8"}
+{"instruction": "具有「麒麟9050」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 -> Mate XT2 -> ... -> 华为"}
+{"instruction": "「麒麟9050」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 -> Mate XT2 -> ... -> 华为"}
+{"instruction": "「麒麟9050」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 -> Mate XT2 -> ... -> 手机"}
+{"instruction": "具备「麒麟9050」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 -> Mate XT2 -> ... -> 手机"}
+{"instruction": "「麒麟9050」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 -> Mate XT2 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「麒麟9050」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 -> Mate XT2 -> ... -> 折叠屏"}
+{"instruction": "「麒麟9050」是华为哪款产品的特性？", "output": "Mate XT2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 -> Mate XT2"}
+{"instruction": "哪款华为产品有「麒麟9050」？", "output": "Mate XT2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9050 -> Mate XT2"}
+{"instruction": "具有「麒麟8030」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8030 -> Nova Flip 2 -> ... -> 华为"}
+{"instruction": "「麒麟8030」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8030 -> Nova Flip 2 -> ... -> 华为"}
+{"instruction": "「麒麟8030」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8030 -> Nova Flip 2 -> ... -> 手机"}
+{"instruction": "具备「麒麟8030」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8030 -> Nova Flip 2 -> ... -> 手机"}
+{"instruction": "「麒麟8030」这一特性属于华为哪个系列？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8030 -> Nova Flip 2 -> ... -> 折叠屏"}
+{"instruction": "华为哪个系列的产品有「麒麟8030」？", "output": "折叠屏", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8030 -> Nova Flip 2 -> ... -> 折叠屏"}
+{"instruction": "「麒麟8030」是华为哪款产品的特性？", "output": "Nova Flip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8030 -> Nova Flip 2"}
+{"instruction": "哪款华为产品有「麒麟8030」？", "output": "Nova Flip 2", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8030 -> Nova Flip 2"}
+{"instruction": "具有「麒麟8000A」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000A -> 畅享 90 -> ... -> 华为"}
+{"instruction": "「麒麟8000A」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000A -> 畅享 90 -> ... -> 华为"}
+{"instruction": "「麒麟8000A」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000A -> 畅享 90 -> ... -> 手机"}
+{"instruction": "具备「麒麟8000A」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000A -> 畅享 90 -> ... -> 手机"}
+{"instruction": "「麒麟8000A」这一特性属于华为哪个系列？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000A -> 畅享 90 -> ... -> 畅享系列"}
+{"instruction": "华为哪个系列的产品有「麒麟8000A」？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000A -> 畅享 90 -> ... -> 畅享系列"}
+{"instruction": "「麒麟8000A」是华为哪款产品的特性？", "output": "畅享 90", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000A -> 畅享 90"}
+{"instruction": "哪款华为产品有「麒麟8000A」？", "output": "畅享 90", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000A -> 畅享 90"}
+{"instruction": "具有「麒麟8000」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000 -> 畅享 90 Plus -> ... -> 华为"}
+{"instruction": "「麒麟8000」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000 -> 畅享 90 Plus -> ... -> 华为"}
+{"instruction": "「麒麟8000」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000 -> 畅享 90 Plus -> ... -> 手机"}
+{"instruction": "具备「麒麟8000」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000 -> 畅享 90 Plus -> ... -> 手机"}
+{"instruction": "「麒麟8000」这一特性属于华为哪个系列？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000 -> 畅享 90 Plus -> ... -> 畅享系列"}
+{"instruction": "华为哪个系列的产品有「麒麟8000」？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000 -> 畅享 90 Plus -> ... -> 畅享系列"}
+{"instruction": "「麒麟8000」是华为哪款产品的特性？", "output": "畅享 90 Plus", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000 -> 畅享 90 Plus"}
+{"instruction": "哪款华为产品有「麒麟8000」？", "output": "畅享 90 Plus", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟8000 -> 畅享 90 Plus"}
+{"instruction": "具有「麒麟9010」这一特性的是哪家公司的产品？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9010 -> MatePad Pro 13.2 2025 -> ... -> MatePad Pro 系列"}
+{"instruction": "「麒麟9010」是哪个品牌的功能？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9010 -> MatePad Pro 13.2 2025 -> ... -> MatePad Pro 系列"}
+{"instruction": "「麒麟9010」是华为哪款产品的特性？", "output": "MatePad Pro 13.2 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9010 -> MatePad Pro 13.2 2025"}
+{"instruction": "哪款华为产品有「麒麟9010」？", "output": "MatePad Pro 13.2 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟9010 -> MatePad Pro 13.2 2025"}
+{"instruction": "具有「麒麟900」这一特性的是哪家公司的产品？", "output": "MatePad Air 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟900 -> MatePad Air 12 2025 -> ... -> MatePad Air 系列"}
+{"instruction": "「麒麟900」是哪个品牌的功能？", "output": "MatePad Air 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟900 -> MatePad Air 12 2025 -> ... -> MatePad Air 系列"}
+{"instruction": "「麒麟900」是华为哪款产品的特性？", "output": "MatePad Air 12 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟900 -> MatePad Air 12 2025"}
+{"instruction": "哪款华为产品有「麒麟900」？", "output": "MatePad Air 12 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "麒麟900 -> MatePad Air 12 2025"}
+{"instruction": "具有「骁龙685」这一特性的是哪家公司的产品？", "output": "MatePad SE 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "骁龙685 -> MatePad SE 标准版 11寸 -> ... -> MatePad SE 系列"}
+{"instruction": "「骁龙685」是哪个品牌的功能？", "output": "MatePad SE 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "骁龙685 -> MatePad SE 标准版 11寸 -> ... -> MatePad SE 系列"}
+{"instruction": "「骁龙685」是华为哪款产品的特性？", "output": "MatePad SE 标准版 11寸", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "骁龙685 -> MatePad SE 标准版 11寸"}
+{"instruction": "哪款华为产品有「骁龙685」？", "output": "MatePad SE 标准版 11寸", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "骁龙685 -> MatePad SE 标准版 11寸"}
+{"instruction": "具有「酷睿Ultra9」这一特性的是哪家公司的产品？", "output": "MateBook X Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "酷睿Ultra9 -> MateBook X Pro -> ... -> MateBook X Pro 系列"}
+{"instruction": "「酷睿Ultra9」是哪个品牌的功能？", "output": "MateBook X Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "酷睿Ultra9 -> MateBook X Pro -> ... -> MateBook X Pro 系列"}
+{"instruction": "「酷睿Ultra9」是华为哪款产品的特性？", "output": "MateBook X Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "酷睿Ultra9 -> MateBook X Pro"}
+{"instruction": "哪款华为产品有「酷睿Ultra9」？", "output": "MateBook X Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "酷睿Ultra9 -> MateBook X Pro"}
+{"instruction": "具有「微曲屏」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微曲屏 -> Mate 80 Pro -> ... -> 华为"}
+{"instruction": "「微曲屏」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微曲屏 -> Mate 80 Pro -> ... -> 华为"}
+{"instruction": "「微曲屏」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微曲屏 -> Mate 80 Pro -> ... -> 手机"}
+{"instruction": "具备「微曲屏」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微曲屏 -> Mate 80 Pro -> ... -> 手机"}
+{"instruction": "「微曲屏」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微曲屏 -> Mate 80 Pro -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「微曲屏」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微曲屏 -> Mate 80 Pro -> ... -> Mate 系列"}
+{"instruction": "「微曲屏」是华为哪款产品的特性？", "output": "Mate 80 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微曲屏 -> Mate 80 Pro"}
+{"instruction": "哪款华为产品有「微曲屏」？", "output": "Mate 80 Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "微曲屏 -> Mate 80 Pro"}
+{"instruction": "具有「柔性OLED」这一特性的是哪家公司的产品？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "柔性OLED -> MatePad Pro 13.2 2025 -> ... -> MatePad Pro 系列"}
+{"instruction": "「柔性OLED」是哪个品牌的功能？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "柔性OLED -> MatePad Pro 13.2 2025 -> ... -> MatePad Pro 系列"}
+{"instruction": "「柔性OLED」是华为哪款产品的特性？", "output": "MatePad Pro 13.2 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "柔性OLED -> MatePad Pro 13.2 2025"}
+{"instruction": "哪款华为产品有「柔性OLED」？", "output": "MatePad Pro 13.2 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "柔性OLED -> MatePad Pro 13.2 2025"}
+{"instruction": "具有「5200mAh」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5200mAh -> Mate 70 -> ... -> 华为"}
+{"instruction": "「5200mAh」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5200mAh -> Mate 70 -> ... -> 华为"}
+{"instruction": "「5200mAh」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5200mAh -> Mate 70 -> ... -> 手机"}
+{"instruction": "具备「5200mAh」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5200mAh -> Mate 70 -> ... -> 手机"}
+{"instruction": "「5200mAh」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5200mAh -> Mate 70 -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「5200mAh」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5200mAh -> Mate 70 -> ... -> Mate 系列"}
+{"instruction": "「5200mAh」是华为哪款产品的特性？", "output": "Mate 70", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5200mAh -> Mate 70"}
+{"instruction": "哪款华为产品有「5200mAh」？", "output": "Mate 70", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5200mAh -> Mate 70"}
+{"instruction": "具有「5700mAh」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5700mAh -> Mate 70 RS 非凡大师 -> ... -> 华为"}
+{"instruction": "「5700mAh」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5700mAh -> Mate 70 RS 非凡大师 -> ... -> 华为"}
+{"instruction": "「5700mAh」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5700mAh -> Mate 70 RS 非凡大师 -> ... -> 手机"}
+{"instruction": "具备「5700mAh」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5700mAh -> Mate 70 RS 非凡大师 -> ... -> 手机"}
+{"instruction": "「5700mAh」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5700mAh -> Mate 70 RS 非凡大师 -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「5700mAh」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5700mAh -> Mate 70 RS 非凡大师 -> ... -> Mate 系列"}
+{"instruction": "「5700mAh」是华为哪款产品的特性？", "output": "Mate 70 RS 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5700mAh -> Mate 70 RS 非凡大师"}
+{"instruction": "哪款华为产品有「5700mAh」？", "output": "Mate 70 RS 非凡大师", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5700mAh -> Mate 70 RS 非凡大师"}
+{"instruction": "具有「6500mAh」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6500mAh -> Mate 70 Air -> ... -> 华为"}
+{"instruction": "「6500mAh」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6500mAh -> Mate 70 Air -> ... -> 华为"}
+{"instruction": "「6500mAh」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6500mAh -> Mate 70 Air -> ... -> 手机"}
+{"instruction": "具备「6500mAh」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6500mAh -> Mate 70 Air -> ... -> 手机"}
+{"instruction": "「6500mAh」这一特性属于华为哪个系列？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6500mAh -> Mate 70 Air -> ... -> Mate 系列"}
+{"instruction": "华为哪个系列的产品有「6500mAh」？", "output": "Mate 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6500mAh -> Mate 70 Air -> ... -> Mate 系列"}
+{"instruction": "「6500mAh」是华为哪款产品的特性？", "output": "Mate 70 Air", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6500mAh -> Mate 70 Air"}
+{"instruction": "哪款华为产品有「6500mAh」？", "output": "Mate 70 Air", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "6500mAh -> Mate 70 Air"}
+{"instruction": "具有「5600mAh」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5600mAh -> Pura 80 -> ... -> 华为"}
+{"instruction": "「5600mAh」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5600mAh -> Pura 80 -> ... -> 华为"}
+{"instruction": "「5600mAh」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5600mAh -> Pura 80 -> ... -> 手机"}
+{"instruction": "具备「5600mAh」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5600mAh -> Pura 80 -> ... -> 手机"}
+{"instruction": "「5600mAh」这一特性属于华为哪个系列？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5600mAh -> Pura 80 -> ... -> Pura 系列"}
+{"instruction": "华为哪个系列的产品有「5600mAh」？", "output": "Pura 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5600mAh -> Pura 80 -> ... -> Pura 系列"}
+{"instruction": "「5600mAh」是华为哪款产品的特性？", "output": "Pura 80", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5600mAh -> Pura 80"}
+{"instruction": "哪款华为产品有「5600mAh」？", "output": "Pura 80", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "5600mAh -> Pura 80"}
+{"instruction": "具有「7000mAh」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7000mAh -> nova 16 -> ... -> 华为"}
+{"instruction": "「7000mAh」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7000mAh -> nova 16 -> ... -> 华为"}
+{"instruction": "「7000mAh」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7000mAh -> nova 16 -> ... -> 手机"}
+{"instruction": "具备「7000mAh」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7000mAh -> nova 16 -> ... -> 手机"}
+{"instruction": "「7000mAh」这一特性属于华为哪个系列？", "output": "nova 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7000mAh -> nova 16 -> ... -> nova 系列"}
+{"instruction": "华为哪个系列的产品有「7000mAh」？", "output": "nova 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7000mAh -> nova 16 -> ... -> nova 系列"}
+{"instruction": "「7000mAh」是华为哪款产品的特性？", "output": "nova 16", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7000mAh -> nova 16"}
+{"instruction": "哪款华为产品有「7000mAh」？", "output": "nova 16", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7000mAh -> nova 16"}
+{"instruction": "具有「8500mAh」这一特性的是哪家公司的产品？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8500mAh -> 畅享 90 Pro Max -> ... -> 华为"}
+{"instruction": "「8500mAh」是哪个品牌的功能？", "output": "华为", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8500mAh -> 畅享 90 Pro Max -> ... -> 华为"}
+{"instruction": "「8500mAh」是华为什么品类的特性？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8500mAh -> 畅享 90 Pro Max -> ... -> 手机"}
+{"instruction": "具备「8500mAh」的华为产品属于哪个品类？", "output": "手机", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8500mAh -> 畅享 90 Pro Max -> ... -> 手机"}
+{"instruction": "「8500mAh」这一特性属于华为哪个系列？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8500mAh -> 畅享 90 Pro Max -> ... -> 畅享系列"}
+{"instruction": "华为哪个系列的产品有「8500mAh」？", "output": "畅享系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8500mAh -> 畅享 90 Pro Max -> ... -> 畅享系列"}
+{"instruction": "「8500mAh」是华为哪款产品的特性？", "output": "畅享 90 Pro Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8500mAh -> 畅享 90 Pro Max"}
+{"instruction": "哪款华为产品有「8500mAh」？", "output": "畅享 90 Pro Max", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "8500mAh -> 畅享 90 Pro Max"}
+{"instruction": "具有「7700mAh」这一特性的是哪家公司的产品？", "output": "MatePad SE 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7700mAh -> MatePad SE 标准版 11寸 -> ... -> MatePad SE 系列"}
+{"instruction": "「7700mAh」是哪个品牌的功能？", "output": "MatePad SE 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7700mAh -> MatePad SE 标准版 11寸 -> ... -> MatePad SE 系列"}
+{"instruction": "「7700mAh」是华为哪款产品的特性？", "output": "MatePad SE 标准版 11寸", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7700mAh -> MatePad SE 标准版 11寸"}
+{"instruction": "哪款华为产品有「7700mAh」？", "output": "MatePad SE 标准版 11寸", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "7700mAh -> MatePad SE 标准版 11寸"}
+{"instruction": "具有「88W快充」这一特性的是哪家公司的产品？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "88W快充 -> MatePad Pro 13.2 2025 -> ... -> MatePad Pro 系列"}
+{"instruction": "「88W快充」是哪个品牌的功能？", "output": "MatePad Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "88W快充 -> MatePad Pro 13.2 2025 -> ... -> MatePad Pro 系列"}
+{"instruction": "「88W快充」是华为哪款产品的特性？", "output": "MatePad Pro 13.2 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "88W快充 -> MatePad Pro 13.2 2025"}
+{"instruction": "哪款华为产品有「88W快充」？", "output": "MatePad Pro 13.2 2025", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "88W快充 -> MatePad Pro 13.2 2025"}
+{"instruction": "具有「140W超级快充」这一特性的是哪家公司的产品？", "output": "MateBook X Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "140W超级快充 -> MateBook X Pro -> ... -> MateBook X Pro 系列"}
+{"instruction": "「140W超级快充」是哪个品牌的功能？", "output": "MateBook X Pro 系列", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "140W超级快充 -> MateBook X Pro -> ... -> MateBook X Pro 系列"}
+{"instruction": "「140W超级快充」是华为哪款产品的特性？", "output": "MateBook X Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "140W超级快充 -> MateBook X Pro"}
+{"instruction": "哪款华为产品有「140W超级快充」？", "output": "MateBook X Pro", "_eval_type": "indirect", "_scoring": "exact_match", "_path": "140W超级快充 -> MateBook X Pro"}
+{"instruction": "Mate 80属于Mate 80 系列,而Mate 80 系列全系搭载麒麟9030,请问Mate 80搭载什么芯片？", "output": "麒麟9030", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Mate 80 --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030"}
+{"instruction": "根据产品定位,Mate 80用什么处理器？", "output": "麒麟9030", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Mate 80 --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030"}
+{"instruction": "Mate 80 Pro属于Mate 80 系列,而Mate 80 系列全系搭载麒麟9030,请问Mate 80 Pro搭载什么芯片？", "output": "麒麟9030", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Mate 80 Pro --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030"}
+{"instruction": "根据产品定位,Mate 80 Pro用什么处理器？", "output": "麒麟9030", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Mate 80 Pro --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030"}
+{"instruction": "Mate 80 Pro Max属于Mate 80 系列,而Mate 80 系列全系搭载麒麟9030,请问Mate 80 Pro Max搭载什么芯片？", "output": "麒麟9030", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Mate 80 Pro Max --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030"}
+{"instruction": "根据产品定位,Mate 80 Pro Max用什么处理器？", "output": "麒麟9030", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Mate 80 Pro Max --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030"}
+{"instruction": "Mate 80 Pro Max 风驰版属于Mate 80 系列,而Mate 80 系列全系搭载麒麟9030,请问Mate 80 Pro Max 风驰版搭载什么芯片？", "output": "麒麟9030", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Mate 80 Pro Max 风驰版 --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030"}
+{"instruction": "根据产品定位,Mate 80 Pro Max 风驰版用什么处理器？", "output": "麒麟9030", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Mate 80 Pro Max 风驰版 --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030"}
+{"instruction": "Mate 80 RS 非凡大师属于Mate 80 系列,而Mate 80 系列全系搭载麒麟9030,请问Mate 80 RS 非凡大师搭载什么芯片？", "output": "麒麟9030", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Mate 80 RS 非凡大师 --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030"}
+{"instruction": "根据产品定位,Mate 80 RS 非凡大师用什么处理器？", "output": "麒麟9030", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Mate 80 RS 非凡大师 --is_a--> Mate 80 系列 --subseries_has_chip--> 麒麟9030"}
+{"instruction": "Mate 90 系列属于Mate 系列即将发布,而Mate 系列即将发布全系搭载麒麟2026,请问Mate 90 系列搭载什么芯片？", "output": "麒麟2026", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Mate 90 系列 --is_a--> Mate 系列即将发布 --subseries_has_chip--> 麒麟2026"}
+{"instruction": "根据产品定位,Mate 90 系列用什么处理器？", "output": "麒麟2026", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Mate 90 系列 --is_a--> Mate 系列即将发布 --subseries_has_chip--> 麒麟2026"}
+{"instruction": "Pura 90属于Pura 90 系列,而Pura 90 系列全系搭载麒麟9030S,请问Pura 90搭载什么芯片？", "output": "麒麟9030S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Pura 90 --is_a--> Pura 90 系列 --subseries_has_chip--> 麒麟9030S"}
+{"instruction": "根据产品定位,Pura 90用什么处理器？", "output": "麒麟9030S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Pura 90 --is_a--> Pura 90 系列 --subseries_has_chip--> 麒麟9030S"}
+{"instruction": "Pura 90 Pro属于Pura 90 系列,而Pura 90 系列全系搭载麒麟9030S,请问Pura 90 Pro搭载什么芯片？", "output": "麒麟9030S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Pura 90 Pro --is_a--> Pura 90 系列 --subseries_has_chip--> 麒麟9030S"}
+{"instruction": "根据产品定位,Pura 90 Pro用什么处理器？", "output": "麒麟9030S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Pura 90 Pro --is_a--> Pura 90 系列 --subseries_has_chip--> 麒麟9030S"}
+{"instruction": "Pura 90 Pro Max属于Pura 90 系列,而Pura 90 系列全系搭载麒麟9030S,请问Pura 90 Pro Max搭载什么芯片？", "output": "麒麟9030S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Pura 90 Pro Max --is_a--> Pura 90 系列 --subseries_has_chip--> 麒麟9030S"}
+{"instruction": "根据产品定位,Pura 90 Pro Max用什么处理器？", "output": "麒麟9030S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "Pura 90 Pro Max --is_a--> Pura 90 系列 --subseries_has_chip--> 麒麟9030S"}
+{"instruction": "nova 16 SE属于nova 16 系列,而nova 16 系列全系搭载麒麟9010S,请问nova 16 SE搭载什么芯片？", "output": "麒麟9010S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "nova 16 SE --is_a--> nova 16 系列 --subseries_has_chip--> 麒麟9010S"}
+{"instruction": "根据产品定位,nova 16 SE用什么处理器？", "output": "麒麟9010S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "nova 16 SE --is_a--> nova 16 系列 --subseries_has_chip--> 麒麟9010S"}
+{"instruction": "nova 16属于nova 16 系列,而nova 16 系列全系搭载麒麟9010S,请问nova 16搭载什么芯片？", "output": "麒麟9010S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "nova 16 --is_a--> nova 16 系列 --subseries_has_chip--> 麒麟9010S"}
+{"instruction": "根据产品定位,nova 16用什么处理器？", "output": "麒麟9010S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "nova 16 --is_a--> nova 16 系列 --subseries_has_chip--> 麒麟9010S"}
+{"instruction": "nova 16 Pro属于nova 16 系列,而nova 16 系列全系搭载麒麟9010S,请问nova 16 Pro搭载什么芯片？", "output": "麒麟9010S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "nova 16 Pro --is_a--> nova 16 系列 --subseries_has_chip--> 麒麟9010S"}
+{"instruction": "根据产品定位,nova 16 Pro用什么处理器？", "output": "麒麟9010S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "nova 16 Pro --is_a--> nova 16 系列 --subseries_has_chip--> 麒麟9010S"}
+{"instruction": "nova 16 Ultra属于nova 16 系列,而nova 16 系列全系搭载麒麟9010S,请问nova 16 Ultra搭载什么芯片？", "output": "麒麟9010S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "nova 16 Ultra --is_a--> nova 16 系列 --subseries_has_chip--> 麒麟9010S"}
+{"instruction": "根据产品定位,nova 16 Ultra用什么处理器？", "output": "麒麟9010S", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "nova 16 Ultra --is_a--> nova 16 系列 --subseries_has_chip--> 麒麟9010S"}
+{"instruction": "MatePad Pro 13.2 2025属于MatePad Pro 系列,而MatePad Pro 系列全系搭载麒麟9010,请问MatePad Pro 13.2 2025搭载什么芯片？", "output": "麒麟9010", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad Pro 13.2 2025 --is_a--> MatePad Pro 系列 --subseries_has_chip--> 麒麟9010"}
+{"instruction": "根据产品定位,MatePad Pro 13.2 2025用什么处理器？", "output": "麒麟9010", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad Pro 13.2 2025 --is_a--> MatePad Pro 系列 --subseries_has_chip--> 麒麟9010"}
+{"instruction": "MatePad Pro 12.2 2025属于MatePad Pro 系列,而MatePad Pro 系列全系搭载麒麟9010,请问MatePad Pro 12.2 2025搭载什么芯片？", "output": "麒麟9010", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad Pro 12.2 2025 --is_a--> MatePad Pro 系列 --subseries_has_chip--> 麒麟9010"}
+{"instruction": "根据产品定位,MatePad Pro 12.2 2025用什么处理器？", "output": "麒麟9010", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad Pro 12.2 2025 --is_a--> MatePad Pro 系列 --subseries_has_chip--> 麒麟9010"}
+{"instruction": "MatePad Pro 2026属于MatePad Pro 系列,而MatePad Pro 系列全系搭载麒麟9010,请问MatePad Pro 2026搭载什么芯片？", "output": "麒麟9010", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad Pro 2026 --is_a--> MatePad Pro 系列 --subseries_has_chip--> 麒麟9010"}
+{"instruction": "根据产品定位,MatePad Pro 2026用什么处理器？", "output": "麒麟9010", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad Pro 2026 --is_a--> MatePad Pro 系列 --subseries_has_chip--> 麒麟9010"}
+{"instruction": "MatePad Edge属于MatePad Pro 系列,而MatePad Pro 系列全系搭载麒麟9010,请问MatePad Edge搭载什么芯片？", "output": "麒麟9010", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad Edge --is_a--> MatePad Pro 系列 --subseries_has_chip--> 麒麟9010"}
+{"instruction": "根据产品定位,MatePad Edge用什么处理器？", "output": "麒麟9010", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad Edge --is_a--> MatePad Pro 系列 --subseries_has_chip--> 麒麟9010"}
+{"instruction": "MatePad Air 12 2025属于MatePad Air 系列,而MatePad Air 系列全系搭载麒麟900,请问MatePad Air 12 2025搭载什么芯片？", "output": "麒麟900", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad Air 12 2025 --is_a--> MatePad Air 系列 --subseries_has_chip--> 麒麟900"}
+{"instruction": "根据产品定位,MatePad Air 12 2025用什么处理器？", "output": "麒麟900", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad Air 12 2025 --is_a--> MatePad Air 系列 --subseries_has_chip--> 麒麟900"}
+{"instruction": "MatePad Air 2026属于MatePad Air 系列,而MatePad Air 系列全系搭载麒麟900,请问MatePad Air 2026搭载什么芯片？", "output": "麒麟900", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad Air 2026 --is_a--> MatePad Air 系列 --subseries_has_chip--> 麒麟900"}
+{"instruction": "根据产品定位,MatePad Air 2026用什么处理器？", "output": "麒麟900", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad Air 2026 --is_a--> MatePad Air 系列 --subseries_has_chip--> 麒麟900"}
+{"instruction": "MatePad SE 标准版 11寸属于MatePad SE 系列,而MatePad SE 系列全系搭载骁龙685,请问MatePad SE 标准版 11寸搭载什么芯片？", "output": "骁龙685", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad SE 标准版 11寸 --is_a--> MatePad SE 系列 --subseries_has_chip--> 骁龙685"}
+{"instruction": "根据产品定位,MatePad SE 标准版 11寸用什么处理器？", "output": "骁龙685", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MatePad SE 标准版 11寸 --is_a--> MatePad SE 系列 --subseries_has_chip--> 骁龙685"}
+{"instruction": "MateBook X Pro属于MateBook X Pro 系列,而MateBook X Pro 系列全系搭载酷睿Ultra9,请问MateBook X Pro搭载什么芯片？", "output": "酷睿Ultra9", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MateBook X Pro --is_a--> MateBook X Pro 系列 --subseries_has_chip--> 酷睿Ultra9"}
+{"instruction": "根据产品定位,MateBook X Pro用什么处理器？", "output": "酷睿Ultra9", "_eval_type": "syllogism", "_scoring": "exact_match", "_path": "MateBook X Pro --is_a--> MateBook X Pro 系列 --subseries_has_chip--> 酷睿Ultra9"}

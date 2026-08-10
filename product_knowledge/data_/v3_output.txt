@@ -1,0 +1,231 @@
+选中 15 个产品: ['Mate 80', 'Mate 80 Pro', 'Mate 80 Pro Max', 'Mate 80 RS 非凡大师', 'Mate 70 Pro', 'Pura 90 Pro Max', 'Mate X7', 'Mate XTs 非凡大师', 'nova 16', '畅享 90', 'MatePad Pro 13.2 2025', 'MatePad Pro 12.2 2025', 'MateBook Pro S', 'WATCH Ultimate 2', 'WATCH GT 7 Pro 46mm']
+目标中未找到: set()
+======================================================================
+知识图谱节点
+======================================================================
+
+  [Company] (1个)
+    · 华为
+
+  [Category] (4个)
+    · 平板
+    · 手机
+    · 智能手表
+    · 笔记本
+
+  [Series] (5个)
+    · Mate 系列  [手机]
+    · Pura 系列  [手机]
+    · nova 系列  [手机]
+    · 折叠屏  [手机]
+    · 畅享系列  [手机]
+
+  [SubSeries] (9个)
+    · Mate 70 系列  [手机]
+    · Mate 80 系列  [手机]
+    · MateBook Pro 系列  [笔记本]
+    · MatePad Pro 系列  [平板]
+    · Pura 90 系列  [手机]
+    · WATCH GT 系列  [智能手表]
+    · WATCH Ultimate 系列  [智能手表]
+    · nova 16 系列  [手机]
+    · 畅享 90 系列  [手机]
+
+  [SPU] (15个)
+    · Mate 70 Pro  [手机]
+    · Mate 80  [手机]
+    · Mate 80 Pro  [手机]
+    · Mate 80 Pro Max  [手机]
+    · Mate 80 RS 非凡大师  [手机]
+    · Mate X7  [手机]
+    · Mate XTs 非凡大师  [手机]
+    · MateBook Pro S  [笔记本]
+    · MatePad Pro 12.2 2025  [平板]
+    · MatePad Pro 13.2 2025  [平板]
+    · Pura 90 Pro Max  [手机]
+    · WATCH GT 7 Pro 46mm  [智能手表]
+    · WATCH Ultimate 2  [智能手表]
+    · nova 16  [手机]
+    · 畅享 90  [手机]
+
+  [Chip] (2个)
+    · 麒麟8000A
+    · 麒麟9030 WiFi
+
+  [Feature] (28个)
+    · 1299千元5G
+    · 150米潜水带音频
+    · 20倍高清录像
+    · 2亿像素超大底潜望长焦
+    · PC级应用
+    · WiFi7
+    · 三折叠形态
+    · 专业登山潜水模式
+    · 全金属玄武架构
+    · 北斗卫星语音消息
+    · 卫星通信
+    · 双向北斗卫星
+    · 双潜望
+    · 双潜望长焦
+    · 微距长焦
+    · 标准版到14999典藏版
+    · 水下声呐通信
+    · 第二代红枫
+    · 钛合金+蓝宝石
+    · 镁锂合金一体
+    · 首配3D人脸
+    · 麒麟8000A 5G
+    · 麒麟9010
+    · 麒麟9010S
+    · 麒麟9020
+    · 麒麟9030
+    · 麒麟9030 Pro
+    · 麒麟XE90
+
+  [Battery] (4个)
+    · 10100mAh
+    · 6000mAh
+    · 6620mAh
+    · 7000mAh
+
+  [ScreenType] (4个)
+    · LTPO
+    · 双层OLED
+    · 微曲屏
+    · 柔性OLED
+
+  [Weight] (1个)
+    · 798g
+
+  [Charging] (3个)
+    · 100W快充
+    · 88W快充
+    · 9030W快充
+
+  [Price] (13个)
+    · ¥11999起
+    · ¥12999起
+    · ¥1299起
+    · ¥18000起
+    · ¥2488起
+    · ¥3199起
+    · ¥3499起
+    · ¥3999起
+    · ¥4350起
+    · ¥5199起
+    · ¥6499起
+    · ¥7499起
+    · ¥7999起
+
+  [PriceRange] (6个)
+    · 12000元以上
+    · 2000-4000元
+    · 2000元以下
+    · 4000-6000元
+    · 6000-8000元
+    · 8000-12000元
+
+  [Positioning] (24个)
+    · 三折叠  [手机]
+    · 上代Pro
+    · 专业旗舰平板
+    · 专业运动
+    · 中端潮流
+    · 入门实用
+    · 全能旗舰
+    · 创意生产力
+    · 千元5G
+    · 商务旗舰
+    · 奢华旗舰
+    · 年轻续航王
+    · 影像旗舰
+    · 户外顶配
+    · 折叠屏天花板
+    · 探险旗舰
+    · 极致便携
+    · 横向大折叠  [手机]
+    · 画质旗舰
+    · 直屏旗舰
+    · 超高端商务
+    · 长续航户外旗舰
+    · 顶配影像
+    · 鸿蒙超轻薄本
+
+======================================================================
+边 (关系类型统计)
+======================================================================
+
+  [has_battery] × 4
+    Mate 80 Pro Max --has_battery--> 6000mAh
+    nova 16 --has_battery--> 7000mAh
+    畅享 90 --has_battery--> 6620mAh
+
+  [has_charging] × 3
+    Mate 80 Pro --has_charging--> 9030W快充
+    nova 16 --has_charging--> 100W快充
+    MatePad Pro 13.2 2025 --has_charging--> 88W快充
+
+  [has_chip] × 6
+    Mate 80 Pro --has_chip--> 麒麟9030 WiFi
+    Mate 70 Pro --has_chip--> 麒麟9020
+    Mate X7 --has_chip--> 麒麟9030 Pro
+
+  [has_feature] × 31
+    Mate 80 --has_feature--> 首配3D人脸
+    Mate 80 Pro --has_feature--> 麒麟9030
+    Mate 80 Pro --has_feature--> WiFi7
+
+  [has_price] × 14
+    Mate 80 --has_price--> ¥3999起
+    Mate 80 Pro --has_price--> ¥6499起
+    Mate 80 Pro Max --has_price--> ¥7499起
+
+  [has_screen] × 5
+    Mate 80 Pro --has_screen--> 微曲屏
+    Mate 80 Pro Max --has_screen--> 双层OLED
+    Mate 70 Pro --has_screen--> LTPO
+
+  [has_weight] × 1
+    MateBook Pro S --has_weight--> 798g
+
+  [in_price_range] × 14
+    Mate 80 --in_price_range--> 2000-4000元
+    Mate 80 Pro --in_price_range--> 6000-8000元
+    Mate 80 Pro Max --in_price_range--> 6000-8000元
+
+  [is_a] × 39
+    Mate 80 --is_a--> Mate 80 系列
+    Mate 80 系列 --is_a--> Mate 系列
+    Mate 系列 --is_a--> 手机
+
+  [positioned_as] × 31
+    Mate 80 --positioned_as--> 商务旗舰
+    Mate 80 --positioned_as--> 直屏旗舰
+    Mate 80 Pro --positioned_as--> 商务旗舰
+
+  [same_subseries] × 14
+    Mate 80 --same_subseries--> Mate 80 Pro
+    Mate 80 --same_subseries--> Mate 80 Pro Max
+    Mate 80 --same_subseries--> Mate 80 RS 非凡大师
+
+  [same_tier] × 93
+    Mate 80 --same_tier--> Mate 80
+    Mate 80 --same_tier--> Mate 80 Pro
+    Mate 80 --same_tier--> Mate 80 Pro Max
+
+  [subseries_has_chip] × 6
+    Mate 80 系列 --subseries_has_chip--> 麒麟9030 WiFi
+    Mate 70 系列 --subseries_has_chip--> 麒麟9020
+    横向大折叠 --subseries_has_chip--> 麒麟9030 Pro
+
+总共 2-hop 路径: 1959 条, 其中起点为SPU: 1938 条
+Traceback (most recent call last):
+  File "D:\新建文件夹\grad_t\product_knowledge\script_\gen_graph_syllogism.py", line 776, in <module>
+    main()
+    ~~~~^^
+  File "D:\新建文件夹\grad_t\product_knowledge\script_\gen_graph_syllogism.py", line 756, in main
+    results = generate_syllogism_qa(g, spu_paths)
+  File "D:\新建文件夹\grad_t\product_knowledge\script_\gen_graph_syllogism.py", line 499, in generate_syllogism_qa
+    q = q_tmpl.format(src=src, mid=mid, tgt=tgt,
+                    mid_type=mid_type, feature_label=feature_label)
+KeyError: 'rel2'
