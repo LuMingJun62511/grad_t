@@ -1,1332 +1,75 @@
 {
-  "Mate 80": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 80 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_1b1dd8a3_Mate_80",
-        "source": "百度搜索: Mate 80",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 0
-  },
-  "Mate 80 Pro": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 80 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_b2b54bfa_Mate_80_Pro",
-        "source": "百度搜索: Mate 80 Pro",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 75
-  },
-  "Mate 80 Pro Max": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 80 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_41131eb5_Mate_80_Pro_Max",
-        "source": "百度搜索: Mate 80 Pro Max",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 75
-  },
-  "Mate 80 Pro Max 风驰版": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 80 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_30d98061_Mate_80_Pro_Max_风驰版",
-        "source": "百度搜索: Mate 80 Pro Max 风驰版",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 80
-  },
-  "Mate 80 RS 非凡大师": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 80 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_0696915a_Mate_80_RS_非凡大师",
-        "source": "百度搜索: Mate 80 RS 非凡大师",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 65
-  },
-  "Mate 70": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 70 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_a91121d8_Mate_70",
-        "source": "百度搜索: Mate 70",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 90
-  },
-  "Mate 70 Pro": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 70 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_16288916_Mate_70_Pro",
-        "source": "百度搜索: Mate 70 Pro",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 115
-  },
-  "Mate 70 Pro 优享版": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 70 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_6e71324c_Mate_70_Pro_优享版",
-        "source": "百度搜索: Mate 70 Pro 优享版",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 100
-  },
-  "Mate 70 Pro+": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 70 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_0aae76e8_Mate_70_Pro+",
-        "source": "百度搜索: Mate 70 Pro+",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 75
-  },
-  "Mate 70 RS 非凡大师": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 70 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_8abcba13_Mate_70_RS_非凡大师",
-        "source": "百度搜索: Mate 70 RS 非凡大师",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 75
-  },
-  "Mate 70 Air": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 70 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_89c11724_Mate_70_Air",
-        "source": "百度搜索: Mate 70 Air",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 70
-  },
-  "Mate 90 系列": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 系列即将发布",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_f808f8a1_Mate_90_系列",
-        "source": "百度搜索: Mate 90 系列",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 145
-  },
-  "Pura 90": {
-    "tree_path": "华为 > 手机 > Pura 系列 > Pura 90 系列",
-    "category": "手机",
-    "series": "Pura 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_023_华为Pura_90系列",
-        "source": "华为Pura 90系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_024_华为Pura_80系列",
-        "source": "华为Pura 80系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_030_华为Pura_70系列",
-        "source": "华为Pura 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_031_华为P60系列",
-        "source": "华为P60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_58e21614_Pura_90",
-        "source": "百度搜索: Pura 90",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 132
-  },
-  "Pura 90 Pro": {
-    "tree_path": "华为 > 手机 > Pura 系列 > Pura 90 系列",
-    "category": "手机",
-    "series": "Pura 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_023_华为Pura_90系列",
-        "source": "华为Pura 90系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_024_华为Pura_80系列",
-        "source": "华为Pura 80系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_030_华为Pura_70系列",
-        "source": "华为Pura 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_031_华为P60系列",
-        "source": "华为P60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_c7d04760_Pura_90_Pro",
-        "source": "百度搜索: Pura 90 Pro",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 114
-  },
-  "Pura 90 Pro Max": {
-    "tree_path": "华为 > 手机 > Pura 系列 > Pura 90 系列",
-    "category": "手机",
-    "series": "Pura 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_023_华为Pura_90系列",
-        "source": "华为Pura 90系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_024_华为Pura_80系列",
-        "source": "华为Pura 80系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_030_华为Pura_70系列",
-        "source": "华为Pura 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_031_华为P60系列",
-        "source": "华为P60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_c9e3676a_Pura_90_Pro_Max",
-        "source": "百度搜索: Pura 90 Pro Max",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 138
-  },
-  "Pura 80": {
-    "tree_path": "华为 > 手机 > Pura 系列 > Pura 80 系列",
-    "category": "手机",
-    "series": "Pura 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_023_华为Pura_90系列",
-        "source": "华为Pura 90系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_024_华为Pura_80系列",
-        "source": "华为Pura 80系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_030_华为Pura_70系列",
-        "source": "华为Pura 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_031_华为P60系列",
-        "source": "华为P60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_f4089c08_Pura_80",
-        "source": "百度搜索: Pura 80",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 168
-  },
-  "Pura 80 Pro": {
-    "tree_path": "华为 > 手机 > Pura 系列 > Pura 80 系列",
-    "category": "手机",
-    "series": "Pura 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_023_华为Pura_90系列",
-        "source": "华为Pura 90系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_024_华为Pura_80系列",
-        "source": "华为Pura 80系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_030_华为Pura_70系列",
-        "source": "华为Pura 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_031_华为P60系列",
-        "source": "华为P60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_9917e6b4_Pura_80_Pro",
-        "source": "百度搜索: Pura 80 Pro",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 162
-  },
-  "Pura 80 Pro+": {
-    "tree_path": "华为 > 手机 > Pura 系列 > Pura 80 系列",
-    "category": "手机",
-    "series": "Pura 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_023_华为Pura_90系列",
-        "source": "华为Pura 90系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_024_华为Pura_80系列",
-        "source": "华为Pura 80系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_030_华为Pura_70系列",
-        "source": "华为Pura 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_031_华为P60系列",
-        "source": "华为P60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_da3c13f1_Pura_80_Pro+",
-        "source": "百度搜索: Pura 80 Pro+",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 204
-  },
-  "Pura 80 Ultra": {
-    "tree_path": "华为 > 手机 > Pura 系列 > Pura 80 系列",
-    "category": "手机",
-    "series": "Pura 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_023_华为Pura_90系列",
-        "source": "华为Pura 90系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_024_华为Pura_80系列",
-        "source": "华为Pura 80系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_030_华为Pura_70系列",
-        "source": "华为Pura 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_031_华为P60系列",
-        "source": "华为P60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_344a3cde_Pura_80_Ultra",
-        "source": "百度搜索: Pura 80 Ultra",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 198
-  },
-  "Mate X7": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 横向大折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_a098582d_Mate_X7",
-        "source": "百度搜索: Mate X7",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 38
-  },
-  "Mate X6": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 横向大折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_040755e4_Mate_X6",
-        "source": "百度搜索: Mate X6",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 46
-  },
-  "Mate X8": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 横向大折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_0c284845_Mate_X8",
-        "source": "百度搜索: Mate X8",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 44
-  },
-  "Mate XTs 非凡大师": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 三折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "baidu_963896e0_Mate_XTs_非凡大师",
-        "source": "百度搜索: Mate XTs 非凡大师",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 60
-  },
-  "Mate XT2": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 三折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_a27c901f_Mate_XT2",
-        "source": "百度搜索: Mate XT2",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 46
-  },
-  "Pura X Max": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 阔折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_548e59a6_Pura_X_Max",
-        "source": "百度搜索: Pura X Max",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 75
-  },
-  "Pura X": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 阔折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_b5730198_Pura_X",
-        "source": "百度搜索: Pura X",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 99
-  },
-  "Pocket 2": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 竖向小折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_6d20186b_Pocket_2",
-        "source": "百度搜索: Pocket 2",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 36
-  },
-  "Nova Flip 2": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 竖向小折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_ed94a92a_Nova_Flip_2",
-        "source": "百度搜索: Nova Flip 2",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 38
-  },
-  "Nova Flip S": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 竖向小折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_5ff3144c_Nova_Flip_S",
-        "source": "百度搜索: Nova Flip S",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 28
-  },
-  "nova 16 SE": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 16 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_6ecd171e_nova_16_SE",
-        "source": "百度搜索: nova 16 SE",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 78
-  },
-  "nova 16": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 16 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_40cfc5f9_nova_16",
-        "source": "百度搜索: nova 16",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 112
-  },
-  "nova 16 Pro": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 16 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_07da6e4a_nova_16_Pro",
-        "source": "百度搜索: nova 16 Pro",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 72
-  },
-  "nova 16 Ultra": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 16 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_47107fbf_nova_16_Ultra",
-        "source": "百度搜索: nova 16 Ultra",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 88
-  },
   "畅享 90": {
-    "tree_path": "华为 > 手机 > 畅享系列 > 畅享 90 系列",
-    "category": "手机",
-    "series": "畅享系列",
     "articles": [
-      {
-        "id": "wiki_005_华为畅享8系列",
-        "source": "华为畅享8系列",
-        "type": "wiki_series"
-      },
       {
         "id": "baidu_021dde1a_畅享_90",
         "source": "百度搜索: 畅享 90",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 60
+    "chunk_count": 27
   },
-  "畅享 90 Plus": {
-    "tree_path": "华为 > 手机 > 畅享系列 > 畅享 90 系列",
-    "category": "手机",
-    "series": "畅享系列",
+  "Mate X6": {
     "articles": [
       {
-        "id": "wiki_005_华为畅享8系列",
-        "source": "华为畅享8系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_d2a3b07f_畅享_90_Plus",
-        "source": "百度搜索: 畅享 90 Plus",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 50
-  },
-  "畅享 90 Pro Max": {
-    "tree_path": "华为 > 手机 > 畅享系列 > 畅享 90 系列",
-    "category": "手机",
-    "series": "畅享系列",
-    "articles": [
-      {
-        "id": "wiki_005_华为畅享8系列",
-        "source": "华为畅享8系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_ada664ce_畅享_90_Pro_Max",
-        "source": "百度搜索: 畅享 90 Pro Max",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 48
-  },
-  "MatePad Pro 13.2 2025": {
-    "tree_path": "华为 > 平板 > MatePad Pro 系列",
-    "category": "平板",
-    "series": "MatePad Pro 系列",
-    "articles": [
-      {
-        "id": "wiki_006_鸿蒙操作系统",
-        "source": "鸿蒙操作系统",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_026_华为MateBook_Fold",
-        "source": "华为MateBook Fold",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_f6647d58_MatePad_Pro_13.2_2025",
-        "source": "百度搜索: MatePad Pro 13.2 2025",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 63
-  },
-  "MatePad Pro 12.2 2025": {
-    "tree_path": "华为 > 平板 > MatePad Pro 系列",
-    "category": "平板",
-    "series": "MatePad Pro 系列",
-    "articles": [
-      {
-        "id": "wiki_006_鸿蒙操作系统",
-        "source": "鸿蒙操作系统",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_026_华为MateBook_Fold",
-        "source": "华为MateBook Fold",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_5431af04_MatePad_Pro_12.2_2025",
-        "source": "百度搜索: MatePad Pro 12.2 2025",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 75
-  },
-  "MatePad Pro 2026": {
-    "tree_path": "华为 > 平板 > MatePad Pro 系列",
-    "category": "平板",
-    "series": "MatePad Pro 系列",
-    "articles": [
-      {
-        "id": "wiki_006_鸿蒙操作系统",
-        "source": "鸿蒙操作系统",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_008_华为MateBook系列",
-        "source": "华为MateBook系列",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "wiki_026_华为MateBook_Fold",
-        "source": "华为MateBook Fold",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_6091aac9_MatePad_Pro_2026",
-        "source": "百度搜索: MatePad Pro 2026",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 112
-  },
-  "MatePad Edge": {
-    "tree_path": "华为 > 平板 > MatePad Pro 系列",
-    "category": "平板",
-    "series": "MatePad Pro 系列",
-    "articles": [
-      {
-        "id": "wiki_006_鸿蒙操作系统",
-        "source": "鸿蒙操作系统",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_026_华为MateBook_Fold",
-        "source": "华为MateBook Fold",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_f43a9ebe_MatePad_Edge",
-        "source": "百度搜索: MatePad Edge",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 39
-  },
-  "MatePad Air 12 2025": {
-    "tree_path": "华为 > 平板 > MatePad Air 系列",
-    "category": "平板",
-    "series": "MatePad Air 系列",
-    "articles": [
-      {
-        "id": "baidu_3a6a0b0c_MatePad_Air_12_2025",
-        "source": "百度搜索: MatePad Air 12 2025",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 13
-  },
-  "MatePad Air 2026": {
-    "tree_path": "华为 > 平板 > MatePad Air 系列",
-    "category": "平板",
-    "series": "MatePad Air 系列",
-    "articles": [
-      {
-        "id": "baidu_e62af061_MatePad_Air_2026",
-        "source": "百度搜索: MatePad Air 2026",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 23
-  },
-  "MatePad Mini": {
-    "tree_path": "华为 > 平板 > MatePad Mini 系列",
-    "category": "平板",
-    "series": "MatePad Mini 系列",
-    "articles": [
-      {
-        "id": "wiki_007_華為Ascend系列",
-        "source": "華為Ascend系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_df2fd940_MatePad_Mini",
-        "source": "百度搜索: MatePad Mini",
+        "id": "baidu_040755e4_Mate_X6",
+        "source": "百度搜索: Mate X6",
         "type": "baidu_search"
       }
     ],
     "chunk_count": 18
   },
-  "MatePad 11.5 S": {
-    "tree_path": "华为 > 平板 > MatePad 11.5 S 系列",
-    "category": "平板",
-    "series": "MatePad 11.5 S 系列",
+  "Mate 80 RS 非凡大师": {
     "articles": [
       {
-        "id": "wiki_008_华为MateBook系列",
-        "source": "华为MateBook系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_68ca6947_MatePad_11.5_S",
-        "source": "百度搜索: MatePad 11.5 S",
+        "id": "baidu_0696915a_Mate_80_RS_非凡大师",
+        "source": "百度搜索: Mate 80 RS 非凡大师",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 10
+    "chunk_count": 13
   },
-  "MatePad 11.5 2026": {
-    "tree_path": "华为 > 平板 > MatePad 数字系列",
-    "category": "平板",
-    "series": "MatePad 数字系列",
+  "nova 16 Pro": {
     "articles": [
       {
-        "id": "baidu_dac01eac_MatePad_11.5_2026",
-        "source": "百度搜索: MatePad 11.5 2026",
+        "id": "baidu_07da6e4a_nova_16_Pro",
+        "source": "百度搜索: nova 16 Pro",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 23
+  },
+  "Mate 70 Pro+": {
+    "articles": [
+      {
+        "id": "baidu_0aae76e8_Mate_70_Pro+",
+        "source": "百度搜索: Mate 70 Pro+",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 13
+  },
+  "Mate X8": {
+    "articles": [
+      {
+        "id": "baidu_0c284845_Mate_X8",
+        "source": "百度搜索: Mate X8",
         "type": "baidu_search"
       }
     ],
     "chunk_count": 22
   },
-  "MatePad SE 标准版 11寸": {
-    "tree_path": "华为 > 平板 > MatePad SE 系列",
-    "category": "平板",
-    "series": "MatePad SE 系列",
+  "Mate 70 Pro": {
     "articles": [
       {
-        "id": "baidu_5a594d0d_MatePad_SE_标准版_11寸",
-        "source": "百度搜索: MatePad SE 标准版 11寸",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 17
-  },
-  "MateBook Fold 非凡大师": {
-    "tree_path": "华为 > 笔记本 > MateBook Fold 系列",
-    "category": "笔记本",
-    "series": "MateBook Fold 系列",
-    "articles": [
-      {
-        "id": "wiki_026_华为MateBook_Fold",
-        "source": "华为MateBook Fold",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "baidu_b99da9ca_MateBook_Fold_非凡大师",
-        "source": "百度搜索: MateBook Fold 非凡大师",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 6
-  },
-  "MateBook Pro S": {
-    "tree_path": "华为 > 笔记本 > MateBook Pro 系列",
-    "category": "笔记本",
-    "series": "MateBook Pro 系列",
-    "articles": [
-      {
-        "id": "wiki_008_华为MateBook系列",
-        "source": "华为MateBook系列",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "baidu_154faa5f_MateBook_Pro_S",
-        "source": "百度搜索: MateBook Pro S",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 0
-  },
-  "MateBook Pro": {
-    "tree_path": "华为 > 笔记本 > MateBook Pro 系列",
-    "category": "笔记本",
-    "series": "MateBook Pro 系列",
-    "articles": [
-      {
-        "id": "wiki_008_华为MateBook系列",
-        "source": "华为MateBook系列",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "baidu_30c18c53_MateBook_Pro",
-        "source": "百度搜索: MateBook Pro",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 0
-  },
-  "MateBook X Pro": {
-    "tree_path": "华为 > 笔记本 > MateBook X Pro 系列",
-    "category": "笔记本",
-    "series": "MateBook X Pro 系列",
-    "articles": [
-      {
-        "id": "wiki_008_华为MateBook系列",
-        "source": "华为MateBook系列",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "wiki_010_华为MateBook_X",
-        "source": "华为MateBook X",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "baidu_e33bc78e_MateBook_X_Pro",
-        "source": "百度搜索: MateBook X Pro",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 0
-  },
-  "MateBook 14 鸿蒙版": {
-    "tree_path": "华为 > 笔记本 > MateBook 数字系列",
-    "category": "笔记本",
-    "series": "MateBook 数字系列",
-    "articles": [
-      {
-        "id": "wiki_010_华为MateBook_X",
-        "source": "华为MateBook X",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_e1b05614_MateBook_14_鸿蒙版",
-        "source": "百度搜索: MateBook 14 鸿蒙版",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 36
-  },
-  "MateBook 14 Linux 版": {
-    "tree_path": "华为 > 笔记本 > MateBook 数字系列",
-    "category": "笔记本",
-    "series": "MateBook 数字系列",
-    "articles": [
-      {
-        "id": "wiki_010_华为MateBook_X",
-        "source": "华为MateBook X",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_f69344b8_MateBook_14_Linux_版",
-        "source": "百度搜索: MateBook 14 Linux 版",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 54
-  },
-  "MateBook D 16 SE": {
-    "tree_path": "华为 > 笔记本 > MateBook D 系列",
-    "category": "笔记本",
-    "series": "MateBook D 系列",
-    "articles": [
-      {
-        "id": "baidu_9c764d5f_MateBook_D_16_SE",
-        "source": "百度搜索: MateBook D 16 SE",
+        "id": "baidu_16288916_Mate_70_Pro",
+        "source": "百度搜索: Mate 70 Pro",
         "type": "baidu_search"
       }
     ],
     "chunk_count": 20
   },
   "MateBook E / E GO": {
-    "tree_path": "华为 > 笔记本 > MateBook E 系列",
-    "category": "笔记本",
-    "series": "MateBook E 系列",
     "articles": [
       {
         "id": "baidu_1c8f9baa_MateBook_E___E_GO",
@@ -1334,185 +77,119 @@
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 28
+    "chunk_count": 19
   },
-  "WATCH Ultimate 2": {
-    "tree_path": "华为 > 智能手表 > WATCH Ultimate 系列",
-    "category": "智能手表",
-    "series": "WATCH Ultimate 系列",
+  "Mate 80 Pro Max 风驰版": {
     "articles": [
       {
-        "id": "wiki_011_华为手表",
-        "source": "华为手表",
-        "type": "wiki_spu"
-      },
+        "id": "baidu_30d98061_Mate_80_Pro_Max_风驰版",
+        "source": "百度搜索: Mate 80 Pro Max 风驰版",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 15
+  },
+  "Pura 80 Ultra": {
+    "articles": [
       {
-        "id": "baidu_e472cce7_WATCH_Ultimate_2",
-        "source": "百度搜索: WATCH Ultimate 2",
+        "id": "baidu_344a3cde_Pura_80_Ultra",
+        "source": "百度搜索: Pura 80 Ultra",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 31
+  },
+  "MatePad Air 12 2025": {
+    "articles": [
+      {
+        "id": "baidu_3a6a0b0c_MatePad_Air_12_2025",
+        "source": "百度搜索: MatePad Air 12 2025",
         "type": "baidu_search"
       }
     ],
     "chunk_count": 10
   },
-  "ULTIMATE DESIGN 紫金": {
-    "tree_path": "华为 > 智能手表 > WATCH Ultimate 系列",
-    "category": "智能手表",
-    "series": "WATCH Ultimate 系列",
+  "nova 16": {
     "articles": [
       {
-        "id": "baidu_bab2ad4d_ULTIMATE_DESIGN_紫金",
-        "source": "百度搜索: ULTIMATE DESIGN 紫金",
+        "id": "baidu_40cfc5f9_nova_16",
+        "source": "百度搜索: nova 16",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 0
+    "chunk_count": 27
   },
-  "ULTIMATE DESIGN 星钻": {
-    "tree_path": "华为 > 智能手表 > WATCH Ultimate 系列",
-    "category": "智能手表",
-    "series": "WATCH Ultimate 系列",
+  "Mate 80 Pro Max": {
     "articles": [
       {
-        "id": "baidu_0eff0183_ULTIMATE_DESIGN_星钻",
-        "source": "百度搜索: ULTIMATE DESIGN 星钻",
+        "id": "baidu_41131eb5_Mate_80_Pro_Max",
+        "source": "百度搜索: Mate 80 Pro Max",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 0
+    "chunk_count": 14
   },
-  "WATCH GT 7 Pro 46mm": {
-    "tree_path": "华为 > 智能手表 > WATCH GT 系列",
-    "category": "智能手表",
-    "series": "WATCH GT 系列",
+  "Vision 智慧屏 6 SE RGB": {
     "articles": [
       {
-        "id": "wiki_011_华为手表",
-        "source": "华为手表",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_40dd76f7_WATCH_GT_7_Pro_46mm",
-        "source": "百度搜索: WATCH GT 7 Pro 46mm",
+        "id": "baidu_41534447_Vision_智慧屏_6_SE_RGB",
+        "source": "百度搜索: Vision 智慧屏 6 SE RGB",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 0
+    "chunk_count": 4
   },
-  "WATCH GT 7 46mm": {
-    "tree_path": "华为 > 智能手表 > WATCH GT 系列",
-    "category": "智能手表",
-    "series": "WATCH GT 系列",
+  "nova 16 Ultra": {
     "articles": [
       {
-        "id": "wiki_011_华为手表",
-        "source": "华为手表",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_96ee6fff_WATCH_GT_7_46mm",
-        "source": "百度搜索: WATCH GT 7 46mm",
+        "id": "baidu_47107fbf_nova_16_Ultra",
+        "source": "百度搜索: nova 16 Ultra",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 30
+    "chunk_count": 21
   },
-  "WATCH GT 7 41mm": {
-    "tree_path": "华为 > 智能手表 > WATCH GT 系列",
-    "category": "智能手表",
-    "series": "WATCH GT 系列",
+  "MatePad Pro 12.2 2025": {
     "articles": [
       {
-        "id": "wiki_011_华为手表",
-        "source": "华为手表",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_7096bc9b_WATCH_GT_7_41mm",
-        "source": "百度搜索: WATCH GT 7 41mm",
+        "id": "baidu_5431af04_MatePad_Pro_12.2_2025",
+        "source": "百度搜索: MatePad Pro 12.2 2025",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 50
+    "chunk_count": 21
   },
-  "WATCH D2": {
-    "tree_path": "华为 > 智能手表 > WATCH D 系列",
-    "category": "智能手表",
-    "series": "WATCH D 系列",
+  "Pura X Max": {
     "articles": [
       {
-        "id": "baidu_d722d45a_WATCH_D2",
-        "source": "百度搜索: WATCH D2",
+        "id": "baidu_548e59a6_Pura_X_Max",
+        "source": "百度搜索: Pura X Max",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 13
+    "chunk_count": 23
   },
-  "WATCH Buds 2": {
-    "tree_path": "华为 > 智能手表 > WATCH Buds 系列",
-    "category": "智能手表",
-    "series": "WATCH Buds 系列",
+  "MateTV Max": {
     "articles": [
       {
-        "id": "baidu_a5246d39_WATCH_Buds_2",
-        "source": "百度搜索: WATCH Buds 2",
+        "id": "baidu_58049478_MateTV_Max",
+        "source": "百度搜索: MateTV Max",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 0
+    "chunk_count": 4
   },
-  "WATCH FIT 5 Pro": {
-    "tree_path": "华为 > 智能手表 > WATCH FIT 系列",
-    "category": "智能手表",
-    "series": "WATCH FIT 系列",
+  "Pura 90": {
     "articles": [
       {
-        "id": "wiki_011_华为手表",
-        "source": "华为手表",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "baidu_42964fa0_WATCH_FIT_5_Pro",
-        "source": "百度搜索: WATCH FIT 5 Pro",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 0
-  },
-  "WATCH FIT 5": {
-    "tree_path": "华为 > 智能手表 > WATCH FIT 系列",
-    "category": "智能手表",
-    "series": "WATCH FIT 系列",
-    "articles": [
-      {
-        "id": "wiki_011_华为手表",
-        "source": "华为手表",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "baidu_bb064da3_WATCH_FIT_5",
-        "source": "百度搜索: WATCH FIT 5",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 24
-  },
-  "WATCH GT Runner 2": {
-    "tree_path": "华为 > 智能手表 > WATCH GT Runner 系列",
-    "category": "智能手表",
-    "series": "WATCH GT Runner 系列",
-    "articles": [
-      {
-        "id": "baidu_eef83904_WATCH_GT_Runner_2",
-        "source": "百度搜索: WATCH GT Runner 2",
+        "id": "baidu_58e21614_Pura_90",
+        "source": "百度搜索: Pura 90",
         "type": "baidu_search"
       }
     ],
     "chunk_count": 22
   },
   "华为手环 11": {
-    "tree_path": "华为 > 智能手表 > 手环系列",
-    "category": "智能手表",
-    "series": "手环系列",
     "articles": [
       {
         "id": "baidu_59c02fe7_华为手环_11",
@@ -1522,49 +199,57 @@
     ],
     "chunk_count": 22
   },
-  "FreeBuds Pro 5 悦彰": {
-    "tree_path": "华为 > 耳机 > FreeBuds Pro 系列",
-    "category": "耳机",
-    "series": "FreeBuds Pro 系列",
+  "MatePad SE 标准版 11寸": {
     "articles": [
       {
-        "id": "baidu_aaba38cf_FreeBuds_Pro_5_悦彰",
-        "source": "百度搜索: FreeBuds Pro 5 悦彰",
+        "id": "baidu_5a594d0d_MatePad_SE_标准版_11寸",
+        "source": "百度搜索: MatePad SE 标准版 11寸",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 12
+  },
+  "Nova Flip S": {
+    "articles": [
+      {
+        "id": "baidu_5ff3144c_Nova_Flip_S",
+        "source": "百度搜索: Nova Flip S",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 14
+  },
+  "MatePad Pro 2026": {
+    "articles": [
+      {
+        "id": "baidu_6091aac9_MatePad_Pro_2026",
+        "source": "百度搜索: MatePad Pro 2026",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 20
+  },
+  "MatePad 11.5 S": {
+    "articles": [
+      {
+        "id": "baidu_68ca6947_MatePad_11.5_S",
+        "source": "百度搜索: MatePad 11.5 S",
         "type": "baidu_search"
       }
     ],
     "chunk_count": 5
   },
-  "FreeBuds 7i": {
-    "tree_path": "华为 > 耳机 > FreeBuds 数字系列",
-    "category": "耳机",
-    "series": "FreeBuds 数字系列",
+  "Pocket 2": {
     "articles": [
       {
-        "id": "baidu_77424ff3_FreeBuds_7i",
-        "source": "百度搜索: FreeBuds 7i",
+        "id": "baidu_6d20186b_Pocket_2",
+        "source": "百度搜索: Pocket 2",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 23
-  },
-  "FreeBuds 6": {
-    "tree_path": "华为 > 耳机 > FreeBuds 数字系列",
-    "category": "耳机",
-    "series": "FreeBuds 数字系列",
-    "articles": [
-      {
-        "id": "baidu_6e6f82be_FreeBuds_6",
-        "source": "百度搜索: FreeBuds 6",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 21
+    "chunk_count": 17
   },
   "FreeClip 2": {
-    "tree_path": "华为 > 耳机 > FreeClip 系列",
-    "category": "耳机",
-    "series": "FreeClip 系列",
     "articles": [
       {
         "id": "baidu_6e4139d4_FreeClip_2",
@@ -1574,128 +259,57 @@
     ],
     "chunk_count": 9
   },
-  "Sound X5 悦彰": {
-    "tree_path": "华为 > 音箱 > Sound 系列",
-    "category": "音箱",
-    "series": "Sound 系列",
+  "FreeBuds 6": {
     "articles": [
       {
-        "id": "baidu_8b04eabb_Sound_X5_悦彰",
-        "source": "百度搜索: Sound X5 悦彰",
+        "id": "baidu_6e6f82be_FreeBuds_6",
+        "source": "百度搜索: FreeBuds 6",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 0
+    "chunk_count": 17
   },
-  "Sound Joy 系列": {
-    "tree_path": "华为 > 音箱 > Sound Joy 系列",
-    "category": "音箱",
-    "series": "Sound Joy 系列",
+  "Mate 70 Pro 优享版": {
     "articles": [
       {
-        "id": "baidu_245756d5_Sound_Joy_系列",
-        "source": "百度搜索: Sound Joy 系列",
+        "id": "baidu_6e71324c_Mate_70_Pro_优享版",
+        "source": "百度搜索: Mate 70 Pro 优享版",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 0
+    "chunk_count": 16
   },
-  "MateTV Max": {
-    "tree_path": "华为 > 智慧屏 > Vision 系列",
-    "category": "智慧屏",
-    "series": "Vision 系列",
+  "nova 16 SE": {
     "articles": [
       {
-        "id": "wiki_014_華為P40系列",
-        "source": "華為P40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_029_可摺疊式智能手機",
-        "source": "可摺疊式智能手機",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_58049478_MateTV_Max",
-        "source": "百度搜索: MateTV Max",
-        "type": "baidu_search"
-      }
-    ],
-    "chunk_count": 18
-  },
-  "Vision 智慧屏 6 Pro": {
-    "tree_path": "华为 > 智慧屏 > Vision 系列",
-    "category": "智慧屏",
-    "series": "Vision 系列",
-    "articles": [
-      {
-        "id": "wiki_014_華為P40系列",
-        "source": "華為P40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_029_可摺疊式智能手機",
-        "source": "可摺疊式智能手機",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_db5163fe_Vision_智慧屏_6_Pro",
-        "source": "百度搜索: Vision 智慧屏 6 Pro",
+        "id": "baidu_6ecd171e_nova_16_SE",
+        "source": "百度搜索: nova 16 SE",
         "type": "baidu_search"
       }
     ],
     "chunk_count": 24
   },
-  "Vision 智慧屏 6": {
-    "tree_path": "华为 > 智慧屏 > Vision 系列",
-    "category": "智慧屏",
-    "series": "Vision 系列",
+  "WATCH GT 7 41mm": {
     "articles": [
       {
-        "id": "wiki_014_華為P40系列",
-        "source": "華為P40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_029_可摺疊式智能手機",
-        "source": "可摺疊式智能手機",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_ff7e6649_Vision_智慧屏_6",
-        "source": "百度搜索: Vision 智慧屏 6",
+        "id": "baidu_7096bc9b_WATCH_GT_7_41mm",
+        "source": "百度搜索: WATCH GT 7 41mm",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 27
+    "chunk_count": 23
   },
-  "Vision 智慧屏 6 SE RGB": {
-    "tree_path": "华为 > 智慧屏 > Vision 系列",
-    "category": "智慧屏",
-    "series": "Vision 系列",
+  "FreeBuds 7i": {
     "articles": [
       {
-        "id": "wiki_014_華為P40系列",
-        "source": "華為P40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_029_可摺疊式智能手機",
-        "source": "可摺疊式智能手機",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_41534447_Vision_智慧屏_6_SE_RGB",
-        "source": "百度搜索: Vision 智慧屏 6 SE RGB",
+        "id": "baidu_77424ff3_FreeBuds_7i",
+        "source": "百度搜索: FreeBuds 7i",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 12
+    "chunk_count": 22
   },
   "鸿蒙 AI 眼镜": {
-    "tree_path": "华为 > 智能眼镜 > 鸿蒙 AI 眼镜",
-    "category": "智能眼镜",
-    "series": "鸿蒙 AI 眼镜",
     "articles": [
       {
         "id": "baidu_88a2a22d_鸿蒙_AI_眼镜",
@@ -1705,85 +319,345 @@
     ],
     "chunk_count": 8
   },
-  "MateView GT": {
-    "tree_path": "华为 > 显示器 > MateView 系列",
-    "category": "显示器",
-    "series": "MateView 系列",
+  "Mate 70 Air": {
     "articles": [
       {
-        "id": "baidu_fb8da4c1_MateView_GT",
-        "source": "百度搜索: MateView GT",
+        "id": "baidu_89c11724_Mate_70_Air",
+        "source": "百度搜索: Mate 70 Air",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 0
+    "chunk_count": 14
   },
-  "尊界 V800": {
-    "tree_path": "华为 > 智能汽车 > 尊界",
-    "category": "智能汽车",
-    "series": "尊界",
+  "Mate 70 RS 非凡大师": {
     "articles": [
       {
-        "id": "wiki_017_华为智能汽车业务",
-        "source": "华为智能汽车业务",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_d69ab405_尊界_V800",
-        "source": "百度搜索: 尊界 V800",
+        "id": "baidu_8abcba13_Mate_70_RS_非凡大师",
+        "source": "百度搜索: Mate 70 RS 非凡大师",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 0
+    "chunk_count": 13
   },
-  "尊界 V680": {
-    "tree_path": "华为 > 智能汽车 > 尊界",
-    "category": "智能汽车",
-    "series": "尊界",
+  "Mate XTs 非凡大师": {
     "articles": [
       {
-        "id": "wiki_017_华为智能汽车业务",
-        "source": "华为智能汽车业务",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_332dfc05_尊界_V680",
-        "source": "百度搜索: 尊界 V680",
+        "id": "baidu_963896e0_Mate_XTs_非凡大师",
+        "source": "百度搜索: Mate XTs 非凡大师",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 0
+    "chunk_count": 17
   },
-  "享界 G9": {
-    "tree_path": "华为 > 智能汽车 > 享界",
-    "category": "智能汽车",
-    "series": "享界",
+  "WATCH GT 7 46mm": {
     "articles": [
       {
-        "id": "wiki_018_享界S9",
-        "source": "享界S9",
-        "type": "wiki_series"
-      },
-      {
-        "id": "baidu_bbb5ef0a_享界_G9",
-        "source": "百度搜索: 享界 G9",
+        "id": "baidu_96ee6fff_WATCH_GT_7_46mm",
+        "source": "百度搜索: WATCH GT 7 46mm",
         "type": "baidu_search"
       }
     ],
-    "chunk_count": 0
+    "chunk_count": 12
   },
-  "享界 S9 / S9T": {
-    "tree_path": "华为 > 智能汽车 > 享界",
-    "category": "智能汽车",
-    "series": "享界",
+  "Pura 80 Pro": {
     "articles": [
       {
-        "id": "wiki_018_享界S9",
-        "source": "享界S9",
-        "type": "wiki_series"
+        "id": "baidu_9917e6b4_Pura_80_Pro",
+        "source": "百度搜索: Pura 80 Pro",
+        "type": "baidu_search"
       }
     ],
-    "chunk_count": 8
+    "chunk_count": 22
+  },
+  "MateBook D 16 SE": {
+    "articles": [
+      {
+        "id": "baidu_9c764d5f_MateBook_D_16_SE",
+        "source": "百度搜索: MateBook D 16 SE",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 15
+  },
+  "Mate X7": {
+    "articles": [
+      {
+        "id": "baidu_a098582d_Mate_X7",
+        "source": "百度搜索: Mate X7",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 17
+  },
+  "Mate XT2": {
+    "articles": [
+      {
+        "id": "baidu_a27c901f_Mate_XT2",
+        "source": "百度搜索: Mate XT2",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 23
+  },
+  "Mate 70": {
+    "articles": [
+      {
+        "id": "baidu_a91121d8_Mate_70",
+        "source": "百度搜索: Mate 70",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 16
+  },
+  "FreeBuds Pro 5 悦彰": {
+    "articles": [
+      {
+        "id": "baidu_aaba38cf_FreeBuds_Pro_5_悦彰",
+        "source": "百度搜索: FreeBuds Pro 5 悦彰",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 4
+  },
+  "畅享 90 Pro Max": {
+    "articles": [
+      {
+        "id": "baidu_ada664ce_畅享_90_Pro_Max",
+        "source": "百度搜索: 畅享 90 Pro Max",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 22
+  },
+  "Mate 80 Pro": {
+    "articles": [
+      {
+        "id": "baidu_b2b54bfa_Mate_80_Pro",
+        "source": "百度搜索: Mate 80 Pro",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 13
+  },
+  "Pura X": {
+    "articles": [
+      {
+        "id": "baidu_b5730198_Pura_X",
+        "source": "百度搜索: Pura X",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 29
+  },
+  "MateBook Fold 非凡大师": {
+    "articles": [
+      {
+        "id": "baidu_b99da9ca_MateBook_Fold_非凡大师",
+        "source": "百度搜索: MateBook Fold 非凡大师",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 2
+  },
+  "WATCH FIT 5": {
+    "articles": [
+      {
+        "id": "baidu_bb064da3_WATCH_FIT_5",
+        "source": "百度搜索: WATCH FIT 5",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 12
+  },
+  "Pura 90 Pro": {
+    "articles": [
+      {
+        "id": "baidu_c7d04760_Pura_90_Pro",
+        "source": "百度搜索: Pura 90 Pro",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 19
+  },
+  "Pura 90 Pro Max": {
+    "articles": [
+      {
+        "id": "baidu_c9e3676a_Pura_90_Pro_Max",
+        "source": "百度搜索: Pura 90 Pro Max",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 22
+  },
+  "畅享 90 Plus": {
+    "articles": [
+      {
+        "id": "baidu_d2a3b07f_畅享_90_Plus",
+        "source": "百度搜索: 畅享 90 Plus",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 23
+  },
+  "WATCH D2": {
+    "articles": [
+      {
+        "id": "baidu_d722d45a_WATCH_D2",
+        "source": "百度搜索: WATCH D2",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 13
+  },
+  "Pura 80 Pro+": {
+    "articles": [
+      {
+        "id": "baidu_da3c13f1_Pura_80_Pro+",
+        "source": "百度搜索: Pura 80 Pro+",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 30
+  },
+  "MatePad 11.5 2026": {
+    "articles": [
+      {
+        "id": "baidu_dac01eac_MatePad_11.5_2026",
+        "source": "百度搜索: MatePad 11.5 2026",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 15
+  },
+  "Vision 智慧屏 6 Pro": {
+    "articles": [
+      {
+        "id": "baidu_db5163fe_Vision_智慧屏_6_Pro",
+        "source": "百度搜索: Vision 智慧屏 6 Pro",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 6
+  },
+  "MatePad Mini": {
+    "articles": [
+      {
+        "id": "baidu_df2fd940_MatePad_Mini",
+        "source": "百度搜索: MatePad Mini",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 7
+  },
+  "MateBook 14 鸿蒙版": {
+    "articles": [
+      {
+        "id": "baidu_e1b05614_MateBook_14_鸿蒙版",
+        "source": "百度搜索: MateBook 14 鸿蒙版",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 16
+  },
+  "WATCH Ultimate 2": {
+    "articles": [
+      {
+        "id": "baidu_e472cce7_WATCH_Ultimate_2",
+        "source": "百度搜索: WATCH Ultimate 2",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 5
+  },
+  "MatePad Air 2026": {
+    "articles": [
+      {
+        "id": "baidu_e62af061_MatePad_Air_2026",
+        "source": "百度搜索: MatePad Air 2026",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 18
+  },
+  "Nova Flip 2": {
+    "articles": [
+      {
+        "id": "baidu_ed94a92a_Nova_Flip_2",
+        "source": "百度搜索: Nova Flip 2",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 16
+  },
+  "WATCH GT Runner 2": {
+    "articles": [
+      {
+        "id": "baidu_eef83904_WATCH_GT_Runner_2",
+        "source": "百度搜索: WATCH GT Runner 2",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 20
+  },
+  "Pura 80": {
+    "articles": [
+      {
+        "id": "baidu_f4089c08_Pura_80",
+        "source": "百度搜索: Pura 80",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 27
+  },
+  "MatePad Edge": {
+    "articles": [
+      {
+        "id": "baidu_f43a9ebe_MatePad_Edge",
+        "source": "百度搜索: MatePad Edge",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 9
+  },
+  "MatePad Pro 13.2 2025": {
+    "articles": [
+      {
+        "id": "baidu_f6647d58_MatePad_Pro_13.2_2025",
+        "source": "百度搜索: MatePad Pro 13.2 2025",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 15
+  },
+  "MateBook 14 Linux 版": {
+    "articles": [
+      {
+        "id": "baidu_f69344b8_MateBook_14_Linux_版",
+        "source": "百度搜索: MateBook 14 Linux 版",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 22
+  },
+  "Mate 90 系列": {
+    "articles": [
+      {
+        "id": "baidu_f808f8a1_Mate_90_系列",
+        "source": "百度搜索: Mate 90 系列",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 28
+  },
+  "Vision 智慧屏 6": {
+    "articles": [
+      {
+        "id": "baidu_ff7e6649_Vision_智慧屏_6",
+        "source": "百度搜索: Vision 智慧屏 6",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 7
   },
   "问界 M8": {
     "tree_path": "华为 > 智能汽车 > 问界",
@@ -1791,12 +665,12 @@
     "series": "问界",
     "articles": [
       {
-        "id": "wiki_019_问界",
-        "source": "问界",
-        "type": "wiki_series"
+        "id": "baidu_9a58765a_问界_M8",
+        "source": "百度搜索: 问界 M8",
+        "type": "baidu_search"
       }
     ],
-    "chunk_count": 11
+    "chunk_count": 16
   },
   "问界 M7": {
     "tree_path": "华为 > 智能汽车 > 问界",
@@ -1804,12 +678,12 @@
     "series": "问界",
     "articles": [
       {
-        "id": "wiki_019_问界",
-        "source": "问界",
-        "type": "wiki_series"
+        "id": "baidu_96aa9d90_问界_M7",
+        "source": "百度搜索: 问界 M7",
+        "type": "baidu_search"
       }
     ],
-    "chunk_count": 11
+    "chunk_count": 22
   },
   "问界 M6": {
     "tree_path": "华为 > 智能汽车 > 问界",
@@ -1817,1461 +691,50 @@
     "series": "问界",
     "articles": [
       {
-        "id": "wiki_019_问界",
-        "source": "问界",
-        "type": "wiki_series"
+        "id": "baidu_8c71bed2_问界_M6",
+        "source": "百度搜索: 问界 M6",
+        "type": "baidu_search"
       }
     ],
-    "chunk_count": 11
+    "chunk_count": 15
   },
   "智界 V9": {
     "tree_path": "华为 > 智能汽车 > 智界",
     "category": "智能汽车",
     "series": "智界",
-    "articles": [],
-    "chunk_count": 0
+    "articles": [
+      {
+        "id": "baidu_55bcb1a0_智界_V9",
+        "source": "百度搜索: 智界 V9",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 5
   },
   "智界 R7": {
     "tree_path": "华为 > 智能汽车 > 智界",
     "category": "智能汽车",
     "series": "智界",
-    "articles": [],
-    "chunk_count": 0
+    "articles": [
+      {
+        "id": "baidu_725210f5_智界_R7",
+        "source": "百度搜索: 智界 R7",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 2
   },
   "智界 新S7": {
     "tree_path": "华为 > 智能汽车 > 智界",
     "category": "智能汽车",
     "series": "智界",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "尚界 Z7 / Z7T": {
-    "tree_path": "华为 > 智能汽车 > 尚界",
-    "category": "智能汽车",
-    "series": "尚界",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "Mate 60": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 60 系列",
-    "category": "手机",
-    "series": "Mate 系列",
     "articles": [
       {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 86
-  },
-  "Mate 60 Pro": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 60 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 86
-  },
-  "Mate 60 Pro+": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 60 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 86
-  },
-  "Mate 60 RS 非凡大师": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 60 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 86
-  },
-  "Mate 50": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 50 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 86
-  },
-  "Mate 50 Pro": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 50 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 86
-  },
-  "Mate 50 RS 保时捷设计": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 50 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 86
-  },
-  "Mate 40 Pro": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 40 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 86
-  },
-  "Mate 40 Pro+": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 40 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 86
-  },
-  "Mate 40 RS 保时捷设计": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 40 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 86
-  },
-  "Pura 70": {
-    "tree_path": "华为 > 手机 > Pura 系列 > Pura 70 系列",
-    "category": "手机",
-    "series": "Pura 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_023_华为Pura_90系列",
-        "source": "华为Pura 90系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_024_华为Pura_80系列",
-        "source": "华为Pura 80系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_030_华为Pura_70系列",
-        "source": "华为Pura 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_031_华为P60系列",
-        "source": "华为P60系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 49
-  },
-  "Pura 70 Pro": {
-    "tree_path": "华为 > 手机 > Pura 系列 > Pura 70 系列",
-    "category": "手机",
-    "series": "Pura 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_023_华为Pura_90系列",
-        "source": "华为Pura 90系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_024_华为Pura_80系列",
-        "source": "华为Pura 80系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_030_华为Pura_70系列",
-        "source": "华为Pura 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_031_华为P60系列",
-        "source": "华为P60系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 49
-  },
-  "Pura 70 Ultra": {
-    "tree_path": "华为 > 手机 > Pura 系列 > Pura 70 系列",
-    "category": "手机",
-    "series": "Pura 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_023_华为Pura_90系列",
-        "source": "华为Pura 90系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_024_华为Pura_80系列",
-        "source": "华为Pura 80系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_030_华为Pura_70系列",
-        "source": "华为Pura 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_031_华为P60系列",
-        "source": "华为P60系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 49
-  },
-  "P60 Pro": {
-    "tree_path": "华为 > 手机 > Pura 系列 > P60 系列",
-    "category": "手机",
-    "series": "Pura 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_023_华为Pura_90系列",
-        "source": "华为Pura 90系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_024_华为Pura_80系列",
-        "source": "华为Pura 80系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_030_华为Pura_70系列",
-        "source": "华为Pura 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_031_华为P60系列",
-        "source": "华为P60系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 49
-  },
-  "P60 Art": {
-    "tree_path": "华为 > 手机 > Pura 系列 > P60 系列",
-    "category": "手机",
-    "series": "Pura 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_023_华为Pura_90系列",
-        "source": "华为Pura 90系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_024_华为Pura_80系列",
-        "source": "华为Pura 80系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_030_华为Pura_70系列",
-        "source": "华为Pura 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_031_华为P60系列",
-        "source": "华为P60系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 49
-  },
-  "Mate X5": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 横向大折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 5
-  },
-  "Mate X3": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 横向大折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 5
-  },
-  "Mate X2": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 横向大折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 5
-  },
-  "nova 15 Pro": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 15 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 42
-  },
-  "nova 15 Ultra": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 15 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 42
-  },
-  "nova 14 Pro": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 14 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 23
-  },
-  "nova 14 Ultra": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 14 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 23
-  },
-  "nova 13 Pro": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 13 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 23
-  },
-  "畅享 80 Pro": {
-    "tree_path": "华为 > 手机 > 畅享系列 > 畅享 80 系列",
-    "category": "手机",
-    "series": "畅享系列",
-    "articles": [
-      {
-        "id": "wiki_005_华为畅享8系列",
-        "source": "华为畅享8系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 1
-  },
-  "MatePad Pro 11 2024": {
-    "tree_path": "华为 > 平板 > MatePad Pro 系列",
-    "category": "平板",
-    "series": "MatePad Pro 系列",
-    "articles": [
-      {
-        "id": "wiki_006_鸿蒙操作系统",
-        "source": "鸿蒙操作系统",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_008_华为MateBook系列",
-        "source": "华为MateBook系列",
-        "type": "wiki_spu"
-      },
-      {
-        "id": "wiki_026_华为MateBook_Fold",
-        "source": "华为MateBook Fold",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 109
-  },
-  "MatePad Pro 12.6 2022": {
-    "tree_path": "华为 > 平板 > MatePad Pro 系列",
-    "category": "平板",
-    "series": "MatePad Pro 系列",
-    "articles": [
-      {
-        "id": "wiki_006_鸿蒙操作系统",
-        "source": "鸿蒙操作系统",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_026_华为MateBook_Fold",
-        "source": "华为MateBook Fold",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 98
-  },
-  "WATCH GT 5 Pro 46mm": {
-    "tree_path": "华为 > 智能手表 > WATCH GT 系列",
-    "category": "智能手表",
-    "series": "WATCH GT 系列",
-    "articles": [
-      {
-        "id": "wiki_011_华为手表",
-        "source": "华为手表",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 18
-  },
-  "WATCH GT 4 46mm": {
-    "tree_path": "华为 > 智能手表 > WATCH GT 系列",
-    "category": "智能手表",
-    "series": "WATCH GT 系列",
-    "articles": [
-      {
-        "id": "wiki_011_华为手表",
-        "source": "华为手表",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 18
-  },
-  "WATCH GT 3 Pro": {
-    "tree_path": "华为 > 智能手表 > WATCH GT 系列",
-    "category": "智能手表",
-    "series": "WATCH GT 系列",
-    "articles": [
-      {
-        "id": "wiki_011_华为手表",
-        "source": "华为手表",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 18
-  },
-  "FreeBuds Pro 3": {
-    "tree_path": "华为 > 耳机 > FreeBuds Pro 系列",
-    "category": "耳机",
-    "series": "FreeBuds Pro 系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "FreeBuds Pro 2": {
-    "tree_path": "华为 > 耳机 > FreeBuds Pro 系列",
-    "category": "耳机",
-    "series": "FreeBuds Pro 系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "Vision 智慧屏 4 Pro": {
-    "tree_path": "华为 > 智慧屏 > Vision 系列",
-    "category": "智慧屏",
-    "series": "Vision 系列",
-    "articles": [
-      {
-        "id": "wiki_014_華為P40系列",
-        "source": "華為P40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_029_可摺疊式智能手機",
-        "source": "可摺疊式智能手機",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 55
-  },
-  "nova 12": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 12 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 23
-  },
-  "nova 12 Pro": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 12 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 23
-  },
-  "nova 12 Ultra": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 12 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 23
-  },
-  "nova 11": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 11 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 23
-  },
-  "nova 11 Pro": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 11 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 23
-  },
-  "nova 11 Ultra": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 11 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 23
-  },
-  "nova 10": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 10 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 23
-  },
-  "nova 10 Pro": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 10 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 23
-  },
-  "nova 10 SE": {
-    "tree_path": "华为 > 手机 > nova 系列 > nova 10 系列",
-    "category": "手机",
-    "series": "nova 系列",
-    "articles": [
-      {
-        "id": "wiki_004_华为Nova",
-        "source": "华为Nova",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_025_华为Nova_10",
-        "source": "华为Nova 10",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 23
-  },
-  "畅享 70": {
-    "tree_path": "华为 > 手机 > 畅享系列 > 畅享 70 系列",
-    "category": "手机",
-    "series": "畅享系列",
-    "articles": [
-      {
-        "id": "wiki_005_华为畅享8系列",
-        "source": "华为畅享8系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 1
-  },
-  "畅享 70 Pro": {
-    "tree_path": "华为 > 手机 > 畅享系列 > 畅享 70 系列",
-    "category": "手机",
-    "series": "畅享系列",
-    "articles": [
-      {
-        "id": "wiki_005_华为畅享8系列",
-        "source": "华为畅享8系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 1
-  },
-  "畅享 60": {
-    "tree_path": "华为 > 手机 > 畅享系列 > 畅享 60 系列",
-    "category": "手机",
-    "series": "畅享系列",
-    "articles": [
-      {
-        "id": "wiki_005_华为畅享8系列",
-        "source": "华为畅享8系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 1
-  },
-  "畅享 60 Pro": {
-    "tree_path": "华为 > 手机 > 畅享系列 > 畅享 60 系列",
-    "category": "手机",
-    "series": "畅享系列",
-    "articles": [
-      {
-        "id": "wiki_005_华为畅享8系列",
-        "source": "华为畅享8系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 1
-  },
-  "畅享 50": {
-    "tree_path": "华为 > 手机 > 畅享系列 > 畅享 50 系列",
-    "category": "手机",
-    "series": "畅享系列",
-    "articles": [
-      {
-        "id": "wiki_005_华为畅享8系列",
-        "source": "华为畅享8系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 1
-  },
-  "畅享 50 Pro": {
-    "tree_path": "华为 > 手机 > 畅享系列 > 畅享 50 系列",
-    "category": "手机",
-    "series": "畅享系列",
-    "articles": [
-      {
-        "id": "wiki_005_华为畅享8系列",
-        "source": "华为畅享8系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 1
-  },
-  "畅享 20": {
-    "tree_path": "华为 > 手机 > 畅享系列 > 畅享 20 系列",
-    "category": "手机",
-    "series": "畅享系列",
-    "articles": [
-      {
-        "id": "wiki_005_华为畅享8系列",
-        "source": "华为畅享8系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 1
-  },
-  "畅享 20 Pro": {
-    "tree_path": "华为 > 手机 > 畅享系列 > 畅享 20 系列",
-    "category": "手机",
-    "series": "畅享系列",
-    "articles": [
-      {
-        "id": "wiki_005_华为畅享8系列",
-        "source": "华为畅享8系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 1
-  },
-  "Mate 40": {
-    "tree_path": "华为 > 手机 > Mate 系列 > Mate 40 系列",
-    "category": "手机",
-    "series": "Mate 系列",
-    "articles": [
-      {
-        "id": "wiki_001_华为Mate_60系列",
-        "source": "华为Mate 60系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_020_华为Mate_40系列",
-        "source": "华为Mate 40系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_021_华为Mate_70系列",
-        "source": "华为Mate 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_022_华为Mate系列",
-        "source": "华为Mate系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 86
-  },
-  "P60": {
-    "tree_path": "华为 > 手机 > Pura 系列 > P60 系列",
-    "category": "手机",
-    "series": "Pura 系列",
-    "articles": [
-      {
-        "id": "wiki_002_华为Pura系列",
-        "source": "华为Pura系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_023_华为Pura_90系列",
-        "source": "华为Pura 90系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_024_华为Pura_80系列",
-        "source": "华为Pura 80系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_030_华为Pura_70系列",
-        "source": "华为Pura 70系列",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_031_华为P60系列",
-        "source": "华为P60系列",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 49
-  },
-  "MatePad Pro 13.2": {
-    "tree_path": "华为 > 平板 > MatePad Pro 系列",
-    "category": "平板",
-    "series": "MatePad Pro 系列",
-    "articles": [
-      {
-        "id": "wiki_006_鸿蒙操作系统",
-        "source": "鸿蒙操作系统",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_026_华为MateBook_Fold",
-        "source": "华为MateBook Fold",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 98
-  },
-  "MatePad Pro 11 2022": {
-    "tree_path": "华为 > 平板 > MatePad Pro 系列",
-    "category": "平板",
-    "series": "MatePad Pro 系列",
-    "articles": [
-      {
-        "id": "wiki_006_鸿蒙操作系统",
-        "source": "鸿蒙操作系统",
-        "type": "wiki_series"
-      },
-      {
-        "id": "wiki_026_华为MateBook_Fold",
-        "source": "华为MateBook Fold",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 98
-  },
-  "MatePad 11 2023": {
-    "tree_path": "华为 > 平板 > MatePad 数字系列",
-    "category": "平板",
-    "series": "MatePad 数字系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "MatePad 11 2021": {
-    "tree_path": "华为 > 平板 > MatePad 数字系列",
-    "category": "平板",
-    "series": "MatePad 数字系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "MatePad Paper": {
-    "tree_path": "华为 > 平板 > MatePad 数字系列",
-    "category": "平板",
-    "series": "MatePad 数字系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "MatePad T 10s": {
-    "tree_path": "华为 > 平板 > MatePad SE 系列",
-    "category": "平板",
-    "series": "MatePad SE 系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "MatePad SE 10.4": {
-    "tree_path": "华为 > 平板 > MatePad SE 系列",
-    "category": "平板",
-    "series": "MatePad SE 系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "MateBook X Pro 2023": {
-    "tree_path": "华为 > 笔记本 > MateBook X Pro 系列",
-    "category": "笔记本",
-    "series": "MateBook X Pro 系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "MateBook X Pro 2022": {
-    "tree_path": "华为 > 笔记本 > MateBook X Pro 系列",
-    "category": "笔记本",
-    "series": "MateBook X Pro 系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "MateBook 16s 2023": {
-    "tree_path": "华为 > 笔记本 > MateBook 数字系列",
-    "category": "笔记本",
-    "series": "MateBook 数字系列",
-    "articles": [
-      {
-        "id": "wiki_010_华为MateBook_X",
-        "source": "华为MateBook X",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 2
-  },
-  "MateBook 14 2022": {
-    "tree_path": "华为 > 笔记本 > MateBook 数字系列",
-    "category": "笔记本",
-    "series": "MateBook 数字系列",
-    "articles": [
-      {
-        "id": "wiki_010_华为MateBook_X",
-        "source": "华为MateBook X",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 2
-  },
-  "MateBook D 16 2023": {
-    "tree_path": "华为 > 笔记本 > MateBook D 系列",
-    "category": "笔记本",
-    "series": "MateBook D 系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "MateBook D 14 2023": {
-    "tree_path": "华为 > 笔记本 > MateBook D 系列",
-    "category": "笔记本",
-    "series": "MateBook D 系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "MateBook E 2023": {
-    "tree_path": "华为 > 笔记本 > MateBook E 系列",
-    "category": "笔记本",
-    "series": "MateBook E 系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "MateBook 14s 2022": {
-    "tree_path": "华为 > 笔记本 > MateBook 数字系列",
-    "category": "笔记本",
-    "series": "MateBook 数字系列",
-    "articles": [
-      {
-        "id": "wiki_010_华为MateBook_X",
-        "source": "华为MateBook X",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 2
-  },
-  "WATCH 4 Pro": {
-    "tree_path": "华为 > 智能手表 > WATCH 数字系列",
-    "category": "智能手表",
-    "series": "WATCH 数字系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "WATCH 4": {
-    "tree_path": "华为 > 智能手表 > WATCH 数字系列",
-    "category": "智能手表",
-    "series": "WATCH 数字系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "WATCH 3 Pro": {
-    "tree_path": "华为 > 智能手表 > WATCH 数字系列",
-    "category": "智能手表",
-    "series": "WATCH 数字系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "WATCH 3": {
-    "tree_path": "华为 > 智能手表 > WATCH 数字系列",
-    "category": "智能手表",
-    "series": "WATCH 数字系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "WATCH GT 3 42mm": {
-    "tree_path": "华为 > 智能手表 > WATCH GT 系列",
-    "category": "智能手表",
-    "series": "WATCH GT 系列",
-    "articles": [
-      {
-        "id": "wiki_011_华为手表",
-        "source": "华为手表",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 18
-  },
-  "WATCH GT 2 Pro": {
-    "tree_path": "华为 > 智能手表 > WATCH GT 系列",
-    "category": "智能手表",
-    "series": "WATCH GT 系列",
-    "articles": [
-      {
-        "id": "wiki_011_华为手表",
-        "source": "华为手表",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 18
-  },
-  "WATCH FIT 2": {
-    "tree_path": "华为 > 智能手表 > WATCH FIT 系列",
-    "category": "智能手表",
-    "series": "WATCH FIT 系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "华为手环 8": {
-    "tree_path": "华为 > 智能手表 > 手环系列",
-    "category": "智能手表",
-    "series": "手环系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "FreeBuds 5i": {
-    "tree_path": "华为 > 耳机 > FreeBuds 数字系列",
-    "category": "耳机",
-    "series": "FreeBuds 数字系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "FreeBuds 4E": {
-    "tree_path": "华为 > 耳机 > FreeBuds 数字系列",
-    "category": "耳机",
-    "series": "FreeBuds 数字系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "FreeBuds 5": {
-    "tree_path": "华为 > 耳机 > FreeBuds 数字系列",
-    "category": "耳机",
-    "series": "FreeBuds 数字系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "FreeBuds Lipstick": {
-    "tree_path": "华为 > 耳机 > FreeBuds 数字系列",
-    "category": "耳机",
-    "series": "FreeBuds 数字系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "FreeLace Pro 2": {
-    "tree_path": "华为 > 耳机 > FreeLace 系列",
-    "category": "耳机",
-    "series": "FreeLace 系列",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "Pocket S": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 竖向小折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 5
-  },
-  "Mate Xs 2": {
-    "tree_path": "华为 > 手机 > 折叠屏 > 横向大折叠",
-    "category": "手机",
-    "series": "折叠屏",
-    "articles": [
-      {
-        "id": "wiki_003_华为Pura_X",
-        "source": "华为Pura X",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 5
-  },
-  "问界 M9": {
-    "tree_path": "华为 > 智能汽车 > 问界",
-    "category": "智能汽车",
-    "series": "问界",
-    "articles": [
-      {
-        "id": "wiki_019_问界",
-        "source": "问界",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 11
-  },
-  "问界 M5": {
-    "tree_path": "华为 > 智能汽车 > 问界",
-    "category": "智能汽车",
-    "series": "问界",
-    "articles": [
-      {
-        "id": "wiki_019_问界",
-        "source": "问界",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 11
-  },
-  "问界 M5 EV": {
-    "tree_path": "华为 > 智能汽车 > 问界",
-    "category": "智能汽车",
-    "series": "问界",
-    "articles": [
-      {
-        "id": "wiki_019_问界",
-        "source": "问界",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 11
-  },
-  "问界 M7 Pro": {
-    "tree_path": "华为 > 智能汽车 > 问界",
-    "category": "智能汽车",
-    "series": "问界",
-    "articles": [
-      {
-        "id": "wiki_019_问界",
-        "source": "问界",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 11
-  },
-  "问界 M7 Ultra": {
-    "tree_path": "华为 > 智能汽车 > 问界",
-    "category": "智能汽车",
-    "series": "问界",
-    "articles": [
-      {
-        "id": "wiki_019_问界",
-        "source": "问界",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 11
-  },
-  "智界 S7": {
-    "tree_path": "华为 > 智能汽车 > 智界",
-    "category": "智能汽车",
-    "series": "智界",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "享界 S9": {
-    "tree_path": "华为 > 智能汽车 > 享界",
-    "category": "智能汽车",
-    "series": "享界",
-    "articles": [
-      {
-        "id": "wiki_018_享界S9",
-        "source": "享界S9",
-        "type": "wiki_series"
-      }
-    ],
-    "chunk_count": 8
-  },
-  "尊界 S800": {
-    "tree_path": "华为 > 智能汽车 > 尊界",
-    "category": "智能汽车",
-    "series": "尊界",
-    "articles": [
-      {
-        "id": "wiki_017_华为智能汽车业务",
-        "source": "华为智能汽车业务",
-        "type": "wiki_series"
+        "id": "baidu_1491d809_智界_新S7",
+        "source": "百度搜索: 智界 新S7",
+        "type": "baidu_search"
       }
     ],
-    "chunk_count": 44
-  },
-  "尚界 S5": {
-    "tree_path": "华为 > 智能汽车 > 尚界",
-    "category": "智能汽车",
-    "series": "尚界",
-    "articles": [],
-    "chunk_count": 0
-  },
-  "乾崑智驾 ADS 4.0": {
-    "tree_path": "华为 > 智能汽车 > 乾崑智驾",
-    "category": "智能汽车",
-    "series": "乾崑智驾",
-    "articles": [],
     "chunk_count": 0
   }
 }
