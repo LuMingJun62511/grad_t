@@ -1,0 +1,317 @@
+[
+  {
+    "id": "wiki_001_华为Mate_60系列",
+    "title": "华为Mate 60系列",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 23,
+    "char_count": 2935,
+    "keywords": [
+      "华为Mate 60 Pro",
+      "华为Mate 60 RS 非凡大师",
+      "华为Mate 50 Pro",
+      "华为Mate 系列",
+      "华为Mate 80 RS 非凡大师",
+      "华为Mate 60 Pro+",
+      "华为Mate 80 Pro"
+    ]
+  },
+  {
+    "id": "wiki_002_华为Pura系列",
+    "title": "华为Pura系列",
+    "category": "手机",
+    "series": "Pura 系列",
+    "chunk_count": 19,
+    "char_count": 1613,
+    "keywords": [
+      "华为Pura 系列",
+      "华为nova 15 Ultra",
+      "华为nova 16 Ultra",
+      "华为Pura X Max",
+      "华为nova 15 Pro"
+    ]
+  },
+  {
+    "id": "wiki_003_华为Pura_X",
+    "title": "华为Pura X",
+    "category": "手机",
+    "series": "折叠屏",
+    "chunk_count": 5,
+    "char_count": 584,
+    "keywords": [
+      "华为折叠屏"
+    ]
+  },
+  {
+    "id": "wiki_004_华为Nova",
+    "title": "华为Nova",
+    "category": "手机",
+    "series": "nova 系列",
+    "chunk_count": 17,
+    "char_count": 3442,
+    "keywords": [
+      "华为nova 系列"
+    ]
+  },
+  {
+    "id": "wiki_005_华为畅享8系列",
+    "title": "华为畅享8系列",
+    "category": "手机",
+    "series": "畅享系列",
+    "chunk_count": 1,
+    "char_count": 263,
+    "keywords": [
+      "华为畅享系列"
+    ]
+  },
+  {
+    "id": "wiki_006_鸿蒙操作系统",
+    "title": "鸿蒙操作系统",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "chunk_count": 91,
+    "char_count": 11181,
+    "keywords": [
+      "华为WATCH GT Runner 系列",
+      "华为FreeBuds 数字系列",
+      "华为FreeClip 系列",
+      "华为FreeBuds Pro 系列",
+      "华为MatePad 数字系列",
+      "华为WATCH Buds 系列",
+      "华为MatePad Pro 系列",
+      "华为WATCH Ultimate 系列",
+      "华为MatePad Air 系列"
+    ]
+  },
+  {
+    "id": "wiki_007_華為Ascend系列",
+    "title": "華為Ascend系列",
+    "category": "平板",
+    "series": "MatePad Mini 系列",
+    "chunk_count": 1,
+    "char_count": 1299,
+    "keywords": [
+      "华为MatePad Mini 系列",
+      "华为WATCH D 系列"
+    ]
+  },
+  {
+    "id": "wiki_008_华为MateBook系列",
+    "title": "华为MateBook系列",
+    "category": "平板",
+    "series": "MatePad 11.5 S 系列",
+    "chunk_count": 11,
+    "char_count": 1727,
+    "keywords": [
+      "华为MateBook Pro S",
+      "华为MateBook E 系列",
+      "华为MatePad 11.5 S 系列",
+      "华为MatePad Pro 2026",
+      "华为MatePad Pro 11 2024",
+      "华为MateBook X Pro 系列",
+      "华为MateBook Pro",
+      "华为MateBook D 系列",
+      "华为MateBook Pro 系列",
+      "华为MateBook Fold 系列"
+    ]
+  },
+  {
+    "id": "wiki_010_华为MateBook_X",
+    "title": "华为MateBook X",
+    "category": "笔记本",
+    "series": "MateBook 数字系列",
+    "chunk_count": 2,
+    "char_count": 176,
+    "keywords": [
+      "华为MateBook X Pro",
+      "华为MateBook 数字系列"
+    ]
+  },
+  {
+    "id": "wiki_011_华为手表",
+    "title": "华为手表",
+    "category": "智能手表",
+    "series": "WATCH GT 系列",
+    "chunk_count": 18,
+    "char_count": 2136,
+    "keywords": [
+      "华为WATCH GT 系列",
+      "华为WATCH FIT 5 Pro",
+      "华为WATCH FIT 系列",
+      "华为WATCH Ultimate 2"
+    ]
+  },
+  {
+    "id": "wiki_014_華為P40系列",
+    "title": "華為P40系列",
+    "category": "智慧屏",
+    "series": "Vision 系列",
+    "chunk_count": 18,
+    "char_count": 2460,
+    "keywords": [
+      "华为Vision 系列"
+    ]
+  },
+  {
+    "id": "wiki_017_华为智能汽车业务",
+    "title": "华为智能汽车业务",
+    "category": "智能汽车",
+    "series": "尊界",
+    "chunk_count": 44,
+    "char_count": 6326,
+    "keywords": [
+      "华为智界",
+      "华为尊界",
+      "华为乾崑智驾",
+      "华为尚界"
+    ]
+  },
+  {
+    "id": "wiki_018_享界S9",
+    "title": "享界S9",
+    "category": "智能汽车",
+    "series": "享界",
+    "chunk_count": 8,
+    "char_count": 1246,
+    "keywords": [
+      "华为享界"
+    ]
+  },
+  {
+    "id": "wiki_019_问界",
+    "title": "问界",
+    "category": "智能汽车",
+    "series": "问界",
+    "chunk_count": 11,
+    "char_count": 1115,
+    "keywords": [
+      "华为问界"
+    ]
+  },
+  {
+    "id": "wiki_020_华为Mate_40系列",
+    "title": "华为Mate 40系列",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 37,
+    "char_count": 5365,
+    "keywords": [
+      "华为Mate 80 Pro Max",
+      "华为Mate 40 Pro",
+      "华为Mate 40 RS 保时捷设计",
+      "华为Mate 50 RS 保时捷设计",
+      "华为Mate 40 Pro+"
+    ]
+  },
+  {
+    "id": "wiki_021_华为Mate_70系列",
+    "title": "华为Mate 70系列",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 5,
+    "char_count": 749,
+    "keywords": [
+      "华为Mate 70 Pro+",
+      "华为Mate 70 Pro",
+      "华为Mate 70 RS 非凡大师"
+    ]
+  },
+  {
+    "id": "wiki_022_华为Mate系列",
+    "title": "华为Mate系列",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 21,
+    "char_count": 2571,
+    "keywords": [
+      "华为Mate 70 Pro 优享版",
+      "华为Mate XTs 非凡大师"
+    ]
+  },
+  {
+    "id": "wiki_023_华为Pura_90系列",
+    "title": "华为Pura 90系列",
+    "category": "手机",
+    "series": "Pura 系列",
+    "chunk_count": 1,
+    "char_count": 144,
+    "keywords": [
+      "华为Pura 90 Pro",
+      "华为Pura 90 Pro Max"
+    ]
+  },
+  {
+    "id": "wiki_024_华为Pura_80系列",
+    "title": "华为Pura 80系列",
+    "category": "手机",
+    "series": "Pura 系列",
+    "chunk_count": 6,
+    "char_count": 574,
+    "keywords": [
+      "华为Pura 80 Ultra",
+      "华为Pura 80 Pro+",
+      "华为Pura 80 Pro"
+    ]
+  },
+  {
+    "id": "wiki_025_华为Nova_10",
+    "title": "华为Nova 10",
+    "category": "手机",
+    "series": "nova 系列",
+    "chunk_count": 6,
+    "char_count": 479,
+    "keywords": [
+      "华为nova 16 Pro",
+      "华为nova 14 Pro",
+      "华为nova 13 Pro"
+    ]
+  },
+  {
+    "id": "wiki_026_华为MateBook_Fold",
+    "title": "华为MateBook Fold",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "chunk_count": 7,
+    "char_count": 934,
+    "keywords": [
+      "华为MatePad Pro 12.2 2025",
+      "华为MatePad Pro 13.2 2025",
+      "华为MateBook Fold 非凡大师"
+    ]
+  },
+  {
+    "id": "wiki_029_可摺疊式智能手機",
+    "title": "可摺疊式智能手機",
+    "category": "智慧屏",
+    "series": "Vision 系列",
+    "chunk_count": 37,
+    "char_count": 3283,
+    "keywords": [
+      "华为Vision 智慧屏 6 Pro"
+    ]
+  },
+  {
+    "id": "wiki_030_华为Pura_70系列",
+    "title": "华为Pura 70系列",
+    "category": "手机",
+    "series": "Pura 系列",
+    "chunk_count": 7,
+    "char_count": 960,
+    "keywords": [
+      "华为Pura 70 Ultra",
+      "华为Pura 70 Pro"
+    ]
+  },
+  {
+    "id": "wiki_031_华为P60系列",
+    "title": "华为P60系列",
+    "category": "手机",
+    "series": "Pura 系列",
+    "chunk_count": 16,
+    "char_count": 1435,
+    "keywords": [
+      "华为P60 Art",
+      "华为P60 Pro"
+    ]
+  }
+]

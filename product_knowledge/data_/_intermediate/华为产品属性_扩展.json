@@ -15,11 +15,11 @@
       "直屏旗舰"
     ],
     "talking_points": [
-      "麒麟9020",
       "首配3D人脸",
       "3999起亲民价"
     ],
     "generation": "最新款",
+    "price": "¥3999起",
     "status": "在售"
   },
   {
@@ -43,6 +43,7 @@
       "6.9寸微曲屏"
     ],
     "generation": "最新款",
+    "price": "¥6499起",
     "status": "在售"
   },
   {
@@ -61,12 +62,12 @@
       "顶配影像"
     ],
     "talking_points": [
-      "麒麟9030 Pro",
       "双潜望长焦",
       "双层OLED",
       "6000mAh大电池"
     ],
     "generation": "最新款",
+    "price": "¥7499起",
     "status": "在售"
   },
   {
@@ -84,11 +85,11 @@
       "性能特化"
     ],
     "talking_points": [
-      "麒麟9030 Pro",
       "Pro Max升级版",
       "2026年3月加推"
     ],
     "generation": "最新款",
+    "price": "¥8499",
     "status": "在售"
   },
   {
@@ -108,13 +109,13 @@
       "奢华旗舰"
     ],
     "talking_points": [
-      "麒麟9030 Pro",
       "全金属玄武架构",
       "双潜望",
       "卫星通信",
       "最贵直板Mate"
     ],
     "generation": "最新款",
+    "price": "¥11999起",
     "status": "在售"
   },
   {
@@ -135,6 +136,7 @@
       "5200mAh"
     ],
     "generation": "上代",
+    "price": "¥5099起",
     "status": "在售"
   },
   {
@@ -156,6 +158,7 @@
       "微距长焦"
     ],
     "generation": "上代",
+    "price": "¥5199起",
     "status": "在售"
   },
   {
@@ -173,10 +176,11 @@
       "性价比版"
     ],
     "talking_points": [
-      "麒麟9020A",
+      "麒麟9020A降频版",
       "价格更友好"
     ],
     "generation": "上代",
+    "price": "¥5099起",
     "status": "在售"
   },
   {
@@ -194,12 +198,12 @@
       "顶配直屏"
     ],
     "talking_points": [
-      "麒麟9020",
       "16GB大内存",
       "2K直屏",
       "天通卫星"
     ],
     "generation": "上代",
+    "price": "¥6699起",
     "status": "在售"
   },
   {
@@ -217,11 +221,11 @@
       "奢华旗舰"
     ],
     "talking_points": [
-      "麒麟9020",
       "双层OLED微曲屏",
       "5700mAh"
     ],
     "generation": "上代",
+    "price": "¥11999起",
     "status": "在售"
   },
   {
@@ -239,12 +243,12 @@
       "大屏长续航"
     ],
     "talking_points": [
-      "麒麟9020",
       "7寸大屏",
       "6500mAh超大电池",
       "3170起最便宜Mate"
     ],
     "generation": "上代",
+    "price": "¥3170起",
     "status": "在售"
   },
   {
@@ -269,6 +273,7 @@
       "2026年9月"
     ],
     "generation": "即将发布",
+    "price": "待公布",
     "status": "即将发布"
   },
   {
@@ -289,6 +294,7 @@
       "HarmonyOS 6.1"
     ],
     "generation": "最新款",
+    "price": "¥4699起",
     "status": "在售"
   },
   {
@@ -310,6 +316,7 @@
       "比上代降价1000"
     ],
     "generation": "最新款",
+    "price": "¥5499起",
     "status": "在售"
   },
   {
@@ -331,6 +338,7 @@
       "20倍高清录像"
     ],
     "generation": "最新款",
+    "price": "¥6499起",
     "status": "在售"
   },
   {
@@ -353,6 +361,7 @@
       "5600mAh"
     ],
     "generation": "上代",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -375,6 +384,7 @@
       "100W快充"
     ],
     "generation": "上代",
+    "price": "¥6499起",
     "status": "在售"
   },
   {
@@ -396,6 +406,7 @@
       "天通+北斗双卫星"
     ],
     "generation": "上代",
+    "price": "¥7999起",
     "status": "在售"
   },
   {
@@ -419,6 +430,7 @@
       "万元影像机皇"
     ],
     "generation": "上代",
+    "price": "¥9999起",
     "status": "在售"
   },
   {
@@ -442,6 +454,7 @@
       "第二代红枫"
     ],
     "generation": "最新款",
+    "price": "¥12999起",
     "status": "在售"
   },
   {
@@ -463,6 +476,7 @@
       "分布式玄武架构"
     ],
     "generation": "上代",
+    "price": "¥10999起",
     "status": "在售"
   },
   {
@@ -485,6 +499,7 @@
       "6000mAh+大电池"
     ],
     "generation": "即将发布",
+    "price": "待公布",
     "status": "即将发布"
   },
   {
@@ -511,6 +526,7 @@
       "三折叠形态"
     ],
     "generation": "最新款",
+    "price": "¥18000起",
     "status": "在售"
   },
   {
@@ -533,7 +549,8 @@
       "独立外屏",
       "2026年9月"
     ],
-    "generation": "最新款",
+    "generation": "即将发布",
+    "price": "待公布",
     "status": "即将发布"
   },
   {
@@ -557,6 +574,7 @@
       "IP58/59"
     ],
     "generation": "最新款",
+    "price": "¥10999起",
     "status": "在售"
   },
   {
@@ -580,6 +598,7 @@
       "7499较亲民折叠"
     ],
     "generation": "最新款",
+    "price": "¥7499起",
     "status": "在售"
   },
   {
@@ -600,7 +619,8 @@
     "talking_points": [
       "玄武水滴铰链"
     ],
-    "generation": "上代",
+    "generation": "在售",
+    "price": "¥7999起",
     "status": "在售"
   },
   {
@@ -624,6 +644,7 @@
       "nova首款新折叠"
     ],
     "generation": "最新款",
+    "price": "¥4999",
     "status": "在售"
   },
   {
@@ -643,7 +664,8 @@
     "talking_points": [
       "最便宜折叠屏3388起"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "¥3388起",
     "status": "在售"
   },
   {
@@ -665,6 +687,7 @@
       "2000-3000价位"
     ],
     "generation": "最新款",
+    "price": "¥2000-3000",
     "status": "在售"
   },
   {
@@ -687,6 +710,7 @@
       "100W快充"
     ],
     "generation": "最新款",
+    "price": "¥3499起",
     "status": "在售"
   },
   {
@@ -707,6 +731,7 @@
       "256GB到1TB全覆盖"
     ],
     "generation": "最新款",
+    "price": "¥3899起",
     "status": "在售"
   },
   {
@@ -727,6 +752,7 @@
       "nova最强影像"
     ],
     "generation": "最新款",
+    "price": "¥4699起",
     "status": "在售"
   },
   {
@@ -749,6 +775,7 @@
       "1299千元5G"
     ],
     "generation": "最新款",
+    "price": "¥1299起",
     "status": "在售"
   },
   {
@@ -769,6 +796,7 @@
       "6620mAh"
     ],
     "generation": "最新款",
+    "price": "¥1499起",
     "status": "在售"
   },
   {
@@ -792,6 +820,7 @@
       "千元续航王"
     ],
     "generation": "最新款",
+    "price": "¥1699起",
     "status": "在售"
   },
   {
@@ -813,7 +842,8 @@
       "麒麟9010",
       "88W快充"
     ],
-    "generation": "最新款",
+    "generation": "在售",
+    "price": "¥4350起",
     "status": "在售"
   },
   {
@@ -834,7 +864,8 @@
       "12.2寸双层OLED",
       "10100mAh"
     ],
-    "generation": "最新款",
+    "generation": "在售",
+    "price": "¥3199起",
     "status": "在售"
   },
   {
@@ -858,6 +889,7 @@
       "麒麟T93"
     ],
     "generation": "最新款",
+    "price": "待公布",
     "status": "在售"
   },
   {
@@ -878,7 +910,8 @@
       "24GB+1TB",
       "万元二合一"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "¥9999",
     "status": "在售"
   },
   {
@@ -900,7 +933,8 @@
       "麒麟900",
       "10100mAh"
     ],
-    "generation": "最新款",
+    "generation": "在售",
+    "price": "¥2125起",
     "status": "在售"
   },
   {
@@ -922,6 +956,7 @@
       "麒麟T93C"
     ],
     "generation": "最新款",
+    "price": "待公布",
     "status": "在售"
   },
   {
@@ -941,7 +976,8 @@
     "talking_points": [
       "悦读版/柔光版/全网通多版本可选"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "¥2465起",
     "status": "在售"
   },
   {
@@ -963,7 +999,8 @@
       "柔光屏可选",
       "学生党首选"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "¥1670起",
     "status": "在售"
   },
   {
@@ -986,6 +1023,7 @@
       "柔光版/全网通可选"
     ],
     "generation": "最新款",
+    "price": "¥1530起",
     "status": "在售"
   },
   {
@@ -1007,7 +1045,8 @@
       "7700mAh",
       "最便宜华为平板之一"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "¥1399起",
     "status": "在售"
   },
   {
@@ -1033,6 +1072,7 @@
       "鸿蒙系统"
     ],
     "generation": "最新款",
+    "price": "¥24999",
     "status": "在售"
   },
   {
@@ -1058,6 +1098,7 @@
       "标准版到14999典藏版"
     ],
     "generation": "最新款",
+    "price": "¥7999起",
     "status": "在售"
   },
   {
@@ -1080,6 +1121,7 @@
       "40W性能释放"
     ],
     "generation": "最新款",
+    "price": "待公布",
     "status": "在售"
   },
   {
@@ -1102,7 +1144,8 @@
       "140W超级快充",
       "32GB+2TB"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1123,6 +1166,7 @@
       "首款数字系列鸿蒙PC"
     ],
     "generation": "最新款",
+    "price": "¥6599起",
     "status": "在售"
   },
   {
@@ -1144,6 +1188,7 @@
       "比Win版便宜300"
     ],
     "generation": "最新款",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1165,7 +1210,8 @@
       "数字小键盘",
       "4000-5000价位"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "¥4000-5000",
     "status": "在售"
   },
   {
@@ -1187,7 +1233,8 @@
       "可拆卸设计",
       "平板笔记本二合一"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1212,6 +1259,7 @@
       "双向北斗卫星"
     ],
     "generation": "最新款",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1235,7 +1283,8 @@
       "eSIM",
       "26888最贵华为表"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "¥26888",
     "status": "在售"
   },
   {
@@ -1261,6 +1310,7 @@
       "血糖血压评估"
     ],
     "generation": "最新款",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1282,6 +1332,7 @@
       "专业登山潜水模式"
     ],
     "generation": "最新款",
+    "price": "¥2488起",
     "status": "在售"
   },
   {
@@ -1303,6 +1354,7 @@
       "骑行模拟功率"
     ],
     "generation": "最新款",
+    "price": "¥1588起",
     "status": "在售"
   },
   {
@@ -1324,6 +1376,7 @@
       "小巧女款"
     ],
     "generation": "最新款",
+    "price": "¥1488起",
     "status": "在售"
   },
   {
@@ -1346,6 +1399,7 @@
       "写入中国高血压防治指南"
     ],
     "generation": "最新款",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1371,6 +1425,7 @@
       "不分左右耳"
     ],
     "generation": "最新款",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1394,6 +1449,7 @@
       "7天续航"
     ],
     "generation": "最新款",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1416,6 +1472,7 @@
       "14天续航"
     ],
     "generation": "最新款",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1437,6 +1494,7 @@
       "专业跑步指标"
     ],
     "generation": "最新款",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1458,6 +1516,7 @@
       "最便宜华为穿戴"
     ],
     "generation": "最新款",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1479,6 +1538,7 @@
       "2025年11月发布"
     ],
     "generation": "最新款",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1499,6 +1559,7 @@
       "海外主打款"
     ],
     "generation": "最新款",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1521,6 +1582,7 @@
       "2.3Mbps无损传输"
     ],
     "generation": "最新款",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1547,6 +1609,7 @@
       "38小时总续航"
     ],
     "generation": "最新款",
+    "price": "¥1299",
     "status": "在售"
   },
   {
@@ -1569,6 +1632,7 @@
       "发布会音响担当"
     ],
     "generation": "最新款",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1589,7 +1653,8 @@
       "便携蓝牙",
       "户外用"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1613,6 +1678,7 @@
       "64999最贵华为屏"
     ],
     "generation": "最新款",
+    "price": "¥64999",
     "status": "在售"
   },
   {
@@ -1638,6 +1704,7 @@
       "触控书写"
     ],
     "generation": "最新款",
+    "price": "¥5999起",
     "status": "在售"
   },
   {
@@ -1662,6 +1729,7 @@
       "4K 144Hz"
     ],
     "generation": "最新款",
+    "price": "¥6199起",
     "status": "在售"
   },
   {
@@ -1686,6 +1754,7 @@
       "300Hz"
     ],
     "generation": "最新款",
+    "price": "¥2974起",
     "status": "在售"
   },
   {
@@ -1712,6 +1781,7 @@
       "光学镜/太阳镜双版本"
     ],
     "generation": "最新款",
+    "price": "¥2499",
     "status": "在售"
   },
   {
@@ -1731,7 +1801,8 @@
     "talking_points": [
       "电竞曲面屏"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1755,6 +1826,7 @@
       "华为系最贵车型"
     ],
     "generation": "最新款",
+    "price": "¥76.6万起",
     "status": "在售"
   },
   {
@@ -1776,6 +1848,7 @@
       "64.8万起"
     ],
     "generation": "最新款",
+    "price": "¥64.8万起",
     "status": "在售"
   },
   {
@@ -1799,6 +1872,7 @@
       "43.98万起"
     ],
     "generation": "最新款",
+    "price": "¥43.98万起",
     "status": "在售"
   },
   {
@@ -1817,7 +1891,8 @@
     "talking_points": [
       "豪华轿车"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1838,7 +1913,8 @@
       "大型SUV",
       "问界走量主力"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1856,7 +1932,8 @@
     "talking_points": [
       "中大型SUV"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1874,7 +1951,8 @@
     "talking_points": [
       "中型SUV"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1893,7 +1971,8 @@
     "talking_points": [
       "轿跑SUV"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1911,7 +1990,8 @@
     "talking_points": [
       "轿跑SUV"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1930,7 +2010,8 @@
     "talking_points": [
       "轿车"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1949,7 +2030,8 @@
     "talking_points": [
       "年轻人轿跑"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "待补充",
     "status": "在售"
   },
   {
@@ -1973,7 +2055,8 @@
       "卫星通信",
       "第二代昆仑玻璃"
     ],
-    "generation": "旧代",
+    "generation": "上上代",
+    "price": "¥5499起",
     "status": "在售"
   },
   {
@@ -1997,7 +2080,8 @@
       "天通卫星通话",
       "第二代昆仑玻璃"
     ],
-    "generation": "旧代",
+    "generation": "上上代",
+    "price": "¥6499起",
     "status": "在售"
   },
   {
@@ -2019,7 +2103,8 @@
       "双卫星通信",
       "天通+北斗"
     ],
-    "generation": "旧代",
+    "generation": "上上代",
+    "price": "¥8999起",
     "status": "在售"
   },
   {
@@ -2042,7 +2127,8 @@
       "天通+北斗双卫星",
       "玄武钢化昆仑玻璃"
     ],
-    "generation": "旧代",
+    "generation": "上上代",
+    "price": "¥11999起",
     "status": "在售"
   },
   {
@@ -2065,7 +2151,8 @@
       "华为影像XMAGE",
       "北斗卫星消息"
     ],
-    "generation": "旧代",
+    "generation": "上上上代",
+    "price": "¥4999起",
     "status": "在售"
   },
   {
@@ -2088,7 +2175,8 @@
       "200倍变焦",
       "北斗卫星消息"
     ],
-    "generation": "旧代",
+    "generation": "上上上代",
+    "price": "¥6799起",
     "status": "在售"
   },
   {
@@ -2111,7 +2199,8 @@
       "200倍变焦",
       "超微距长焦"
     ],
-    "generation": "旧代",
+    "generation": "上上上代",
+    "price": "¥12999起",
     "status": "在售"
   },
   {
@@ -2136,6 +2225,7 @@
       "星环设计"
     ],
     "generation": "旧代",
+    "price": "¥6499起",
     "status": "在售"
   },
   {
@@ -2159,6 +2249,7 @@
       "陶瓷机身"
     ],
     "generation": "旧代",
+    "price": "¥8999起",
     "status": "在售"
   },
   {
@@ -2182,6 +2273,7 @@
       "测温功能"
     ],
     "generation": "旧代",
+    "price": "¥11999起",
     "status": "在售"
   },
   {
@@ -2205,7 +2297,8 @@
       "50MP可变光圈",
       "第二代昆仑玻璃"
     ],
-    "generation": "旧代",
+    "generation": "中间代",
+    "price": "¥5499起",
     "status": "在售"
   },
   {
@@ -2228,7 +2321,8 @@
       "100W快充",
       "50MP超聚光"
     ],
-    "generation": "旧代",
+    "generation": "中间代",
+    "price": "¥6499起",
     "status": "在售"
   },
   {
@@ -2251,7 +2345,8 @@
       "伸缩镜头",
       "100W快充"
     ],
-    "generation": "旧代",
+    "generation": "中间代",
+    "price": "¥9999起",
     "status": "在售"
   },
   {
@@ -2276,6 +2371,7 @@
       "双向北斗卫星"
     ],
     "generation": "旧代",
+    "price": "¥6988起",
     "status": "在售"
   },
   {
@@ -2300,6 +2396,58 @@
       "5100mAh"
     ],
     "generation": "旧代",
+    "price": "¥8988起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "P50 系列",
+    "name": "P50 Pro",
+    "alias": [
+      "P50P"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "万象双环设计"
+    ],
+    "talking_points": [
+      "麒麟9000 4G/骁龙888 4G",
+      "6.6寸OLED",
+      "4360mAh",
+      "66W快充",
+      "50MP原色双影像",
+      "200倍变焦"
+    ],
+    "generation": "旧代",
+    "price": "¥5988起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "P40 系列",
+    "name": "P40 Pro+",
+    "alias": [
+      "P40P+"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "徕卡五摄"
+    ],
+    "talking_points": [
+      "麒麟990 5G",
+      "6.58寸OLED",
+      "4200mAh",
+      "40W无线快充",
+      "徕卡五摄",
+      "100倍双目变焦",
+      "陶瓷机身"
+    ],
+    "generation": "旧代",
+    "price": "¥7988起",
     "status": "在售"
   },
   {
@@ -2323,7 +2471,8 @@
       "双向北斗卫星",
       "玄武钢化昆仑玻璃"
     ],
-    "generation": "旧代",
+    "generation": "中间代",
+    "price": "¥12999起",
     "status": "在售"
   },
   {
@@ -2348,6 +2497,7 @@
       "双向北斗卫星"
     ],
     "generation": "旧代",
+    "price": "¥12999起",
     "status": "在售"
   },
   {
@@ -2372,6 +2522,7 @@
       "楔形设计"
     ],
     "generation": "旧代",
+    "price": "¥17999起",
     "status": "在售"
   },
   {
@@ -2393,7 +2544,8 @@
       "5000mAh",
       "100W快充"
     ],
-    "generation": "上代",
+    "generation": "最新款",
+    "price": "¥3699起",
     "status": "在售"
   },
   {
@@ -2415,7 +2567,8 @@
       "100W快充",
       "卫星消息"
     ],
-    "generation": "上代",
+    "generation": "最新款",
+    "price": "¥4199起",
     "status": "在售"
   },
   {
@@ -2438,7 +2591,8 @@
       "100W快充",
       "前置双摄"
     ],
-    "generation": "旧代",
+    "generation": "上代",
+    "price": "¥3399起",
     "status": "在售"
   },
   {
@@ -2459,7 +2613,8 @@
       "一亿像素主摄",
       "4900mAh"
     ],
-    "generation": "旧代",
+    "generation": "上代",
+    "price": "¥3999起",
     "status": "在售"
   },
   {
@@ -2483,6 +2638,7 @@
       "前置双摄"
     ],
     "generation": "旧代",
+    "price": "¥2999起",
     "status": "在售"
   },
   {
@@ -2505,6 +2661,7 @@
       "NFC"
     ],
     "generation": "上代",
+    "price": "¥1399起",
     "status": "在售"
   },
   {
@@ -2528,6 +2685,7 @@
       "星闪连接"
     ],
     "generation": "上代",
+    "price": "¥4299起",
     "status": "在售"
   },
   {
@@ -2551,6 +2709,7 @@
       "M-Pencil 2"
     ],
     "generation": "旧代",
+    "price": "¥4699起",
     "status": "在售"
   },
   {
@@ -2574,6 +2733,7 @@
       "ECG"
     ],
     "generation": "最新款",
+    "price": "¥2488起",
     "status": "在售"
   },
   {
@@ -2595,6 +2755,7 @@
       "TruSeen 5.5+"
     ],
     "generation": "旧代",
+    "price": "¥1588起",
     "status": "在售"
   },
   {
@@ -2618,6 +2779,7 @@
       "体温监测"
     ],
     "generation": "旧代",
+    "price": "¥2488起",
     "status": "在售"
   },
   {
@@ -2641,6 +2803,7 @@
       "47dB深度降噪"
     ],
     "generation": "上代",
+    "price": "¥1499",
     "status": "在售"
   },
   {
@@ -2662,6 +2825,7 @@
       "帝瓦雷调音"
     ],
     "generation": "旧代",
+    "price": "¥1299",
     "status": "在售"
   },
   {
@@ -2685,6 +2849,7 @@
       "75-85寸"
     ],
     "generation": "旧代",
+    "price": "¥8999起",
     "status": "在售"
   },
   {
@@ -2709,6 +2874,7 @@
       "前置人像"
     ],
     "generation": "旧代",
+    "price": "¥3899起",
     "status": "在售"
   },
   {
@@ -2734,6 +2900,7 @@
       "50MP主摄"
     ],
     "generation": "旧代",
+    "price": "¥4599起",
     "status": "在售"
   },
   {
@@ -2756,6 +2923,7 @@
       "100W快充"
     ],
     "generation": "旧代",
+    "price": "¥5199起",
     "status": "在售"
   },
   {
@@ -2780,6 +2948,7 @@
       "前置人像"
     ],
     "generation": "旧代",
+    "price": "¥3799起",
     "status": "在售"
   },
   {
@@ -2805,6 +2974,7 @@
       "50MP主摄"
     ],
     "generation": "旧代",
+    "price": "¥4499起",
     "status": "在售"
   },
   {
@@ -2827,6 +2997,7 @@
       "100W快充"
     ],
     "generation": "旧代",
+    "price": "¥5099起",
     "status": "在售"
   },
   {
@@ -2851,6 +3022,7 @@
       "前置人像"
     ],
     "generation": "旧代",
+    "price": "¥3699起",
     "status": "在售"
   },
   {
@@ -2876,6 +3048,7 @@
       "50MP主摄"
     ],
     "generation": "旧代",
+    "price": "¥4399起",
     "status": "在售"
   },
   {
@@ -2892,12 +3065,235 @@
       "nova青春版"
     ],
     "talking_points": [
-      "芯片信息待核实",
+      "骁龙680 4G",
       "6.6寸LCD",
       "4000mAh",
       "40W快充"
     ],
     "generation": "旧代",
+    "price": "¥2499起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 9 系列",
+    "name": "nova 9",
+    "alias": [
+      "n9",
+      "nova9"
+    ],
+    "positioning": [
+      "中端潮流",
+      "nova标准版"
+    ],
+    "talking_points": [
+      "骁龙778G 4G",
+      "6.7寸OLED",
+      "4000mAh+",
+      "66W快充",
+      "前置人像"
+    ],
+    "generation": "旧代",
+    "price": "¥3599起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 9 系列",
+    "name": "nova 9 Pro",
+    "alias": [
+      "n9P",
+      "nova9Pro"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova影像旗舰"
+    ],
+    "talking_points": [
+      "骁龙778G 4G",
+      "6.78寸OLED",
+      "4500mAh",
+      "100W快充",
+      "前置双摄",
+      "50MP主摄"
+    ],
+    "generation": "旧代",
+    "price": "¥4299起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 9 系列",
+    "name": "nova 9 SE",
+    "alias": [
+      "n9SE"
+    ],
+    "positioning": [
+      "中低端潮流",
+      "nova青春版"
+    ],
+    "talking_points": [
+      "骁龙680 4G",
+      "6.6寸LCD",
+      "4000mAh",
+      "40W快充"
+    ],
+    "generation": "旧代",
+    "price": "¥2449起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 8 系列",
+    "name": "nova 8",
+    "alias": [
+      "n8",
+      "nova8"
+    ],
+    "positioning": [
+      "中端潮流",
+      "nova标准版"
+    ],
+    "talking_points": [
+      "麒麟985 5G",
+      "6.7寸OLED",
+      "4000mAh+",
+      "66W快充",
+      "前置人像"
+    ],
+    "generation": "旧代",
+    "price": "¥3499起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 8 系列",
+    "name": "nova 8 Pro",
+    "alias": [
+      "n8P",
+      "nova8Pro"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova影像旗舰"
+    ],
+    "talking_points": [
+      "麒麟985 5G",
+      "6.78寸OLED",
+      "4500mAh",
+      "100W快充",
+      "前置双摄",
+      "50MP主摄"
+    ],
+    "generation": "旧代",
+    "price": "¥4199起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 8 系列",
+    "name": "nova 8 SE",
+    "alias": [
+      "n8SE"
+    ],
+    "positioning": [
+      "中低端潮流",
+      "nova青春版"
+    ],
+    "talking_points": [
+      "麒麟820 5G",
+      "6.6寸LCD",
+      "4000mAh",
+      "40W快充"
+    ],
+    "generation": "旧代",
+    "price": "¥2399起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 7 系列",
+    "name": "nova 7",
+    "alias": [
+      "n7",
+      "nova7"
+    ],
+    "positioning": [
+      "中端潮流",
+      "nova标准版"
+    ],
+    "talking_points": [
+      "麒麟985 5G",
+      "6.7寸OLED",
+      "4000mAh+",
+      "66W快充",
+      "前置人像"
+    ],
+    "generation": "旧代",
+    "price": "¥3399起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 7 系列",
+    "name": "nova 7 Pro",
+    "alias": [
+      "n7P",
+      "nova7Pro"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova影像旗舰"
+    ],
+    "talking_points": [
+      "麒麟985 5G",
+      "6.78寸OLED",
+      "4500mAh",
+      "100W快充",
+      "前置双摄",
+      "50MP主摄"
+    ],
+    "generation": "旧代",
+    "price": "¥4099起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 7 系列",
+    "name": "nova 7 SE",
+    "alias": [
+      "n7SE"
+    ],
+    "positioning": [
+      "中低端潮流",
+      "nova青春版"
+    ],
+    "talking_points": [
+      "麒麟820 5G",
+      "6.6寸LCD",
+      "4000mAh",
+      "40W快充"
+    ],
+    "generation": "旧代",
+    "price": "¥2349起",
     "status": "在售"
   },
   {
@@ -2920,6 +3316,7 @@
       "22.5W快充"
     ],
     "generation": "旧代",
+    "price": "¥1699起",
     "status": "在售"
   },
   {
@@ -2942,6 +3339,7 @@
       "NFC"
     ],
     "generation": "旧代",
+    "price": "¥1999起",
     "status": "在售"
   },
   {
@@ -2964,6 +3362,7 @@
       "22.5W快充"
     ],
     "generation": "旧代",
+    "price": "¥1599起",
     "status": "在售"
   },
   {
@@ -2986,6 +3385,7 @@
       "NFC"
     ],
     "generation": "旧代",
+    "price": "¥1899起",
     "status": "在售"
   },
   {
@@ -3008,6 +3408,7 @@
       "22.5W快充"
     ],
     "generation": "旧代",
+    "price": "¥1499起",
     "status": "在售"
   },
   {
@@ -3030,6 +3431,7 @@
       "NFC"
     ],
     "generation": "旧代",
+    "price": "¥1799起",
     "status": "在售"
   },
   {
@@ -3052,6 +3454,7 @@
       "22.5W快充"
     ],
     "generation": "旧代",
+    "price": "¥999起",
     "status": "在售"
   },
   {
@@ -3074,6 +3477,76 @@
       "NFC"
     ],
     "generation": "旧代",
+    "price": "¥1299起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "麦芒系列",
+    "sub_series": null,
+    "name": "麦芒 11",
+    "alias": [
+      "麦芒11"
+    ],
+    "positioning": [
+      "入门实用",
+      "运营商定制"
+    ],
+    "talking_points": [
+      "骁龙695 5G",
+      "6.6寸",
+      "4300mAh",
+      "5G"
+    ],
+    "generation": "旧代",
+    "price": "¥1499起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "麦芒系列",
+    "sub_series": null,
+    "name": "麦芒 10",
+    "alias": [
+      "麦芒10"
+    ],
+    "positioning": [
+      "入门实用",
+      "运营商定制"
+    ],
+    "talking_points": [
+      "天玑720 5G",
+      "6.6寸",
+      "4300mAh",
+      "5G"
+    ],
+    "generation": "旧代",
+    "price": "¥1499起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "麦芒系列",
+    "sub_series": null,
+    "name": "麦芒 9",
+    "alias": [
+      "麦芒9"
+    ],
+    "positioning": [
+      "入门实用",
+      "运营商定制"
+    ],
+    "talking_points": [
+      "天玑800 5G",
+      "6.6寸",
+      "4300mAh",
+      "5G"
+    ],
+    "generation": "旧代",
+    "price": "¥1499起",
     "status": "在售"
   },
   {
@@ -3097,6 +3570,55 @@
       "徕卡三摄"
     ],
     "generation": "旧代",
+    "price": "¥4999起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "P40 系列",
+    "name": "P40",
+    "alias": [
+      "P40标准版"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "小屏旗舰"
+    ],
+    "talking_points": [
+      "麒麟990 5G",
+      "6.1寸OLED",
+      "3800mAh",
+      "徕卡三摄",
+      "50MP主摄"
+    ],
+    "generation": "旧代",
+    "price": "¥4188起",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "P50 系列",
+    "name": "P50",
+    "alias": [
+      "P50标准版"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "万象双环"
+    ],
+    "talking_points": [
+      "骁龙888 4G",
+      "6.5寸OLED",
+      "4100mAh",
+      "66W快充",
+      "50MP主摄"
+    ],
+    "generation": "旧代",
+    "price": "¥4488起",
     "status": "在售"
   },
   {
@@ -3119,6 +3641,7 @@
       "48MP超聚光"
     ],
     "generation": "旧代",
+    "price": "¥4488起",
     "status": "在售"
   },
   {
@@ -3142,6 +3665,7 @@
       "星闪"
     ],
     "generation": "旧代",
+    "price": "¥5199起",
     "status": "在售"
   },
   {
@@ -3165,6 +3689,7 @@
       "120Hz"
     ],
     "generation": "旧代",
+    "price": "¥3499起",
     "status": "在售"
   },
   {
@@ -3187,6 +3712,7 @@
       "柔光屏可选"
     ],
     "generation": "旧代",
+    "price": "¥2299起",
     "status": "在售"
   },
   {
@@ -3209,6 +3735,7 @@
       "鸿蒙2.0"
     ],
     "generation": "旧代",
+    "price": "¥2499起",
     "status": "在售"
   },
   {
@@ -3232,6 +3759,7 @@
       "阅读器"
     ],
     "generation": "旧代",
+    "price": "¥2999",
     "status": "在售"
   },
   {
@@ -3254,6 +3782,7 @@
       "儿童模式"
     ],
     "generation": "旧代",
+    "price": "¥1499起",
     "status": "在售"
   },
   {
@@ -3276,6 +3805,7 @@
       "教育中心"
     ],
     "generation": "旧代",
+    "price": "¥1099起",
     "status": "在售"
   },
   {
@@ -3299,6 +3829,7 @@
       "超级终端"
     ],
     "generation": "旧代",
+    "price": "¥9999起",
     "status": "在售"
   },
   {
@@ -3321,6 +3852,7 @@
       "16GB+1TB"
     ],
     "generation": "旧代",
+    "price": "¥8999起",
     "status": "在售"
   },
   {
@@ -3344,6 +3876,7 @@
       "超级终端"
     ],
     "generation": "旧代",
+    "price": "¥6999起",
     "status": "在售"
   },
   {
@@ -3366,6 +3899,7 @@
       "超级终端"
     ],
     "generation": "旧代",
+    "price": "¥5699起",
     "status": "在售"
   },
   {
@@ -3388,6 +3922,7 @@
       "超级终端"
     ],
     "generation": "旧代",
+    "price": "¥4599起",
     "status": "在售"
   },
   {
@@ -3410,6 +3945,7 @@
       "56Wh电池"
     ],
     "generation": "旧代",
+    "price": "¥4199起",
     "status": "在售"
   },
   {
@@ -3432,6 +3968,7 @@
       "M-Pencil"
     ],
     "generation": "旧代",
+    "price": "¥7499起",
     "status": "在售"
   },
   {
@@ -3454,6 +3991,7 @@
       "60Wh"
     ],
     "generation": "旧代",
+    "price": "¥6599起",
     "status": "在售"
   },
   {
@@ -3479,6 +4017,7 @@
       "5天续航"
     ],
     "generation": "旧代",
+    "price": "¥3399起",
     "status": "在售"
   },
   {
@@ -3503,6 +4042,7 @@
       "3天续航"
     ],
     "generation": "旧代",
+    "price": "¥2699起",
     "status": "在售"
   },
   {
@@ -3527,6 +4067,7 @@
       "5天续航"
     ],
     "generation": "旧代",
+    "price": "¥2999起",
     "status": "在售"
   },
   {
@@ -3550,6 +4091,7 @@
       "3天续航"
     ],
     "generation": "旧代",
+    "price": "¥2199起",
     "status": "在售"
   },
   {
@@ -3572,6 +4114,7 @@
       "女性生理周期"
     ],
     "generation": "旧代",
+    "price": "¥1488起",
     "status": "在售"
   },
   {
@@ -3595,6 +4138,7 @@
       "无线充电"
     ],
     "generation": "旧代",
+    "price": "¥2188起",
     "status": "在售"
   },
   {
@@ -3617,6 +4161,7 @@
       "97种运动模式"
     ],
     "generation": "旧代",
+    "price": "¥899起",
     "status": "在售"
   },
   {
@@ -3639,6 +4184,7 @@
       "轻薄14g"
     ],
     "generation": "旧代",
+    "price": "¥269起",
     "status": "在售"
   },
   {
@@ -3661,6 +4207,7 @@
       "双设备连接"
     ],
     "generation": "旧代",
+    "price": "¥499",
     "status": "在售"
   },
   {
@@ -3683,6 +4230,7 @@
       "轻量化4.1g"
     ],
     "generation": "旧代",
+    "price": "¥699",
     "status": "在售"
   },
   {
@@ -3706,6 +4254,7 @@
       "30h续航"
     ],
     "generation": "旧代",
+    "price": "¥899",
     "status": "在售"
   },
   {
@@ -3728,6 +4277,7 @@
       "22h续航"
     ],
     "generation": "旧代",
+    "price": "¥1699",
     "status": "在售"
   },
   {
@@ -3750,6 +4300,7 @@
       "USB-C直插快充"
     ],
     "generation": "旧代",
+    "price": "¥599",
     "status": "在售"
   },
   {
@@ -3773,6 +4324,7 @@
       "玄武水滴铰链"
     ],
     "generation": "旧代",
+    "price": "¥5988起",
     "status": "在售"
   },
   {
@@ -3797,6 +4349,7 @@
       "超轻薄255g"
     ],
     "generation": "旧代",
+    "price": "¥9999起",
     "status": "在售"
   },
   {
@@ -3822,6 +4375,7 @@
       "百万级底盘"
     ],
     "generation": "最新款",
+    "price": "¥46.98万起",
     "status": "在售"
   },
   {
@@ -3844,7 +4398,8 @@
       "鸿蒙座舱",
       "4秒级加速"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "¥24.98万起",
     "status": "在售"
   },
   {
@@ -3865,7 +4420,8 @@
       "鸿蒙座舱",
       "620km续航"
     ],
-    "generation": "旧代",
+    "generation": "在售",
+    "price": "¥28.98万起",
     "status": "在售"
   },
   {
@@ -3889,6 +4445,7 @@
       "大空间"
     ],
     "generation": "最新款",
+    "price": "¥24.98万起",
     "status": "在售"
   },
   {
@@ -3913,6 +4470,7 @@
       "星环散射体"
     ],
     "generation": "最新款",
+    "price": "¥28.98万起",
     "status": "在售"
   },
   {
@@ -3937,6 +4495,7 @@
       "3.3秒加速"
     ],
     "generation": "旧代",
+    "price": "¥24.98万起",
     "status": "在售"
   },
   {
@@ -3961,6 +4520,7 @@
       "后排零重力"
     ],
     "generation": "最新款",
+    "price": "¥39.98万起",
     "status": "在售"
   },
   {
@@ -3985,6 +4545,7 @@
       "行政后排"
     ],
     "generation": "即将发布",
+    "price": "¥100万起",
     "status": "即将发布"
   },
   {
@@ -4008,6 +4569,7 @@
       "年轻化设计"
     ],
     "generation": "最新款",
+    "price": "¥15万起",
     "status": "在售"
   },
   {
@@ -4032,6 +4594,7 @@
       "泊车代驾"
     ],
     "generation": "最新款",
+    "price": "订阅制",
     "status": "在售"
   }
 ]

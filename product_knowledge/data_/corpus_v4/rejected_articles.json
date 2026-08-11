@@ -1,0 +1,44 @@
+[
+  {
+    "title": "荣耀终端",
+    "query": "华为MatePad SE 系列",
+    "category": "平板",
+    "reason": "黑名单: 荣耀终端"
+  },
+  {
+    "title": "华为",
+    "query": "华为Sound 系列",
+    "category": "音箱",
+    "reason": "关键词不匹配, 品类=音箱"
+  },
+  {
+    "title": "瑞華士",
+    "query": "华为Sound Joy 系列",
+    "category": "音箱",
+    "reason": "关键词不匹配, 品类=音箱"
+  },
+  {
+    "title": "鸿蒙操作系统5",
+    "query": "华为鸿蒙 AI 眼镜",
+    "category": "智能眼镜",
+    "reason": "关键词不匹配, 品类=智能眼镜"
+  },
+  {
+    "title": "海思半導體",
+    "query": "华为MateView 系列",
+    "category": "显示器",
+    "reason": "关键词不匹配, 品类=显示器"
+  },
+  {
+    "title": "高通驍龍元件列表",
+    "query": "华为WATCH GT 7 Pro 46mm",
+    "category": "华为WATCH GT 7 Pro 46mm",
+    "reason": "单品不匹配: WATCH GT 7 Pro 46mm vs 高通驍龍元件列表"
+  },
+  {
+    "title": "Android 10",
+    "query": "华为MateTV Max",
+    "category": "华为MateTV Max",
+    "reason": "黑名单: Android 10"
+  }
+]

@@ -1,0 +1,2448 @@
+{
+  "name": "华为",
+  "type": "Company",
+  "attrs": {},
+  "children": [
+    {
+      "name": "手机",
+      "type": "Category",
+      "attrs": {},
+      "children": [
+        {
+          "name": "Mate 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "Mate 80 系列",
+              "type": "SubSeries",
+              "attrs": {},
+              "children": [
+                {
+                  "name": "Mate 80",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥3999起",
+                    "talking_points": [
+                      "首配3D人脸",
+                      "3999起亲民价"
+                    ],
+                    "positioning": [
+                      "商务旗舰",
+                      "直屏旗舰"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "M80",
+                      "Mate80标准版",
+                      "Mate标准版"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Mate 80 Pro",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥6499起",
+                    "talking_points": [
+                      "麒麟9030",
+                      "WiFi7",
+                      "6.9寸微曲屏"
+                    ],
+                    "positioning": [
+                      "商务旗舰",
+                      "全能旗舰"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "M80P",
+                      "Mate80大杯",
+                      "Mate Pro"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Mate 80 Pro Max",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥7499起",
+                    "talking_points": [
+                      "双潜望长焦",
+                      "双层OLED",
+                      "6000mAh大电池"
+                    ],
+                    "positioning": [
+                      "商务旗舰",
+                      "顶配影像"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "M80PM",
+                      "Mate80超大杯",
+                      "Pro Max"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Mate 80 Pro Max 风驰版",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥8499",
+                    "talking_points": [
+                      "Pro Max升级版",
+                      "2026年3月加推"
+                    ],
+                    "positioning": [
+                      "商务旗舰",
+                      "性能特化"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "M80PM风驰版",
+                      "风驰版"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Mate 80 RS 非凡大师",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥11999起",
+                    "talking_points": [
+                      "全金属玄武架构",
+                      "双潜望",
+                      "卫星通信",
+                      "最贵直板Mate"
+                    ],
+                    "positioning": [
+                      "超高端商务",
+                      "奢华旗舰"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "M80RS",
+                      "RS非凡大师",
+                      "非凡大师",
+                      "RS"
+                    ]
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Mate 70 系列",
+              "type": "SubSeries",
+              "attrs": {},
+              "children": [
+                {
+                  "name": "Mate 70",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥5099起",
+                    "talking_points": [
+                      "麒麟9020",
+                      "5200mAh"
+                    ],
+                    "positioning": [
+                      "商务旗舰",
+                      "上代标准版"
+                    ],
+                    "status": "在售",
+                    "generation": "上代",
+                    "aliases": [
+                      "M70"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Mate 70 Pro",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥5199起",
+                    "talking_points": [
+                      "麒麟9020",
+                      "6.9寸LTPO",
+                      "微距长焦"
+                    ],
+                    "positioning": [
+                      "商务旗舰",
+                      "上代Pro"
+                    ],
+                    "status": "在售",
+                    "generation": "上代",
+                    "aliases": [
+                      "M70P"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Mate 70 Pro 优享版",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥5099起",
+                    "talking_points": [
+                      "麒麟9020A降频版",
+                      "价格更友好"
+                    ],
+                    "positioning": [
+                      "商务旗舰",
+                      "性价比版"
+                    ],
+                    "status": "在售",
+                    "generation": "上代",
+                    "aliases": [
+                      "M70P优享版",
+                      "优享版"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Mate 70 Pro+",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥6699起",
+                    "talking_points": [
+                      "16GB大内存",
+                      "2K直屏",
+                      "天通卫星"
+                    ],
+                    "positioning": [
+                      "商务旗舰",
+                      "顶配直屏"
+                    ],
+                    "status": "在售",
+                    "generation": "上代",
+                    "aliases": [
+                      "M70P+",
+                      "Mate70超大杯"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Mate 70 RS 非凡大师",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥11999起",
+                    "talking_points": [
+                      "双层OLED微曲屏",
+                      "5700mAh"
+                    ],
+                    "positioning": [
+                      "超高端商务",
+                      "奢华旗舰"
+                    ],
+                    "status": "在售",
+                    "generation": "上代",
+                    "aliases": [
+                      "M70RS",
+                      "上代RS"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Mate 70 Air",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥3170起",
+                    "talking_points": [
+                      "7寸大屏",
+                      "6500mAh超大电池",
+                      "3170起最便宜Mate"
+                    ],
+                    "positioning": [
+                      "商务旗舰",
+                      "大屏长续航"
+                    ],
+                    "status": "在售",
+                    "generation": "上代",
+                    "aliases": [
+                      "M70Air",
+                      "Mate Air"
+                    ]
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Mate 系列即将发布",
+              "type": "SubSeries",
+              "attrs": {},
+              "children": [
+                {
+                  "name": "Mate 90 系列",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "待公布",
+                    "talking_points": [
+                      "首发麒麟2026",
+                      "HarmonyOS 7",
+                      "5G回归",
+                      "2026年9月"
+                    ],
+                    "positioning": [
+                      "商务旗舰",
+                      "年度旗舰"
+                    ],
+                    "status": "即将发布",
+                    "generation": "即将发布",
+                    "aliases": [
+                      "M90",
+                      "Mate90",
+                      "Mate90系列"
+                    ]
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pura 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "Pura 90 系列",
+              "type": "SubSeries",
+              "attrs": {},
+              "children": [
+                {
+                  "name": "Pura 90",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥4699起",
+                    "talking_points": [
+                      "HarmonyOS 6.1"
+                    ],
+                    "positioning": [
+                      "影像旗舰",
+                      "时尚影像"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "P90",
+                      "Pura90标准版"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Pura 90 Pro",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥5499起",
+                    "talking_points": [
+                      "麒麟9030S",
+                      "比上代降价1000"
+                    ],
+                    "positioning": [
+                      "影像旗舰",
+                      "全能影像"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "P90P",
+                      "Pura90大杯"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Pura 90 Pro Max",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥6499起",
+                    "talking_points": [
+                      "2亿像素超大底潜望长焦",
+                      "20倍高清录像"
+                    ],
+                    "positioning": [
+                      "影像旗舰",
+                      "顶配影像"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "P90PM",
+                      "Pura90超大杯"
+                    ]
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Pura 80 系列",
+              "type": "SubSeries",
+              "attrs": {},
+              "children": [
+                {
+                  "name": "Pura 80",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "待补充",
+                    "talking_points": [
+                      "麒麟9010S",
+                      "6.6寸唯一直屏Pura",
+                      "5600mAh"
+                    ],
+                    "positioning": [
+                      "影像旗舰",
+                      "直屏影像"
+                    ],
+                    "status": "在售",
+                    "generation": "上代",
+                    "aliases": [
+                      "P80",
+                      "Pura80"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Pura 80 Pro",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥6499起",
+                    "talking_points": [
+                      "麒麟9020",
+                      "1寸大底RYYB",
+                      "100W快充"
+                    ],
+                    "positioning": [
+                      "影像旗舰",
+                      "专业影像"
+                    ],
+                    "status": "在售",
+                    "generation": "上代",
+                    "aliases": [
+                      "P80P",
+                      "Pura80大杯"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Pura 80 Pro+",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥7999起",
+                    "talking_points": [
+                      "1寸高动态版",
+                      "天通+北斗双卫星"
+                    ],
+                    "positioning": [
+                      "影像旗舰",
+                      "卫星影像"
+                    ],
+                    "status": "在售",
+                    "generation": "上代",
+                    "aliases": [
+                      "P80P+",
+                      "Pura80超大杯"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Pura 80 Ultra",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥9999起",
+                    "talking_points": [
+                      "一镜双目双焦段长焦",
+                      "100倍变焦",
+                      "万元影像机皇"
+                    ],
+                    "positioning": [
+                      "影像旗舰",
+                      "影像机皇"
+                    ],
+                    "status": "在售",
+                    "generation": "上代",
+                    "aliases": [
+                      "P80U",
+                      "Pura80Ultra",
+                      "Pura奥创"
+                    ]
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "折叠屏",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "横向大折叠",
+              "type": "SubSeries",
+              "attrs": {},
+              "children": [
+                {
+                  "name": "Mate X7",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥12999起",
+                    "talking_points": [
+                      "麒麟9030 Pro",
+                      "8.0寸内屏",
+                      "第二代红枫"
+                    ],
+                    "positioning": [
+                      "超高端商务",
+                      "横向大折叠"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "X7",
+                      "大折叠",
+                      "Mate大折叠"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Mate X6",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥10999起",
+                    "talking_points": [
+                      "麒麟9000S Pro",
+                      "分布式玄武架构"
+                    ],
+                    "positioning": [
+                      "超高端商务",
+                      "横向大折叠"
+                    ],
+                    "status": "在售",
+                    "generation": "上代",
+                    "aliases": [
+                      "X6",
+                      "上代大折叠"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Mate X8",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "待公布",
+                    "talking_points": [
+                      "8.15寸内屏",
+                      "麒麟9050 Pro",
+                      "6000mAh+大电池"
+                    ],
+                    "positioning": [
+                      "超高端商务",
+                      "横向大折叠"
+                    ],
+                    "status": "即将发布",
+                    "generation": "即将发布",
+                    "aliases": [
+                      "X8",
+                      "新一代大折叠"
+                    ]
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "三折叠",
+              "type": "SubSeries",
+              "attrs": {},
+              "children": [
+                {
+                  "name": "Mate XTs 非凡大师",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥18000起",
+                    "talking_points": [
+                      "10.1寸展开当平板用",
+                      "PC级应用",
+                      "最贵华为手机18000起",
+                      "三折叠形态"
+                    ],
+                    "positioning": [
+                      "超高端商务",
+                      "三折叠",
+                      "折叠屏天花板"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "XTs",
+                      "三折叠",
+                      "XT",
+                      "非凡大师三折叠"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Mate XT2",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "待公布",
+                    "talking_points": [
+                      "U型三折叠",
+                      "麒麟9050",
+                      "独立外屏",
+                      "2026年9月"
+                    ],
+                    "positioning": [
+                      "超高端商务",
+                      "三折叠"
+                    ],
+                    "status": "即将发布",
+                    "generation": "即将发布",
+                    "aliases": [
+                      "XT2",
+                      "下一代三折叠"
+                    ]
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "阔折叠",
+              "type": "SubSeries",
+              "attrs": {},
+              "children": [
+                {
+                  "name": "Pura X Max",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥10999起",
+                    "talking_points": [
+                      "麒麟9030 Pro",
+                      "7.7寸内屏",
+                      "16:10阔型屏",
+                      "IP58/59"
+                    ],
+                    "positioning": [
+                      "高端时尚",
+                      "阔折叠"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "PXMax",
+                      "阔折叠Max"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Pura X",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥7499起",
+                    "talking_points": [
+                      "麒麟9020",
+                      "6.3寸16:10阔型屏",
+                      "7499较亲民折叠"
+                    ],
+                    "positioning": [
+                      "高端时尚",
+                      "阔折叠"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "PX",
+                      "阔折叠",
+                      "小阔折叠"
+                    ]
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "竖向小折叠",
+              "type": "SubSeries",
+              "attrs": {},
+              "children": [
+                {
+                  "name": "Pocket 2",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥7999起",
+                    "talking_points": [
+                      "玄武水滴铰链"
+                    ],
+                    "positioning": [
+                      "高端时尚",
+                      "竖向小折叠"
+                    ],
+                    "status": "在售",
+                    "generation": "在售",
+                    "aliases": [
+                      "Pocket2",
+                      "小折叠",
+                      "竖折叠"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Nova Flip 2",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥4999",
+                    "talking_points": [
+                      "麒麟8030",
+                      "2026年6月新发",
+                      "nova首款新折叠"
+                    ],
+                    "positioning": [
+                      "中端时尚",
+                      "竖向小折叠"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "Flip2",
+                      "Nova小折叠",
+                      "nova翻盖"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "Nova Flip S",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥3388起",
+                    "talking_points": [
+                      "最便宜折叠屏3388起"
+                    ],
+                    "positioning": [
+                      "入门时尚",
+                      "竖向小折叠"
+                    ],
+                    "status": "在售",
+                    "generation": "在售",
+                    "aliases": [
+                      "FlipS",
+                      "最便宜折叠"
+                    ]
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "nova 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "nova 16 系列",
+              "type": "SubSeries",
+              "attrs": {},
+              "children": [
+                {
+                  "name": "nova 16 SE",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥2000-3000",
+                    "talking_points": [
+                      "第一代红枫影像",
+                      "2000-3000价位"
+                    ],
+                    "positioning": [
+                      "中低端潮流",
+                      "年轻影像入门"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "n16SE",
+                      "nova16SE"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "nova 16",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥3499起",
+                    "talking_points": [
+                      "麒麟9010S",
+                      "7000mAh超大电池",
+                      "100W快充"
+                    ],
+                    "positioning": [
+                      "中端潮流",
+                      "年轻续航王"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "n16",
+                      "nova16"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "nova 16 Pro",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥3899起",
+                    "talking_points": [
+                      "256GB到1TB全覆盖"
+                    ],
+                    "positioning": [
+                      "中高端潮流",
+                      "年轻影像Pro"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "n16P",
+                      "nova16Pro"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "nova 16 Ultra",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥4699起",
+                    "talking_points": [
+                      "nova最强影像"
+                    ],
+                    "positioning": [
+                      "中高端潮流",
+                      "nova顶配"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "n16U",
+                      "nova16Ultra"
+                    ]
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "畅享系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "畅享 90 系列",
+              "type": "SubSeries",
+              "attrs": {},
+              "children": [
+                {
+                  "name": "畅享 90",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥1299起",
+                    "talking_points": [
+                      "麒麟8000A 5G",
+                      "6620mAh",
+                      "1299千元5G"
+                    ],
+                    "positioning": [
+                      "入门实用",
+                      "千元5G"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "畅享90",
+                      "千元5G"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "畅享 90 Plus",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥1499起",
+                    "talking_points": [
+                      "麒麟8000 5G",
+                      "6620mAh"
+                    ],
+                    "positioning": [
+                      "入门实用",
+                      "大屏5G"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "畅享90Plus"
+                    ]
+                  },
+                  "children": []
+                },
+                {
+                  "name": "畅享 90 Pro Max",
+                  "type": "SPU",
+                  "attrs": {
+                    "price": "¥1699起",
+                    "talking_points": [
+                      "8500mAh怪兽电池",
+                      "6.84寸OLED",
+                      "NFC",
+                      "千元续航王"
+                    ],
+                    "positioning": [
+                      "入门实用",
+                      "长续航机皇"
+                    ],
+                    "status": "在售",
+                    "generation": "最新款",
+                    "aliases": [
+                      "畅享90PM",
+                      "畅享超大杯"
+                    ]
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "平板",
+      "type": "Category",
+      "attrs": {},
+      "children": [
+        {
+          "name": "MatePad Pro 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MatePad Pro 13.2 2025",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥4350起",
+                "talking_points": [
+                  "13.2寸柔性OLED",
+                  "麒麟9010",
+                  "88W快充"
+                ],
+                "positioning": [
+                  "专业旗舰平板",
+                  "创意生产力"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "13.2寸Pro",
+                  "大屏平板"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "MatePad Pro 12.2 2025",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥3199起",
+                "talking_points": [
+                  "12.2寸双层OLED",
+                  "10100mAh"
+                ],
+                "positioning": [
+                  "专业旗舰平板",
+                  "画质旗舰"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "12.2寸Pro",
+                  "双层OLED平板"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "MatePad Pro 2026",
+              "type": "SPU",
+              "attrs": {
+                "price": "待公布",
+                "talking_points": [
+                  "北斗卫星通讯",
+                  "4.7mm超薄",
+                  "12寸OLED",
+                  "麒麟T93"
+                ],
+                "positioning": [
+                  "专业旗舰平板",
+                  "卫星平板"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "平板Pro2026",
+                  "北斗平板"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "MatePad Edge",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥9999",
+                "talking_points": [
+                  "24GB+1TB",
+                  "万元二合一"
+                ],
+                "positioning": [
+                  "专业旗舰平板",
+                  "二合一"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "Edge",
+                  "二合一平板"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "MatePad Air 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MatePad Air 12 2025",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥2125起",
+                "talking_points": [
+                  "12寸2.8K 144Hz",
+                  "麒麟900",
+                  "10100mAh"
+                ],
+                "positioning": [
+                  "中高端平板",
+                  "轻办公手绘"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "Air12",
+                  "Air平板"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "MatePad Air 2026",
+              "type": "SPU",
+              "attrs": {
+                "price": "待公布",
+                "talking_points": [
+                  "PaperMatte柔光屏",
+                  "麒麟T93C"
+                ],
+                "positioning": [
+                  "中高端平板",
+                  "护眼办公"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "Air2026",
+                  "柔光屏Air"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "MatePad Mini 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MatePad Mini",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥2465起",
+                "talking_points": [
+                  "悦读版/柔光版/全网通多版本可选"
+                ],
+                "positioning": [
+                  "轻薄便携平板",
+                  "阅读娱乐"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "Mini平板",
+                  "小尺寸平板"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "MatePad 11.5 S 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MatePad 11.5 S",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥1670起",
+                "talking_points": [
+                  "2.8K 144Hz",
+                  "柔光屏可选",
+                  "学生党首选"
+                ],
+                "positioning": [
+                  "中端性价比平板",
+                  "学生笔记"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "11.5S",
+                  "学生平板"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "MatePad 数字系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MatePad 11.5 2026",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥1530起",
+                "talking_points": [
+                  "护眼屏",
+                  "鸿蒙AI",
+                  "柔光版/全网通可选"
+                ],
+                "positioning": [
+                  "入门性价比平板",
+                  "追剧网课"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "11.5寸",
+                  "入门平板"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "MatePad SE 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MatePad SE 标准版 11寸",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥1399起",
+                "talking_points": [
+                  "骁龙685",
+                  "7700mAh",
+                  "最便宜华为平板之一"
+                ],
+                "positioning": [
+                  "千元入门平板",
+                  "网课追剧"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "SE平板",
+                  "千元平板"
+                ]
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "笔记本",
+      "type": "Category",
+      "attrs": {},
+      "children": [
+        {
+          "name": "MateBook Fold 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MateBook Fold 非凡大师",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥24999",
+                "talking_points": [
+                  "18寸折叠巨幕",
+                  "24999最贵华为PC",
+                  "双层OLED",
+                  "玄武水滴铰链",
+                  "鸿蒙系统"
+                ],
+                "positioning": [
+                  "超高端折叠PC",
+                  "革命形态"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "折叠PC",
+                  "折叠笔记本",
+                  "Fold PC"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "MateBook Pro 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MateBook Pro S",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥7999起",
+                "talking_points": [
+                  "798g极致轻",
+                  "麒麟XE90",
+                  "镁锂合金一体",
+                  "14.2寸",
+                  "标准版到14999典藏版"
+                ],
+                "positioning": [
+                  "鸿蒙超轻薄本",
+                  "极致便携"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "ProS",
+                  "798g笔记本",
+                  "超轻本"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "MateBook Pro",
+              "type": "SPU",
+              "attrs": {
+                "price": "待公布",
+                "talking_points": [
+                  "970g",
+                  "麒麟X90 Plus",
+                  "40W性能释放"
+                ],
+                "positioning": [
+                  "鸿蒙超轻薄本",
+                  "全能轻薄"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "Pro2026",
+                  "970g本"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "MateBook X Pro 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MateBook X Pro",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "酷睿Ultra9",
+                  "3.1K OLED柔性屏",
+                  "140W超级快充",
+                  "32GB+2TB"
+                ],
+                "positioning": [
+                  "Windows旗舰",
+                  "顶级屏幕"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "XPro",
+                  "Windows旗舰本"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "MateBook 数字系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MateBook 14 鸿蒙版",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥6599起",
+                "talking_points": [
+                  "首款数字系列鸿蒙PC"
+                ],
+                "positioning": [
+                  "均衡轻薄本",
+                  "鸿蒙入门PC"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "14鸿蒙",
+                  "鸿蒙笔记本"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "MateBook 14 Linux 版",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "1.31kg轻薄",
+                  "比Win版便宜300"
+                ],
+                "positioning": [
+                  "均衡轻薄本",
+                  "开发者友好"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "14Linux",
+                  "Linux本"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "MateBook D 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MateBook D 16 SE",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥4000-5000",
+                "talking_points": [
+                  "16寸护眼屏",
+                  "数字小键盘",
+                  "4000-5000价位"
+                ],
+                "positioning": [
+                  "入门轻薄本",
+                  "大屏办公"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "D16SE",
+                  "入门大屏本"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "MateBook E 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MateBook E / E GO",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "可拆卸设计",
+                  "平板笔记本二合一"
+                ],
+                "positioning": [
+                  "二合一平板PC",
+                  "可拆卸"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "E系列",
+                  "二合一本",
+                  "可拆笔记本"
+                ]
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "智能手表",
+      "type": "Category",
+      "attrs": {},
+      "children": [
+        {
+          "name": "WATCH Ultimate 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "WATCH Ultimate 2",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "北斗卫星语音消息",
+                  "150米潜水带音频",
+                  "水下声呐通信",
+                  "双向北斗卫星"
+                ],
+                "positioning": [
+                  "户外顶配",
+                  "探险旗舰"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "Ultimate2",
+                  "户外表皇",
+                  "非凡大师手表"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "ULTIMATE DESIGN 紫金",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥26888",
+                "talking_points": [
+                  "10段18K黄金",
+                  "紫色陶瓷表圈",
+                  "eSIM",
+                  "26888最贵华为表"
+                ],
+                "positioning": [
+                  "奢华腕表",
+                  "珠宝手表"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "紫金表",
+                  "18K金表",
+                  "金表"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "ULTIMATE DESIGN 星钻",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "98颗天然钻石",
+                  "前LV珠宝总监设计",
+                  "刘雯代言",
+                  "ECG",
+                  "血糖血压评估"
+                ],
+                "positioning": [
+                  "奢华腕表",
+                  "高级珠宝手表"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "星钻表",
+                  "钻石表",
+                  "刘雯同款"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "WATCH GT 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "WATCH GT 7 Pro 46mm",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥2488起",
+                "talking_points": [
+                  "钛合金+蓝宝石",
+                  "专业登山潜水模式"
+                ],
+                "positioning": [
+                  "长续航户外旗舰",
+                  "专业运动"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "GT7Pro",
+                  "GT旗舰"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "WATCH GT 7 46mm",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥1588起",
+                "talking_points": [
+                  "21天续航",
+                  "骑行模拟功率"
+                ],
+                "positioning": [
+                  "长续航运动",
+                  "全能表"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "GT7",
+                  "长续航表"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "WATCH GT 7 41mm",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥1488起",
+                "talking_points": [
+                  "14天续航",
+                  "小巧女款"
+                ],
+                "positioning": [
+                  "长续航运动",
+                  "女性向"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "GT7女款",
+                  "小尺寸GT"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "WATCH D 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "WATCH D2",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "医疗级动态血压监测",
+                  "写入中国高血压防治指南"
+                ],
+                "positioning": [
+                  "健康监测",
+                  "医疗级穿戴"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "D2",
+                  "血压表",
+                  "医疗表"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "WATCH Buds 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "WATCH Buds 2",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "手表藏耳机",
+                  "54.5g钛合金",
+                  "1.5寸LTPO 3000nit",
+                  "耳机4g每只",
+                  "不分左右耳"
+                ],
+                "positioning": [
+                  "创新形态",
+                  "二合一穿戴"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "Buds2",
+                  "耳机表",
+                  "手表耳机二合一"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "WATCH FIT 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "WATCH FIT 5 Pro",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "1.92寸LTPO",
+                  "ECG",
+                  "血糖风险评估",
+                  "7天续航"
+                ],
+                "positioning": [
+                  "时尚轻量",
+                  "全功能轻量"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "FIT5Pro",
+                  "方形表Pro"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "WATCH FIT 5",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "27g极致轻",
+                  "1.74寸",
+                  "14天续航"
+                ],
+                "positioning": [
+                  "时尚轻量",
+                  "潮流轻便"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "FIT5",
+                  "方形表"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "WATCH GT Runner 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "WATCH GT Runner 2",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "轻量化",
+                  "专业跑步指标"
+                ],
+                "positioning": [
+                  "专业跑步",
+                  "轻量运动"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "Runner2",
+                  "跑步表"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "手环系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "华为手环 11",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "入门健康监测",
+                  "最便宜华为穿戴"
+                ],
+                "positioning": [
+                  "入门穿戴",
+                  "基础健康"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "手环11",
+                  "华为手环"
+                ]
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "耳机",
+      "type": "Category",
+      "attrs": {},
+      "children": [
+        {
+          "name": "FreeBuds Pro 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "FreeBuds Pro 5 悦彰",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "2025年11月发布"
+                ],
+                "positioning": [
+                  "旗舰入耳降噪",
+                  "音质旗舰"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "Pro5",
+                  "悦彰耳机",
+                  "降噪旗舰"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "FreeBuds 数字系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "FreeBuds 7i",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "海外主打款"
+                ],
+                "positioning": [
+                  "半开放",
+                  "海外主力"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "7i",
+                  "海外版"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "FreeBuds 6",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "首款半开放悦彰",
+                  "11mm动圈+微平板",
+                  "2.3Mbps无损传输"
+                ],
+                "positioning": [
+                  "半开放旗舰",
+                  "音质半开放"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "FB6",
+                  "半开放悦彰"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "FreeClip 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "FreeClip 2",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥1299",
+                "talking_points": [
+                  "不塞耳朵",
+                  "5.1g极致轻",
+                  "AI算力提升10倍",
+                  "AI翻译",
+                  "38小时总续航"
+                ],
+                "positioning": [
+                  "耳夹开放式",
+                  "潮流穿戴"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "Clip2",
+                  "耳夹耳机",
+                  "C形耳机",
+                  "耳夹"
+                ]
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "音箱",
+      "type": "Category",
+      "attrs": {},
+      "children": [
+        {
+          "name": "Sound 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "Sound X5 悦彰",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "帝瓦雷联合调音",
+                  "发布会音响担当"
+                ],
+                "positioning": [
+                  "旗舰智能音箱",
+                  "HiFi音箱"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "X5",
+                  "帝瓦雷音箱",
+                  "SoundX"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Sound Joy 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "Sound Joy 系列",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "便携蓝牙",
+                  "户外用"
+                ],
+                "positioning": [
+                  "便携蓝牙音箱",
+                  "户外音乐"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "Joy",
+                  "便携音箱"
+                ]
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "智慧屏",
+      "type": "Category",
+      "attrs": {},
+      "children": [
+        {
+          "name": "Vision 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MateTV Max",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥64999",
+                "talking_points": [
+                  "110寸巨幕",
+                  "史上最大Mate",
+                  "64999最贵华为屏"
+                ],
+                "positioning": [
+                  "巨幕旗舰",
+                  "家庭影院"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "MateTV",
+                  "110寸电视",
+                  "巨幕电视"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "Vision 智慧屏 6 Pro",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥5999起",
+                "talking_points": [
+                  "Super MiniLED黑晶屏",
+                  "130W Hi-Fi音响",
+                  "2000nit",
+                  "288Hz",
+                  "98寸",
+                  "触控书写"
+                ],
+                "positioning": [
+                  "旗舰智慧屏",
+                  "家庭影院"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "V6Pro",
+                  "智慧屏6Pro"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "Vision 智慧屏 6",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥6199起",
+                "talking_points": [
+                  "Super MiniLED千级分区",
+                  "2000nit",
+                  "4.9cm超薄",
+                  "98寸",
+                  "4K 144Hz"
+                ],
+                "positioning": [
+                  "高端智慧屏",
+                  "MiniLED"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "V6",
+                  "智慧屏6"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "Vision 智慧屏 6 SE RGB",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥2974起",
+                "talking_points": [
+                  "全球首款RGB-MiniLED",
+                  "105% BT.2020色域",
+                  "三原色独立发光",
+                  "300Hz"
+                ],
+                "positioning": [
+                  "高端智慧屏",
+                  "画质突破"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "V6SE",
+                  "RGB电视",
+                  "RGB MiniLED"
+                ]
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "智能眼镜",
+      "type": "Category",
+      "attrs": {},
+      "children": [
+        {
+          "name": "鸿蒙 AI 眼镜",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "鸿蒙 AI 眼镜",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥2499",
+                "talking_points": [
+                  "35.5g比Meta轻",
+                  "6.25mm超薄镜腿",
+                  "1200万摄像头",
+                  "AI指向问答",
+                  "同声传译",
+                  "光学镜/太阳镜双版本"
+                ],
+                "positioning": [
+                  "智能穿戴眼镜",
+                  "AI助手"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "AI眼镜",
+                  "鸿蒙眼镜",
+                  "华为眼镜"
+                ]
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "显示器",
+      "type": "Category",
+      "attrs": {},
+      "children": [
+        {
+          "name": "MateView 系列",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "MateView GT",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "电竞曲面屏"
+                ],
+                "positioning": [
+                  "电竞显示器",
+                  "曲面屏"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "GT显示器",
+                  "电竞显示器"
+                ]
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "智能汽车",
+      "type": "Category",
+      "attrs": {},
+      "children": [
+        {
+          "name": "尊界",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "尊界 V800",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥76.6万起",
+                "talking_points": [
+                  "旗舰MPV",
+                  "76.6万起",
+                  "华为系最贵车型"
+                ],
+                "positioning": [
+                  "超豪华旗舰MPV",
+                  "尊界旗舰"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "V800",
+                  "尊界MPV",
+                  "华为MPV"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "尊界 V680",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥64.8万起",
+                "talking_points": [
+                  "旗舰MPV",
+                  "64.8万起"
+                ],
+                "positioning": [
+                  "超豪华MPV",
+                  "尊界入门"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "V680",
+                  "尊界入门"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "享界",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "享界 G9",
+              "type": "SPU",
+              "attrs": {
+                "price": "¥43.98万起",
+                "talking_points": [
+                  "硬派SUV",
+                  "对标奔驰大G",
+                  "43.98万起"
+                ],
+                "positioning": [
+                  "豪华硬派SUV",
+                  "对标大G"
+                ],
+                "status": "在售",
+                "generation": "最新款",
+                "aliases": [
+                  "G9",
+                  "华为大G",
+                  "硬派SUV"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "享界 S9 / S9T",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "豪华轿车"
+                ],
+                "positioning": [
+                  "豪华轿车"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "S9",
+                  "享界轿车"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "问界",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "问界 M8",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "大型SUV",
+                  "问界走量主力"
+                ],
+                "positioning": [
+                  "大型SUV",
+                  "走量担当"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "M8",
+                  "问界走量"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "问界 M7",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "中大型SUV"
+                ],
+                "positioning": [
+                  "中大型SUV"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "M7"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "问界 M6",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "中型SUV"
+                ],
+                "positioning": [
+                  "中型SUV"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "M6"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "智界",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "智界 V9",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "轿跑SUV"
+                ],
+                "positioning": [
+                  "轿跑SUV"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "V9",
+                  "智界轿跑SUV"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "智界 R7",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "轿跑SUV"
+                ],
+                "positioning": [
+                  "轿跑SUV"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "R7"
+                ]
+              },
+              "children": []
+            },
+            {
+              "name": "智界 新S7",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "轿车"
+                ],
+                "positioning": [
+                  "轿车"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "S7",
+                  "智界轿车"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "尚界",
+          "type": "Series",
+          "attrs": {},
+          "children": [
+            {
+              "name": "尚界 Z7 / Z7T",
+              "type": "SPU",
+              "attrs": {
+                "price": "待补充",
+                "talking_points": [
+                  "年轻人轿跑"
+                ],
+                "positioning": [
+                  "年轻轿跑"
+                ],
+                "status": "在售",
+                "generation": "在售",
+                "aliases": [
+                  "Z7",
+                  "尚界轿跑"
+                ]
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

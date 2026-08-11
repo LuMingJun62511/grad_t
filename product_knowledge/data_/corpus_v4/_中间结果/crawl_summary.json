@@ -1,0 +1,9 @@
+{
+  "total_products": 180,
+  "covered_products": 130,
+  "coverage_rate": "72%",
+  "wiki_articles": 31,
+  "articles_with_text": 31,
+  "total_chunks": 3001,
+  "avg_chunks_per_covered_product": "23"
+}
