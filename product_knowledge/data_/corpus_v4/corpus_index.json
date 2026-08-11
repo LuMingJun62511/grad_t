@@ -1500,15 +1500,27 @@
     "tree_path": "华为 > 智能手表 > WATCH GT Runner 系列",
     "category": "智能手表",
     "series": "WATCH GT Runner 系列",
-    "articles": [],
-    "chunk_count": 0
+    "articles": [
+      {
+        "id": "baidu_eef83904_WATCH_GT_Runner_2",
+        "source": "百度搜索: WATCH GT Runner 2",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 22
   },
   "华为手环 11": {
     "tree_path": "华为 > 智能手表 > 手环系列",
     "category": "智能手表",
     "series": "手环系列",
-    "articles": [],
-    "chunk_count": 0
+    "articles": [
+      {
+        "id": "baidu_59c02fe7_华为手环_11",
+        "source": "百度搜索: 华为手环 11",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 22
   },
   "FreeBuds Pro 5 悦彰": {
     "tree_path": "华为 > 耳机 > FreeBuds Pro 系列",

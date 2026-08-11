@@ -825,5 +825,21 @@
     "series": "WATCH FIT 系列",
     "chunk_count": 12,
     "char_count": 1255
+  },
+  {
+    "id": "baidu_eef83904_WATCH_GT_Runner_2",
+    "title": "百度搜索: WATCH GT Runner 2",
+    "category": "智能手表",
+    "series": "WATCH GT Runner 系列",
+    "chunk_count": 22,
+    "char_count": 1947
+  },
+  {
+    "id": "baidu_59c02fe7_华为手环_11",
+    "title": "百度搜索: 华为手环 11",
+    "category": "智能手表",
+    "series": "手环系列",
+    "chunk_count": 22,
+    "char_count": 1950
   }
 ]
