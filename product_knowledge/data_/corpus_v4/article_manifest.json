@@ -841,5 +841,125 @@
     "series": "手环系列",
     "chunk_count": 22,
     "char_count": 1950
+  },
+  {
+    "id": "baidu_aaba38cf_FreeBuds_Pro_5_悦彰",
+    "title": "百度搜索: FreeBuds Pro 5 悦彰",
+    "category": "耳机",
+    "series": "FreeBuds Pro 系列",
+    "chunk_count": 5,
+    "char_count": 520
+  },
+  {
+    "id": "baidu_77424ff3_FreeBuds_7i",
+    "title": "百度搜索: FreeBuds 7i",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "chunk_count": 23,
+    "char_count": 1829
+  },
+  {
+    "id": "baidu_6e6f82be_FreeBuds_6",
+    "title": "百度搜索: FreeBuds 6",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "chunk_count": 21,
+    "char_count": 2707
+  },
+  {
+    "id": "baidu_6e4139d4_FreeClip_2",
+    "title": "百度搜索: FreeClip 2",
+    "category": "耳机",
+    "series": "FreeClip 系列",
+    "chunk_count": 9,
+    "char_count": 1019
+  },
+  {
+    "id": "baidu_8b04eabb_Sound_X5_悦彰",
+    "title": "百度搜索: Sound X5 悦彰",
+    "category": "音箱",
+    "series": "Sound 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_245756d5_Sound_Joy_系列",
+    "title": "百度搜索: Sound Joy 系列",
+    "category": "音箱",
+    "series": "Sound Joy 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_58049478_MateTV_Max",
+    "title": "百度搜索: MateTV Max",
+    "category": "智慧屏",
+    "series": "Vision 系列",
+    "chunk_count": 6,
+    "char_count": 1156
+  },
+  {
+    "id": "baidu_db5163fe_Vision_智慧屏_6_Pro",
+    "title": "百度搜索: Vision 智慧屏 6 Pro",
+    "category": "智慧屏",
+    "series": "Vision 系列",
+    "chunk_count": 8,
+    "char_count": 1362
+  },
+  {
+    "id": "baidu_ff7e6649_Vision_智慧屏_6",
+    "title": "百度搜索: Vision 智慧屏 6",
+    "category": "智慧屏",
+    "series": "Vision 系列",
+    "chunk_count": 9,
+    "char_count": 1365
+  },
+  {
+    "id": "baidu_41534447_Vision_智慧屏_6_SE_RGB",
+    "title": "百度搜索: Vision 智慧屏 6 SE RGB",
+    "category": "智慧屏",
+    "series": "Vision 系列",
+    "chunk_count": 4,
+    "char_count": 276
+  },
+  {
+    "id": "baidu_88a2a22d_鸿蒙_AI_眼镜",
+    "title": "百度搜索: 鸿蒙 AI 眼镜",
+    "category": "智能眼镜",
+    "series": "鸿蒙 AI 眼镜",
+    "chunk_count": 8,
+    "char_count": 532
+  },
+  {
+    "id": "baidu_fb8da4c1_MateView_GT",
+    "title": "百度搜索: MateView GT",
+    "category": "显示器",
+    "series": "MateView 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_d69ab405_尊界_V800",
+    "title": "百度搜索: 尊界 V800",
+    "category": "智能汽车",
+    "series": "尊界",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_332dfc05_尊界_V680",
+    "title": "百度搜索: 尊界 V680",
+    "category": "智能汽车",
+    "series": "尊界",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_bbb5ef0a_享界_G9",
+    "title": "百度搜索: 享界 G9",
+    "category": "智能汽车",
+    "series": "享界",
+    "chunk_count": 0,
+    "char_count": 0
   }
 ]

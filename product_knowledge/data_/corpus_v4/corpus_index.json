@@ -1526,42 +1526,78 @@
     "tree_path": "华为 > 耳机 > FreeBuds Pro 系列",
     "category": "耳机",
     "series": "FreeBuds Pro 系列",
-    "articles": [],
-    "chunk_count": 0
+    "articles": [
+      {
+        "id": "baidu_aaba38cf_FreeBuds_Pro_5_悦彰",
+        "source": "百度搜索: FreeBuds Pro 5 悦彰",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 5
   },
   "FreeBuds 7i": {
     "tree_path": "华为 > 耳机 > FreeBuds 数字系列",
     "category": "耳机",
     "series": "FreeBuds 数字系列",
-    "articles": [],
-    "chunk_count": 0
+    "articles": [
+      {
+        "id": "baidu_77424ff3_FreeBuds_7i",
+        "source": "百度搜索: FreeBuds 7i",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 23
   },
   "FreeBuds 6": {
     "tree_path": "华为 > 耳机 > FreeBuds 数字系列",
     "category": "耳机",
     "series": "FreeBuds 数字系列",
-    "articles": [],
-    "chunk_count": 0
+    "articles": [
+      {
+        "id": "baidu_6e6f82be_FreeBuds_6",
+        "source": "百度搜索: FreeBuds 6",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 21
   },
   "FreeClip 2": {
     "tree_path": "华为 > 耳机 > FreeClip 系列",
     "category": "耳机",
     "series": "FreeClip 系列",
-    "articles": [],
-    "chunk_count": 0
+    "articles": [
+      {
+        "id": "baidu_6e4139d4_FreeClip_2",
+        "source": "百度搜索: FreeClip 2",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 9
   },
   "Sound X5 悦彰": {
     "tree_path": "华为 > 音箱 > Sound 系列",
     "category": "音箱",
     "series": "Sound 系列",
-    "articles": [],
+    "articles": [
+      {
+        "id": "baidu_8b04eabb_Sound_X5_悦彰",
+        "source": "百度搜索: Sound X5 悦彰",
+        "type": "baidu_search"
+      }
+    ],
     "chunk_count": 0
   },
   "Sound Joy 系列": {
     "tree_path": "华为 > 音箱 > Sound Joy 系列",
     "category": "音箱",
     "series": "Sound Joy 系列",
-    "articles": [],
+    "articles": [
+      {
+        "id": "baidu_245756d5_Sound_Joy_系列",
+        "source": "百度搜索: Sound Joy 系列",
+        "type": "baidu_search"
+      }
+    ],
     "chunk_count": 0
   },
   "MateTV Max": {
@@ -1578,9 +1614,14 @@
         "id": "wiki_029_可摺疊式智能手機",
         "source": "可摺疊式智能手機",
         "type": "wiki_series"
+      },
+      {
+        "id": "baidu_58049478_MateTV_Max",
+        "source": "百度搜索: MateTV Max",
+        "type": "baidu_search"
       }
     ],
-    "chunk_count": 55
+    "chunk_count": 18
   },
   "Vision 智慧屏 6 Pro": {
     "tree_path": "华为 > 智慧屏 > Vision 系列",
@@ -1596,9 +1637,14 @@
         "id": "wiki_029_可摺疊式智能手機",
         "source": "可摺疊式智能手機",
         "type": "wiki_series"
+      },
+      {
+        "id": "baidu_db5163fe_Vision_智慧屏_6_Pro",
+        "source": "百度搜索: Vision 智慧屏 6 Pro",
+        "type": "baidu_search"
       }
     ],
-    "chunk_count": 55
+    "chunk_count": 24
   },
   "Vision 智慧屏 6": {
     "tree_path": "华为 > 智慧屏 > Vision 系列",
@@ -1614,9 +1660,14 @@
         "id": "wiki_029_可摺疊式智能手機",
         "source": "可摺疊式智能手機",
         "type": "wiki_series"
+      },
+      {
+        "id": "baidu_ff7e6649_Vision_智慧屏_6",
+        "source": "百度搜索: Vision 智慧屏 6",
+        "type": "baidu_search"
       }
     ],
-    "chunk_count": 55
+    "chunk_count": 27
   },
   "Vision 智慧屏 6 SE RGB": {
     "tree_path": "华为 > 智慧屏 > Vision 系列",
@@ -1632,22 +1683,39 @@
         "id": "wiki_029_可摺疊式智能手機",
         "source": "可摺疊式智能手機",
         "type": "wiki_series"
+      },
+      {
+        "id": "baidu_41534447_Vision_智慧屏_6_SE_RGB",
+        "source": "百度搜索: Vision 智慧屏 6 SE RGB",
+        "type": "baidu_search"
       }
     ],
-    "chunk_count": 55
+    "chunk_count": 12
   },
   "鸿蒙 AI 眼镜": {
     "tree_path": "华为 > 智能眼镜 > 鸿蒙 AI 眼镜",
     "category": "智能眼镜",
     "series": "鸿蒙 AI 眼镜",
-    "articles": [],
-    "chunk_count": 0
+    "articles": [
+      {
+        "id": "baidu_88a2a22d_鸿蒙_AI_眼镜",
+        "source": "百度搜索: 鸿蒙 AI 眼镜",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 8
   },
   "MateView GT": {
     "tree_path": "华为 > 显示器 > MateView 系列",
     "category": "显示器",
     "series": "MateView 系列",
-    "articles": [],
+    "articles": [
+      {
+        "id": "baidu_fb8da4c1_MateView_GT",
+        "source": "百度搜索: MateView GT",
+        "type": "baidu_search"
+      }
+    ],
     "chunk_count": 0
   },
   "尊界 V800": {
@@ -1659,9 +1727,14 @@
         "id": "wiki_017_华为智能汽车业务",
         "source": "华为智能汽车业务",
         "type": "wiki_series"
+      },
+      {
+        "id": "baidu_d69ab405_尊界_V800",
+        "source": "百度搜索: 尊界 V800",
+        "type": "baidu_search"
       }
     ],
-    "chunk_count": 44
+    "chunk_count": 0
   },
   "尊界 V680": {
     "tree_path": "华为 > 智能汽车 > 尊界",
@@ -1672,9 +1745,14 @@
         "id": "wiki_017_华为智能汽车业务",
         "source": "华为智能汽车业务",
         "type": "wiki_series"
+      },
+      {
+        "id": "baidu_332dfc05_尊界_V680",
+        "source": "百度搜索: 尊界 V680",
+        "type": "baidu_search"
       }
     ],
-    "chunk_count": 44
+    "chunk_count": 0
   },
   "享界 G9": {
     "tree_path": "华为 > 智能汽车 > 享界",
@@ -1685,9 +1763,14 @@
         "id": "wiki_018_享界S9",
         "source": "享界S9",
         "type": "wiki_series"
+      },
+      {
+        "id": "baidu_bbb5ef0a_享界_G9",
+        "source": "百度搜索: 享界 G9",
+        "type": "baidu_search"
       }
     ],
-    "chunk_count": 8
+    "chunk_count": 0
   },
   "享界 S9 / S9T": {
     "tree_path": "华为 > 智能汽车 > 享界",
