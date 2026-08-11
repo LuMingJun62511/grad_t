@@ -736,5 +736,96 @@
       }
     ],
     "chunk_count": 0
+  },
+  "尚界 Z7 / Z7T": {
+    "tree_path": "华为 > 智能汽车 > 尚界",
+    "category": "智能汽车",
+    "series": "尚界",
+    "articles": [
+      {
+        "id": "baidu_53a9fa0d_尚界_Z7___Z7T",
+        "source": "百度搜索: 尚界 Z7 / Z7T",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 0
+  },
+  "Mate 60": {
+    "tree_path": "华为 > 手机 > Mate 系列 > Mate 60 系列",
+    "category": "手机",
+    "series": "Mate 系列",
+    "articles": [
+      {
+        "id": "baidu_49e085f1_Mate_60",
+        "source": "百度搜索: Mate 60",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 0
+  },
+  "Mate 60 Pro": {
+    "tree_path": "华为 > 手机 > Mate 系列 > Mate 60 系列",
+    "category": "手机",
+    "series": "Mate 系列",
+    "articles": [
+      {
+        "id": "baidu_14dcf034_Mate_60_Pro",
+        "source": "百度搜索: Mate 60 Pro",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 0
+  },
+  "Mate 60 Pro+": {
+    "tree_path": "华为 > 手机 > Mate 系列 > Mate 60 系列",
+    "category": "手机",
+    "series": "Mate 系列",
+    "articles": [
+      {
+        "id": "baidu_469bf035_Mate_60_Pro+",
+        "source": "百度搜索: Mate 60 Pro+",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 0
+  },
+  "Mate 60 RS 非凡大师": {
+    "tree_path": "华为 > 手机 > Mate 系列 > Mate 60 系列",
+    "category": "手机",
+    "series": "Mate 系列",
+    "articles": [
+      {
+        "id": "baidu_dd3bd8a6_Mate_60_RS_非凡大师",
+        "source": "百度搜索: Mate 60 RS 非凡大师",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 0
+  },
+  "Mate 50": {
+    "tree_path": "华为 > 手机 > Mate 系列 > Mate 50 系列",
+    "category": "手机",
+    "series": "Mate 系列",
+    "articles": [
+      {
+        "id": "baidu_a56396c5_Mate_50",
+        "source": "百度搜索: Mate 50",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 0
+  },
+  "Mate 50 Pro": {
+    "tree_path": "华为 > 手机 > Mate 系列 > Mate 50 系列",
+    "category": "手机",
+    "series": "Mate 系列",
+    "articles": [
+      {
+        "id": "baidu_60270382_Mate_50_Pro",
+        "source": "百度搜索: Mate 50 Pro",
+        "type": "baidu_search"
+      }
+    ],
+    "chunk_count": 0
   }
 }

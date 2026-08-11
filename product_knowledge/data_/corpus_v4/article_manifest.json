@@ -442,5 +442,61 @@
     "series": "智界",
     "chunk_count": 0,
     "char_count": 0
+  },
+  {
+    "id": "baidu_53a9fa0d_尚界_Z7___Z7T",
+    "title": "百度搜索: 尚界 Z7 / Z7T",
+    "category": "智能汽车",
+    "series": "尚界",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_49e085f1_Mate_60",
+    "title": "百度搜索: Mate 60",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_14dcf034_Mate_60_Pro",
+    "title": "百度搜索: Mate 60 Pro",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_469bf035_Mate_60_Pro+",
+    "title": "百度搜索: Mate 60 Pro+",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_dd3bd8a6_Mate_60_RS_非凡大师",
+    "title": "百度搜索: Mate 60 RS 非凡大师",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_a56396c5_Mate_50",
+    "title": "百度搜索: Mate 50",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_60270382_Mate_50_Pro",
+    "title": "百度搜索: Mate 50 Pro",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 0,
+    "char_count": 0
   }
 ]
