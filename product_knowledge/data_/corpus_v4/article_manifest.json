@@ -313,5 +313,517 @@
       "华为P60 Art",
       "华为P60 Pro"
     ]
+  },
+  {
+    "id": "baidu_1b1dd8a3_Mate_80",
+    "title": "百度搜索: Mate 80",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_b2b54bfa_Mate_80_Pro",
+    "title": "百度搜索: Mate 80 Pro",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 15,
+    "char_count": 1921
+  },
+  {
+    "id": "baidu_41131eb5_Mate_80_Pro_Max",
+    "title": "百度搜索: Mate 80 Pro Max",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 15,
+    "char_count": 1657
+  },
+  {
+    "id": "baidu_30d98061_Mate_80_Pro_Max_风驰版",
+    "title": "百度搜索: Mate 80 Pro Max 风驰版",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 16,
+    "char_count": 1597
+  },
+  {
+    "id": "baidu_0696915a_Mate_80_RS_非凡大师",
+    "title": "百度搜索: Mate 80 RS 非凡大师",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 13,
+    "char_count": 1100
+  },
+  {
+    "id": "baidu_a91121d8_Mate_70",
+    "title": "百度搜索: Mate 70",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 18,
+    "char_count": 2712
+  },
+  {
+    "id": "baidu_16288916_Mate_70_Pro",
+    "title": "百度搜索: Mate 70 Pro",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 23,
+    "char_count": 3222
+  },
+  {
+    "id": "baidu_6e71324c_Mate_70_Pro_优享版",
+    "title": "百度搜索: Mate 70 Pro 优享版",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 20,
+    "char_count": 1873
+  },
+  {
+    "id": "baidu_0aae76e8_Mate_70_Pro+",
+    "title": "百度搜索: Mate 70 Pro+",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 15,
+    "char_count": 1858
+  },
+  {
+    "id": "baidu_8abcba13_Mate_70_RS_非凡大师",
+    "title": "百度搜索: Mate 70 RS 非凡大师",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 15,
+    "char_count": 1265
+  },
+  {
+    "id": "baidu_89c11724_Mate_70_Air",
+    "title": "百度搜索: Mate 70 Air",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 14,
+    "char_count": 1189
+  },
+  {
+    "id": "baidu_f808f8a1_Mate_90_系列",
+    "title": "百度搜索: Mate 90 系列",
+    "category": "手机",
+    "series": "Mate 系列",
+    "chunk_count": 29,
+    "char_count": 3013
+  },
+  {
+    "id": "baidu_58e21614_Pura_90",
+    "title": "百度搜索: Pura 90",
+    "category": "手机",
+    "series": "Pura 系列",
+    "chunk_count": 22,
+    "char_count": 1783
+  },
+  {
+    "id": "baidu_c7d04760_Pura_90_Pro",
+    "title": "百度搜索: Pura 90 Pro",
+    "category": "手机",
+    "series": "Pura 系列",
+    "chunk_count": 19,
+    "char_count": 1844
+  },
+  {
+    "id": "baidu_c9e3676a_Pura_90_Pro_Max",
+    "title": "百度搜索: Pura 90 Pro Max",
+    "category": "手机",
+    "series": "Pura 系列",
+    "chunk_count": 23,
+    "char_count": 2327
+  },
+  {
+    "id": "baidu_f4089c08_Pura_80",
+    "title": "百度搜索: Pura 80",
+    "category": "手机",
+    "series": "Pura 系列",
+    "chunk_count": 28,
+    "char_count": 2333
+  },
+  {
+    "id": "baidu_9917e6b4_Pura_80_Pro",
+    "title": "百度搜索: Pura 80 Pro",
+    "category": "手机",
+    "series": "Pura 系列",
+    "chunk_count": 27,
+    "char_count": 4002
+  },
+  {
+    "id": "baidu_da3c13f1_Pura_80_Pro+",
+    "title": "百度搜索: Pura 80 Pro+",
+    "category": "手机",
+    "series": "Pura 系列",
+    "chunk_count": 34,
+    "char_count": 3841
+  },
+  {
+    "id": "baidu_344a3cde_Pura_80_Ultra",
+    "title": "百度搜索: Pura 80 Ultra",
+    "category": "手机",
+    "series": "Pura 系列",
+    "chunk_count": 33,
+    "char_count": 3701
+  },
+  {
+    "id": "baidu_a098582d_Mate_X7",
+    "title": "百度搜索: Mate X7",
+    "category": "手机",
+    "series": "折叠屏",
+    "chunk_count": 19,
+    "char_count": 2004
+  },
+  {
+    "id": "baidu_040755e4_Mate_X6",
+    "title": "百度搜索: Mate X6",
+    "category": "手机",
+    "series": "折叠屏",
+    "chunk_count": 23,
+    "char_count": 3799
+  },
+  {
+    "id": "baidu_0c284845_Mate_X8",
+    "title": "百度搜索: Mate X8",
+    "category": "手机",
+    "series": "折叠屏",
+    "chunk_count": 22,
+    "char_count": 2051
+  },
+  {
+    "id": "baidu_963896e0_Mate_XTs_非凡大师",
+    "title": "百度搜索: Mate XTs 非凡大师",
+    "category": "手机",
+    "series": "折叠屏",
+    "chunk_count": 20,
+    "char_count": 2027
+  },
+  {
+    "id": "baidu_a27c901f_Mate_XT2",
+    "title": "百度搜索: Mate XT2",
+    "category": "手机",
+    "series": "折叠屏",
+    "chunk_count": 23,
+    "char_count": 2566
+  },
+  {
+    "id": "baidu_548e59a6_Pura_X_Max",
+    "title": "百度搜索: Pura X Max",
+    "category": "手机",
+    "series": "折叠屏",
+    "chunk_count": 25,
+    "char_count": 2254
+  },
+  {
+    "id": "baidu_b5730198_Pura_X",
+    "title": "百度搜索: Pura X",
+    "category": "手机",
+    "series": "折叠屏",
+    "chunk_count": 33,
+    "char_count": 4318
+  },
+  {
+    "id": "baidu_6d20186b_Pocket_2",
+    "title": "百度搜索: Pocket 2",
+    "category": "手机",
+    "series": "折叠屏",
+    "chunk_count": 18,
+    "char_count": 2486
+  },
+  {
+    "id": "baidu_ed94a92a_Nova_Flip_2",
+    "title": "百度搜索: Nova Flip 2",
+    "category": "手机",
+    "series": "折叠屏",
+    "chunk_count": 19,
+    "char_count": 1859
+  },
+  {
+    "id": "baidu_5ff3144c_Nova_Flip_S",
+    "title": "百度搜索: Nova Flip S",
+    "category": "手机",
+    "series": "折叠屏",
+    "chunk_count": 14,
+    "char_count": 1299
+  },
+  {
+    "id": "baidu_6ecd171e_nova_16_SE",
+    "title": "百度搜索: nova 16 SE",
+    "category": "手机",
+    "series": "nova 系列",
+    "chunk_count": 26,
+    "char_count": 2448
+  },
+  {
+    "id": "baidu_40cfc5f9_nova_16",
+    "title": "百度搜索: nova 16",
+    "category": "手机",
+    "series": "nova 系列",
+    "chunk_count": 28,
+    "char_count": 2443
+  },
+  {
+    "id": "baidu_07da6e4a_nova_16_Pro",
+    "title": "百度搜索: nova 16 Pro",
+    "category": "手机",
+    "series": "nova 系列",
+    "chunk_count": 24,
+    "char_count": 2450
+  },
+  {
+    "id": "baidu_47107fbf_nova_16_Ultra",
+    "title": "百度搜索: nova 16 Ultra",
+    "category": "手机",
+    "series": "nova 系列",
+    "chunk_count": 22,
+    "char_count": 2006
+  },
+  {
+    "id": "baidu_021dde1a_畅享_90",
+    "title": "百度搜索: 畅享 90",
+    "category": "手机",
+    "series": "畅享系列",
+    "chunk_count": 30,
+    "char_count": 2788
+  },
+  {
+    "id": "baidu_d2a3b07f_畅享_90_Plus",
+    "title": "百度搜索: 畅享 90 Plus",
+    "category": "手机",
+    "series": "畅享系列",
+    "chunk_count": 25,
+    "char_count": 2020
+  },
+  {
+    "id": "baidu_ada664ce_畅享_90_Pro_Max",
+    "title": "百度搜索: 畅享 90 Pro Max",
+    "category": "手机",
+    "series": "畅享系列",
+    "chunk_count": 24,
+    "char_count": 2109
+  },
+  {
+    "id": "baidu_f6647d58_MatePad_Pro_13.2_2025",
+    "title": "百度搜索: MatePad Pro 13.2 2025",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "chunk_count": 21,
+    "char_count": 4735
+  },
+  {
+    "id": "baidu_5431af04_MatePad_Pro_12.2_2025",
+    "title": "百度搜索: MatePad Pro 12.2 2025",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "chunk_count": 25,
+    "char_count": 3894
+  },
+  {
+    "id": "baidu_6091aac9_MatePad_Pro_2026",
+    "title": "百度搜索: MatePad Pro 2026",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "chunk_count": 28,
+    "char_count": 6148
+  },
+  {
+    "id": "baidu_f43a9ebe_MatePad_Edge",
+    "title": "百度搜索: MatePad Edge",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "chunk_count": 13,
+    "char_count": 2660
+  },
+  {
+    "id": "baidu_3a6a0b0c_MatePad_Air_12_2025",
+    "title": "百度搜索: MatePad Air 12 2025",
+    "category": "平板",
+    "series": "MatePad Air 系列",
+    "chunk_count": 13,
+    "char_count": 1652
+  },
+  {
+    "id": "baidu_e62af061_MatePad_Air_2026",
+    "title": "百度搜索: MatePad Air 2026",
+    "category": "平板",
+    "series": "MatePad Air 系列",
+    "chunk_count": 23,
+    "char_count": 3500
+  },
+  {
+    "id": "baidu_df2fd940_MatePad_Mini",
+    "title": "百度搜索: MatePad Mini",
+    "category": "平板",
+    "series": "MatePad Mini 系列",
+    "chunk_count": 9,
+    "char_count": 899
+  },
+  {
+    "id": "baidu_68ca6947_MatePad_11.5_S",
+    "title": "百度搜索: MatePad 11.5 S",
+    "category": "平板",
+    "series": "MatePad 11.5 S 系列",
+    "chunk_count": 5,
+    "char_count": 372
+  },
+  {
+    "id": "baidu_dac01eac_MatePad_11.5_2026",
+    "title": "百度搜索: MatePad 11.5 2026",
+    "category": "平板",
+    "series": "MatePad 数字系列",
+    "chunk_count": 22,
+    "char_count": 3561
+  },
+  {
+    "id": "baidu_5a594d0d_MatePad_SE_标准版_11寸",
+    "title": "百度搜索: MatePad SE 标准版 11寸",
+    "category": "平板",
+    "series": "MatePad SE 系列",
+    "chunk_count": 17,
+    "char_count": 3040
+  },
+  {
+    "id": "baidu_b99da9ca_MateBook_Fold_非凡大师",
+    "title": "百度搜索: MateBook Fold 非凡大师",
+    "category": "笔记本",
+    "series": "MateBook Fold 系列",
+    "chunk_count": 3,
+    "char_count": 437
+  },
+  {
+    "id": "baidu_154faa5f_MateBook_Pro_S",
+    "title": "百度搜索: MateBook Pro S",
+    "category": "笔记本",
+    "series": "MateBook Pro 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_30c18c53_MateBook_Pro",
+    "title": "百度搜索: MateBook Pro",
+    "category": "笔记本",
+    "series": "MateBook Pro 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_e33bc78e_MateBook_X_Pro",
+    "title": "百度搜索: MateBook X Pro",
+    "category": "笔记本",
+    "series": "MateBook X Pro 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_e1b05614_MateBook_14_鸿蒙版",
+    "title": "百度搜索: MateBook 14 鸿蒙版",
+    "category": "笔记本",
+    "series": "MateBook 数字系列",
+    "chunk_count": 18,
+    "char_count": 1943
+  },
+  {
+    "id": "baidu_f69344b8_MateBook_14_Linux_版",
+    "title": "百度搜索: MateBook 14 Linux 版",
+    "category": "笔记本",
+    "series": "MateBook 数字系列",
+    "chunk_count": 27,
+    "char_count": 3943
+  },
+  {
+    "id": "baidu_9c764d5f_MateBook_D_16_SE",
+    "title": "百度搜索: MateBook D 16 SE",
+    "category": "笔记本",
+    "series": "MateBook D 系列",
+    "chunk_count": 20,
+    "char_count": 3116
+  },
+  {
+    "id": "baidu_1c8f9baa_MateBook_E___E_GO",
+    "title": "百度搜索: MateBook E / E GO",
+    "category": "笔记本",
+    "series": "MateBook E 系列",
+    "chunk_count": 28,
+    "char_count": 4477
+  },
+  {
+    "id": "baidu_e472cce7_WATCH_Ultimate_2",
+    "title": "百度搜索: WATCH Ultimate 2",
+    "category": "智能手表",
+    "series": "WATCH Ultimate 系列",
+    "chunk_count": 5,
+    "char_count": 494
+  },
+  {
+    "id": "baidu_bab2ad4d_ULTIMATE_DESIGN_紫金",
+    "title": "百度搜索: ULTIMATE DESIGN 紫金",
+    "category": "智能手表",
+    "series": "WATCH Ultimate 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_0eff0183_ULTIMATE_DESIGN_星钻",
+    "title": "百度搜索: ULTIMATE DESIGN 星钻",
+    "category": "智能手表",
+    "series": "WATCH Ultimate 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_40dd76f7_WATCH_GT_7_Pro_46mm",
+    "title": "百度搜索: WATCH GT 7 Pro 46mm",
+    "category": "智能手表",
+    "series": "WATCH GT 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_96ee6fff_WATCH_GT_7_46mm",
+    "title": "百度搜索: WATCH GT 7 46mm",
+    "category": "智能手表",
+    "series": "WATCH GT 系列",
+    "chunk_count": 15,
+    "char_count": 1344
+  },
+  {
+    "id": "baidu_7096bc9b_WATCH_GT_7_41mm",
+    "title": "百度搜索: WATCH GT 7 41mm",
+    "category": "智能手表",
+    "series": "WATCH GT 系列",
+    "chunk_count": 25,
+    "char_count": 2381
+  },
+  {
+    "id": "baidu_d722d45a_WATCH_D2",
+    "title": "百度搜索: WATCH D2",
+    "category": "智能手表",
+    "series": "WATCH D 系列",
+    "chunk_count": 13,
+    "char_count": 1536
+  },
+  {
+    "id": "baidu_a5246d39_WATCH_Buds_2",
+    "title": "百度搜索: WATCH Buds 2",
+    "category": "智能手表",
+    "series": "WATCH Buds 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_42964fa0_WATCH_FIT_5_Pro",
+    "title": "百度搜索: WATCH FIT 5 Pro",
+    "category": "智能手表",
+    "series": "WATCH FIT 系列",
+    "chunk_count": 0,
+    "char_count": 0
+  },
+  {
+    "id": "baidu_bb064da3_WATCH_FIT_5",
+    "title": "百度搜索: WATCH FIT 5",
+    "category": "智能手表",
+    "series": "WATCH FIT 系列",
+    "chunk_count": 12,
+    "char_count": 1255
   }
 ]

@@ -37,12 +37,8 @@ BASE_DELAY = 5          # 基础延时(秒)
 MAX_DELAY = 120          # 最大退避延时(秒)
 REQUEST_TIMEOUT = 20     # 请求超时
 
-# 先试水的产品
-TRIAL_PRODUCTS = [
-    "Mate 80 Pro",
-    "Pura 90 Pro Max",
-    "Mate XTs 非凡大师",
-]
+# 试水产品 (为空则全量)
+TRIAL_PRODUCTS = []
 
 # ============================================================
 # 搜索 + 解析
@@ -214,7 +210,8 @@ def crawl_product(name, product_info, dry_run=False):
         if len(chunk_text) >= 30:
             chunks.append({"idx": i, "text": chunk_text})
 
-    art_id = f"baidu_{hashlib.md5(name.encode()).hexdigest()[:8]}_{name.replace(' ', '_')[:40]}"
+    safe_name = re.sub(r'[/\\:*?"<>|]', '_', name).replace(' ', '_')[:40]
+    art_id = f"baidu_{hashlib.md5(name.encode()).hexdigest()[:8]}_{safe_name}"
 
     article = {
         "id": art_id,
@@ -245,11 +242,11 @@ def update_index_and_manifest(product_name, article, product_info):
     ser = product_info.get("series", "")
     sub = product_info.get("sub_series", "")
 
-    if name not in index:
+    if product_name not in index:
         tree_path = f"华为 > {cat} > {ser}"
         if sub and sub != ser:
             tree_path += f" > {sub}"
-        index[name] = {
+        index[product_name] = {
             "tree_path": tree_path,
             "category": cat,
             "series": ser,
@@ -258,19 +255,19 @@ def update_index_and_manifest(product_name, article, product_info):
         }
 
     # 去重: 如果已有同 source 的引用, 先删
-    index[name]["articles"] = [
-        a for a in index[name]["articles"]
+    index[product_name]["articles"] = [
+        a for a in index[product_name]["articles"]
         if a.get("id") != article["id"]
     ]
-    index[name]["articles"].append({
+    index[product_name]["articles"].append({
         "id": article["id"],
         "source": article["title"],
         "type": "baidu_search",
     })
-    index[name]["chunk_count"] = sum(
-        len(article["chunks"])  # 这里简化, 实际应累加所有 article 的 chunk
-        for a in index[name]["articles"]
-        for _ in [1]  # hack: 无法实时统计, 在最后统一算
+    index[product_name]["chunk_count"] = sum(
+        len(article["chunks"])
+        for a in index[product_name]["articles"]
+        for _ in [1]
     )
 
     # 更新 manifest
@@ -324,25 +321,30 @@ def main():
     # ================================================================
     # 阶段2: 全量 (需手动开启)
     # ================================================================
-    FULL_RUN = False
+    FULL_RUN = True
     if FULL_RUN:
-        print("\n开始全量爬取...")
+        print("\n开始全量爬取 (跳过已爬产品)...")
         total = len(products)
+        skipped = 0
         for i, p in enumerate(products):
             name = p["name"]
+            safe_name = re.sub(r'[/\\:*?"<>|]', '_', name).replace(' ', '_')[:40]
+            art_id = f"baidu_{hashlib.md5(name.encode()).hexdigest()[:8]}_{safe_name}"
+            # 检查是否已爬过
+            art_path = ARTICLES_DIR + art_id + ".json"
+            if os.path.exists(art_path):
+                skipped += 1
+                continue
             print(f"\n[{i+1}/{total}] {name} ...")
             article = crawl_product(name, p)
             if article:
-                # 写 article 文件
-                art_path = ARTICLES_DIR + article["id"] + ".json"
                 with open(art_path, "w", encoding="utf-8") as f:
                     json.dump(article, f, ensure_ascii=False, indent=2)
-                # 更新索引
                 update_index_and_manifest(name, article, p)
                 print(f"    → 保存: {art_path} ({article['char_count']}字, {len(article['chunks'])} chunks)")
-
-            # 每个产品之间延时
             time.sleep(BASE_DELAY + 2)
+
+        print(f"\n完成! 跳过 {skipped} 个已爬产品")
 
         # 最终统计
         with open(OUT_DIR + "corpus_index.json", "r", encoding="utf-8") as f:
