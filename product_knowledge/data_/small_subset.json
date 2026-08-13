@@ -1,0 +1,773 @@
+[
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 80 系列",
+    "name": "Mate 80",
+    "alias": [
+      "M80",
+      "Mate80标准版",
+      "Mate标准版"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "直屏旗舰"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "首配3D人脸",
+      "3999起亲民价"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 80 系列",
+    "name": "Mate 80 Pro",
+    "alias": [
+      "M80P",
+      "Mate80大杯",
+      "Mate Pro"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "全能旗舰"
+    ],
+    "talking_points": [
+      "麒麟9030",
+      "WiFi7",
+      "6.9寸微曲屏"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 80 系列",
+    "name": "Mate 80 Pro Max",
+    "alias": [
+      "M80PM",
+      "Mate80超大杯",
+      "Pro Max"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "顶配影像"
+    ],
+    "talking_points": [
+      "麒麟9030 Pro",
+      "双潜望长焦",
+      "双层OLED",
+      "6000mAh大电池"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 80 系列",
+    "name": "Mate 80 Pro Max 风驰版",
+    "alias": [
+      "M80PM风驰版",
+      "风驰版"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "性能特化"
+    ],
+    "talking_points": [
+      "麒麟9030 Pro",
+      "Pro Max升级版",
+      "2026年3月加推"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 80 系列",
+    "name": "Mate 80 RS 非凡大师",
+    "alias": [
+      "M80RS",
+      "RS非凡大师",
+      "非凡大师",
+      "RS"
+    ],
+    "positioning": [
+      "超高端商务",
+      "奢华旗舰"
+    ],
+    "talking_points": [
+      "麒麟9030 Pro",
+      "全金属玄武架构",
+      "双潜望",
+      "卫星通信",
+      "最贵直板Mate"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 70 系列",
+    "name": "Mate 70",
+    "alias": [
+      "M70"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "上代标准版"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "5200mAh"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 70 系列",
+    "name": "Mate 70 Pro",
+    "alias": [
+      "M70P"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "上代Pro"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "6.9寸LTPO",
+      "微距长焦"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 70 系列",
+    "name": "Mate 70 Pro 优享版",
+    "alias": [
+      "M70P优享版",
+      "优享版"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "性价比版"
+    ],
+    "talking_points": [
+      "麒麟9020A",
+      "价格更友好"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 70 系列",
+    "name": "Mate 70 Pro+",
+    "alias": [
+      "M70P+",
+      "Mate70超大杯"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "顶配直屏"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "16GB大内存",
+      "2K直屏",
+      "天通卫星"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 70 系列",
+    "name": "Mate 70 RS 非凡大师",
+    "alias": [
+      "M70RS",
+      "上代RS"
+    ],
+    "positioning": [
+      "超高端商务",
+      "奢华旗舰"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "双层OLED微曲屏",
+      "5700mAh"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 70 系列",
+    "name": "Mate 70 Air",
+    "alias": [
+      "M70Air",
+      "Mate Air"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "大屏长续航"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "7寸大屏",
+      "6500mAh超大电池",
+      "3170起最便宜Mate"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 系列即将发布",
+    "name": "Mate 90 系列",
+    "alias": [
+      "M90",
+      "Mate90",
+      "Mate90系列"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "年度旗舰"
+    ],
+    "talking_points": [
+      "首发麒麟2026",
+      "HarmonyOS 7",
+      "5G回归",
+      "2026年9月"
+    ],
+    "generation": "即将发布",
+    "status": "即将发布"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 60 系列",
+    "name": "Mate 60",
+    "alias": [
+      "M60",
+      "Mate60"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "回归5G"
+    ],
+    "talking_points": [
+      "麒麟9000S",
+      "6.69寸OLED直屏",
+      "4750mAh",
+      "卫星通信",
+      "第二代昆仑玻璃"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 60 系列",
+    "name": "Mate 60 Pro",
+    "alias": [
+      "M60P",
+      "Mate60 Pro"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "卫星通信旗舰"
+    ],
+    "talking_points": [
+      "麒麟9000S",
+      "6.82寸LTPO",
+      "5000mAh",
+      "天通卫星通话",
+      "第二代昆仑玻璃"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 60 系列",
+    "name": "Mate 60 Pro+",
+    "alias": [
+      "M60P+"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "顶配卫星通信"
+    ],
+    "talking_points": [
+      "麒麟9000S",
+      "16GB内存",
+      "双卫星通信",
+      "天通+北斗"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 60 系列",
+    "name": "Mate 60 RS 非凡大师",
+    "alias": [
+      "M60RS",
+      "首款非凡大师"
+    ],
+    "positioning": [
+      "超高端商务",
+      "首款非凡大师品牌"
+    ],
+    "talking_points": [
+      "麒麟9000S",
+      "陶瓷机身",
+      "天通+北斗双卫星",
+      "玄武钢化昆仑玻璃"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 50 系列",
+    "name": "Mate 50",
+    "alias": [
+      "M50"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "华为影像XMAGE首款"
+    ],
+    "talking_points": [
+      "骁龙8+ Gen1 4G",
+      "6.7寸OLED",
+      "4460mAh",
+      "华为影像XMAGE",
+      "北斗卫星消息"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 50 系列",
+    "name": "Mate 50 Pro",
+    "alias": [
+      "M50P"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "影像旗舰"
+    ],
+    "talking_points": [
+      "骁龙8+ Gen1 4G",
+      "6.74寸OLED",
+      "4700mAh",
+      "200倍变焦",
+      "北斗卫星消息"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 50 系列",
+    "name": "Mate 50 RS 保时捷设计",
+    "alias": [
+      "M50RS",
+      "Mate50保时捷"
+    ],
+    "positioning": [
+      "超高端商务",
+      "保时捷设计联名"
+    ],
+    "talking_points": [
+      "骁龙8+ Gen1 4G",
+      "陶瓷机身",
+      "200倍变焦",
+      "超微距长焦"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 40 系列",
+    "name": "Mate 40 Pro",
+    "alias": [
+      "M40P"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "麒麟绝唱"
+    ],
+    "talking_points": [
+      "麒麟9000 5G",
+      "6.76寸OLED",
+      "4400mAh",
+      "66W快充",
+      "徕卡影像",
+      "星环设计"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 40 系列",
+    "name": "Mate 40 Pro+",
+    "alias": [
+      "M40P+"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "超大杯"
+    ],
+    "talking_points": [
+      "麒麟9000 5G",
+      "12GB内存",
+      "徕卡五摄",
+      "100倍变焦",
+      "陶瓷机身"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 40 系列",
+    "name": "Mate 40 RS 保时捷设计",
+    "alias": [
+      "M40RS",
+      "Mate40保时捷"
+    ],
+    "positioning": [
+      "超高端商务",
+      "保时捷设计联名"
+    ],
+    "talking_points": [
+      "麒麟9000 5G",
+      "陶瓷机身",
+      "徕卡五摄",
+      "测温功能"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 40 系列",
+    "name": "Mate 40",
+    "alias": [
+      "M40"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "标准版"
+    ],
+    "talking_points": [
+      "麒麟9000E 5G",
+      "6.5寸OLED",
+      "4200mAh",
+      "40W快充",
+      "徕卡三摄"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds Pro 系列",
+    "sub_series": null,
+    "name": "FreeBuds Pro 5 悦彰",
+    "alias": [
+      "Pro5",
+      "悦彰耳机",
+      "降噪旗舰"
+    ],
+    "positioning": [
+      "旗舰入耳降噪",
+      "音质旗舰"
+    ],
+    "talking_points": [
+      "2025年11月发布"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "sub_series": null,
+    "name": "FreeBuds 7i",
+    "alias": [
+      "7i",
+      "海外版"
+    ],
+    "positioning": [
+      "半开放",
+      "海外主力"
+    ],
+    "talking_points": [
+      "海外主打款"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "sub_series": null,
+    "name": "FreeBuds 6",
+    "alias": [
+      "FB6",
+      "半开放悦彰"
+    ],
+    "positioning": [
+      "半开放旗舰",
+      "音质半开放"
+    ],
+    "talking_points": [
+      "首款半开放悦彰",
+      "11mm动圈+微平板",
+      "2.3Mbps无损传输"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeClip 系列",
+    "sub_series": null,
+    "name": "FreeClip 2",
+    "alias": [
+      "Clip2",
+      "耳夹耳机",
+      "C形耳机",
+      "耳夹"
+    ],
+    "positioning": [
+      "耳夹开放式",
+      "潮流穿戴"
+    ],
+    "talking_points": [
+      "不塞耳朵",
+      "5.1g极致轻",
+      "AI算力提升10倍",
+      "AI翻译",
+      "38小时总续航"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds Pro 系列",
+    "sub_series": null,
+    "name": "FreeBuds Pro 3",
+    "alias": [
+      "Pro3",
+      "星闪耳机"
+    ],
+    "positioning": [
+      "旗舰入耳降噪",
+      "星闪连接"
+    ],
+    "talking_points": [
+      "星闪连接",
+      "1.5Mbps无损传输",
+      "智能动态降噪3.0",
+      "47dB深度降噪"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds Pro 系列",
+    "sub_series": null,
+    "name": "FreeBuds Pro 2",
+    "alias": [
+      "Pro2"
+    ],
+    "positioning": [
+      "旗舰入耳降噪"
+    ],
+    "talking_points": [
+      "华为自研芯片",
+      "47dB降噪",
+      "双单元",
+      "帝瓦雷调音"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "sub_series": null,
+    "name": "FreeBuds 5i",
+    "alias": [
+      "FreeBuds5i"
+    ],
+    "positioning": [
+      "无线耳机",
+      "蓝牙音频"
+    ],
+    "talking_points": [
+      "Hi-Res认证",
+      "42dB降噪",
+      "28h续航",
+      "双设备连接"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "sub_series": null,
+    "name": "FreeBuds 4E",
+    "alias": [
+      "FreeBuds4E"
+    ],
+    "positioning": [
+      "无线耳机",
+      "蓝牙音频"
+    ],
+    "talking_points": [
+      "半开放降噪",
+      "自适应降噪",
+      "22h续航",
+      "轻量化4.1g"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "sub_series": null,
+    "name": "FreeBuds 5",
+    "alias": [
+      "FreeBuds5"
+    ],
+    "positioning": [
+      "无线耳机",
+      "蓝牙音频"
+    ],
+    "talking_points": [
+      "水滴造型",
+      "半开放降噪3.0",
+      "LDAC无损",
+      "11mm动圈",
+      "30h续航"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "sub_series": null,
+    "name": "FreeBuds Lipstick",
+    "alias": [
+      "FreeBudsLipstick"
+    ],
+    "positioning": [
+      "无线耳机",
+      "蓝牙音频"
+    ],
+    "talking_points": [
+      "口红造型",
+      "半开放降噪",
+      "14mm动圈",
+      "22h续航"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeLace 系列",
+    "sub_series": null,
+    "name": "FreeLace Pro 2",
+    "alias": [
+      "FreeLacePro2"
+    ],
+    "positioning": [
+      "无线耳机",
+      "蓝牙音频"
+    ],
+    "talking_points": [
+      "颈戴式",
+      "双模降噪",
+      "25h续航",
+      "USB-C直插快充"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  }
+]
