@@ -1,0 +1,4037 @@
+[
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 80 系列",
+    "name": "Mate 80",
+    "alias": [
+      "M80",
+      "Mate80标准版",
+      "Mate标准版"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "直屏旗舰"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "首配3D人脸",
+      "3999起亲民价"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 80 系列",
+    "name": "Mate 80 Pro",
+    "alias": [
+      "M80P",
+      "Mate80大杯",
+      "Mate Pro"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "全能旗舰"
+    ],
+    "talking_points": [
+      "麒麟9030",
+      "WiFi7",
+      "6.9寸微曲屏"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 80 系列",
+    "name": "Mate 80 Pro Max",
+    "alias": [
+      "M80PM",
+      "Mate80超大杯",
+      "Pro Max"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "顶配影像"
+    ],
+    "talking_points": [
+      "麒麟9030 Pro",
+      "双潜望长焦",
+      "双层OLED",
+      "6000mAh大电池"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 80 系列",
+    "name": "Mate 80 Pro Max 风驰版",
+    "alias": [
+      "M80PM风驰版",
+      "风驰版"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "性能特化"
+    ],
+    "talking_points": [
+      "麒麟9030 Pro",
+      "Pro Max升级版",
+      "2026年3月加推"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 80 系列",
+    "name": "Mate 80 RS 非凡大师",
+    "alias": [
+      "M80RS",
+      "RS非凡大师",
+      "非凡大师",
+      "RS"
+    ],
+    "positioning": [
+      "超高端商务",
+      "奢华旗舰"
+    ],
+    "talking_points": [
+      "麒麟9030 Pro",
+      "全金属玄武架构",
+      "双潜望",
+      "卫星通信",
+      "最贵直板Mate"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 70 系列",
+    "name": "Mate 70",
+    "alias": [
+      "M70"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "上代标准版"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "5200mAh"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 70 系列",
+    "name": "Mate 70 Pro",
+    "alias": [
+      "M70P"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "上代Pro"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "6.9寸LTPO",
+      "微距长焦"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 70 系列",
+    "name": "Mate 70 Pro 优享版",
+    "alias": [
+      "M70P优享版",
+      "优享版"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "性价比版"
+    ],
+    "talking_points": [
+      "麒麟9020A",
+      "价格更友好"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 70 系列",
+    "name": "Mate 70 Pro+",
+    "alias": [
+      "M70P+",
+      "Mate70超大杯"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "顶配直屏"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "16GB大内存",
+      "2K直屏",
+      "天通卫星"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 70 系列",
+    "name": "Mate 70 RS 非凡大师",
+    "alias": [
+      "M70RS",
+      "上代RS"
+    ],
+    "positioning": [
+      "超高端商务",
+      "奢华旗舰"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "双层OLED微曲屏",
+      "5700mAh"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 70 系列",
+    "name": "Mate 70 Air",
+    "alias": [
+      "M70Air",
+      "Mate Air"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "大屏长续航"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "7寸大屏",
+      "6500mAh超大电池",
+      "3170起最便宜Mate"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 系列即将发布",
+    "name": "Mate 90 系列",
+    "alias": [
+      "M90",
+      "Mate90",
+      "Mate90系列"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "年度旗舰"
+    ],
+    "talking_points": [
+      "首发麒麟2026",
+      "HarmonyOS 7",
+      "5G回归",
+      "2026年9月"
+    ],
+    "generation": "即将发布",
+    "status": "即将发布"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "Pura 90 系列",
+    "name": "Pura 90",
+    "alias": [
+      "P90",
+      "Pura90标准版"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "时尚影像"
+    ],
+    "talking_points": [
+      "HarmonyOS 6.1"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "Pura 90 系列",
+    "name": "Pura 90 Pro",
+    "alias": [
+      "P90P",
+      "Pura90大杯"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "全能影像"
+    ],
+    "talking_points": [
+      "麒麟9030S",
+      "比上代降价1000"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "Pura 90 系列",
+    "name": "Pura 90 Pro Max",
+    "alias": [
+      "P90PM",
+      "Pura90超大杯"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "顶配影像"
+    ],
+    "talking_points": [
+      "2亿像素超大底潜望长焦",
+      "20倍高清录像"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "Pura 80 系列",
+    "name": "Pura 80",
+    "alias": [
+      "P80",
+      "Pura80"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "直屏影像"
+    ],
+    "talking_points": [
+      "麒麟9010S",
+      "6.6寸唯一直屏Pura",
+      "5600mAh"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "Pura 80 系列",
+    "name": "Pura 80 Pro",
+    "alias": [
+      "P80P",
+      "Pura80大杯"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "专业影像"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "1寸大底RYYB",
+      "100W快充"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "Pura 80 系列",
+    "name": "Pura 80 Pro+",
+    "alias": [
+      "P80P+",
+      "Pura80超大杯"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "卫星影像"
+    ],
+    "talking_points": [
+      "1寸高动态版",
+      "天通+北斗双卫星"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "Pura 80 系列",
+    "name": "Pura 80 Ultra",
+    "alias": [
+      "P80U",
+      "Pura80Ultra",
+      "Pura奥创"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "影像机皇"
+    ],
+    "talking_points": [
+      "一镜双目双焦段长焦",
+      "100倍变焦",
+      "万元影像机皇"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "横向大折叠",
+    "name": "Mate X7",
+    "alias": [
+      "X7",
+      "大折叠",
+      "Mate大折叠"
+    ],
+    "positioning": [
+      "超高端商务",
+      "横向大折叠"
+    ],
+    "talking_points": [
+      "麒麟9030 Pro",
+      "8.0寸内屏",
+      "第二代红枫"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "横向大折叠",
+    "name": "Mate X6",
+    "alias": [
+      "X6",
+      "上代大折叠"
+    ],
+    "positioning": [
+      "超高端商务",
+      "横向大折叠"
+    ],
+    "talking_points": [
+      "麒麟9000S Pro",
+      "分布式玄武架构"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "横向大折叠",
+    "name": "Mate X8",
+    "alias": [
+      "X8",
+      "新一代大折叠"
+    ],
+    "positioning": [
+      "超高端商务",
+      "横向大折叠"
+    ],
+    "talking_points": [
+      "8.15寸内屏",
+      "麒麟9050 Pro",
+      "6000mAh+大电池"
+    ],
+    "generation": "即将发布",
+    "status": "即将发布"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "三折叠",
+    "name": "Mate XTs 非凡大师",
+    "alias": [
+      "XTs",
+      "三折叠",
+      "XT",
+      "非凡大师三折叠"
+    ],
+    "positioning": [
+      "超高端商务",
+      "三折叠",
+      "折叠屏天花板"
+    ],
+    "talking_points": [
+      "10.1寸展开当平板用",
+      "PC级应用",
+      "最贵华为手机18000起",
+      "三折叠形态"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "三折叠",
+    "name": "Mate XT2",
+    "alias": [
+      "XT2",
+      "下一代三折叠"
+    ],
+    "positioning": [
+      "超高端商务",
+      "三折叠"
+    ],
+    "talking_points": [
+      "U型三折叠",
+      "麒麟9050",
+      "独立外屏",
+      "2026年9月"
+    ],
+    "generation": "最新款",
+    "status": "即将发布"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "阔折叠",
+    "name": "Pura X Max",
+    "alias": [
+      "PXMax",
+      "阔折叠Max"
+    ],
+    "positioning": [
+      "高端时尚",
+      "阔折叠"
+    ],
+    "talking_points": [
+      "麒麟9030 Pro",
+      "7.7寸内屏",
+      "16:10阔型屏",
+      "IP58/59"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "阔折叠",
+    "name": "Pura X",
+    "alias": [
+      "PX",
+      "阔折叠",
+      "小阔折叠"
+    ],
+    "positioning": [
+      "高端时尚",
+      "阔折叠"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "6.3寸16:10阔型屏",
+      "7499较亲民折叠"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "竖向小折叠",
+    "name": "Pocket 2",
+    "alias": [
+      "Pocket2",
+      "小折叠",
+      "竖折叠"
+    ],
+    "positioning": [
+      "高端时尚",
+      "竖向小折叠"
+    ],
+    "talking_points": [
+      "玄武水滴铰链"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "竖向小折叠",
+    "name": "Nova Flip 2",
+    "alias": [
+      "Flip2",
+      "Nova小折叠",
+      "nova翻盖"
+    ],
+    "positioning": [
+      "中端时尚",
+      "竖向小折叠"
+    ],
+    "talking_points": [
+      "麒麟8030",
+      "2026年6月新发",
+      "nova首款新折叠"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "竖向小折叠",
+    "name": "Nova Flip S",
+    "alias": [
+      "FlipS",
+      "最便宜折叠"
+    ],
+    "positioning": [
+      "入门时尚",
+      "竖向小折叠"
+    ],
+    "talking_points": [
+      "最便宜折叠屏3388起"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 16 系列",
+    "name": "nova 16 SE",
+    "alias": [
+      "n16SE",
+      "nova16SE"
+    ],
+    "positioning": [
+      "中低端潮流",
+      "年轻影像入门"
+    ],
+    "talking_points": [
+      "第一代红枫影像",
+      "2000-3000价位"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 16 系列",
+    "name": "nova 16",
+    "alias": [
+      "n16",
+      "nova16"
+    ],
+    "positioning": [
+      "中端潮流",
+      "年轻续航王"
+    ],
+    "talking_points": [
+      "麒麟9010S",
+      "7000mAh超大电池",
+      "100W快充"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 16 系列",
+    "name": "nova 16 Pro",
+    "alias": [
+      "n16P",
+      "nova16Pro"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "年轻影像Pro"
+    ],
+    "talking_points": [
+      "256GB到1TB全覆盖"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 16 系列",
+    "name": "nova 16 Ultra",
+    "alias": [
+      "n16U",
+      "nova16Ultra"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova顶配"
+    ],
+    "talking_points": [
+      "nova最强影像"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "畅享系列",
+    "sub_series": "畅享 90 系列",
+    "name": "畅享 90",
+    "alias": [
+      "畅享90",
+      "千元5G"
+    ],
+    "positioning": [
+      "入门实用",
+      "千元5G"
+    ],
+    "talking_points": [
+      "麒麟8000A 5G",
+      "6620mAh",
+      "1299千元5G"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "畅享系列",
+    "sub_series": "畅享 90 系列",
+    "name": "畅享 90 Plus",
+    "alias": [
+      "畅享90Plus"
+    ],
+    "positioning": [
+      "入门实用",
+      "大屏5G"
+    ],
+    "talking_points": [
+      "麒麟8000 5G",
+      "6620mAh"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "畅享系列",
+    "sub_series": "畅享 90 系列",
+    "name": "畅享 90 Pro Max",
+    "alias": [
+      "畅享90PM",
+      "畅享超大杯"
+    ],
+    "positioning": [
+      "入门实用",
+      "长续航机皇"
+    ],
+    "talking_points": [
+      "8500mAh怪兽电池",
+      "6.84寸OLED",
+      "NFC",
+      "千元续航王"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "sub_series": null,
+    "name": "MatePad Pro 13.2 2025",
+    "alias": [
+      "13.2寸Pro",
+      "大屏平板"
+    ],
+    "positioning": [
+      "专业旗舰平板",
+      "创意生产力"
+    ],
+    "talking_points": [
+      "13.2寸柔性OLED",
+      "麒麟9010",
+      "88W快充"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "sub_series": null,
+    "name": "MatePad Pro 12.2 2025",
+    "alias": [
+      "12.2寸Pro",
+      "双层OLED平板"
+    ],
+    "positioning": [
+      "专业旗舰平板",
+      "画质旗舰"
+    ],
+    "talking_points": [
+      "12.2寸双层OLED",
+      "10100mAh"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "sub_series": null,
+    "name": "MatePad Pro 2026",
+    "alias": [
+      "平板Pro2026",
+      "北斗平板"
+    ],
+    "positioning": [
+      "专业旗舰平板",
+      "卫星平板"
+    ],
+    "talking_points": [
+      "北斗卫星通讯",
+      "4.7mm超薄",
+      "12寸OLED",
+      "麒麟T93"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "sub_series": null,
+    "name": "MatePad Edge",
+    "alias": [
+      "Edge",
+      "二合一平板"
+    ],
+    "positioning": [
+      "专业旗舰平板",
+      "二合一"
+    ],
+    "talking_points": [
+      "24GB+1TB",
+      "万元二合一"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad Air 系列",
+    "sub_series": null,
+    "name": "MatePad Air 12 2025",
+    "alias": [
+      "Air12",
+      "Air平板"
+    ],
+    "positioning": [
+      "中高端平板",
+      "轻办公手绘"
+    ],
+    "talking_points": [
+      "12寸2.8K 144Hz",
+      "麒麟900",
+      "10100mAh"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad Air 系列",
+    "sub_series": null,
+    "name": "MatePad Air 2026",
+    "alias": [
+      "Air2026",
+      "柔光屏Air"
+    ],
+    "positioning": [
+      "中高端平板",
+      "护眼办公"
+    ],
+    "talking_points": [
+      "PaperMatte柔光屏",
+      "麒麟T93C"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad Mini 系列",
+    "sub_series": null,
+    "name": "MatePad Mini",
+    "alias": [
+      "Mini平板",
+      "小尺寸平板"
+    ],
+    "positioning": [
+      "轻薄便携平板",
+      "阅读娱乐"
+    ],
+    "talking_points": [
+      "悦读版/柔光版/全网通多版本可选"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad 11.5 S 系列",
+    "sub_series": null,
+    "name": "MatePad 11.5 S",
+    "alias": [
+      "11.5S",
+      "学生平板"
+    ],
+    "positioning": [
+      "中端性价比平板",
+      "学生笔记"
+    ],
+    "talking_points": [
+      "2.8K 144Hz",
+      "柔光屏可选",
+      "学生党首选"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad 数字系列",
+    "sub_series": null,
+    "name": "MatePad 11.5 2026",
+    "alias": [
+      "11.5寸",
+      "入门平板"
+    ],
+    "positioning": [
+      "入门性价比平板",
+      "追剧网课"
+    ],
+    "talking_points": [
+      "护眼屏",
+      "鸿蒙AI",
+      "柔光版/全网通可选"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad SE 系列",
+    "sub_series": null,
+    "name": "MatePad SE 标准版 11寸",
+    "alias": [
+      "SE平板",
+      "千元平板"
+    ],
+    "positioning": [
+      "千元入门平板",
+      "网课追剧"
+    ],
+    "talking_points": [
+      "骁龙685",
+      "7700mAh",
+      "最便宜华为平板之一"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook Fold 系列",
+    "sub_series": null,
+    "name": "MateBook Fold 非凡大师",
+    "alias": [
+      "折叠PC",
+      "折叠笔记本",
+      "Fold PC"
+    ],
+    "positioning": [
+      "超高端折叠PC",
+      "革命形态"
+    ],
+    "talking_points": [
+      "18寸折叠巨幕",
+      "24999最贵华为PC",
+      "双层OLED",
+      "玄武水滴铰链",
+      "鸿蒙系统"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook Pro 系列",
+    "sub_series": null,
+    "name": "MateBook Pro S",
+    "alias": [
+      "ProS",
+      "798g笔记本",
+      "超轻本"
+    ],
+    "positioning": [
+      "鸿蒙超轻薄本",
+      "极致便携"
+    ],
+    "talking_points": [
+      "798g极致轻",
+      "麒麟XE90",
+      "镁锂合金一体",
+      "14.2寸",
+      "标准版到14999典藏版"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook Pro 系列",
+    "sub_series": null,
+    "name": "MateBook Pro",
+    "alias": [
+      "Pro2026",
+      "970g本"
+    ],
+    "positioning": [
+      "鸿蒙超轻薄本",
+      "全能轻薄"
+    ],
+    "talking_points": [
+      "970g",
+      "麒麟X90 Plus",
+      "40W性能释放"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook X Pro 系列",
+    "sub_series": null,
+    "name": "MateBook X Pro",
+    "alias": [
+      "XPro",
+      "Windows旗舰本"
+    ],
+    "positioning": [
+      "Windows旗舰",
+      "顶级屏幕"
+    ],
+    "talking_points": [
+      "酷睿Ultra9",
+      "3.1K OLED柔性屏",
+      "140W超级快充",
+      "32GB+2TB"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook 数字系列",
+    "sub_series": null,
+    "name": "MateBook 14 鸿蒙版",
+    "alias": [
+      "14鸿蒙",
+      "鸿蒙笔记本"
+    ],
+    "positioning": [
+      "均衡轻薄本",
+      "鸿蒙入门PC"
+    ],
+    "talking_points": [
+      "首款数字系列鸿蒙PC"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook 数字系列",
+    "sub_series": null,
+    "name": "MateBook 14 Linux 版",
+    "alias": [
+      "14Linux",
+      "Linux本"
+    ],
+    "positioning": [
+      "均衡轻薄本",
+      "开发者友好"
+    ],
+    "talking_points": [
+      "1.31kg轻薄",
+      "比Win版便宜300"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook D 系列",
+    "sub_series": null,
+    "name": "MateBook D 16 SE",
+    "alias": [
+      "D16SE",
+      "入门大屏本"
+    ],
+    "positioning": [
+      "入门轻薄本",
+      "大屏办公"
+    ],
+    "talking_points": [
+      "16寸护眼屏",
+      "数字小键盘",
+      "4000-5000价位"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook E 系列",
+    "sub_series": null,
+    "name": "MateBook E / E GO",
+    "alias": [
+      "E系列",
+      "二合一本",
+      "可拆笔记本"
+    ],
+    "positioning": [
+      "二合一平板PC",
+      "可拆卸"
+    ],
+    "talking_points": [
+      "可拆卸设计",
+      "平板笔记本二合一"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH Ultimate 系列",
+    "sub_series": null,
+    "name": "WATCH Ultimate 2",
+    "alias": [
+      "Ultimate2",
+      "户外表皇",
+      "非凡大师手表"
+    ],
+    "positioning": [
+      "户外顶配",
+      "探险旗舰"
+    ],
+    "talking_points": [
+      "北斗卫星语音消息",
+      "150米潜水带音频",
+      "水下声呐通信",
+      "双向北斗卫星"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH Ultimate 系列",
+    "sub_series": null,
+    "name": "ULTIMATE DESIGN 紫金",
+    "alias": [
+      "紫金表",
+      "18K金表",
+      "金表"
+    ],
+    "positioning": [
+      "奢华腕表",
+      "珠宝手表"
+    ],
+    "talking_points": [
+      "10段18K黄金",
+      "紫色陶瓷表圈",
+      "eSIM",
+      "26888最贵华为表"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH Ultimate 系列",
+    "sub_series": null,
+    "name": "ULTIMATE DESIGN 星钻",
+    "alias": [
+      "星钻表",
+      "钻石表",
+      "刘雯同款"
+    ],
+    "positioning": [
+      "奢华腕表",
+      "高级珠宝手表"
+    ],
+    "talking_points": [
+      "98颗天然钻石",
+      "前LV珠宝总监设计",
+      "刘雯代言",
+      "ECG",
+      "血糖血压评估"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH GT 系列",
+    "sub_series": null,
+    "name": "WATCH GT 7 Pro 46mm",
+    "alias": [
+      "GT7Pro",
+      "GT旗舰"
+    ],
+    "positioning": [
+      "长续航户外旗舰",
+      "专业运动"
+    ],
+    "talking_points": [
+      "钛合金+蓝宝石",
+      "专业登山潜水模式"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH GT 系列",
+    "sub_series": null,
+    "name": "WATCH GT 7 46mm",
+    "alias": [
+      "GT7",
+      "长续航表"
+    ],
+    "positioning": [
+      "长续航运动",
+      "全能表"
+    ],
+    "talking_points": [
+      "21天续航",
+      "骑行模拟功率"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH GT 系列",
+    "sub_series": null,
+    "name": "WATCH GT 7 41mm",
+    "alias": [
+      "GT7女款",
+      "小尺寸GT"
+    ],
+    "positioning": [
+      "长续航运动",
+      "女性向"
+    ],
+    "talking_points": [
+      "14天续航",
+      "小巧女款"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH D 系列",
+    "sub_series": null,
+    "name": "WATCH D2",
+    "alias": [
+      "D2",
+      "血压表",
+      "医疗表"
+    ],
+    "positioning": [
+      "健康监测",
+      "医疗级穿戴"
+    ],
+    "talking_points": [
+      "医疗级动态血压监测",
+      "写入中国高血压防治指南"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH Buds 系列",
+    "sub_series": null,
+    "name": "WATCH Buds 2",
+    "alias": [
+      "Buds2",
+      "耳机表",
+      "手表耳机二合一"
+    ],
+    "positioning": [
+      "创新形态",
+      "二合一穿戴"
+    ],
+    "talking_points": [
+      "手表藏耳机",
+      "54.5g钛合金",
+      "1.5寸LTPO 3000nit",
+      "耳机4g每只",
+      "不分左右耳"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH FIT 系列",
+    "sub_series": null,
+    "name": "WATCH FIT 5 Pro",
+    "alias": [
+      "FIT5Pro",
+      "方形表Pro"
+    ],
+    "positioning": [
+      "时尚轻量",
+      "全功能轻量"
+    ],
+    "talking_points": [
+      "1.92寸LTPO",
+      "ECG",
+      "血糖风险评估",
+      "7天续航"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH FIT 系列",
+    "sub_series": null,
+    "name": "WATCH FIT 5",
+    "alias": [
+      "FIT5",
+      "方形表"
+    ],
+    "positioning": [
+      "时尚轻量",
+      "潮流轻便"
+    ],
+    "talking_points": [
+      "27g极致轻",
+      "1.74寸",
+      "14天续航"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH GT Runner 系列",
+    "sub_series": null,
+    "name": "WATCH GT Runner 2",
+    "alias": [
+      "Runner2",
+      "跑步表"
+    ],
+    "positioning": [
+      "专业跑步",
+      "轻量运动"
+    ],
+    "talking_points": [
+      "轻量化",
+      "专业跑步指标"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "手环系列",
+    "sub_series": null,
+    "name": "华为手环 11",
+    "alias": [
+      "手环11",
+      "华为手环"
+    ],
+    "positioning": [
+      "入门穿戴",
+      "基础健康"
+    ],
+    "talking_points": [
+      "入门健康监测",
+      "最便宜华为穿戴"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds Pro 系列",
+    "sub_series": null,
+    "name": "FreeBuds Pro 5 悦彰",
+    "alias": [
+      "Pro5",
+      "悦彰耳机",
+      "降噪旗舰"
+    ],
+    "positioning": [
+      "旗舰入耳降噪",
+      "音质旗舰"
+    ],
+    "talking_points": [
+      "2025年11月发布"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "sub_series": null,
+    "name": "FreeBuds 7i",
+    "alias": [
+      "7i",
+      "海外版"
+    ],
+    "positioning": [
+      "半开放",
+      "海外主力"
+    ],
+    "talking_points": [
+      "海外主打款"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "sub_series": null,
+    "name": "FreeBuds 6",
+    "alias": [
+      "FB6",
+      "半开放悦彰"
+    ],
+    "positioning": [
+      "半开放旗舰",
+      "音质半开放"
+    ],
+    "talking_points": [
+      "首款半开放悦彰",
+      "11mm动圈+微平板",
+      "2.3Mbps无损传输"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeClip 系列",
+    "sub_series": null,
+    "name": "FreeClip 2",
+    "alias": [
+      "Clip2",
+      "耳夹耳机",
+      "C形耳机",
+      "耳夹"
+    ],
+    "positioning": [
+      "耳夹开放式",
+      "潮流穿戴"
+    ],
+    "talking_points": [
+      "不塞耳朵",
+      "5.1g极致轻",
+      "AI算力提升10倍",
+      "AI翻译",
+      "38小时总续航"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "音箱",
+    "series": "Sound 系列",
+    "sub_series": null,
+    "name": "Sound X5 悦彰",
+    "alias": [
+      "X5",
+      "帝瓦雷音箱",
+      "SoundX"
+    ],
+    "positioning": [
+      "旗舰智能音箱",
+      "HiFi音箱"
+    ],
+    "talking_points": [
+      "帝瓦雷联合调音",
+      "发布会音响担当"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "音箱",
+    "series": "Sound Joy 系列",
+    "sub_series": null,
+    "name": "Sound Joy 系列",
+    "alias": [
+      "Joy",
+      "便携音箱"
+    ],
+    "positioning": [
+      "便携蓝牙音箱",
+      "户外音乐"
+    ],
+    "talking_points": [
+      "便携蓝牙",
+      "户外用"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智慧屏",
+    "series": "Vision 系列",
+    "sub_series": null,
+    "name": "MateTV Max",
+    "alias": [
+      "MateTV",
+      "110寸电视",
+      "巨幕电视"
+    ],
+    "positioning": [
+      "巨幕旗舰",
+      "家庭影院"
+    ],
+    "talking_points": [
+      "110寸巨幕",
+      "史上最大Mate",
+      "64999最贵华为屏"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智慧屏",
+    "series": "Vision 系列",
+    "sub_series": null,
+    "name": "Vision 智慧屏 6 Pro",
+    "alias": [
+      "V6Pro",
+      "智慧屏6Pro"
+    ],
+    "positioning": [
+      "旗舰智慧屏",
+      "家庭影院"
+    ],
+    "talking_points": [
+      "Super MiniLED黑晶屏",
+      "130W Hi-Fi音响",
+      "2000nit",
+      "288Hz",
+      "98寸",
+      "触控书写"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智慧屏",
+    "series": "Vision 系列",
+    "sub_series": null,
+    "name": "Vision 智慧屏 6",
+    "alias": [
+      "V6",
+      "智慧屏6"
+    ],
+    "positioning": [
+      "高端智慧屏",
+      "MiniLED"
+    ],
+    "talking_points": [
+      "Super MiniLED千级分区",
+      "2000nit",
+      "4.9cm超薄",
+      "98寸",
+      "4K 144Hz"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智慧屏",
+    "series": "Vision 系列",
+    "sub_series": null,
+    "name": "Vision 智慧屏 6 SE RGB",
+    "alias": [
+      "V6SE",
+      "RGB电视",
+      "RGB MiniLED"
+    ],
+    "positioning": [
+      "高端智慧屏",
+      "画质突破"
+    ],
+    "talking_points": [
+      "全球首款RGB-MiniLED",
+      "105% BT.2020色域",
+      "三原色独立发光",
+      "300Hz"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能眼镜",
+    "series": "鸿蒙 AI 眼镜",
+    "sub_series": null,
+    "name": "鸿蒙 AI 眼镜",
+    "alias": [
+      "AI眼镜",
+      "鸿蒙眼镜",
+      "华为眼镜"
+    ],
+    "positioning": [
+      "智能穿戴眼镜",
+      "AI助手"
+    ],
+    "talking_points": [
+      "35.5g比Meta轻",
+      "6.25mm超薄镜腿",
+      "1200万摄像头",
+      "AI指向问答",
+      "同声传译",
+      "光学镜/太阳镜双版本"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "显示器",
+    "series": "MateView 系列",
+    "sub_series": null,
+    "name": "MateView GT",
+    "alias": [
+      "GT显示器",
+      "电竞显示器"
+    ],
+    "positioning": [
+      "电竞显示器",
+      "曲面屏"
+    ],
+    "talking_points": [
+      "电竞曲面屏"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "尊界",
+    "sub_series": null,
+    "name": "尊界 V800",
+    "alias": [
+      "V800",
+      "尊界MPV",
+      "华为MPV"
+    ],
+    "positioning": [
+      "超豪华旗舰MPV",
+      "尊界旗舰"
+    ],
+    "talking_points": [
+      "旗舰MPV",
+      "76.6万起",
+      "华为系最贵车型"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "尊界",
+    "sub_series": null,
+    "name": "尊界 V680",
+    "alias": [
+      "V680",
+      "尊界入门"
+    ],
+    "positioning": [
+      "超豪华MPV",
+      "尊界入门"
+    ],
+    "talking_points": [
+      "旗舰MPV",
+      "64.8万起"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "享界",
+    "sub_series": null,
+    "name": "享界 G9",
+    "alias": [
+      "G9",
+      "华为大G",
+      "硬派SUV"
+    ],
+    "positioning": [
+      "豪华硬派SUV",
+      "对标大G"
+    ],
+    "talking_points": [
+      "硬派SUV",
+      "对标奔驰大G",
+      "43.98万起"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "享界",
+    "sub_series": null,
+    "name": "享界 S9 / S9T",
+    "alias": [
+      "S9",
+      "享界轿车"
+    ],
+    "positioning": [
+      "豪华轿车"
+    ],
+    "talking_points": [
+      "豪华轿车"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "问界",
+    "sub_series": null,
+    "name": "问界 M8",
+    "alias": [
+      "M8",
+      "问界走量"
+    ],
+    "positioning": [
+      "大型SUV",
+      "走量担当"
+    ],
+    "talking_points": [
+      "大型SUV",
+      "问界走量主力"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "问界",
+    "sub_series": null,
+    "name": "问界 M7",
+    "alias": [
+      "M7"
+    ],
+    "positioning": [
+      "中大型SUV"
+    ],
+    "talking_points": [
+      "中大型SUV"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "问界",
+    "sub_series": null,
+    "name": "问界 M6",
+    "alias": [
+      "M6"
+    ],
+    "positioning": [
+      "中型SUV"
+    ],
+    "talking_points": [
+      "中型SUV"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "智界",
+    "sub_series": null,
+    "name": "智界 V9",
+    "alias": [
+      "V9",
+      "智界轿跑SUV"
+    ],
+    "positioning": [
+      "轿跑SUV"
+    ],
+    "talking_points": [
+      "轿跑SUV"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "智界",
+    "sub_series": null,
+    "name": "智界 R7",
+    "alias": [
+      "R7"
+    ],
+    "positioning": [
+      "轿跑SUV"
+    ],
+    "talking_points": [
+      "轿跑SUV"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "智界",
+    "sub_series": null,
+    "name": "智界 新S7",
+    "alias": [
+      "S7",
+      "智界轿车"
+    ],
+    "positioning": [
+      "轿车"
+    ],
+    "talking_points": [
+      "轿车"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "尚界",
+    "sub_series": null,
+    "name": "尚界 Z7 / Z7T",
+    "alias": [
+      "Z7",
+      "尚界轿跑"
+    ],
+    "positioning": [
+      "年轻轿跑"
+    ],
+    "talking_points": [
+      "年轻人轿跑"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 60 系列",
+    "name": "Mate 60",
+    "alias": [
+      "M60",
+      "Mate60"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "回归5G"
+    ],
+    "talking_points": [
+      "麒麟9000S",
+      "6.69寸OLED直屏",
+      "4750mAh",
+      "卫星通信",
+      "第二代昆仑玻璃"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 60 系列",
+    "name": "Mate 60 Pro",
+    "alias": [
+      "M60P",
+      "Mate60 Pro"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "卫星通信旗舰"
+    ],
+    "talking_points": [
+      "麒麟9000S",
+      "6.82寸LTPO",
+      "5000mAh",
+      "天通卫星通话",
+      "第二代昆仑玻璃"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 60 系列",
+    "name": "Mate 60 Pro+",
+    "alias": [
+      "M60P+"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "顶配卫星通信"
+    ],
+    "talking_points": [
+      "麒麟9000S",
+      "16GB内存",
+      "双卫星通信",
+      "天通+北斗"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 60 系列",
+    "name": "Mate 60 RS 非凡大师",
+    "alias": [
+      "M60RS",
+      "首款非凡大师"
+    ],
+    "positioning": [
+      "超高端商务",
+      "首款非凡大师品牌"
+    ],
+    "talking_points": [
+      "麒麟9000S",
+      "陶瓷机身",
+      "天通+北斗双卫星",
+      "玄武钢化昆仑玻璃"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 50 系列",
+    "name": "Mate 50",
+    "alias": [
+      "M50"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "华为影像XMAGE首款"
+    ],
+    "talking_points": [
+      "骁龙8+ Gen1 4G",
+      "6.7寸OLED",
+      "4460mAh",
+      "华为影像XMAGE",
+      "北斗卫星消息"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 50 系列",
+    "name": "Mate 50 Pro",
+    "alias": [
+      "M50P"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "影像旗舰"
+    ],
+    "talking_points": [
+      "骁龙8+ Gen1 4G",
+      "6.74寸OLED",
+      "4700mAh",
+      "200倍变焦",
+      "北斗卫星消息"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 50 系列",
+    "name": "Mate 50 RS 保时捷设计",
+    "alias": [
+      "M50RS",
+      "Mate50保时捷"
+    ],
+    "positioning": [
+      "超高端商务",
+      "保时捷设计联名"
+    ],
+    "talking_points": [
+      "骁龙8+ Gen1 4G",
+      "陶瓷机身",
+      "200倍变焦",
+      "超微距长焦"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 40 系列",
+    "name": "Mate 40 Pro",
+    "alias": [
+      "M40P"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "麒麟绝唱"
+    ],
+    "talking_points": [
+      "麒麟9000 5G",
+      "6.76寸OLED",
+      "4400mAh",
+      "66W快充",
+      "徕卡影像",
+      "星环设计"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 40 系列",
+    "name": "Mate 40 Pro+",
+    "alias": [
+      "M40P+"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "超大杯"
+    ],
+    "talking_points": [
+      "麒麟9000 5G",
+      "12GB内存",
+      "徕卡五摄",
+      "100倍变焦",
+      "陶瓷机身"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 40 系列",
+    "name": "Mate 40 RS 保时捷设计",
+    "alias": [
+      "M40RS",
+      "Mate40保时捷"
+    ],
+    "positioning": [
+      "超高端商务",
+      "保时捷设计联名"
+    ],
+    "talking_points": [
+      "麒麟9000 5G",
+      "陶瓷机身",
+      "徕卡五摄",
+      "测温功能"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "Pura 70 系列",
+    "name": "Pura 70",
+    "alias": [
+      "P70",
+      "Pura70"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "P系列更名首作"
+    ],
+    "talking_points": [
+      "麒麟9010",
+      "6.6寸OLED",
+      "4900mAh",
+      "50MP可变光圈",
+      "第二代昆仑玻璃"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "Pura 70 系列",
+    "name": "Pura 70 Pro",
+    "alias": [
+      "P70P"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "专业影像"
+    ],
+    "talking_points": [
+      "麒麟9010",
+      "6.8寸LTPO",
+      "5050mAh",
+      "100W快充",
+      "50MP超聚光"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "Pura 70 系列",
+    "name": "Pura 70 Ultra",
+    "alias": [
+      "P70U"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "影像机皇"
+    ],
+    "talking_points": [
+      "麒麟9010",
+      "1寸大底RYYB",
+      "50MP可变光圈",
+      "伸缩镜头",
+      "100W快充"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "P60 系列",
+    "name": "P60 Pro",
+    "alias": [
+      "P60P"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "超聚光夜视"
+    ],
+    "talking_points": [
+      "骁龙8+ Gen1 4G",
+      "6.67寸LTPO",
+      "4815mAh",
+      "88W快充",
+      "48MP超聚光主摄",
+      "双向北斗卫星"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "P60 系列",
+    "name": "P60 Art",
+    "alias": [
+      "P60Art",
+      "P60艺术版"
+    ],
+    "positioning": [
+      "影像旗舰",
+      "艺术设计版"
+    ],
+    "talking_points": [
+      "骁龙8+ Gen1 4G",
+      "海岛设计",
+      "48MP超聚光",
+      "88W快充",
+      "5100mAh"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "横向大折叠",
+    "name": "Mate X5",
+    "alias": [
+      "X5"
+    ],
+    "positioning": [
+      "超高端商务",
+      "横向大折叠"
+    ],
+    "talking_points": [
+      "麒麟9000S",
+      "7.85寸内屏",
+      "6.4寸外屏",
+      "5060mAh",
+      "双向北斗卫星",
+      "玄武钢化昆仑玻璃"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "横向大折叠",
+    "name": "Mate X3",
+    "alias": [
+      "X3"
+    ],
+    "positioning": [
+      "超高端商务",
+      "轻薄大折叠"
+    ],
+    "talking_points": [
+      "骁龙8+ Gen1 4G",
+      "7.85寸内屏",
+      "超薄铰链",
+      "5060mAh",
+      "IPX8防水",
+      "双向北斗卫星"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "横向大折叠",
+    "name": "Mate X2",
+    "alias": [
+      "X2"
+    ],
+    "positioning": [
+      "超高端商务",
+      "楔形设计"
+    ],
+    "talking_points": [
+      "麒麟9000 5G",
+      "8寸内屏",
+      "6.45寸外屏",
+      "徕卡四摄",
+      "100倍双目变焦",
+      "楔形设计"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 15 系列",
+    "name": "nova 15 Pro",
+    "alias": [
+      "n15P"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova影像旗舰"
+    ],
+    "talking_points": [
+      "麒麟9010S",
+      "6.78寸OLED",
+      "5000mAh",
+      "100W快充"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 15 系列",
+    "name": "nova 15 Ultra",
+    "alias": [
+      "n15U"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova全能旗舰"
+    ],
+    "talking_points": [
+      "麒麟9020",
+      "一亿像素主摄",
+      "100W快充",
+      "卫星消息"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 14 系列",
+    "name": "nova 14 Pro",
+    "alias": [
+      "n14P"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova人像旗舰"
+    ],
+    "talking_points": [
+      "麒麟9010",
+      "6.78寸OLED",
+      "4500mAh",
+      "100W快充",
+      "前置双摄"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 14 系列",
+    "name": "nova 14 Ultra",
+    "alias": [
+      "n14U"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova全能旗舰"
+    ],
+    "talking_points": [
+      "麒麟9010",
+      "一亿像素主摄",
+      "4900mAh"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 13 系列",
+    "name": "nova 13 Pro",
+    "alias": [
+      "n13P"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova自拍旗舰"
+    ],
+    "talking_points": [
+      "麒麟9000S",
+      "6.7寸OLED",
+      "4500mAh",
+      "66W快充",
+      "前置双摄"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "畅享系列",
+    "sub_series": "畅享 80 系列",
+    "name": "畅享 80 Pro",
+    "alias": [
+      "畅享80Pro"
+    ],
+    "positioning": [
+      "入门实用",
+      "大屏续航"
+    ],
+    "talking_points": [
+      "麒麟710A 4G",
+      "6.84寸",
+      "7000mAh大电池",
+      "NFC"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "sub_series": null,
+    "name": "MatePad Pro 11 2024",
+    "alias": [
+      "Pro11 2024"
+    ],
+    "positioning": [
+      "专业旗舰平板",
+      "轻薄旗舰"
+    ],
+    "talking_points": [
+      "11寸OLED",
+      "麒麟9000S",
+      "8300mAh",
+      "66W快充",
+      "星闪连接"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "sub_series": null,
+    "name": "MatePad Pro 12.6 2022",
+    "alias": [
+      "Pro12.6"
+    ],
+    "positioning": [
+      "专业旗舰平板",
+      "大屏创作"
+    ],
+    "talking_points": [
+      "12.6寸OLED",
+      "麒麟9000E",
+      "10050mAh",
+      "40W快充",
+      "M-Pencil 2"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH GT 系列",
+    "sub_series": null,
+    "name": "WATCH GT 5 Pro 46mm",
+    "alias": [
+      "GT5Pro"
+    ],
+    "positioning": [
+      "长续航户外旗舰",
+      "专业运动"
+    ],
+    "talking_points": [
+      "钛合金表身",
+      "蓝宝石玻璃",
+      "14天续航",
+      "高尔夫模式",
+      "ECG"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH GT 系列",
+    "sub_series": null,
+    "name": "WATCH GT 4 46mm",
+    "alias": [
+      "GT4"
+    ],
+    "positioning": [
+      "长续航运动",
+      "时尚设计"
+    ],
+    "talking_points": [
+      "14天续航",
+      "100+运动模式",
+      "TruSeen 5.5+"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH GT 系列",
+    "sub_series": null,
+    "name": "WATCH GT 3 Pro",
+    "alias": [
+      "GT3Pro"
+    ],
+    "positioning": [
+      "长续航旗舰",
+      "首款陶瓷表"
+    ],
+    "talking_points": [
+      "陶瓷表圈",
+      "钛合金/陶瓷机身",
+      "14天续航",
+      "ECG",
+      "体温监测"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds Pro 系列",
+    "sub_series": null,
+    "name": "FreeBuds Pro 3",
+    "alias": [
+      "Pro3",
+      "星闪耳机"
+    ],
+    "positioning": [
+      "旗舰入耳降噪",
+      "星闪连接"
+    ],
+    "talking_points": [
+      "星闪连接",
+      "1.5Mbps无损传输",
+      "智能动态降噪3.0",
+      "47dB深度降噪"
+    ],
+    "generation": "上代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds Pro 系列",
+    "sub_series": null,
+    "name": "FreeBuds Pro 2",
+    "alias": [
+      "Pro2"
+    ],
+    "positioning": [
+      "旗舰入耳降噪"
+    ],
+    "talking_points": [
+      "华为自研芯片",
+      "47dB降噪",
+      "双单元",
+      "帝瓦雷调音"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智慧屏",
+    "series": "Vision 系列",
+    "sub_series": null,
+    "name": "Vision 智慧屏 4 Pro",
+    "alias": [
+      "V4Pro"
+    ],
+    "positioning": [
+      "旗舰智慧屏",
+      "AI摄像头"
+    ],
+    "talking_points": [
+      "MiniLED",
+      "120Hz",
+      "AI摄像头",
+      "灵犀指向遥控",
+      "75-85寸"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 12 系列",
+    "name": "nova 12",
+    "alias": [
+      "n12",
+      "nova12"
+    ],
+    "positioning": [
+      "中端潮流",
+      "nova标准版"
+    ],
+    "talking_points": [
+      "麒麟9000S降频版",
+      "6.7寸OLED",
+      "4000mAh+",
+      "66W快充",
+      "前置人像"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 12 系列",
+    "name": "nova 12 Pro",
+    "alias": [
+      "n12P",
+      "nova12Pro"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova影像旗舰"
+    ],
+    "talking_points": [
+      "麒麟9000S降频版",
+      "6.78寸OLED",
+      "4500mAh",
+      "100W快充",
+      "前置双摄",
+      "50MP主摄"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 12 系列",
+    "name": "nova 12 Ultra",
+    "alias": [
+      "n12U"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova全能旗舰"
+    ],
+    "talking_points": [
+      "麒麟9000S降频版",
+      "一亿像素",
+      "4500mAh+",
+      "100W快充"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 11 系列",
+    "name": "nova 11",
+    "alias": [
+      "n11",
+      "nova11"
+    ],
+    "positioning": [
+      "中端潮流",
+      "nova标准版"
+    ],
+    "talking_points": [
+      "骁龙778G 4G",
+      "6.7寸OLED",
+      "4000mAh+",
+      "66W快充",
+      "前置人像"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 11 系列",
+    "name": "nova 11 Pro",
+    "alias": [
+      "n11P",
+      "nova11Pro"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova影像旗舰"
+    ],
+    "talking_points": [
+      "骁龙778G 4G",
+      "6.78寸OLED",
+      "4500mAh",
+      "100W快充",
+      "前置双摄",
+      "50MP主摄"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 11 系列",
+    "name": "nova 11 Ultra",
+    "alias": [
+      "n11U"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova全能旗舰"
+    ],
+    "talking_points": [
+      "骁龙778G 4G",
+      "一亿像素",
+      "4500mAh+",
+      "100W快充"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 10 系列",
+    "name": "nova 10",
+    "alias": [
+      "n10",
+      "nova10"
+    ],
+    "positioning": [
+      "中端潮流",
+      "nova标准版"
+    ],
+    "talking_points": [
+      "骁龙778G 4G",
+      "6.7寸OLED",
+      "4000mAh+",
+      "66W快充",
+      "前置人像"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 10 系列",
+    "name": "nova 10 Pro",
+    "alias": [
+      "n10P",
+      "nova10Pro"
+    ],
+    "positioning": [
+      "中高端潮流",
+      "nova影像旗舰"
+    ],
+    "talking_points": [
+      "骁龙778G 4G",
+      "6.78寸OLED",
+      "4500mAh",
+      "100W快充",
+      "前置双摄",
+      "50MP主摄"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "nova 系列",
+    "sub_series": "nova 10 系列",
+    "name": "nova 10 SE",
+    "alias": [
+      "n10SE"
+    ],
+    "positioning": [
+      "中低端潮流",
+      "nova青春版"
+    ],
+    "talking_points": [
+      "芯片信息待核实",
+      "6.6寸LCD",
+      "4000mAh",
+      "40W快充"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "畅享系列",
+    "sub_series": "畅享 70 系列",
+    "name": "畅享 70",
+    "alias": [
+      "畅享70"
+    ],
+    "positioning": [
+      "入门实用",
+      "千元机"
+    ],
+    "talking_points": [
+      "麒麟710A 4G",
+      "6.75寸",
+      "5000mAh大电池",
+      "22.5W快充"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "畅享系列",
+    "sub_series": "畅享 70 系列",
+    "name": "畅享 70 Pro",
+    "alias": [
+      "畅享70Pro"
+    ],
+    "positioning": [
+      "入门实用",
+      "大屏"
+    ],
+    "talking_points": [
+      "麒麟710A 4G",
+      "6.84寸",
+      "5000mAh",
+      "NFC"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "畅享系列",
+    "sub_series": "畅享 60 系列",
+    "name": "畅享 60",
+    "alias": [
+      "畅享60"
+    ],
+    "positioning": [
+      "入门实用",
+      "千元机"
+    ],
+    "talking_points": [
+      "骁龙680 4G",
+      "6.75寸",
+      "5000mAh大电池",
+      "22.5W快充"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "畅享系列",
+    "sub_series": "畅享 60 系列",
+    "name": "畅享 60 Pro",
+    "alias": [
+      "畅享60Pro"
+    ],
+    "positioning": [
+      "入门实用",
+      "大屏"
+    ],
+    "talking_points": [
+      "骁龙680 4G",
+      "6.84寸",
+      "5000mAh",
+      "NFC"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "畅享系列",
+    "sub_series": "畅享 50 系列",
+    "name": "畅享 50",
+    "alias": [
+      "畅享50"
+    ],
+    "positioning": [
+      "入门实用",
+      "千元机"
+    ],
+    "talking_points": [
+      "麒麟710A 4G",
+      "6.75寸",
+      "5000mAh大电池",
+      "22.5W快充"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "畅享系列",
+    "sub_series": "畅享 50 系列",
+    "name": "畅享 50 Pro",
+    "alias": [
+      "畅享50Pro"
+    ],
+    "positioning": [
+      "入门实用",
+      "大屏"
+    ],
+    "talking_points": [
+      "麒麟710A 4G",
+      "6.84寸",
+      "5000mAh",
+      "NFC"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "畅享系列",
+    "sub_series": "畅享 20 系列",
+    "name": "畅享 20",
+    "alias": [
+      "畅享20"
+    ],
+    "positioning": [
+      "入门实用",
+      "千元机"
+    ],
+    "talking_points": [
+      "麒麟710A",
+      "6.75寸",
+      "5000mAh大电池",
+      "22.5W快充"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "畅享系列",
+    "sub_series": "畅享 20 系列",
+    "name": "畅享 20 Pro",
+    "alias": [
+      "畅享20Pro"
+    ],
+    "positioning": [
+      "入门实用",
+      "大屏"
+    ],
+    "talking_points": [
+      "麒麟710A",
+      "6.84寸",
+      "5000mAh",
+      "NFC"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Mate 系列",
+    "sub_series": "Mate 40 系列",
+    "name": "Mate 40",
+    "alias": [
+      "M40"
+    ],
+    "positioning": [
+      "商务旗舰",
+      "标准版"
+    ],
+    "talking_points": [
+      "麒麟9000E 5G",
+      "6.5寸OLED",
+      "4200mAh",
+      "40W快充",
+      "徕卡三摄"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "Pura 系列",
+    "sub_series": "P60 系列",
+    "name": "P60",
+    "alias": [
+      "P60标准版"
+    ],
+    "positioning": [
+      "影像旗舰"
+    ],
+    "talking_points": [
+      "骁龙8+ Gen1 4G",
+      "6.67寸LTPO",
+      "4815mAh",
+      "66W快充",
+      "48MP超聚光"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "sub_series": null,
+    "name": "MatePad Pro 13.2",
+    "alias": [
+      "MatePadPro13.2"
+    ],
+    "positioning": [
+      "旗舰平板",
+      "鸿蒙生态"
+    ],
+    "talking_points": [
+      "麒麟9000S",
+      "13.2寸柔性OLED",
+      "10100mAh",
+      "88W快充",
+      "星闪"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad Pro 系列",
+    "sub_series": null,
+    "name": "MatePad Pro 11 2022",
+    "alias": [
+      "MatePadPro112022"
+    ],
+    "positioning": [
+      "旗舰平板",
+      "鸿蒙生态"
+    ],
+    "talking_points": [
+      "骁龙888 4G",
+      "11寸OLED",
+      "8300mAh",
+      "66W快充",
+      "120Hz"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad 数字系列",
+    "sub_series": null,
+    "name": "MatePad 11 2023",
+    "alias": [
+      "MatePad112023"
+    ],
+    "positioning": [
+      "中端平板",
+      "鸿蒙生态"
+    ],
+    "talking_points": [
+      "骁龙870",
+      "11寸2.5K 120Hz",
+      "7250mAh",
+      "柔光屏可选"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad 数字系列",
+    "sub_series": null,
+    "name": "MatePad 11 2021",
+    "alias": [
+      "MatePad112021"
+    ],
+    "positioning": [
+      "中端平板",
+      "鸿蒙生态"
+    ],
+    "talking_points": [
+      "骁龙865",
+      "11寸2.5K 120Hz",
+      "7250mAh",
+      "鸿蒙2.0"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad 数字系列",
+    "sub_series": null,
+    "name": "MatePad Paper",
+    "alias": [
+      "MatePadPaper"
+    ],
+    "positioning": [
+      "入门平板",
+      "鸿蒙生态"
+    ],
+    "talking_points": [
+      "墨水屏",
+      "10.3寸",
+      "3625mAh",
+      "手写笔",
+      "阅读器"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad SE 系列",
+    "sub_series": null,
+    "name": "MatePad T 10s",
+    "alias": [
+      "MatePadT10s"
+    ],
+    "positioning": [
+      "入门平板",
+      "鸿蒙生态"
+    ],
+    "talking_points": [
+      "麒麟710A",
+      "10.1寸FHD",
+      "5100mAh",
+      "儿童模式"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "平板",
+    "series": "MatePad SE 系列",
+    "sub_series": null,
+    "name": "MatePad SE 10.4",
+    "alias": [
+      "MatePadSE10.4"
+    ],
+    "positioning": [
+      "入门平板",
+      "鸿蒙生态"
+    ],
+    "talking_points": [
+      "骁龙680",
+      "10.4寸2K",
+      "7700mAh",
+      "教育中心"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook X Pro 系列",
+    "sub_series": null,
+    "name": "MateBook X Pro 2023",
+    "alias": [
+      "MateBookXPro2023"
+    ],
+    "positioning": [
+      "轻薄本",
+      "商务办公"
+    ],
+    "talking_points": [
+      "酷睿i7-1360P",
+      "14.2寸3.1K触控屏",
+      "1.26kg",
+      "16GB+1TB",
+      "超级终端"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook X Pro 系列",
+    "sub_series": null,
+    "name": "MateBook X Pro 2022",
+    "alias": [
+      "MateBookXPro2022"
+    ],
+    "positioning": [
+      "轻薄本",
+      "商务办公"
+    ],
+    "talking_points": [
+      "酷睿i7-1260P",
+      "14.2寸3.1K",
+      "1.38kg",
+      "16GB+1TB"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook 数字系列",
+    "sub_series": null,
+    "name": "MateBook 16s 2023",
+    "alias": [
+      "MateBook16s2023"
+    ],
+    "positioning": [
+      "轻薄本",
+      "商务办公"
+    ],
+    "talking_points": [
+      "酷睿i9-13900H",
+      "16寸2.5K",
+      "12代标压",
+      "32GB+1TB",
+      "超级终端"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook 数字系列",
+    "sub_series": null,
+    "name": "MateBook 14 2022",
+    "alias": [
+      "MateBook142022"
+    ],
+    "positioning": [
+      "轻薄本",
+      "商务办公"
+    ],
+    "talking_points": [
+      "酷睿i5-1240P",
+      "14寸2K触控屏",
+      "1.49kg",
+      "超级终端"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook D 系列",
+    "sub_series": null,
+    "name": "MateBook D 16 2023",
+    "alias": [
+      "MateBookD162023"
+    ],
+    "positioning": [
+      "轻薄本",
+      "商务办公"
+    ],
+    "talking_points": [
+      "酷睿i5-13420H",
+      "16寸FHD",
+      "数字小键盘",
+      "超级终端"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook D 系列",
+    "sub_series": null,
+    "name": "MateBook D 14 2023",
+    "alias": [
+      "MateBookD142023"
+    ],
+    "positioning": [
+      "轻薄本",
+      "商务办公"
+    ],
+    "talking_points": [
+      "酷睿i5-13420H",
+      "14寸FHD",
+      "1.39kg",
+      "56Wh电池"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook E 系列",
+    "sub_series": null,
+    "name": "MateBook E 2023",
+    "alias": [
+      "MateBookE2023"
+    ],
+    "positioning": [
+      "轻薄本",
+      "商务办公"
+    ],
+    "talking_points": [
+      "酷睿i7-1260U",
+      "12.6寸OLED",
+      "可拆卸键盘",
+      "M-Pencil"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "笔记本",
+    "series": "MateBook 数字系列",
+    "sub_series": null,
+    "name": "MateBook 14s 2022",
+    "alias": [
+      "MateBook14s2022"
+    ],
+    "positioning": [
+      "轻薄本",
+      "商务办公"
+    ],
+    "talking_points": [
+      "酷睿i7-12700H",
+      "14.2寸2.5K",
+      "90Hz",
+      "60Wh"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH 数字系列",
+    "sub_series": null,
+    "name": "WATCH 4 Pro",
+    "alias": [
+      "WATCH4Pro"
+    ],
+    "positioning": [
+      "健康监测",
+      "智能穿戴"
+    ],
+    "talking_points": [
+      "钛合金表壳",
+      "1.5寸LTPO",
+      "eSIM独立通话",
+      "ECG心电分析",
+      "血糖风险评估",
+      "5ATM防水",
+      "5天续航"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH 数字系列",
+    "sub_series": null,
+    "name": "WATCH 4",
+    "alias": [
+      "WATCH4"
+    ],
+    "positioning": [
+      "健康监测",
+      "智能穿戴"
+    ],
+    "talking_points": [
+      "不锈钢表壳",
+      "1.5寸LTPO",
+      "eSIM",
+      "ECG",
+      "体温监测",
+      "3天续航"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH 数字系列",
+    "sub_series": null,
+    "name": "WATCH 3 Pro",
+    "alias": [
+      "WATCH3Pro"
+    ],
+    "positioning": [
+      "健康监测",
+      "智能穿戴"
+    ],
+    "talking_points": [
+      "钛合金",
+      "1.43寸AMOLED",
+      "eSIM",
+      "鸿蒙OS",
+      "体温监测",
+      "5天续航"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH 数字系列",
+    "sub_series": null,
+    "name": "WATCH 3",
+    "alias": [
+      "WATCH3"
+    ],
+    "positioning": [
+      "健康监测",
+      "智能穿戴"
+    ],
+    "talking_points": [
+      "不锈钢",
+      "1.43寸AMOLED",
+      "eSIM",
+      "鸿蒙OS",
+      "3天续航"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH GT 系列",
+    "sub_series": null,
+    "name": "WATCH GT 3 42mm",
+    "alias": [
+      "WATCHGT342mm"
+    ],
+    "positioning": [
+      "健康监测",
+      "智能穿戴"
+    ],
+    "talking_points": [
+      "1.32寸AMOLED",
+      "7天续航",
+      "100+运动模式",
+      "女性生理周期"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH GT 系列",
+    "sub_series": null,
+    "name": "WATCH GT 2 Pro",
+    "alias": [
+      "WATCHGT2Pro"
+    ],
+    "positioning": [
+      "健康监测",
+      "智能穿戴"
+    ],
+    "talking_points": [
+      "钛合金+蓝宝石",
+      "1.39寸AMOLED",
+      "14天续航",
+      "100+运动模式",
+      "无线充电"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "WATCH FIT 系列",
+    "sub_series": null,
+    "name": "WATCH FIT 2",
+    "alias": [
+      "WATCHFIT2"
+    ],
+    "positioning": [
+      "健康监测",
+      "智能穿戴"
+    ],
+    "talking_points": [
+      "1.74寸AMOLED",
+      "10天续航",
+      "蓝牙通话",
+      "97种运动模式"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能手表",
+    "series": "手环系列",
+    "sub_series": null,
+    "name": "华为手环 8",
+    "alias": [
+      "华为手环8"
+    ],
+    "positioning": [
+      "健康监测",
+      "智能穿戴"
+    ],
+    "talking_points": [
+      "1.47寸AMOLED",
+      "14天续航",
+      "心率血氧监测",
+      "轻薄14g"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "sub_series": null,
+    "name": "FreeBuds 5i",
+    "alias": [
+      "FreeBuds5i"
+    ],
+    "positioning": [
+      "无线耳机",
+      "蓝牙音频"
+    ],
+    "talking_points": [
+      "Hi-Res认证",
+      "42dB降噪",
+      "28h续航",
+      "双设备连接"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "sub_series": null,
+    "name": "FreeBuds 4E",
+    "alias": [
+      "FreeBuds4E"
+    ],
+    "positioning": [
+      "无线耳机",
+      "蓝牙音频"
+    ],
+    "talking_points": [
+      "半开放降噪",
+      "自适应降噪",
+      "22h续航",
+      "轻量化4.1g"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "sub_series": null,
+    "name": "FreeBuds 5",
+    "alias": [
+      "FreeBuds5"
+    ],
+    "positioning": [
+      "无线耳机",
+      "蓝牙音频"
+    ],
+    "talking_points": [
+      "水滴造型",
+      "半开放降噪3.0",
+      "LDAC无损",
+      "11mm动圈",
+      "30h续航"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeBuds 数字系列",
+    "sub_series": null,
+    "name": "FreeBuds Lipstick",
+    "alias": [
+      "FreeBudsLipstick"
+    ],
+    "positioning": [
+      "无线耳机",
+      "蓝牙音频"
+    ],
+    "talking_points": [
+      "口红造型",
+      "半开放降噪",
+      "14mm动圈",
+      "22h续航"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "耳机",
+    "series": "FreeLace 系列",
+    "sub_series": null,
+    "name": "FreeLace Pro 2",
+    "alias": [
+      "FreeLacePro2"
+    ],
+    "positioning": [
+      "无线耳机",
+      "蓝牙音频"
+    ],
+    "talking_points": [
+      "颈戴式",
+      "双模降噪",
+      "25h续航",
+      "USB-C直插快充"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "竖向小折叠",
+    "name": "Pocket S",
+    "alias": [
+      "PocketS",
+      "小折叠S"
+    ],
+    "positioning": [
+      "高端时尚",
+      "竖向小折叠"
+    ],
+    "talking_points": [
+      "骁龙778G 4G",
+      "6.9寸内屏",
+      "4000mAh",
+      "玄武水滴铰链"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "手机",
+    "series": "折叠屏",
+    "sub_series": "横向大折叠",
+    "name": "Mate Xs 2",
+    "alias": [
+      "Xs2",
+      "外折折叠屏"
+    ],
+    "positioning": [
+      "超高端商务",
+      "外折大折叠"
+    ],
+    "talking_points": [
+      "骁龙888 4G",
+      "7.8寸外折屏",
+      "4600mAh",
+      "66W快充",
+      "超轻薄255g"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "问界",
+    "sub_series": null,
+    "name": "问界 M9",
+    "alias": [
+      "M9",
+      "问界旗舰"
+    ],
+    "positioning": [
+      "全尺寸SUV",
+      "问界旗舰"
+    ],
+    "talking_points": [
+      "全尺寸6座SUV",
+      "增程/纯电双版本",
+      "华为ADS 3.0",
+      "鸿蒙座舱4.0",
+      "零重力座椅",
+      "百万级底盘"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "问界",
+    "sub_series": null,
+    "name": "问界 M5",
+    "alias": [
+      "M5"
+    ],
+    "positioning": [
+      "中型SUV",
+      "问界入门"
+    ],
+    "talking_points": [
+      "中型SUV",
+      "增程/纯电双版本",
+      "华为ADS 2.0",
+      "鸿蒙座舱",
+      "4秒级加速"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "问界",
+    "sub_series": null,
+    "name": "问界 M5 EV",
+    "alias": [
+      "M5纯电"
+    ],
+    "positioning": [
+      "中型纯电SUV"
+    ],
+    "talking_points": [
+      "纯电SUV",
+      "华为DriveONE电驱",
+      "鸿蒙座舱",
+      "620km续航"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "问界",
+    "sub_series": null,
+    "name": "问界 M7 Pro",
+    "alias": [
+      "M7Pro"
+    ],
+    "positioning": [
+      "中大型SUV",
+      "家庭旗舰"
+    ],
+    "talking_points": [
+      "中大型6座SUV",
+      "增程动力",
+      "华为ADS基础版",
+      "鸿蒙座舱",
+      "大空间"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "问界",
+    "sub_series": null,
+    "name": "问界 M7 Ultra",
+    "alias": [
+      "M7Ultra",
+      "M7U"
+    ],
+    "positioning": [
+      "中大型SUV",
+      "顶配旗舰"
+    ],
+    "talking_points": [
+      "中大型6座SUV",
+      "华为ADS 3.0",
+      "百万级底盘",
+      "零重力座椅",
+      "星环散射体"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "智界",
+    "sub_series": null,
+    "name": "智界 S7",
+    "alias": [
+      "S7初代",
+      "智界首款"
+    ],
+    "positioning": [
+      "纯电轿跑",
+      "智界首款"
+    ],
+    "talking_points": [
+      "纯电轿跑",
+      "华为ADS 2.0",
+      "鸿蒙座舱",
+      "800V碳化硅平台",
+      "3.3秒加速"
+    ],
+    "generation": "旧代",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "享界",
+    "sub_series": null,
+    "name": "享界 S9",
+    "alias": [
+      "S9"
+    ],
+    "positioning": [
+      "豪华轿车",
+      "行政旗舰"
+    ],
+    "talking_points": [
+      "豪华行政轿车",
+      "华为ADS 3.0",
+      "鸿蒙座舱4.0",
+      "800V碳化硅",
+      "空气悬架",
+      "后排零重力"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "尊界",
+    "sub_series": null,
+    "name": "尊界 S800",
+    "alias": [
+      "S800",
+      "尊界轿车"
+    ],
+    "positioning": [
+      "超豪华轿车",
+      "尊界旗舰"
+    ],
+    "talking_points": [
+      "超豪华轿车",
+      "百万级定位",
+      "华为全栈技术",
+      "L3级智驾",
+      "行政后排"
+    ],
+    "generation": "即将发布",
+    "status": "即将发布"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "尚界",
+    "sub_series": null,
+    "name": "尚界 S5",
+    "alias": [
+      "S5",
+      "尚界轿车"
+    ],
+    "positioning": [
+      "年轻轿跑",
+      "尚界入门"
+    ],
+    "talking_points": [
+      "紧凑型轿跑",
+      "华为ADS基础版",
+      "鸿蒙座舱",
+      "年轻化设计"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  },
+  {
+    "company": "华为",
+    "category": "智能汽车",
+    "series": "乾崑智驾",
+    "sub_series": null,
+    "name": "乾崑智驾 ADS 4.0",
+    "alias": [
+      "ADS4.0",
+      "华为智驾"
+    ],
+    "positioning": [
+      "智能驾驶系统",
+      "L3级架构"
+    ],
+    "talking_points": [
+      "L3级自动驾驶架构",
+      "累计搭载140万+辆车",
+      "35款合作车型",
+      "全国城区NCA",
+      "泊车代驾"
+    ],
+    "generation": "最新款",
+    "status": "在售"
+  }
+]

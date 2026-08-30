@@ -1,0 +1,19 @@
+{"entity": "问界新M7 Ultra (2024款)", "relation": "package", "value": "", "raw": "{\"question\": \"智能汽车品类中，2024年5月31日发布且售价28.98万元起的是哪款？\", \"answer\": \"问界新M7 Ultra (2024款)\"}", "status": "ok"}
+{"entity": "问界新M7 (2023款)", "relation": "package", "value": "", "raw": "{\"question\": \"智能汽车品类中，发布时间为2023年9月12日且售价为24.98-32.98万元的是哪款？\", \"answer\": \"问界新M7 (2023款)\"}", "status": "ok"}
+{"entity": "Mate 80 系列", "relation": "package", "value": "", "raw": "{\"question\": \"手机品类中，发布时间是2025年11月25日且开售时间是2025年11月28日的是哪款？\", \"answer\": \"Mate 80 系列\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max 风驰版", "relation": "package", "value": "", "raw": "{\"question\": \"手机品类中，发布时间是2026年3月23日且搭载麒麟9030 Pro的是哪款？\", \"answer\": \"Mate 80 Pro Max 风驰版\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "package", "value": "", "raw": "{\"question\": \"手机品类中，搭载麒麟9020且屏幕是6.75英寸OLED的是哪款？\", \"answer\": \"Mate 80\"}", "status": "ok"}
+{"entity": "问界新M7 Pro (2024款)", "relation": "package", "value": "", "raw": "{\"question\": \"智能汽车品类中，2024年8月26日发布且售价24.98万元起的是哪款？\", \"answer\": \"问界新M7 Pro (2024款)\"}", "status": "ok"}
+{"entity": "问界M7 增程长续航版 (2026款)", "relation": "package", "value": "", "raw": "{\"question\": \"智能汽车品类中，2026年1月13日发布且售价29.98万元起的是哪款车？\", \"answer\": \"问界M7 增程长续航版 (2026款)\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "package", "value": "", "raw": "{\"question\": \"手机品类中，搭载麒麟9030 且屏幕是6.75英寸OLED的是哪款？\", \"answer\": \"Mate 80 Pro\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "package", "value": "", "raw": "{\"question\": \"智能汽车品类中，发布时间为2022年7月4日且售价是31.98-37.98万元的是哪款？\", \"answer\": \"问界M7 初代\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "package", "value": "", "raw": "{\"question\": \"智能汽车品类中，发布时间是2025年9月23日且交付时间是2025年9月26日的是哪款？\", \"answer\": \"全新问界M7 (2025款)\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "package", "value": "", "raw": "{\"question\": \"平板品类中，发布时间为2025年12月22日且上市时间为2025年12月25日的是哪款？\", \"answer\": \"MatePad 11.5\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "package", "value": "", "raw": "{\"question\": \"耳机品类中，发布时间是2023年12月26日且首发地点在2023年12月12日迪拜的是哪款？\", \"answer\": \"华为 FreeClip\"}", "status": "ok"}
+{"entity": "问界M7", "relation": "package", "value": "", "raw": "{\"question\": \"智能汽车品类中，由赛力斯生产且与华为联合研发的是哪款车？\", \"answer\": \"问界M7\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "package", "value": "", "raw": "{\"question\": \"耳机品类中，发布时间为2025年9月24日且售价为1299元的是哪款？\", \"answer\": \"FreeClip 2\"}", "status": "ok"}
+{"entity": "问界M7 (2026款)", "relation": "package", "value": "", "raw": "{\"question\": \"智能汽车品类中，发布时间是2026年3月23日且售价为30.98万元起的是哪款？\", \"answer\": \"问界M7 (2026款)\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "package", "value": "", "raw": "{\"question\": \"手机品类中，搭载麒麟9030 Pro 且屏幕为6.9英寸超透亮灵珑屏的是哪款？\", \"answer\": \"Mate 80 Pro Max\"}", "status": "ok"}
+{"entity": "Mate 80 RS 非凡大师", "relation": "package", "value": "", "raw": "{\"question\": \"手机品类中，搭载麒麟9030 Pro 且内存是20GB的是哪款？\", \"answer\": \"Mate 80 RS 非凡大师\"}", "status": "ok"}
+{"entity": "FreeClip 系", "relation": "package", "value": "", "raw": "{\"question\": \"耳机品类中，产品类型为开放式耳夹耳机且采用C形桥设计的是哪款？\", \"answer\": \"FreeClip 系\"}", "status": "ok"}
+{"entity": "FreeClip 2 典藏版", "relation": "package", "value": "", "raw": "{\"question\": \"耳机品类中，发布时间为2026年6月1日且售价是1499元的是哪款？\", \"answer\": \"FreeClip 2 典藏版\"}", "status": "ok"}

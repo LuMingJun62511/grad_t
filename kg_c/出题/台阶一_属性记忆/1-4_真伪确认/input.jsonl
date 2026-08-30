@@ -1,0 +1,10 @@
+{"entity": "FreeClip 2", "tree_path": "华为 > 耳机 > FreeClip 系", "items": [{"relation": "售价", "value": "4699元起", "truth": false}, {"relation": "整机续航", "value": "36小时", "truth": false}]}
+{"entity": "Mate 80", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "items": [{"relation": "后置主摄", "value": "5000万像素超高动态主摄", "truth": false}, {"relation": "产品定位", "value": "顶配影像", "truth": false}]}
+{"entity": "Mate 80 Pro", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "items": [{"relation": "屏幕", "value": "6.9英寸超透亮灵珑屏", "truth": false}]}
+{"entity": "Mate 80 Pro Max", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "items": [{"relation": "屏幕", "value": "6.9英寸第三代玄武钢化昆仑玻璃", "truth": false}]}
+{"entity": "Mate 80 RS 非凡大师", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "items": [{"relation": "产品定位", "value": "学习平板", "truth": false}]}
+{"entity": "MatePad 11.5", "tree_path": "华为 > 平板 > MatePad 数字系 > MatePad 11.5", "items": [{"relation": "机身", "value": "全金属", "truth": false}]}
+{"entity": "问界M7", "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7", "items": [{"relation": "目标人群", "value": "K12学生群体", "truth": false}]}
+{"entity": "问界M7 初代", "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7", "items": [{"relation": "后悬架", "value": "五连杆式独立悬架", "truth": false}]}
+{"entity": "问界新M7 (2023款)", "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7", "items": [{"relation": "售价", "value": "28.98万元起", "truth": false}]}
+{"entity": "全新问界M7 (2025款)", "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7", "items": [{"relation": "搭载智驾", "value": "HUAWEI ADS基础版", "truth": false}]}

@@ -1,0 +1,19 @@
+{"entity": "问界新M7 Ultra (2024款)", "scope": "智能汽车", "conditions": [{"relation": "发布时间", "value": "2024年5月31日"}, {"relation": "售价", "value": "28.98万元起"}]}
+{"entity": "问界新M7 (2023款)", "scope": "智能汽车", "conditions": [{"relation": "发布时间", "value": "2023年9月12日"}, {"relation": "售价", "value": "24.98-32.98万元"}]}
+{"entity": "Mate 80 系列", "scope": "手机", "conditions": [{"relation": "发布时间", "value": "2025年11月25日"}, {"relation": "开售时间", "value": "2025年11月28日"}]}
+{"entity": "Mate 80 Pro Max 风驰版", "scope": "手机", "conditions": [{"relation": "发布时间", "value": "2026年3月23日"}, {"relation": "搭载芯片", "value": "麒麟9030 Pro"}]}
+{"entity": "Mate 80", "scope": "手机", "conditions": [{"relation": "搭载芯片", "value": "麒麟9020"}, {"relation": "屏幕", "value": "6.75英寸OLED"}]}
+{"entity": "问界新M7 Pro (2024款)", "scope": "智能汽车", "conditions": [{"relation": "发布时间", "value": "2024年8月26日"}, {"relation": "售价", "value": "24.98万元起"}]}
+{"entity": "问界M7 增程长续航版 (2026款)", "scope": "智能汽车", "conditions": [{"relation": "发布时间", "value": "2026年1月13日"}, {"relation": "售价", "value": "29.98万元起"}]}
+{"entity": "Mate 80 Pro", "scope": "手机", "conditions": [{"relation": "搭载芯片", "value": "麒麟9030"}, {"relation": "屏幕", "value": "6.75英寸OLED"}]}
+{"entity": "问界M7 初代", "scope": "智能汽车", "conditions": [{"relation": "发布时间", "value": "2022年7月4日"}, {"relation": "售价", "value": "31.98-37.98万元"}]}
+{"entity": "全新问界M7 (2025款)", "scope": "智能汽车", "conditions": [{"relation": "发布时间", "value": "2025年9月23日"}, {"relation": "交付时间", "value": "2025年9月26日"}]}
+{"entity": "MatePad 11.5", "scope": "平板", "conditions": [{"relation": "发布时间", "value": "2025年12月22日"}, {"relation": "上市时间", "value": "2025年12月25日"}]}
+{"entity": "华为 FreeClip", "scope": "耳机", "conditions": [{"relation": "发布时间", "value": "2023年12月26日"}, {"relation": "首发地点", "value": "2023年12月12日迪拜"}]}
+{"entity": "问界M7", "scope": "智能汽车", "conditions": [{"relation": "生产厂商", "value": "赛力斯"}, {"relation": "联合研发", "value": "华为"}]}
+{"entity": "FreeClip 2", "scope": "耳机", "conditions": [{"relation": "发布时间", "value": "2025年9月24日"}, {"relation": "售价", "value": "1299元"}]}
+{"entity": "问界M7 (2026款)", "scope": "智能汽车", "conditions": [{"relation": "发布时间", "value": "2026年3月23日"}, {"relation": "售价", "value": "30.98万元起"}]}
+{"entity": "Mate 80 Pro Max", "scope": "手机", "conditions": [{"relation": "搭载芯片", "value": "麒麟9030 Pro"}, {"relation": "屏幕", "value": "6.9英寸超透亮灵珑屏"}]}
+{"entity": "Mate 80 RS 非凡大师", "scope": "手机", "conditions": [{"relation": "搭载芯片", "value": "麒麟9030 Pro"}, {"relation": "内存", "value": "20GB"}]}
+{"entity": "FreeClip 系", "scope": "耳机", "conditions": [{"relation": "产品类型", "value": "开放式耳夹耳机"}, {"relation": "设计", "value": "C形桥设计"}]}
+{"entity": "FreeClip 2 典藏版", "scope": "耳机", "conditions": [{"relation": "发布时间", "value": "2026年6月1日"}, {"relation": "售价", "value": "1499元"}]}

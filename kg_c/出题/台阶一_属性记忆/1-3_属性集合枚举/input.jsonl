@@ -1,0 +1,8 @@
+{"entity": "华为 FreeClip", "tree_path": "华为 > 耳机 > FreeClip 系", "multi_groups": [{"relation": "配色", "values": ["星空黑", "流光紫", "暖星云", "玫瑰金"]}]}
+{"entity": "FreeClip 2", "tree_path": "华为 > 耳机 > FreeClip 系", "multi_groups": [{"relation": "配色", "values": ["羽沙白", "摩登黑", "丹宁蓝"]}]}
+{"entity": "Mate 80", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "multi_groups": [{"relation": "产品定位", "values": ["商务旗舰", "直屏旗舰"]}]}
+{"entity": "Mate 80 Pro", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "multi_groups": [{"relation": "产品定位", "values": ["商务旗舰", "全能旗舰"]}]}
+{"entity": "Mate 80 Pro Max", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "multi_groups": [{"relation": "产品定位", "values": ["商务旗舰", "顶配影像"]}]}
+{"entity": "Mate 80 RS 非凡大师", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "multi_groups": [{"relation": "产品定位", "values": ["超高端商务", "奢华旗舰"]}]}
+{"entity": "MatePad 11.5", "tree_path": "华为 > 平板 > MatePad 数字系 > MatePad 11.5", "multi_groups": [{"relation": "配色", "values": ["羽砂紫", "海岛蓝"]}]}
+{"entity": "问界M7", "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7", "multi_groups": [{"relation": "产品定位", "values": ["大中型SUV", "豪华智慧大型电动SUV"]}]}

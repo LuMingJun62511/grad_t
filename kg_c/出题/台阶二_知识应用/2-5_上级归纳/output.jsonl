@@ -1,0 +1,4 @@
+{"entity": "FreeClip 系", "relation": "package", "value": "", "raw": "{\n  \"question\": \"华为 FreeClip 系全系标配的声学系统是什么？\",\n  \"answer\": \"逆声场声学系统\"\n}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "package", "value": "", "raw": "{\"question\": \"华为 FreeClip 全系标配的驱动单元是什么？\", \"answer\": \"10.8mm双磁高灵敏度\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "package", "value": "", "raw": "```json\n{\"question\": \"FreeClip 2 全系标配的防水等级是什么？\", \"answer\": \"IP57\"}\n```", "status": "ok"}
+{"entity": "Mate 80 系列", "relation": "package", "value": "", "raw": "```json\n{\n  \"question\": \"华为 Mate 80 系列全系标配哪些特性？\",\n  \"answer\": \"第二代红枫原色摄像头、天通卫星通信、双向北斗卫星消息、700MHz无网应急通信、13公里最远连接、6米IP68级防水、IP69级防水、户外探索模式、10000+条户外路线、3D人脸识别、智感握姿、2.5D直屏、第二代昆仑玻璃、1-120Hz LTPO自适应刷新率、1440Hz高频PWM调光、蓝牙6.0、WiFi 7+\"\n}\n```", "status": "ok"}

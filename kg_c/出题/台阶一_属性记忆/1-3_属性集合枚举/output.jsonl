@@ -1,0 +1,8 @@
+{"entity": "华为 FreeClip", "relation": "配色", "value": "星空黑、流光紫、暖星云、玫瑰金", "raw": "{\"question\": \"华为 FreeClip的配色有哪几种？\", \"answer\": \"星空黑、流光紫、暖星云、玫瑰金\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "配色", "value": "羽沙白、摩登黑、丹宁蓝", "raw": "{\"question\": \"FreeClip 2配色都有哪些可选？\",\"answer\": \"羽沙白、摩登黑、丹宁蓝\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "产品定位", "value": "商务旗舰、直屏旗舰", "raw": "{\"question\": \"Mate 80的产品定位有哪几种？\", \"answer\": \"商务旗舰、直屏旗舰\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "产品定位", "value": "商务旗舰、全能旗舰", "raw": "{\"question\": \"Mate 80 Pro的产品定位有哪几种？\", \"answer\": \"商务旗舰、全能旗舰\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "产品定位", "value": "商务旗舰、顶配影像", "raw": "{\"question\": \"Mate 80 Pro Max的产品定位都有什么？\", \"answer\": \"商务旗舰、顶配影像\"}", "status": "ok"}
+{"entity": "Mate 80 RS 非凡大师", "relation": "产品定位", "value": "超高端商务、奢华旗舰", "raw": "{\"question\": \"Mate 80 RS 非凡大师有哪些产品定位？\", \"answer\": \"超高端商务、奢华旗舰\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "配色", "value": "羽砂紫、海岛蓝", "raw": "{\"question\": \"MatePad 11.5的配色有哪几种？\", \"answer\": \"羽砂紫、海岛蓝\"}", "status": "ok"}
+{"entity": "问界M7", "relation": "产品定位", "value": "大中型SUV、豪华智慧大型电动SUV", "raw": "{\"question\": \"问界M7产品定位都有哪些可选？\", \"answer\": \"大中型SUV、豪华智慧大型电动SUV\"}", "status": "ok"}

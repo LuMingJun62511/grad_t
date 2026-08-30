@@ -1,0 +1,12 @@
+{"entity": "FreeClip 2", "relation": "售价", "value": "4699元起", "raw": "{\"question\": \"FreeClip 2用的是4699元起吧？\", \"answer\": \"不是\"}", "status": "ok", "truth": "假"}
+{"entity": "FreeClip 2", "relation": "整机续航", "value": "36小时", "raw": "{\"question\": \"FreeClip 2是否整机续航36小时？\", \"answer\": \"不是\"}", "status": "ok", "truth": "假"}
+{"entity": "Mate 80", "relation": "后置主摄", "value": "5000万像素超高动态主摄", "raw": "{\"question\": \"Mate 80后置主摄是5000万像素超高动态主摄，对吧？\", \"answer\": \"不是\"}", "status": "ok", "truth": "假"}
+{"entity": "Mate 80", "relation": "产品定位", "value": "顶配影像", "raw": "{\"question\": \"Mate 80产品定位是顶配影像，对吧？\", \"answer\": \"不是\"}", "status": "ok", "truth": "假"}
+{"entity": "Mate 80 Pro", "relation": "屏幕", "value": "6.9英寸超透亮灵珑屏", "raw": "{\"question\": \"Mate 80 Pro用的是6.9英寸超透亮灵珑屏吧？\", \"answer\": \"不是\"}", "status": "ok", "truth": "假"}
+{"entity": "Mate 80 Pro Max", "relation": "屏幕", "value": "6.9英寸第三代玄武钢化昆仑玻璃", "raw": "{\"question\": \"Mate 80 Pro Max是否屏幕6.9英寸第三代玄武钢化昆仑玻璃？\", \"answer\": \"不是\"}", "status": "ok", "truth": "假"}
+{"entity": "Mate 80 RS 非凡大师", "relation": "产品定位", "value": "学习平板", "raw": "{\"question\": \"Mate 80 RS 非凡大师是学习平板，对吧？\", \"answer\": \"不是\"}", "status": "ok", "truth": "假"}
+{"entity": "MatePad 11.5", "relation": "机身", "value": "全金属", "raw": "{\"question\": \"MatePad 11.5用的是全金属吧？\", \"answer\": \"不是\"}", "status": "ok", "truth": "假"}
+{"entity": "问界M7", "relation": "目标人群", "value": "K12学生群体", "raw": "{\"question\": \"问界M7是目标人群K12学生群体吗？\", \"answer\": \"不是\"}", "status": "ok", "truth": "假"}
+{"entity": "问界M7 初代", "relation": "后悬架", "value": "五连杆式独立悬架", "raw": "{\"question\": \"问界M7 初代是否后悬架五连杆式独立悬架？\", \"answer\": \"不是\"}", "status": "ok", "truth": "假"}
+{"entity": "问界新M7 (2023款)", "relation": "售价", "value": "28.98万元起", "raw": "{\"question\": \"问界新M7 (2023款)用的是28.98万元起吧？\", \"answer\": \"不是\"}", "status": "ok", "truth": "假"}
+{"entity": "全新问界M7 (2025款)", "relation": "搭载智驾", "value": "HUAWEI ADS基础版", "raw": "{\"question\": \"全新问界M7 (2025款)用的是HUAWEI ADS基础版吧？\", \"answer\": \"不是\"}", "status": "ok", "truth": "假"}

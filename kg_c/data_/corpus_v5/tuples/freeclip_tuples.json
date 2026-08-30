@@ -1,0 +1,331 @@
+{
+  "article": "FreeClip系_百度百科",
+  "source": "百度百科",
+  "tree_path": "华为 > 耳机 > FreeClip 系",
+  "entities": [
+    {
+      "entity": "FreeClip 系",
+      "level": "系列",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "耳机",
+          "bucket": "A"
+        },
+        {
+          "relation": "产品类型",
+          "value": "开放式耳夹耳机",
+          "bucket": "A"
+        },
+        {
+          "relation": "设计",
+          "value": "C形桥设计",
+          "bucket": "A"
+        },
+        {
+          "relation": "C形桥材质",
+          "value": "镍钛记忆合金",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "逆声场声学系统",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "左右耳自适应识别",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "多设备连接",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "音频共享",
+          "bucket": "A"
+        },
+        {
+          "relation": "全球累计销量",
+          "value": "超过370万台",
+          "bucket": "B"
+        },
+        {
+          "relation": "市场地位",
+          "value": "2025年1-7月千元级开放式耳机出货量前列",
+          "bucket": "B"
+        }
+      ]
+    },
+    {
+      "entity": "华为 FreeClip",
+      "level": "代",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "FreeClip 系",
+          "bucket": "A"
+        },
+        {
+          "relation": "发布时间",
+          "value": "2023年12月26日",
+          "bucket": "A"
+        },
+        {
+          "relation": "首发地点",
+          "value": "2023年12月12日迪拜",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "1299元",
+          "bucket": "A"
+        },
+        {
+          "relation": "产品型号",
+          "value": "T0017",
+          "bucket": "A"
+        },
+        {
+          "relation": "单耳重量",
+          "value": "5.6克",
+          "bucket": "A"
+        },
+        {
+          "relation": "充电盒重量",
+          "value": "45.5克",
+          "bucket": "A"
+        },
+        {
+          "relation": "驱动单元",
+          "value": "10.8mm双磁高灵敏度",
+          "bucket": "A"
+        },
+        {
+          "relation": "频响范围",
+          "value": "16Hz-40kHz",
+          "bucket": "A"
+        },
+        {
+          "relation": "防水等级",
+          "value": "IP54",
+          "bucket": "A"
+        },
+        {
+          "relation": "单次续航",
+          "value": "8小时",
+          "bucket": "A"
+        },
+        {
+          "relation": "整机续航",
+          "value": "36小时",
+          "bucket": "A"
+        },
+        {
+          "relation": "快充",
+          "value": "充电10分钟播放3小时",
+          "bucket": "A"
+        },
+        {
+          "relation": "蓝牙版本",
+          "value": "5.3",
+          "bucket": "A"
+        },
+        {
+          "relation": "音频编码",
+          "value": "SBC、AAC、L2HC",
+          "bucket": "A"
+        },
+        {
+          "relation": "麦克风",
+          "value": "6麦克风系统",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "AI通话降噪",
+          "bucket": "A"
+        },
+        {
+          "relation": "空间音频",
+          "value": "Audio Vivid三维声",
+          "bucket": "A"
+        },
+        {
+          "relation": "空间音频模式",
+          "value": "有声剧场、电影院、音乐厅",
+          "bucket": "C"
+        },
+        {
+          "relation": "配色",
+          "value": "星空黑",
+          "bucket": "A"
+        },
+        {
+          "relation": "配色",
+          "value": "流光紫",
+          "bucket": "A"
+        },
+        {
+          "relation": "配色",
+          "value": "暖星云",
+          "bucket": "A"
+        },
+        {
+          "relation": "配色",
+          "value": "玫瑰金",
+          "bucket": "A"
+        }
+      ]
+    },
+    {
+      "entity": "FreeClip 2",
+      "level": "代",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "FreeClip 系",
+          "bucket": "A"
+        },
+        {
+          "relation": "发布时间",
+          "value": "2025年9月24日",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "1299元",
+          "bucket": "A"
+        },
+        {
+          "relation": "单耳重量",
+          "value": "5.1克",
+          "bucket": "A"
+        },
+        {
+          "relation": "重量减轻",
+          "value": "9%",
+          "bucket": "B"
+        },
+        {
+          "relation": "整机重量",
+          "value": "48.6克",
+          "bucket": "A"
+        },
+        {
+          "relation": "整机减轻",
+          "value": "14%",
+          "bucket": "B"
+        },
+        {
+          "relation": "充电盒设计",
+          "value": "圆变方，宽度缩小17%",
+          "bucket": "B"
+        },
+        {
+          "relation": "搭载芯片",
+          "value": "麒麟A3",
+          "bucket": "A"
+        },
+        {
+          "relation": "驱动单元",
+          "value": "自研双擎单元",
+          "bucket": "A"
+        },
+        {
+          "relation": "防水等级",
+          "value": "IP57",
+          "bucket": "A"
+        },
+        {
+          "relation": "单次续航",
+          "value": "9小时",
+          "bucket": "A"
+        },
+        {
+          "relation": "整机续航",
+          "value": "38小时",
+          "bucket": "A"
+        },
+        {
+          "relation": "快充",
+          "value": "充电10分钟听歌3小时",
+          "bucket": "A"
+        },
+        {
+          "relation": "C形桥材质",
+          "value": "亲肤硅胶",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "星闪精确查找",
+          "bucket": "A"
+        },
+        {
+          "relation": "星闪查找范围",
+          "value": "50米定向查找",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "智能音量自适应",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "三麦克风通话降噪",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "双耳互译",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "小艺AI深度集成",
+          "bucket": "A"
+        },
+        {
+          "relation": "配色",
+          "value": "羽沙白",
+          "bucket": "A"
+        },
+        {
+          "relation": "配色",
+          "value": "摩登黑",
+          "bucket": "A"
+        },
+        {
+          "relation": "配色",
+          "value": "丹宁蓝",
+          "bucket": "A"
+        }
+      ]
+    },
+    {
+      "entity": "FreeClip 2 典藏版",
+      "level": "SPU变体",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "FreeClip 2",
+          "bucket": "A"
+        },
+        {
+          "relation": "发布时间",
+          "value": "2026年6月1日",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "1499元",
+          "bucket": "A"
+        }
+      ]
+    }
+  ]
+}

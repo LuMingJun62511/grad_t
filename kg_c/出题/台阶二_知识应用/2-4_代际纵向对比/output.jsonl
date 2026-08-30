@@ -1,0 +1,7 @@
+{"entity": "包", "relation": "package", "value": "", "raw": "```json\n{\n  \"question\": \"华为 FreeClip 2 相比华为 FreeClip 在防水等级上有什么变化？\",\n  \"answer\": \"防水等级从 IP54 升级为 IP57。\"\n}\n```", "status": "ok"}
+{"entity": "包", "relation": "package", "value": "", "raw": "{\n  \"question\": \"问界新M7 (2023款)相比问界M7 初代，在CLTC综合续航上有什么变化？\",\n  \"answer\": \"从1220公里升级为1300公里\"\n}", "status": "ok"}
+{"entity": "包", "relation": "package", "value": "", "raw": "{\"question\": \"问界新M7 Ultra (2024款)相比问界新M7 (2023款)，在售价上有什么变化？\", \"answer\": \"售价从24.98-32.98万元调整为28.98万元起。\"}", "status": "ok"}
+{"entity": "包", "relation": "package", "value": "", "raw": "{\"question\": \"问界新M7 Pro (2024款)相比问界新M7 Ultra (2024款)，售价有什么变化？\", \"answer\": \"售价从28.98万元起调整为24.98万元起\"}", "status": "ok"}
+{"entity": "包", "relation": "package", "value": "", "raw": "{\"question\": \"全新问界M7 (2025款)相比问界新M7 Pro (2024款)，搭载的智驾系统有什么变化？\",\"answer\": \"从HUAWEI ADS基础版升级为HUAWEI ADS 4\"}", "status": "ok"}
+{"entity": "包", "relation": "package", "value": "", "raw": "{\"question\": \"问界M7 增程长续航版 (2026款) 相比全新问界M7 (2025款) 在发布时间上有什么变化？\", \"answer\": \"发布时间从2025年9月23日更新为2026年1月13日。\"}", "status": "ok"}
+{"entity": "包", "relation": "package", "value": "", "raw": "{\"question\": \"问界M7 (2026款)相比问界M7 增程长续航版 (2026款)，售价有什么变化？\",\"answer\": \"售价从29.98万元起调整为30.98万元起。\"}", "status": "ok"}

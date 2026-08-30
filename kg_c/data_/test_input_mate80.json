@@ -1,0 +1,166 @@
+[
+  {
+    "entity": "Mate 80",
+    "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列",
+    "triples": [
+      {
+        "relation": "is_a",
+        "value": "Mate 80 系列"
+      },
+      {
+        "relation": "产品定位",
+        "value": "商务旗舰"
+      },
+      {
+        "relation": "产品定位",
+        "value": "直屏旗舰"
+      },
+      {
+        "relation": "搭载芯片",
+        "value": "麒麟9020"
+      },
+      {
+        "relation": "特性",
+        "value": "首配3D人脸"
+      },
+      {
+        "relation": "特性",
+        "value": "3999起亲民价"
+      },
+      {
+        "relation": "代际",
+        "value": "最新款"
+      },
+      {
+        "relation": "状态",
+        "value": "在售"
+      }
+    ]
+  },
+  {
+    "entity": "Mate 80 Pro",
+    "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列",
+    "triples": [
+      {
+        "relation": "is_a",
+        "value": "Mate 80 系列"
+      },
+      {
+        "relation": "产品定位",
+        "value": "商务旗舰"
+      },
+      {
+        "relation": "产品定位",
+        "value": "全能旗舰"
+      },
+      {
+        "relation": "搭载芯片",
+        "value": "麒麟9030"
+      },
+      {
+        "relation": "特性",
+        "value": "WiFi7"
+      },
+      {
+        "relation": "特性",
+        "value": "6.9寸微曲屏"
+      },
+      {
+        "relation": "代际",
+        "value": "最新款"
+      },
+      {
+        "relation": "状态",
+        "value": "在售"
+      }
+    ]
+  },
+  {
+    "entity": "Mate 80 Pro Max",
+    "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列",
+    "triples": [
+      {
+        "relation": "is_a",
+        "value": "Mate 80 系列"
+      },
+      {
+        "relation": "产品定位",
+        "value": "商务旗舰"
+      },
+      {
+        "relation": "产品定位",
+        "value": "顶配影像"
+      },
+      {
+        "relation": "搭载芯片",
+        "value": "麒麟9030 Pro"
+      },
+      {
+        "relation": "特性",
+        "value": "双潜望长焦"
+      },
+      {
+        "relation": "特性",
+        "value": "双层OLED"
+      },
+      {
+        "relation": "特性",
+        "value": "6000mAh大电池"
+      },
+      {
+        "relation": "代际",
+        "value": "最新款"
+      },
+      {
+        "relation": "状态",
+        "value": "在售"
+      }
+    ]
+  },
+  {
+    "entity": "Mate 80 RS 非凡大师",
+    "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列",
+    "triples": [
+      {
+        "relation": "is_a",
+        "value": "Mate 80 系列"
+      },
+      {
+        "relation": "产品定位",
+        "value": "超高端商务"
+      },
+      {
+        "relation": "产品定位",
+        "value": "奢华旗舰"
+      },
+      {
+        "relation": "搭载芯片",
+        "value": "麒麟9030 Pro"
+      },
+      {
+        "relation": "特性",
+        "value": "全金属玄武架构"
+      },
+      {
+        "relation": "特性",
+        "value": "双潜望"
+      },
+      {
+        "relation": "特性",
+        "value": "卫星通信"
+      },
+      {
+        "relation": "特性",
+        "value": "最贵直板Mate"
+      },
+      {
+        "relation": "代际",
+        "value": "最新款"
+      },
+      {
+        "relation": "状态",
+        "value": "在售"
+      }
+    ]
+  }
+]

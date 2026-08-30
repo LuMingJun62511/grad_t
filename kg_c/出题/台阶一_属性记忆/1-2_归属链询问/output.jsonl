@@ -1,0 +1,20 @@
+{"entity": "FreeClip 系", "relation": "is_a", "value": "耳机", "raw": "{\"question\": \"FreeClip 系是哪个层级的产品？\", \"answer\": \"耳机\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "is_a", "value": "FreeClip 系", "raw": "{\"question\": \"华为 FreeClip属于哪个层级？\", \"answer\": \"FreeClip 系\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "is_a", "value": "FreeClip 系", "raw": "{\"question\": \"FreeClip 2属于什么？\", \"answer\": \"FreeClip 系\"}", "status": "ok"}
+{"entity": "FreeClip 2 典藏版", "relation": "is_a", "value": "FreeClip 2", "raw": "{\"question\": \"FreeClip 2 典藏版属于什么？\", \"answer\": \"FreeClip 2\"}", "status": "ok"}
+{"entity": "Mate 80 系列", "relation": "is_a", "value": "Mate 系", "raw": "{\"question\": \"Mate 80 系列属于哪个层级？\", \"answer\": \"Mate 系\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "is_a", "value": "Mate 80 系列", "raw": "{\"question\": \"Mate 80属于哪个层级？\", \"answer\": \"Mate 80 系列\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "is_a", "value": "Mate 80 系列", "raw": "{\"question\": \"Mate 80 Pro 归在哪个层级下面？\", \"answer\": \"Mate 80 系列\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "is_a", "value": "Mate 80 系列", "raw": "{\"question\": \"Mate 80 Pro Max是哪个层级的产品？\", \"answer\": \"Mate 80 系列\"}", "status": "ok"}
+{"entity": "Mate 80 RS 非凡大师", "relation": "is_a", "value": "Mate 80 系列", "raw": "{\"question\": \"Mate 80 RS 非凡大师是哪个层级的产品？\", \"answer\": \"Mate 80 系列\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max 风驰版", "relation": "is_a", "value": "Mate 80 系列", "raw": "{\"question\": \"Mate 80 Pro Max 风驰版归在哪个层级下面？\", \"answer\": \"Mate 80 系列\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "is_a", "value": "MatePad 数字系", "raw": "{\"question\": \"MatePad 11.5属于哪个层级？\", \"answer\": \"MatePad 数字系\"}", "status": "ok"}
+{"entity": "MatePad 11.5 S", "relation": "is_a", "value": "MatePad 数字系", "raw": "{\"question\": \"MatePad 11.5 S 归在哪个层级下面？\", \"answer\": \"MatePad 数字系\"}", "status": "ok"}
+{"entity": "问界M7", "relation": "is_a", "value": "问界系", "raw": "{\"question\": \"问界M7属于什么？\", \"answer\": \"问界系\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "is_a", "value": "问界M7", "raw": "{\"question\": \"问界M7 初代属于什么？\", \"answer\": \"问界M7\"}", "status": "ok"}
+{"entity": "问界新M7 (2023款)", "relation": "is_a", "value": "问界M7", "raw": "{\"question\": \"问界新M7 (2023款)属于什么？\", \"answer\": \"问界M7\"}", "status": "ok"}
+{"entity": "问界新M7 Ultra (2024款)", "relation": "is_a", "value": "问界M7", "raw": "{\"question\": \"问界新M7 Ultra (2024款)属于哪个层级？\", \"answer\": \"问界M7\"}", "status": "ok"}
+{"entity": "问界新M7 Pro (2024款)", "relation": "is_a", "value": "问界M7", "raw": "{\"question\": \"问界新M7 Pro (2024款)是哪个层级的产品？\", \"answer\": \"问界M7\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "is_a", "value": "问界M7", "raw": "{\"question\": \"全新问界M7 (2025款)是哪个层级的产品？\", \"answer\": \"问界M7\"}", "status": "ok"}
+{"entity": "问界M7 增程长续航版 (2026款)", "relation": "is_a", "value": "问界M7", "raw": "{\"question\": \"问界M7 增程长续航版 (2026款)属于什么？\", \"answer\": \"问界M7\"}", "status": "ok"}
+{"entity": "问界M7 (2026款)", "relation": "is_a", "value": "问界M7", "raw": "{\"question\": \"问界M7 (2026款)是哪个层级的产品？\", \"answer\": \"问界M7\"}", "status": "ok"}

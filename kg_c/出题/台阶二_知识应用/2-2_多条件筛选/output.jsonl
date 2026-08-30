@@ -1,0 +1,2 @@
+{"entity": "Mate 80 系列", "relation": "package", "value": "", "raw": "{\"question\": \"在 Mate 80 系列中，哪款产品的起售价是 11999 元？\", \"answer\": \"Mate 80 RS 非凡大师\"}", "status": "ok"}
+{"entity": "问界M7", "relation": "package", "value": "", "raw": "```json\n{\n  \"question\": \"问界M7系列中，哪些车型的前悬架采用了双叉臂式独立悬架？\",\n  \"answer\": \"全新问界M7 (2025款)\"\n}\n```", "status": "ok"}

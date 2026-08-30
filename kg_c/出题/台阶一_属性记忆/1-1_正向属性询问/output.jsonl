@@ -1,0 +1,176 @@
+{"entity": "FreeClip 系", "relation": "产品类型", "value": "开放式耳夹耳机", "raw": "{\"question\": \"FreeClip 系的产品类型是什么？\", \"answer\": \"开放式耳夹耳机\"}", "status": "ok"}
+{"entity": "FreeClip 系", "relation": "设计", "value": "C形桥设计", "raw": "{\"question\": \"FreeClip 系采用了什么设计？\", \"answer\": \"C形桥设计\"}", "status": "ok"}
+{"entity": "FreeClip 系", "relation": "C形桥材质", "value": "镍钛记忆合金", "raw": "{\"question\": \"FreeClip 系的C形桥材质是什么？\", \"answer\": \"镍钛记忆合金\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "发布时间", "value": "2023年12月26日", "raw": "{\"question\": \"华为 FreeClip 的发布时间是什么时候？\", \"answer\": \"2023年12月26日\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "首发地点", "value": "2023年12月12日迪拜", "raw": "{\"question\": \"华为 FreeClip 的首发地点是哪里？\", \"answer\": \"2023年12月12日迪拜\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "售价", "value": "1299元", "raw": "{\"question\": \"华为 FreeClip 的售价是多少？\", \"answer\": \"1299元\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "产品型号", "value": "T0017", "raw": "{\"question\": \"华为 FreeClip 的产品型号是什么？\", \"answer\": \"T0017\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "单耳重量", "value": "5.6克", "raw": "{\"question\": \"华为 FreeClip 的单耳重量是多少？\", \"answer\": \"5.6克\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "充电盒重量", "value": "45.5克", "raw": "{\"question\": \"华为 FreeClip 的充电盒重量是多少？\", \"answer\": \"45.5克\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "驱动单元", "value": "10.8mm双磁高灵敏度", "raw": "{\"question\": \"华为 FreeClip 的驱动单元是什么？\", \"answer\": \"10.8mm双磁高灵敏度\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "频响范围", "value": "16Hz-40kHz", "raw": "{\"question\": \"华为 FreeClip 的频响范围是多少？\", \"answer\": \"16Hz-40kHz\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "防水等级", "value": "IP54", "raw": "{\"question\": \"华为 FreeClip 的防水等级是什么？\", \"answer\": \"IP54\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "单次续航", "value": "8小时", "raw": "{\"question\": \"华为 FreeClip 的单次续航是多长时间？\", \"answer\": \"8小时\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "整机续航", "value": "36小时", "raw": "{\"question\": \"华为 FreeClip 的整机续航是多长时间？\", \"answer\": \"36小时\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "快充", "value": "充电10分钟播放3小时", "raw": "{\"question\": \"华为 FreeClip 的快充表现如何？\", \"answer\": \"充电10分钟播放3小时\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "蓝牙版本", "value": "5.3", "raw": "{\"question\": \"华为 FreeClip 的蓝牙版本是什么？\", \"answer\": \"5.3\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "音频编码", "value": "SBC、AAC、L2HC", "raw": "{\"question\": \"华为 FreeClip 支持哪些音频编码？\", \"answer\": \"SBC、AAC、L2HC\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "麦克风", "value": "6麦克风系统", "raw": "{\"question\": \"华为 FreeClip 的麦克风是什么？\", \"answer\": \"6麦克风系统\"}", "status": "ok"}
+{"entity": "华为 FreeClip", "relation": "空间音频", "value": "Audio Vivid三维声", "raw": "{\"question\": \"华为 FreeClip 支持什么空间音频？\", \"answer\": \"Audio Vivid三维声\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "发布时间", "value": "2025年9月24日", "raw": "{\"question\": \"FreeClip 2 的发布时间是什么时候？\", \"answer\": \"2025年9月24日\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "售价", "value": "1299元", "raw": "{\"question\": \"FreeClip 2 的售价是多少？\", \"answer\": \"1299元\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "单耳重量", "value": "5.1克", "raw": "{\"question\": \"FreeClip 2 的单耳重量是多少？\", \"answer\": \"5.1克\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "整机重量", "value": "48.6克", "raw": "{\"question\": \"FreeClip 2的整机重量是多少？\", \"answer\": \"48.6克\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "搭载芯片", "value": "麒麟A3", "raw": "{\"question\": \"FreeClip 2搭载了什么芯片？\", \"answer\": \"麒麟A3\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "驱动单元", "value": "自研双擎单元", "raw": "{\"question\": \"FreeClip 2的驱动单元是什么？\", \"answer\": \"自研双擎单元\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "防水等级", "value": "IP57", "raw": "{\"question\": \"FreeClip 2的防水等级是什么？\", \"answer\": \"IP57\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "单次续航", "value": "9小时", "raw": "{\"question\": \"FreeClip 2的单次续航是多久？\", \"answer\": \"9小时\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "整机续航", "value": "38小时", "raw": "{\"question\": \"FreeClip 2 的整机续航是多长时间？\", \"answer\": \"38小时\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "快充", "value": "充电10分钟听歌3小时", "raw": "{\"question\": \"FreeClip 2的快充表现如何？\", \"answer\": \"充电10分钟听歌3小时\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "C形桥材质", "value": "亲肤硅胶", "raw": "{\"question\": \"FreeClip 2的C形桥材质是什么？\", \"answer\": \"亲肤硅胶\"}", "status": "ok"}
+{"entity": "FreeClip 2", "relation": "星闪查找范围", "value": "50米定向查找", "raw": "{\"question\": \"FreeClip 2 的星闪查找范围是多少？\", \"answer\": \"50米定向查找\"}", "status": "ok"}
+{"entity": "FreeClip 2 典藏版", "relation": "发布时间", "value": "2026年6月1日", "raw": "{\"question\": \"FreeClip 2 典藏版的发布时间是什么时候？\", \"answer\": \"2026年6月1日\"}", "status": "ok"}
+{"entity": "FreeClip 2 典藏版", "relation": "售价", "value": "1499元", "raw": "{\"question\": \"FreeClip 2 典藏版的售价是多少？\", \"answer\": \"1499元\"}", "status": "ok"}
+{"entity": "Mate 80 系列", "relation": "发布时间", "value": "2025年11月25日", "raw": "{\"question\": \"Mate 80 系列的发布时间是什么时候？\", \"answer\": \"2025年11月25日\"}", "status": "ok"}
+{"entity": "Mate 80 系列", "relation": "开售时间", "value": "2025年11月28日", "raw": "{\"question\": \"Mate 80 系列的开售时间是什么时候？\", \"answer\": \"2025年11月28日\"}", "status": "ok"}
+{"entity": "Mate 80 系列", "relation": "操作系统", "value": "HarmonyOS 6", "raw": "{\"question\": \"Mate 80 系列的操作系统是什么？\", \"answer\": \"HarmonyOS 6\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "搭载芯片", "value": "麒麟9020", "raw": "{\"question\": \"Mate 80搭载什么芯片？\", \"answer\": \"麒麟9020\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "屏幕", "value": "6.75英寸OLED", "raw": "{\"question\": \"Mate 80的屏幕是什么？\", \"answer\": \"6.75英寸OLED\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "屏幕分辨率", "value": "2832x1280", "raw": "{\"question\": \"Mate 80的屏幕分辨率是多少？\", \"answer\": \"2832x1280\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "电池", "value": "5750mAh", "raw": "{\"question\": \"Mate 80的电池是多少？\", \"answer\": \"5750mAh\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "有线快充", "value": "66W", "raw": "{\"question\": \"Mate 80 的有线快充功率是多少？\", \"answer\": \"66W\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "无线快充", "value": "50W", "raw": "{\"question\": \"Mate 80的无线快充功率是多少？\", \"answer\": \"50W\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "后置主摄", "value": "5000万像素超光变主摄", "raw": "{\"question\": \"Mate 80 的后置主摄是什么？\", \"answer\": \"5000万像素超光变主摄\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "主摄光圈", "value": "F1.4-F4.0十档可变光圈", "raw": "{\"question\": \"Mate 80的主摄光圈是什么？\", \"answer\": \"F1.4-F4.0十档可变光圈\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "长焦", "value": "1200万像素潜望式长焦", "raw": "{\"question\": \"Mate 80的长焦是多少？\", \"answer\": \"1200万像素潜望式长焦\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "光学变焦", "value": "5.5X", "raw": "{\"question\": \"Mate 80的光学变焦是多少？\", \"answer\": \"5.5X\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "超广角", "value": "4000万像素", "raw": "{\"question\": \"Mate 80的超广角是多少像素？\", \"answer\": \"4000万像素\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "前置摄像头", "value": "1300万像素超广角", "raw": "{\"question\": \"Mate 80的前置摄像头是多少？\", \"answer\": \"1300万像素超广角\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "售价", "value": "4699元起", "raw": "{\"question\": \"Mate 80的售价是多少？\", \"answer\": \"4699元起\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "机身设计", "value": "背部双环", "raw": "{\"question\": \"Mate 80的机身设计是什么？\", \"answer\": \"背部双环\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "材质", "value": "锦纤后盖", "raw": "{\"question\": \"Mate 80的材质是什么？\", \"answer\": \"锦纤后盖\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "中框", "value": "磨砂铝合金", "raw": "{\"question\": \"Mate 80的中框是什么？\", \"answer\": \"磨砂铝合金\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "重量", "value": "约217克", "raw": "{\"question\": \"Mate 80的重量是多少？\", \"answer\": \"约217克\"}", "status": "ok"}
+{"entity": "Mate 80", "relation": "厚度", "value": "7.95mm", "raw": "{\"question\": \"Mate 80的厚度是多少？\", \"answer\": \"7.95mm\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "搭载芯片", "value": "麒麟9030", "raw": "{\"question\": \"Mate 80 Pro搭载的是什么芯片？\", \"answer\": \"麒麟9030\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "屏幕", "value": "6.75英寸OLED", "raw": "{\"question\": \"Mate 80 Pro的屏幕是什么？\", \"answer\": \"6.75英寸OLED\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "电池", "value": "5750mAh", "raw": "{\"question\": \"Mate 80 Pro的电池是多少？\", \"answer\": \"5750mAh\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "有线快充", "value": "100W", "raw": "{\"question\": \"Mate 80 Pro 的有线快充功率是多少？\", \"answer\": \"100W\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "无线快充", "value": "80W", "raw": "{\"question\": \"Mate 80 Pro的无线快充功率是多少？\", \"answer\": \"80W\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "极限续航", "value": "13天", "raw": "{\"question\": \"Mate 80 Pro的极限续航是多久？\", \"answer\": \"13天\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "后置主摄", "value": "5000万像素超聚光主摄", "raw": "{\"question\": \"Mate 80 Pro的后置主摄是什么？\", \"answer\": \"5000万像素超聚光主摄\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "传感器", "value": "1/1.28英寸", "raw": "{\"question\": \"Mate 80 Pro的传感器是什么？\", \"answer\": \"1/1.28英寸\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "微距长焦", "value": "4800万像素超聚光微距长焦", "raw": "{\"question\": \"Mate 80 Pro 的微距长焦是什么？\", \"answer\": \"4800万像素超聚光微距长焦\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "微距长焦变焦", "value": "4X/8X", "raw": "{\"question\": \"Mate 80 Pro 的微距长焦变焦是多少？\", \"answer\": \"4X/8X\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "超广角", "value": "4000万像素", "raw": "{\"question\": \"Mate 80 Pro 的超广角是多少像素？\", \"answer\": \"4000万像素\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "影像芯片", "value": "第九代ISP", "raw": "{\"question\": \"Mate 80 Pro的影像芯片是什么？\", \"answer\": \"第九代ISP\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "售价", "value": "5999元起", "raw": "{\"question\": \"Mate 80 Pro售价多少？\", \"answer\": \"5999元起\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "中框", "value": "亮面铝合金", "raw": "{\"question\": \"Mate 80 Pro 的中框是什么？\", \"answer\": \"亮面铝合金\"}", "status": "ok"}
+{"entity": "Mate 80 Pro", "relation": "重量", "value": "约219克", "raw": "{\"question\": \"Mate 80 Pro的重量是多少？\", \"answer\": \"约219克\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "搭载芯片", "value": "麒麟9030 Pro", "raw": "{\"question\": \"Mate 80 Pro Max搭载的芯片是什么？\", \"answer\": \"麒麟9030 Pro\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "屏幕", "value": "6.9英寸超透亮灵珑屏", "raw": "{\"question\": \"Mate 80 Pro Max的屏幕是什么？\", \"answer\": \"6.9英寸超透亮灵珑屏\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "屏幕类型", "value": "1.5K双层OLED", "raw": "{\"question\": \"Mate 80 Pro Max的屏幕类型是什么？\", \"answer\": \"1.5K双层OLED\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "峰值亮度", "value": "8000nits", "raw": "{\"question\": \"Mate 80 Pro Max的峰值亮度是多少？\", \"answer\": \"8000nits\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "电池", "value": "6000mAh", "raw": "{\"question\": \"Mate 80 Pro Max的电池是多少？\", \"answer\": \"6000mAh\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "散热", "value": "超冷双相变散热系统", "raw": "{\"question\": \"Mate 80 Pro Max的散热是什么？\", \"answer\": \"超冷双相变散热系统\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "后置主摄", "value": "5000万像素超高动态主摄", "raw": "{\"question\": \"Mate 80 Pro Max的后置主摄是什么？\", \"answer\": \"5000万像素超高动态主摄\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "潜望长焦_4X", "value": "4800万像素", "raw": "{\"question\": \"Mate 80 Pro Max的潜望长焦_4X是多少像素？\", \"answer\": \"4800万像素\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "潜望长焦_6.2X", "value": "5000万像素", "raw": "{\"question\": \"Mate 80 Pro Max的潜望长焦_6.2X是多少像素？\", \"answer\": \"5000万像素\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "极限续航", "value": "14天", "raw": "{\"question\": \"Mate 80 Pro Max 的极限续航是多久？\", \"answer\": \"14天\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max", "relation": "售价", "value": "7999元起", "raw": "{\"question\": \"Mate 80 Pro Max的售价是多少？\", \"answer\": \"7999元起\"}", "status": "ok"}
+{"entity": "Mate 80 RS 非凡大师", "relation": "搭载芯片", "value": "麒麟9030 Pro", "raw": "{\"question\": \"Mate 80 RS 非凡大师搭载的芯片是什么？\", \"answer\": \"麒麟9030 Pro\"}", "status": "ok"}
+{"entity": "Mate 80 RS 非凡大师", "relation": "内存", "value": "20GB", "raw": "{\"question\": \"Mate 80 RS 非凡大师的内存是多少？\", \"answer\": \"20GB\"}", "status": "ok"}
+{"entity": "Mate 80 RS 非凡大师", "relation": "屏幕", "value": "6.9英寸第三代玄武钢化昆仑玻璃", "raw": "{\"question\": \"Mate 80 RS 非凡大师的屏幕是什么？\", \"answer\": \"6.9英寸第三代玄武钢化昆仑玻璃\"}", "status": "ok"}
+{"entity": "Mate 80 RS 非凡大师", "relation": "电池", "value": "6000mAh", "raw": "{\"question\": \"Mate 80 RS 非凡大师的电池是多少？\", \"answer\": \"6000mAh\"}", "status": "ok"}
+{"entity": "Mate 80 RS 非凡大师", "relation": "机身", "value": "全金属", "raw": "{\"question\": \"Mate 80 RS 非凡大师的机身是什么材质？\", \"answer\": \"全金属\"}", "status": "ok"}
+{"entity": "Mate 80 RS 非凡大师", "relation": "配色", "value": "槿紫", "raw": "{\"question\": \"Mate 80 RS 非凡大师的配色是什么？\", \"answer\": \"槿紫\"}", "status": "ok"}
+{"entity": "Mate 80 RS 非凡大师", "relation": "售价", "value": "11999元起", "raw": "{\"question\": \"Mate 80 RS 非凡大师的售价是多少？\", \"answer\": \"11999元起\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max 风驰版", "relation": "发布时间", "value": "2026年3月23日", "raw": "{\"question\": \"Mate 80 Pro Max 风驰版的发布时间是什么时候？\", \"answer\": \"2026年3月23日\"}", "status": "ok"}
+{"entity": "Mate 80 Pro Max 风驰版", "relation": "搭载芯片", "value": "麒麟9030 Pro", "raw": "{\"question\": \"Mate 80 Pro Max 风驰版搭载的芯片是什么？\", \"answer\": \"麒麟9030 Pro\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "发布时间", "value": "2025年12月22日", "raw": "{\"question\": \"MatePad 11.5的发布时间是什么时候？\", \"answer\": \"2025年12月22日\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "上市时间", "value": "2025年12月25日", "raw": "{\"question\": \"MatePad 11.5的上市时间是什么时候？\", \"answer\": \"2025年12月25日\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "售价", "value": "1799元起", "raw": "{\"question\": \"MatePad 11.5的售价是多少？\", \"answer\": \"1799元起\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "目标人群", "value": "K12学生群体", "raw": "{\"question\": \"MatePad 11.5的目标人群是什么？\", \"answer\": \"K12学生群体\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "产品定位", "value": "学习平板", "raw": "{\"question\": \"MatePad 11.5的产品定位是什么？\", \"answer\": \"学习平板\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "屏幕", "value": "11.5英寸", "raw": "{\"question\": \"MatePad 11.5的屏幕是多少？\", \"answer\": \"11.5英寸\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "屏幕技术", "value": "云晰柔光屏", "raw": "{\"question\": \"MatePad 11.5采用了什么屏幕技术？\", \"answer\": \"云晰柔光屏\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "分辨率", "value": "2200×1440", "raw": "{\"question\": \"MatePad 11.5的分辨率是多少？\", \"answer\": \"2200×1440\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "刷新率", "value": "60/120Hz智能刷新率", "raw": "{\"question\": \"MatePad 11.5的刷新率是多少？\", \"answer\": \"60/120Hz智能刷新率\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "护眼技术", "value": "类自然光护眼", "raw": "{\"question\": \"MatePad 11.5采用了什么护眼技术？\", \"answer\": \"类自然光护眼\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "电池", "value": "10100mAh", "raw": "{\"question\": \"MatePad 11.5的电池是多少？\", \"answer\": \"10100mAh\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "快充", "value": "40W", "raw": "{\"question\": \"MatePad 11.5的快充功率是多少？\", \"answer\": \"40W\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "视频续航", "value": "14小时", "raw": "{\"question\": \"MatePad 11.5的视频续航是多少？\", \"answer\": \"14小时\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "充电时间", "value": "90分钟回满", "raw": "{\"question\": \"MatePad 11.5的充电时间是多长？\", \"answer\": \"90分钟回满\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "处理器", "value": "4纳米处理器", "raw": "{\"question\": \"MatePad 11.5的处理器是什么？\", \"answer\": \"4纳米处理器\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "后置摄像头", "value": "1300万像素", "raw": "{\"question\": \"MatePad 11.5的后置摄像头是多少？\", \"answer\": \"1300万像素\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "后置光圈", "value": "F1.8", "raw": "{\"question\": \"MatePad 11.5的后置光圈是多少？\", \"answer\": \"F1.8\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "前置摄像头", "value": "8MP 105°广角", "raw": "{\"question\": \"MatePad 11.5的前置摄像头是什么？\", \"answer\": \"8MP 105°广角\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "扬声器", "value": "四扬声器", "raw": "{\"question\": \"MatePad 11.5的扬声器是什么？\", \"answer\": \"四扬声器\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "音频算法", "value": "Histen 9.0", "raw": "{\"question\": \"MatePad 11.5采用什么音频算法？\", \"answer\": \"Histen 9.0\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "系统", "value": "鸿蒙AI健康学习体系", "raw": "{\"question\": \"MatePad 11.5的系统是什么？\", \"answer\": \"鸿蒙AI健康学习体系\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "厚度", "value": "6.1mm", "raw": "{\"question\": \"MatePad 11.5的厚度是多少？\", \"answer\": \"6.1mm\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "重量", "value": "515克", "raw": "{\"question\": \"MatePad 11.5的重量是多少？\", \"answer\": \"515克\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "机身", "value": "全金属一体化", "raw": "{\"question\": \"MatePad 11.5的机身是什么材质？\", \"answer\": \"全金属一体化\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "工艺", "value": "阳极氧化", "raw": "{\"question\": \"MatePad 11.5的工艺是什么？\", \"answer\": \"阳极氧化\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "手写笔", "value": "HUAWEI M-Pencil第三代", "raw": "{\"question\": \"MatePad 11.5 的手写笔是什么？\", \"answer\": \"HUAWEI M-Pencil第三代\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "压感等级", "value": "4096级", "raw": "{\"question\": \"MatePad 11.5的压感等级是多少？\", \"answer\": \"4096级\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "键盘", "value": "华为智能键盘", "raw": "{\"question\": \"MatePad 11.5的键盘是什么？\", \"answer\": \"华为智能键盘\"}", "status": "ok"}
+{"entity": "MatePad 11.5", "relation": "天线", "value": "空腔槽磁性CSM天线", "raw": "{\"question\": \"MatePad 11.5采用的是什么天线？\", \"answer\": \"空腔槽磁性CSM天线\"}", "status": "ok"}
+{"entity": "问界M7", "relation": "生产厂商", "value": "赛力斯", "raw": "{\"question\": \"问界M7的生产厂商是谁？\", \"answer\": \"赛力斯\"}", "status": "ok"}
+{"entity": "问界M7", "relation": "联合研发", "value": "华为", "raw": "{\"question\": \"问界M7联合研发了什么？\", \"answer\": \"华为\"}", "status": "ok"}
+{"entity": "问界M7", "relation": "目标人群", "value": "年轻家庭群体", "raw": "{\"question\": \"问界M7的目标人群是什么？\", \"answer\": \"年轻家庭群体\"}", "status": "ok"}
+{"entity": "问界M7", "relation": "车辆级别", "value": "大中型SUV", "raw": "{\"question\": \"问界M7的车辆级别是什么？\", \"answer\": \"大中型SUV\"}", "status": "ok"}
+{"entity": "问界M7", "relation": "加速时间", "value": "4.8秒", "raw": "{\"question\": \"问界M7的加速时间是多少？\", \"answer\": \"4.8秒\"}", "status": "ok"}
+{"entity": "问界M7", "relation": "驱动方式", "value": "两驱、四驱", "raw": "{\"question\": \"问界M7的驱动方式是什么？\", \"answer\": \"两驱、四驱\"}", "status": "ok"}
+{"entity": "问界M7", "relation": "座位数", "value": "5至6个", "raw": "{\"question\": \"问界M7的座位数是多少？\", \"answer\": \"5至6个\"}", "status": "ok"}
+{"entity": "问界M7", "relation": "车身颜色", "value": "海岛蓝、暖云白、牧野青、珊瑚红、星际蓝、鎏金黑", "raw": "{\"question\": \"问界M7的车身颜色有哪些？\", \"answer\": \"海岛蓝、暖云白、牧野青、珊瑚红、星际蓝、鎏金黑\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "发布时间", "value": "2022年7月4日", "raw": "{\"question\": \"问界M7 初代的发布时间是什么时候？\", \"answer\": \"2022年7月4日\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "售价", "value": "31.98-37.98万元", "raw": "{\"question\": \"问界M7 初代的售价是多少？\", \"answer\": \"31.98-37.98万元\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "电池容量", "value": "40kWh", "raw": "{\"question\": \"问界M7 初代的电池容量是多少？\", \"answer\": \"40kWh\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "电池类型", "value": "三元锂", "raw": "{\"question\": \"问界M7 初代的电池类型是什么？\", \"answer\": \"三元锂\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "CLTC综合续航", "value": "1220公里", "raw": "{\"question\": \"问界M7 初代的CLTC综合续航是多少？\", \"answer\": \"1220公里\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "CLTC纯电续航", "value": "230公里", "raw": "{\"question\": \"问界M7 初代的CLTC纯电续航是多少？\", \"answer\": \"230公里\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "百公里油耗", "value": "5.8L", "raw": "{\"question\": \"问界M7 初代的百公里油耗是多少？\", \"answer\": \"5.8L\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "0-100加速", "value": "7.8秒(后驱)/4.8秒(四驱)", "raw": "{\"question\": \"问界M7 初代的0-100加速是多少？\", \"answer\": \"7.8秒(后驱)/4.8秒(四驱)\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "增程器", "value": "1.5T四缸专用增程器", "raw": "{\"question\": \"问界M7 初代的增程器是什么？\", \"answer\": \"1.5T四缸专用增程器\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "车身尺寸", "value": "5020×1945×1775mm", "raw": "{\"question\": \"问界M7 初代的车身尺寸是多少？\", \"answer\": \"5020×1945×1775mm\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "轴距", "value": "2820mm", "raw": "{\"question\": \"问界M7 初代的轴距是多少？\", \"answer\": \"2820mm\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "前悬架", "value": "麦弗逊式独立悬架", "raw": "{\"question\": \"问界M7 初代的前悬架是什么？\", \"answer\": \"麦弗逊式独立悬架\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "后悬架", "value": "多连杆独立悬架", "raw": "{\"question\": \"问界M7 初代的后悬架是什么？\", \"answer\": \"多连杆独立悬架\"}", "status": "ok"}
+{"entity": "问界M7 初代", "relation": "油箱容积", "value": "60L", "raw": "{\"question\": \"问界M7 初代的油箱容积是多少？\", \"answer\": \"60L\"}", "status": "ok"}
+{"entity": "问界新M7 (2023款)", "relation": "发布时间", "value": "2023年9月12日", "raw": "{\"question\": \"问界新M7 (2023款)的发布时间是什么时候？\", \"answer\": \"2023年9月12日\"}", "status": "ok"}
+{"entity": "问界新M7 (2023款)", "relation": "售价", "value": "24.98-32.98万元", "raw": "{\"question\": \"问界新M7 (2023款)的售价是多少？\", \"answer\": \"24.98-32.98万元\"}", "status": "ok"}
+{"entity": "问界新M7 (2023款)", "relation": "CLTC综合续航", "value": "1300公里", "raw": "{\"question\": \"问界新M7 (2023款)的CLTC综合续航是多少？\", \"answer\": \"1300公里\"}", "status": "ok"}
+{"entity": "问界新M7 (2023款)", "relation": "CLTC纯电续航", "value": "240公里", "raw": "{\"question\": \"问界新M7 (2023款)的CLTC纯电续航是多少？\", \"answer\": \"240公里\"}", "status": "ok"}
+{"entity": "问界新M7 Ultra (2024款)", "relation": "发布时间", "value": "2024年5月31日", "raw": "{\"question\": \"问界新M7 Ultra (2024款)的发布时间是什么时候？\", \"answer\": \"2024年5月31日\"}", "status": "ok"}
+{"entity": "问界新M7 Ultra (2024款)", "relation": "售价", "value": "28.98万元起", "raw": "{\"question\": \"问界新M7 Ultra (2024款)的售价是多少？\", \"answer\": \"28.98万元起\"}", "status": "ok"}
+{"entity": "问界新M7 Ultra (2024款)", "relation": "后驱五座版", "value": "28.98万元", "raw": "{\"question\": \"问界新M7 Ultra (2024款)的后驱五座版是多少万元？\", \"answer\": \"28.98万元\"}", "status": "ok"}
+{"entity": "问界新M7 Ultra (2024款)", "relation": "四驱六座版", "value": "32.98万元", "raw": "{\"question\": \"问界新M7 Ultra (2024款)的四驱六座版是多少万元？\", \"answer\": \"32.98万元\"}", "status": "ok"}
+{"entity": "问界新M7 Pro (2024款)", "relation": "发布时间", "value": "2024年8月26日", "raw": "{\"question\": \"问界新M7 Pro (2024款)的发布时间是什么时候？\", \"answer\": \"2024年8月26日\"}", "status": "ok"}
+{"entity": "问界新M7 Pro (2024款)", "relation": "售价", "value": "24.98万元起", "raw": "{\"question\": \"问界新M7 Pro (2024款)的售价是多少？\", \"answer\": \"24.98万元起\"}", "status": "ok"}
+{"entity": "问界新M7 Pro (2024款)", "relation": "搭载智驾", "value": "HUAWEI ADS基础版", "raw": "{\"question\": \"问界新M7 Pro (2024款)搭载了什么智驾？\", \"answer\": \"HUAWEI ADS基础版\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "发布时间", "value": "2025年9月23日", "raw": "{\"question\": \"全新问界M7 (2025款)的发布时间是什么时候？\", \"answer\": \"2025年9月23日\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "交付时间", "value": "2025年9月26日", "raw": "{\"question\": \"全新问界M7 (2025款)的交付时间是什么时候？\", \"answer\": \"2025年9月26日\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "售价", "value": "27.98-37.98万元", "raw": "{\"question\": \"全新问界M7 (2025款)的售价是多少？\", \"answer\": \"27.98-37.98万元\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "动力形式", "value": "增程+纯电双动力", "raw": "{\"question\": \"全新问界M7 (2025款)的动力形式是什么？\", \"answer\": \"增程+纯电双动力\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "车身尺寸", "value": "5080×1999×1780mm", "raw": "{\"question\": \"全新问界M7 (2025款)的车身尺寸是多少？\", \"answer\": \"5080×1999×1780mm\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "轴距", "value": "3030mm", "raw": "{\"question\": \"全新问界M7 (2025款)的轴距是多少？\", \"answer\": \"3030mm\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "中控屏", "value": "16.1英寸3K", "raw": "{\"question\": \"全新问界M7 (2025款)的中控屏是什么？\", \"answer\": \"16.1英寸3K\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "增程器", "value": "1.5T增程器，最大功率118千瓦", "raw": "{\"question\": \"全新问界M7 (2025款)的增程器是什么？\", \"answer\": \"1.5T增程器，最大功率118千瓦\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "电池选项", "value": "37kWh/53kWh", "raw": "{\"question\": \"全新问界M7 (2025款)的电池选项是什么？\", \"answer\": \"37kWh/53kWh\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "CLTC综合续航", "value": "1600公里", "raw": "{\"question\": \"全新问界M7 (2025款)的CLTC综合续航是多少？\", \"answer\": \"1600公里\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "纯电电池", "value": "100kWh", "raw": "{\"question\": \"全新问界M7 (2025款)的纯电电池是多少？\", \"answer\": \"100kWh\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "CLTC纯电续航", "value": "700+公里", "raw": "{\"question\": \"全新问界M7 (2025款)的CLTC纯电续航是多少？\", \"answer\": \"700+公里\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "搭载智驾", "value": "HUAWEI ADS 4", "raw": "{\"question\": \"全新问界M7 (2025款)搭载了什么智驾？\", \"answer\": \"HUAWEI ADS 4\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "激光雷达", "value": "192线，探测250米", "raw": "{\"question\": \"全新问界M7 (2025款)的激光雷达是什么样的？\", \"answer\": \"192线，探测250米\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "底盘", "value": "华为途灵底盘", "raw": "{\"question\": \"全新问界M7 (2025款)的底盘是什么？\", \"answer\": \"华为途灵底盘\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "前悬架", "value": "双叉臂式独立悬架", "raw": "{\"question\": \"全新问界M7 (2025款)的前悬架是什么？\", \"answer\": \"双叉臂式独立悬架\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "后悬架", "value": "五连杆式独立悬架", "raw": "{\"question\": \"全新问界M7 (2025款)的后悬架是什么？\", \"answer\": \"五连杆式独立悬架\"}", "status": "ok"}
+{"entity": "全新问界M7 (2025款)", "relation": "电池品牌", "value": "宁德时代", "raw": "{\"question\": \"全新问界M7 (2025款)的电池品牌是什么？\", \"answer\": \"宁德时代\"}", "status": "ok"}
+{"entity": "问界M7 增程长续航版 (2026款)", "relation": "发布时间", "value": "2026年1月13日", "raw": "{\"question\": \"问界M7 增程长续航版 (2026款)的发布时间是什么时候？\", \"answer\": \"2026年1月13日\"}", "status": "ok"}
+{"entity": "问界M7 增程长续航版 (2026款)", "relation": "售价", "value": "29.98万元起", "raw": "{\"question\": \"问界M7 增程长续航版 (2026款)的售价是多少？\", \"answer\": \"29.98万元起\"}", "status": "ok"}
+{"entity": "问界M7 (2026款)", "relation": "发布时间", "value": "2026年3月23日", "raw": "{\"question\": \"问界M7 (2026款)的发布时间是什么时候？\", \"answer\": \"2026年3月23日\"}", "status": "ok"}
+{"entity": "问界M7 (2026款)", "relation": "售价", "value": "30.98万元起", "raw": "{\"question\": \"问界M7 (2026款)的售价是多少？\", \"answer\": \"30.98万元起\"}", "status": "ok"}
+{"entity": "问界M7 (2026款)", "relation": "激光雷达", "value": "896线双光路图像级", "raw": "{\"question\": \"问界M7 (2026款)的激光雷达是什么？\", \"answer\": \"896线双光路图像级\"}", "status": "ok"}
+{"entity": "问界M7 (2026款)", "relation": "传感器数量", "value": "36个", "raw": "{\"question\": \"问界M7 (2026款)的传感器数量是多少？\", \"answer\": \"36个\"}", "status": "ok"}
+{"entity": "问界M7 (2026款)", "relation": "配色", "value": "新增夜紫", "raw": "{\"question\": \"问界M7 (2026款)的配色是什么？\", \"answer\": \"新增夜紫\"}", "status": "ok"}

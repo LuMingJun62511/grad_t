@@ -1,0 +1,500 @@
+{
+  "article": "问界M7_百度百科",
+  "source": "百度百科",
+  "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7",
+  "entities": [
+    {
+      "entity": "问界M7",
+      "level": "车型",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "问界系",
+          "bucket": "A"
+        },
+        {
+          "relation": "生产厂商",
+          "value": "赛力斯",
+          "bucket": "A"
+        },
+        {
+          "relation": "联合研发",
+          "value": "华为",
+          "bucket": "A"
+        },
+        {
+          "relation": "产品定位",
+          "value": "大中型SUV",
+          "bucket": "A"
+        },
+        {
+          "relation": "产品定位",
+          "value": "豪华智慧大型电动SUV",
+          "bucket": "A"
+        },
+        {
+          "relation": "目标人群",
+          "value": "年轻家庭群体",
+          "bucket": "A"
+        },
+        {
+          "relation": "竞品",
+          "value": "理想L7",
+          "bucket": "B"
+        },
+        {
+          "relation": "竞品",
+          "value": "小米YU7",
+          "bucket": "B"
+        },
+        {
+          "relation": "竞品",
+          "value": "魏牌蓝山",
+          "bucket": "B"
+        },
+        {
+          "relation": "竞品",
+          "value": "小鹏G9",
+          "bucket": "B"
+        },
+        {
+          "relation": "累计交付",
+          "value": "45万台",
+          "bucket": "B"
+        },
+        {
+          "relation": "累计交付突破时间",
+          "value": "2026年5月19日",
+          "bucket": "B"
+        },
+        {
+          "relation": "销量地位",
+          "value": "鸿蒙智行单一销量最高车型",
+          "bucket": "B"
+        },
+        {
+          "relation": "销量地位",
+          "value": "2024年新势力SUV销量第一",
+          "bucket": "B"
+        },
+        {
+          "relation": "车辆级别",
+          "value": "大中型SUV",
+          "bucket": "A"
+        },
+        {
+          "relation": "加速时间",
+          "value": "4.8秒",
+          "bucket": "A"
+        },
+        {
+          "relation": "驱动方式",
+          "value": "两驱、四驱",
+          "bucket": "A"
+        },
+        {
+          "relation": "座位数",
+          "value": "5至6个",
+          "bucket": "A"
+        },
+        {
+          "relation": "车身颜色",
+          "value": "海岛蓝、暖云白、牧野青、珊瑚红、星际蓝、鎏金黑",
+          "bucket": "A"
+        }
+      ]
+    },
+    {
+      "entity": "问界M7 初代",
+      "level": "版本",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "问界M7",
+          "bucket": "A"
+        },
+        {
+          "relation": "发布时间",
+          "value": "2022年7月4日",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "31.98-37.98万元",
+          "bucket": "A"
+        },
+        {
+          "relation": "电池容量",
+          "value": "40kWh",
+          "bucket": "A"
+        },
+        {
+          "relation": "电池类型",
+          "value": "三元锂",
+          "bucket": "A"
+        },
+        {
+          "relation": "CLTC综合续航",
+          "value": "1220公里",
+          "bucket": "A"
+        },
+        {
+          "relation": "CLTC纯电续航",
+          "value": "230公里",
+          "bucket": "A"
+        },
+        {
+          "relation": "百公里油耗",
+          "value": "5.8L",
+          "bucket": "A"
+        },
+        {
+          "relation": "0-100加速",
+          "value": "7.8秒(后驱)/4.8秒(四驱)",
+          "bucket": "A"
+        },
+        {
+          "relation": "增程器",
+          "value": "1.5T四缸专用增程器",
+          "bucket": "A"
+        },
+        {
+          "relation": "车身尺寸",
+          "value": "5020×1945×1775mm",
+          "bucket": "A"
+        },
+        {
+          "relation": "轴距",
+          "value": "2820mm",
+          "bucket": "A"
+        },
+        {
+          "relation": "前悬架",
+          "value": "麦弗逊式独立悬架",
+          "bucket": "A"
+        },
+        {
+          "relation": "后悬架",
+          "value": "多连杆独立悬架",
+          "bucket": "A"
+        },
+        {
+          "relation": "油箱容积",
+          "value": "60L",
+          "bucket": "A"
+        }
+      ]
+    },
+    {
+      "entity": "问界新M7 (2023款)",
+      "level": "版本",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "问界M7",
+          "bucket": "A"
+        },
+        {
+          "relation": "发布时间",
+          "value": "2023年9月12日",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "24.98-32.98万元",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "HUAWEI DATS 2.0",
+          "bucket": "A"
+        },
+        {
+          "relation": "CLTC综合续航",
+          "value": "1300公里",
+          "bucket": "A"
+        },
+        {
+          "relation": "CLTC纯电续航",
+          "value": "240公里",
+          "bucket": "A"
+        },
+        {
+          "relation": "首月大定",
+          "value": "6万台",
+          "bucket": "B"
+        },
+        {
+          "relation": "50天大定",
+          "value": "8万台",
+          "bucket": "B"
+        }
+      ]
+    },
+    {
+      "entity": "问界新M7 Ultra (2024款)",
+      "level": "版本",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "问界M7",
+          "bucket": "A"
+        },
+        {
+          "relation": "发布时间",
+          "value": "2024年5月31日",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "28.98万元起",
+          "bucket": "A"
+        },
+        {
+          "relation": "后驱五座版",
+          "value": "28.98万元",
+          "bucket": "A"
+        },
+        {
+          "relation": "四驱六座版",
+          "value": "32.98万元",
+          "bucket": "A"
+        }
+      ]
+    },
+    {
+      "entity": "问界新M7 Pro (2024款)",
+      "level": "版本",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "问界M7",
+          "bucket": "A"
+        },
+        {
+          "relation": "发布时间",
+          "value": "2024年8月26日",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "24.98万元起",
+          "bucket": "A"
+        },
+        {
+          "relation": "搭载智驾",
+          "value": "HUAWEI ADS基础版",
+          "bucket": "A"
+        }
+      ]
+    },
+    {
+      "entity": "全新问界M7 (2025款)",
+      "level": "版本",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "问界M7",
+          "bucket": "A"
+        },
+        {
+          "relation": "发布时间",
+          "value": "2025年9月23日",
+          "bucket": "A"
+        },
+        {
+          "relation": "交付时间",
+          "value": "2025年9月26日",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "27.98-37.98万元",
+          "bucket": "A"
+        },
+        {
+          "relation": "动力形式",
+          "value": "增程+纯电双动力",
+          "bucket": "A"
+        },
+        {
+          "relation": "车身尺寸",
+          "value": "5080×1999×1780mm",
+          "bucket": "A"
+        },
+        {
+          "relation": "轴距",
+          "value": "3030mm",
+          "bucket": "A"
+        },
+        {
+          "relation": "轴距增加",
+          "value": "210mm",
+          "bucket": "B"
+        },
+        {
+          "relation": "中控屏",
+          "value": "16.1英寸3K",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "主驾零重力座椅",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "后排吸顶娱乐屏",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "车载冷暖箱",
+          "bucket": "A"
+        },
+        {
+          "relation": "增程器",
+          "value": "1.5T增程器，最大功率118千瓦",
+          "bucket": "A"
+        },
+        {
+          "relation": "电池选项",
+          "value": "37kWh/53kWh",
+          "bucket": "A"
+        },
+        {
+          "relation": "CLTC综合续航",
+          "value": "1600公里",
+          "bucket": "A"
+        },
+        {
+          "relation": "纯电电池",
+          "value": "100kWh",
+          "bucket": "A"
+        },
+        {
+          "relation": "CLTC纯电续航",
+          "value": "700+公里",
+          "bucket": "A"
+        },
+        {
+          "relation": "搭载智驾",
+          "value": "HUAWEI ADS 4",
+          "bucket": "A"
+        },
+        {
+          "relation": "激光雷达",
+          "value": "192线，探测250米",
+          "bucket": "A"
+        },
+        {
+          "relation": "底盘",
+          "value": "华为途灵底盘",
+          "bucket": "A"
+        },
+        {
+          "relation": "前悬架",
+          "value": "双叉臂式独立悬架",
+          "bucket": "A"
+        },
+        {
+          "relation": "后悬架",
+          "value": "五连杆式独立悬架",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "空气悬架",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "舱内激光视觉",
+          "bucket": "A"
+        },
+        {
+          "relation": "预售成绩",
+          "value": "预售17天小订超22万台",
+          "bucket": "B"
+        },
+        {
+          "relation": "上市5分钟大定",
+          "value": "1万台",
+          "bucket": "B"
+        },
+        {
+          "relation": "上市7天大定",
+          "value": "6万台",
+          "bucket": "B"
+        },
+        {
+          "relation": "电池品牌",
+          "value": "宁德时代",
+          "bucket": "A"
+        }
+      ]
+    },
+    {
+      "entity": "问界M7 增程长续航版 (2026款)",
+      "level": "版本",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "问界M7",
+          "bucket": "A"
+        },
+        {
+          "relation": "发布时间",
+          "value": "2026年1月13日",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "29.98万元起",
+          "bucket": "A"
+        },
+        {
+          "relation": "预订权益",
+          "value": "2000元抵5000元",
+          "bucket": "B"
+        }
+      ]
+    },
+    {
+      "entity": "问界M7 (2026款)",
+      "level": "版本",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "问界M7",
+          "bucket": "A"
+        },
+        {
+          "relation": "发布时间",
+          "value": "2026年3月23日",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "30.98万元起",
+          "bucket": "A"
+        },
+        {
+          "relation": "激光雷达",
+          "value": "896线双光路图像级",
+          "bucket": "A"
+        },
+        {
+          "relation": "传感器数量",
+          "value": "36个",
+          "bucket": "A"
+        },
+        {
+          "relation": "配色",
+          "value": "新增夜紫",
+          "bucket": "A"
+        }
+      ]
+    }
+  ]
+}

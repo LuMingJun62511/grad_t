@@ -1,0 +1,239 @@
+{
+  "article": "MatePad_11.5_百度百科",
+  "source": "百度百科",
+  "tree_path": "华为 > 平板 > MatePad 数字系 > MatePad 11.5",
+  "entities": [
+    {
+      "entity": "MatePad 11.5",
+      "level": "SPU",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "MatePad 数字系",
+          "bucket": "A"
+        },
+        {
+          "relation": "发布时间",
+          "value": "2025年12月22日",
+          "bucket": "A"
+        },
+        {
+          "relation": "上市时间",
+          "value": "2025年12月25日",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "1799元起",
+          "bucket": "A"
+        },
+        {
+          "relation": "教育优惠",
+          "value": "100元",
+          "bucket": "B"
+        },
+        {
+          "relation": "目标人群",
+          "value": "K12学生群体",
+          "bucket": "A"
+        },
+        {
+          "relation": "产品定位",
+          "value": "学习平板",
+          "bucket": "A"
+        },
+        {
+          "relation": "屏幕",
+          "value": "11.5英寸",
+          "bucket": "A"
+        },
+        {
+          "relation": "屏幕技术",
+          "value": "云晰柔光屏",
+          "bucket": "A"
+        },
+        {
+          "relation": "分辨率",
+          "value": "2200×1440",
+          "bucket": "A"
+        },
+        {
+          "relation": "刷新率",
+          "value": "60/120Hz智能刷新率",
+          "bucket": "A"
+        },
+        {
+          "relation": "护眼技术",
+          "value": "类自然光护眼",
+          "bucket": "A"
+        },
+        {
+          "relation": "护眼认证",
+          "value": "SGS低视觉疲劳金标2.1",
+          "bucket": "C"
+        },
+        {
+          "relation": "护眼认证",
+          "value": "德国莱茵圆偏振光显示",
+          "bucket": "C"
+        },
+        {
+          "relation": "电池",
+          "value": "10100mAh",
+          "bucket": "A"
+        },
+        {
+          "relation": "快充",
+          "value": "40W",
+          "bucket": "A"
+        },
+        {
+          "relation": "视频续航",
+          "value": "14小时",
+          "bucket": "A"
+        },
+        {
+          "relation": "充电时间",
+          "value": "90分钟回满",
+          "bucket": "A"
+        },
+        {
+          "relation": "处理器",
+          "value": "4纳米处理器",
+          "bucket": "A"
+        },
+        {
+          "relation": "性能提升",
+          "value": "较上一代提升30%",
+          "bucket": "B"
+        },
+        {
+          "relation": "后置摄像头",
+          "value": "1300万像素",
+          "bucket": "A"
+        },
+        {
+          "relation": "后置光圈",
+          "value": "F1.8",
+          "bucket": "A"
+        },
+        {
+          "relation": "前置摄像头",
+          "value": "8MP 105°广角",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "FollowCam跟随拍摄",
+          "bucket": "A"
+        },
+        {
+          "relation": "扬声器",
+          "value": "四扬声器",
+          "bucket": "A"
+        },
+        {
+          "relation": "音频算法",
+          "value": "Histen 9.0",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "AI降噪",
+          "bucket": "A"
+        },
+        {
+          "relation": "系统",
+          "value": "鸿蒙AI健康学习体系",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "小艺深度解题",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "华为笔记App",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "未成年人模式",
+          "bucket": "A"
+        },
+        {
+          "relation": "厚度",
+          "value": "6.1mm",
+          "bucket": "A"
+        },
+        {
+          "relation": "重量",
+          "value": "515克",
+          "bucket": "A"
+        },
+        {
+          "relation": "机身",
+          "value": "全金属一体化",
+          "bucket": "A"
+        },
+        {
+          "relation": "工艺",
+          "value": "阳极氧化",
+          "bucket": "A"
+        },
+        {
+          "relation": "配色",
+          "value": "羽砂紫",
+          "bucket": "A"
+        },
+        {
+          "relation": "配色",
+          "value": "海岛蓝",
+          "bucket": "A"
+        },
+        {
+          "relation": "手写笔",
+          "value": "HUAWEI M-Pencil第三代",
+          "bucket": "A"
+        },
+        {
+          "relation": "压感等级",
+          "value": "4096级",
+          "bucket": "A"
+        },
+        {
+          "relation": "键盘",
+          "value": "华为智能键盘",
+          "bucket": "A"
+        },
+        {
+          "relation": "天线",
+          "value": "空腔槽磁性CSM天线",
+          "bucket": "A"
+        },
+        {
+          "relation": "下载速率提升",
+          "value": "368%",
+          "bucket": "B"
+        }
+      ]
+    },
+    {
+      "entity": "MatePad 11.5 S",
+      "level": "SPU",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "MatePad 数字系",
+          "bucket": "A"
+        },
+        {
+          "relation": "相关事件",
+          "value": "华为夏季新品大咖秀8月15日发布",
+          "bucket": "C"
+        }
+      ]
+    }
+  ]
+}

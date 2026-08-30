@@ -1,0 +1,20 @@
+{"entity": "FreeClip 系", "tree_path": "华为 > 耳机 > FreeClip 系", "triples": [{"relation": "is_a", "value": "耳机"}]}
+{"entity": "华为 FreeClip", "tree_path": "华为 > 耳机 > FreeClip 系", "triples": [{"relation": "is_a", "value": "FreeClip 系"}]}
+{"entity": "FreeClip 2", "tree_path": "华为 > 耳机 > FreeClip 系", "triples": [{"relation": "is_a", "value": "FreeClip 系"}]}
+{"entity": "FreeClip 2 典藏版", "tree_path": "华为 > 耳机 > FreeClip 系", "triples": [{"relation": "is_a", "value": "FreeClip 2"}]}
+{"entity": "Mate 80 系列", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "triples": [{"relation": "is_a", "value": "Mate 系"}]}
+{"entity": "Mate 80", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "triples": [{"relation": "is_a", "value": "Mate 80 系列"}]}
+{"entity": "Mate 80 Pro", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "triples": [{"relation": "is_a", "value": "Mate 80 系列"}]}
+{"entity": "Mate 80 Pro Max", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "triples": [{"relation": "is_a", "value": "Mate 80 系列"}]}
+{"entity": "Mate 80 RS 非凡大师", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "triples": [{"relation": "is_a", "value": "Mate 80 系列"}]}
+{"entity": "Mate 80 Pro Max 风驰版", "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列", "triples": [{"relation": "is_a", "value": "Mate 80 系列"}]}
+{"entity": "MatePad 11.5", "tree_path": "华为 > 平板 > MatePad 数字系 > MatePad 11.5", "triples": [{"relation": "is_a", "value": "MatePad 数字系"}]}
+{"entity": "MatePad 11.5 S", "tree_path": "华为 > 平板 > MatePad 数字系 > MatePad 11.5", "triples": [{"relation": "is_a", "value": "MatePad 数字系"}]}
+{"entity": "问界M7", "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7", "triples": [{"relation": "is_a", "value": "问界系"}]}
+{"entity": "问界M7 初代", "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7", "triples": [{"relation": "is_a", "value": "问界M7"}]}
+{"entity": "问界新M7 (2023款)", "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7", "triples": [{"relation": "is_a", "value": "问界M7"}]}
+{"entity": "问界新M7 Ultra (2024款)", "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7", "triples": [{"relation": "is_a", "value": "问界M7"}]}
+{"entity": "问界新M7 Pro (2024款)", "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7", "triples": [{"relation": "is_a", "value": "问界M7"}]}
+{"entity": "全新问界M7 (2025款)", "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7", "triples": [{"relation": "is_a", "value": "问界M7"}]}
+{"entity": "问界M7 增程长续航版 (2026款)", "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7", "triples": [{"relation": "is_a", "value": "问界M7"}]}
+{"entity": "问界M7 (2026款)", "tree_path": "华为 > 智能汽车 > 问界系 > 问界M7", "triples": [{"relation": "is_a", "value": "问界M7"}]}
