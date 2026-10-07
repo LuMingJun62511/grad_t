@@ -1,0 +1,15 @@
+{
+  "name": "华为", "type": "公司",
+  "children": [
+    {"name": "手机", "type": "产线", "children": [
+      {"name": "Mate 系", "type": "系列", "children": [
+        {"name": "Mate 80 系列", "type": "代", "children": [
+          {"name": "Mate 80", "type": "SPU"},
+          {"name": "Mate 80 Pro", "type": "SPU"},
+          {"name": "Mate 80 Pro Max", "type": "SPU"},
+          {"name": "Mate 80 RS 非凡大师", "type": "SPU"}
+        ]}
+      ]}
+    ]}
+  ]
+}

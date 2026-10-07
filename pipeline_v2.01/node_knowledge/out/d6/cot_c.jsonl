@@ -1,0 +1,9 @@
+{"question": "Mate 80 系列的发布时间是多久？", "answer": "2025年11月25日", "response": "【推理】\nMate 80 系列的发布时间为2025年11月25日。\n【答案】\n2025年11月25日", "_meta": {"type": "1-1"}}
+{"question": "Mate 80 系列的开售时间多长时间？", "answer": "2025年11月28日", "response": "【推理】\nMate 80 系列的开售时间在知识结构中明确为2025年11月28日，因此其开售时间为2025年11月28日。\n【答案】\n2025年11月28日", "_meta": {"type": "1-1"}}
+{"question": "Mate 80 系列属于哪个系列？", "answer": "Mate 系", "response": "【推理】\nMate 80 系列在知识结构中标注 is_a 为 Mate 系，因此它属于 Mate 系。\n【答案】\nMate 系", "_meta": {"type": "1-2"}}
+{"question": "Mate 80是哪个系列的？", "answer": "Mate 80 系列", "response": "【推理】\nMate 80 的 is_a 归属为 Mate 80 系列，因此它属于该系列。\n【答案】\nMate 80 系列", "_meta": {"type": "1-2"}}
+{"question": "Mate 80和Mate 80 Pro的后置主摄有什么区别？", "answer": "Mate 80是5000万像素超光变主摄，Mate 80 Pro是5000万像素超聚光主摄", "response": "【推理】\n定位Mate 80与Mate 80 Pro，各取后置主摄参数，前者为超光变、后者为超聚光，故两者主摄类型不同。\n【答案】\nMate 80是5000万像素超光变主摄，Mate 80 Pro是5000万像素超聚光主摄", "_meta": {"type": "2-3"}}
+{"question": "Mate 80和Mate 80 Pro Max在后置主摄上差在哪？", "answer": "Mate 80是5000万像素超光变主摄，Mate 80 Pro Max是5000万像素超高动态主摄", "response": "【推理】\nMate 80主摄为超光变，Mate 80 Pro Max主摄为超高动态，二者像素相同但主摄类型不同。\n【答案】\nMate 80是5000万像素超光变主摄，Mate 80 Pro Max是5000万像素超高动态主摄", "_meta": {"type": "2-3"}}
+{"question": "Mate 80 系列会有 Ultra 版吗？", "answer": "不会（Mate 系命名规则不含 Ultra）", "response": "【推理】\nMate系命名后缀仅Pro/Pro Max/RS非凡大师且排除Ultra，Mate 80系列属Mate系，故不含Ultra版。\n【答案】\n不会（Mate 系命名规则不含 Ultra）", "_meta": {"type": "L2"}}
+{"question": "在华为 Mate 手机里，售价 11999 元起、且内存 20GB 的那款，它所属的那个系列，还有别的叫法吗？", "answer": "有，Mate 系也叫 Mate", "response": "【推理】\n售价11999元起、20GB内存的是Mate 80 RS非凡大师，属Mate 80系列，上溯Mate系，其别名即Mate。\n【答案】\n有，Mate 系也叫 Mate", "_meta": {"type": "3-1"}}
+{"question": "在华为 Mate 手机里，峰值亮度 8000nits、且电池 6000mAh 的那款，它所属的那个系列，名字后缀都有哪些？", "answer": "Pro / Pro Max / RS 非凡大师", "response": "【推理】\n峰值亮度8000nits且电池6000mAh的是Mate 80 Pro Max，上溯属Mate 80系列，其父层Mate系后缀为Pro、Pro Max、RS非凡大师。\n【答案】\nPro / Pro Max / RS 非凡大师", "_meta": {"type": "3-1"}}

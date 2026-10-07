@@ -1,0 +1,568 @@
+{
+  "article": "Mate_80系_百度百科",
+  "source": "百度百科",
+  "tree_path": "华为 > 手机 > Mate 系 > Mate 80 系列",
+  "entities": [
+    {
+      "entity": "Mate 80 系列",
+      "level": "代",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "Mate 系",
+          "bucket": "A"
+        },
+        {
+          "relation": "发布时间",
+          "value": "2025年11月25日",
+          "bucket": "A"
+        },
+        {
+          "relation": "开售时间",
+          "value": "2025年11月28日",
+          "bucket": "A"
+        },
+        {
+          "relation": "操作系统",
+          "value": "HarmonyOS 6",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "第二代红枫原色摄像头",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "天通卫星通信",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "双向北斗卫星消息",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "700MHz无网应急通信",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "13公里最远连接",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "6米IP68级防水",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "IP69级防水",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "户外探索模式",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "10000+条户外路线",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "3D人脸识别",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "智感握姿",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "2.5D直屏",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "第二代昆仑玻璃",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "1-120Hz LTPO自适应刷新率",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "1440Hz高频PWM调光",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "蓝牙6.0",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "WiFi 7+",
+          "bucket": "A"
+        },
+        {
+          "relation": "性能提升",
+          "value": "较上一代提升35%",
+          "bucket": "B"
+        },
+        {
+          "relation": "销量",
+          "value": "截至2026年4月突破500万台",
+          "bucket": "B"
+        },
+        {
+          "relation": "销量破百万",
+          "value": "23天",
+          "bucket": "B"
+        },
+        {
+          "relation": "市场份额",
+          "value": "2025年第48周国内第一",
+          "bucket": "B"
+        }
+      ]
+    },
+    {
+      "entity": "Mate 80",
+      "level": "SPU",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "Mate 80 系列",
+          "bucket": "A"
+        },
+        {
+          "relation": "搭载芯片",
+          "value": "麒麟9020",
+          "bucket": "A"
+        },
+        {
+          "relation": "屏幕",
+          "value": "6.75英寸OLED",
+          "bucket": "A"
+        },
+        {
+          "relation": "屏幕分辨率",
+          "value": "2832x1280",
+          "bucket": "A"
+        },
+        {
+          "relation": "电池",
+          "value": "5750mAh",
+          "bucket": "A"
+        },
+        {
+          "relation": "有线快充",
+          "value": "66W",
+          "bucket": "A"
+        },
+        {
+          "relation": "无线快充",
+          "value": "50W",
+          "bucket": "A"
+        },
+        {
+          "relation": "后置主摄",
+          "value": "5000万像素超光变主摄",
+          "bucket": "A"
+        },
+        {
+          "relation": "主摄光圈",
+          "value": "F1.4-F4.0十档可变光圈",
+          "bucket": "A"
+        },
+        {
+          "relation": "长焦",
+          "value": "1200万像素潜望式长焦",
+          "bucket": "A"
+        },
+        {
+          "relation": "光学变焦",
+          "value": "5.5X",
+          "bucket": "A"
+        },
+        {
+          "relation": "超广角",
+          "value": "4000万像素",
+          "bucket": "A"
+        },
+        {
+          "relation": "前置摄像头",
+          "value": "1300万像素超广角",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "4699元起",
+          "bucket": "A"
+        },
+        {
+          "relation": "产品定位",
+          "value": "商务旗舰",
+          "bucket": "A"
+        },
+        {
+          "relation": "产品定位",
+          "value": "直屏旗舰",
+          "bucket": "A"
+        },
+        {
+          "relation": "机身设计",
+          "value": "背部双环",
+          "bucket": "A"
+        },
+        {
+          "relation": "材质",
+          "value": "锦纤后盖",
+          "bucket": "A"
+        },
+        {
+          "relation": "中框",
+          "value": "磨砂铝合金",
+          "bucket": "A"
+        },
+        {
+          "relation": "重量",
+          "value": "约217克",
+          "bucket": "A"
+        },
+        {
+          "relation": "厚度",
+          "value": "7.95mm",
+          "bucket": "A"
+        }
+      ]
+    },
+    {
+      "entity": "Mate 80 Pro",
+      "level": "SPU",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "Mate 80 系列",
+          "bucket": "A"
+        },
+        {
+          "relation": "搭载芯片",
+          "value": "麒麟9030",
+          "bucket": "A"
+        },
+        {
+          "relation": "搭载芯片_16GB版",
+          "value": "麒麟9030 Pro",
+          "bucket": "B"
+        },
+        {
+          "relation": "屏幕",
+          "value": "6.75英寸OLED",
+          "bucket": "A"
+        },
+        {
+          "relation": "电池",
+          "value": "5750mAh",
+          "bucket": "A"
+        },
+        {
+          "relation": "有线快充",
+          "value": "100W",
+          "bucket": "A"
+        },
+        {
+          "relation": "无线快充",
+          "value": "80W",
+          "bucket": "A"
+        },
+        {
+          "relation": "极限续航",
+          "value": "13天",
+          "bucket": "A"
+        },
+        {
+          "relation": "后置主摄",
+          "value": "5000万像素超聚光主摄",
+          "bucket": "A"
+        },
+        {
+          "relation": "传感器",
+          "value": "1/1.28英寸",
+          "bucket": "A"
+        },
+        {
+          "relation": "微距长焦",
+          "value": "4800万像素超聚光微距长焦",
+          "bucket": "A"
+        },
+        {
+          "relation": "微距长焦变焦",
+          "value": "4X/8X",
+          "bucket": "A"
+        },
+        {
+          "relation": "超广角",
+          "value": "4000万像素",
+          "bucket": "A"
+        },
+        {
+          "relation": "影像芯片",
+          "value": "第九代ISP",
+          "bucket": "A"
+        },
+        {
+          "relation": "实时数据处理提升",
+          "value": "100%",
+          "bucket": "B"
+        },
+        {
+          "relation": "性能提升",
+          "value": "较Mate 70 Pro提升35%",
+          "bucket": "B"
+        },
+        {
+          "relation": "售价",
+          "value": "5999元起",
+          "bucket": "A"
+        },
+        {
+          "relation": "产品定位",
+          "value": "商务旗舰",
+          "bucket": "A"
+        },
+        {
+          "relation": "产品定位",
+          "value": "全能旗舰",
+          "bucket": "A"
+        },
+        {
+          "relation": "中框",
+          "value": "亮面铝合金",
+          "bucket": "A"
+        },
+        {
+          "relation": "重量",
+          "value": "约219克",
+          "bucket": "A"
+        },
+        {
+          "relation": "可选配件",
+          "value": "TILTA专业影像套装",
+          "bucket": "B"
+        }
+      ]
+    },
+    {
+      "entity": "Mate 80 Pro Max",
+      "level": "SPU",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "Mate 80 系列",
+          "bucket": "A"
+        },
+        {
+          "relation": "搭载芯片",
+          "value": "麒麟9030 Pro",
+          "bucket": "A"
+        },
+        {
+          "relation": "屏幕",
+          "value": "6.9英寸超透亮灵珑屏",
+          "bucket": "A"
+        },
+        {
+          "relation": "屏幕类型",
+          "value": "1.5K双层OLED",
+          "bucket": "A"
+        },
+        {
+          "relation": "峰值亮度",
+          "value": "8000nits",
+          "bucket": "A"
+        },
+        {
+          "relation": "电池",
+          "value": "6000mAh",
+          "bucket": "A"
+        },
+        {
+          "relation": "散热",
+          "value": "超冷双相变散热系统",
+          "bucket": "A"
+        },
+        {
+          "relation": "性能提升",
+          "value": "较上一代提升42%",
+          "bucket": "B"
+        },
+        {
+          "relation": "特性",
+          "value": "实时光线追踪",
+          "bucket": "A"
+        },
+        {
+          "relation": "后置主摄",
+          "value": "5000万像素超高动态主摄",
+          "bucket": "A"
+        },
+        {
+          "relation": "潜望长焦_4X",
+          "value": "4800万像素",
+          "bucket": "A"
+        },
+        {
+          "relation": "潜望长焦_6.2X",
+          "value": "5000万像素",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "5cm微距对焦",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "长焦微距慢动作",
+          "bucket": "A"
+        },
+        {
+          "relation": "极限续航",
+          "value": "14天",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "全金属架构增强天线",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "连续36小时息屏导航",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "全向卫星寻呼",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "7999元起",
+          "bucket": "A"
+        },
+        {
+          "relation": "产品定位",
+          "value": "商务旗舰",
+          "bucket": "A"
+        },
+        {
+          "relation": "产品定位",
+          "value": "顶配影像",
+          "bucket": "A"
+        }
+      ]
+    },
+    {
+      "entity": "Mate 80 RS 非凡大师",
+      "level": "SPU",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "Mate 80 系列",
+          "bucket": "A"
+        },
+        {
+          "relation": "搭载芯片",
+          "value": "麒麟9030 Pro",
+          "bucket": "A"
+        },
+        {
+          "relation": "内存",
+          "value": "20GB",
+          "bucket": "A"
+        },
+        {
+          "relation": "屏幕",
+          "value": "6.9英寸第三代玄武钢化昆仑玻璃",
+          "bucket": "A"
+        },
+        {
+          "relation": "电池",
+          "value": "6000mAh",
+          "bucket": "A"
+        },
+        {
+          "relation": "机身",
+          "value": "全金属",
+          "bucket": "A"
+        },
+        {
+          "relation": "配色",
+          "value": "槿紫",
+          "bucket": "A"
+        },
+        {
+          "relation": "售价",
+          "value": "11999元起",
+          "bucket": "A"
+        },
+        {
+          "relation": "产品定位",
+          "value": "超高端商务",
+          "bucket": "A"
+        },
+        {
+          "relation": "产品定位",
+          "value": "奢华旗舰",
+          "bucket": "A"
+        }
+      ]
+    },
+    {
+      "entity": "Mate 80 Pro Max 风驰版",
+      "level": "SPU",
+      "triples": [
+        {
+          "relation": "is_a",
+          "value": "Mate 80 系列",
+          "bucket": "A"
+        },
+        {
+          "relation": "发布时间",
+          "value": "2026年3月23日",
+          "bucket": "A"
+        },
+        {
+          "relation": "搭载芯片",
+          "value": "麒麟9030 Pro",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "风驰散热架构",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "隐藏式无感出风设计",
+          "bucket": "A"
+        },
+        {
+          "relation": "特性",
+          "value": "超空间内存技术",
+          "bucket": "A"
+        }
+      ]
+    }
+  ]
+}

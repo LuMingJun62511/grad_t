@@ -1,0 +1,36 @@
+华为
+├─ 笔记本
+   ├─ MateBook Fold 系列
+      └─ **MateBook Fold 非凡大师**
+华为
+├─ 笔记本
+   ├─ MateBook Pro 系列
+      └─ **MateBook Pro S**
+华为
+├─ 笔记本
+   ├─ MateBook Pro 系列
+      └─ **MateBook Pro**
+华为
+├─ 笔记本
+   ├─ MateBook X Pro 系列
+      └─ **MateBook X Pro**
+华为
+├─ 笔记本
+   ├─ MateBook GT 系列
+      └─ **MateBook GT**
+华为
+├─ 笔记本
+   ├─ MateBook 数字系列
+      └─ **MateBook 14 鸿蒙版**
+华为
+├─ 笔记本
+   ├─ MateBook 数字系列
+      └─ **MateBook 14 Linux 版**
+华为
+├─ 笔记本
+   ├─ MateBook D 系列
+      └─ **MateBook D 16 SE**
+华为
+├─ 笔记本
+   ├─ MateBook E 系列
+      └─ **MateBook E**

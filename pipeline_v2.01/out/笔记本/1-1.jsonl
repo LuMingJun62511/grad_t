@@ -1,0 +1,38 @@
+{"q": "MateBook Fold 非凡大师的形态是什么？", "a": "折叠", "entity": "MateBook Fold 非凡大师", "relation": "形态"}
+{"q": "MateBook Fold 非凡大师的屏幕尺寸是多少？", "a": "18英寸", "entity": "MateBook Fold 非凡大师", "relation": "屏幕尺寸"}
+{"q": "MateBook Fold 非凡大师的折叠尺寸大概多少？", "a": "13英寸", "entity": "MateBook Fold 非凡大师", "relation": "折叠尺寸"}
+{"q": "MateBook Fold 非凡大师的屏幕类型是啥？", "a": "双层OLED", "entity": "MateBook Fold 非凡大师", "relation": "屏幕类型"}
+{"q": "MateBook Fold 非凡大师的处理器呢？", "a": "麒麟X90 Plus", "entity": "MateBook Fold 非凡大师", "relation": "处理器"}
+{"q": "MateBook Fold 非凡大师的操作系统是什么？", "a": "鸿蒙", "entity": "MateBook Fold 非凡大师", "relation": "操作系统"}
+{"q": "MateBook Fold 非凡大师的铰链是啥？", "a": "玄武水滴铰链", "entity": "MateBook Fold 非凡大师", "relation": "铰链"}
+{"q": "MateBook Fold 非凡大师的手写笔呢？", "a": "支持 M-Pen3", "entity": "MateBook Fold 非凡大师", "relation": "手写笔"}
+{"q": "MateBook Fold 非凡大师的售价有多少？", "a": "24999元", "entity": "MateBook Fold 非凡大师", "relation": "售价"}
+{"q": "MateBook Pro S的重量是多少？", "a": "798g", "entity": "MateBook Pro S", "relation": "重量"}
+{"q": "MateBook Pro S的处理器是什么？", "a": "麒麟XE90", "entity": "MateBook Pro S", "relation": "处理器"}
+{"q": "MateBook Pro S的屏幕尺寸大概多少？", "a": "14.2英寸", "entity": "MateBook Pro S", "relation": "屏幕尺寸"}
+{"q": "MateBook Pro S的材质是啥？", "a": "镁锂合金", "entity": "MateBook Pro S", "relation": "材质"}
+{"q": "MateBook Pro S的售价有多少？", "a": "7999元起", "entity": "MateBook Pro S", "relation": "售价"}
+{"q": "MateBook Pro S的版本呢？", "a": "标准版 / 柔光版 / 防窥版 / 典藏版", "entity": "MateBook Pro S", "relation": "版本"}
+{"q": "MateBook Pro的重量是多少？", "a": "970g", "entity": "MateBook Pro", "relation": "重量"}
+{"q": "MateBook Pro的处理器是什么？", "a": "麒麟X90 Plus", "entity": "MateBook Pro", "relation": "处理器"}
+{"q": "MateBook Pro的性能释放是啥？", "a": "40W", "entity": "MateBook Pro", "relation": "性能释放"}
+{"q": "MateBook X Pro的处理器呢？", "a": "酷睿Ultra9", "entity": "MateBook X Pro", "relation": "处理器"}
+{"q": "MateBook X Pro的屏幕类型是什么？", "a": "3.1K OLED柔性屏", "entity": "MateBook X Pro", "relation": "屏幕类型"}
+{"q": "MateBook X Pro的重量大概多少？", "a": "1.26kg", "entity": "MateBook X Pro", "relation": "重量"}
+{"q": "MateBook X Pro的内存是啥？", "a": "32GB", "entity": "MateBook X Pro", "relation": "内存"}
+{"q": "MateBook X Pro的存储呢？", "a": "2TB", "entity": "MateBook X Pro", "relation": "存储"}
+{"q": "MateBook X Pro的充电功率是什么？", "a": "140W", "entity": "MateBook X Pro", "relation": "充电功率"}
+{"q": "MateBook X Pro的天线是啥？", "a": "3D超材料天线", "entity": "MateBook X Pro", "relation": "天线"}
+{"q": "MateBook X Pro的操作系统呢？", "a": "Windows", "entity": "MateBook X Pro", "relation": "操作系统"}
+{"q": "MateBook GT的产品定位是什么？", "a": "高性能", "entity": "MateBook GT", "relation": "产品定位"}
+{"q": "MateBook GT的发布时间是多久？", "a": "2024年", "entity": "MateBook GT", "relation": "发布时间"}
+{"q": "MateBook 14 鸿蒙版的操作系统是啥？", "a": "鸿蒙", "entity": "MateBook 14 鸿蒙版", "relation": "操作系统"}
+{"q": "MateBook 14 鸿蒙版的售价有多少？", "a": "6599元起", "entity": "MateBook 14 鸿蒙版", "relation": "售价"}
+{"q": "MateBook 14 Linux 版的操作系统呢？", "a": "Linux", "entity": "MateBook 14 Linux 版", "relation": "操作系统"}
+{"q": "MateBook 14 Linux 版的重量是多少？", "a": "1.31kg", "entity": "MateBook 14 Linux 版", "relation": "重量"}
+{"q": "MateBook 14 Linux 版的厚度是什么？", "a": "14.5mm", "entity": "MateBook 14 Linux 版", "relation": "厚度"}
+{"q": "MateBook D 16 SE的屏幕尺寸大概多少？", "a": "16英寸", "entity": "MateBook D 16 SE", "relation": "屏幕尺寸"}
+{"q": "MateBook D 16 SE的屏幕类型是啥？", "a": "护眼屏", "entity": "MateBook D 16 SE", "relation": "屏幕类型"}
+{"q": "MateBook D 16 SE的键盘呢？", "a": "数字小键盘", "entity": "MateBook D 16 SE", "relation": "键盘"}
+{"q": "MateBook D 16 SE的售价有多少？", "a": "4000-5000元", "entity": "MateBook D 16 SE", "relation": "售价"}
+{"q": "MateBook E的形态是什么？", "a": "二合一(可拆卸)", "entity": "MateBook E", "relation": "形态"}

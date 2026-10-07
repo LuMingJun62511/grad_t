@@ -1,0 +1,71 @@
+{
+  "name": "华为",
+  "type": "公司",
+  "children": [
+    {
+      "name": "手机",
+      "type": "产线",
+      "children": [
+        {
+          "name": "Mate 系",
+          "type": "系列",
+          "children": [
+            {
+              "name": "Mate 80 系列",
+              "type": "代",
+              "children": [
+                {
+                  "name": "Mate 80",
+                  "type": "SPU",
+                  "children": [],
+                  "_path": "华为 > 手机 > Mate 系 > Mate 80 系列 > Mate 80"
+                },
+                {
+                  "name": "Mate 80 Pro",
+                  "type": "SPU",
+                  "children": [],
+                  "_path": "华为 > 手机 > Mate 系 > Mate 80 系列 > Mate 80 Pro"
+                },
+                {
+                  "name": "Mate 80 Pro Max",
+                  "type": "SPU",
+                  "children": [],
+                  "_path": "华为 > 手机 > Mate 系 > Mate 80 系列 > Mate 80 Pro Max"
+                },
+                {
+                  "name": "Mate 80 RS 非凡大师",
+                  "type": "SPU",
+                  "children": [],
+                  "_path": "华为 > 手机 > Mate 系 > Mate 80 系列 > Mate 80 RS 非凡大师"
+                },
+                {
+                  "name": "Mate 80 Pro Max 风驰版",
+                  "type": "SPU",
+                  "children": [],
+                  "_path": "华为 > 手机 > Mate 系 > Mate 80 系列 > Mate 80 Pro Max 风驰版"
+                }
+              ],
+              "_path": "华为 > 手机 > Mate 系 > Mate 80 系列"
+            }
+          ],
+          "_path": "华为 > 手机 > Mate 系",
+          "facts": [
+            {
+              "relation": "命名后缀",
+              "value": "Pro / Pro Max / RS 非凡大师",
+              "semantics": "规则"
+            },
+            {
+              "relation": "命名排除",
+              "value": "Ultra",
+              "semantics": "规则"
+            }
+          ],
+          "level": "系列"
+        }
+      ],
+      "_path": "华为 > 手机"
+    }
+  ],
+  "_path": "华为"
+}

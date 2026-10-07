@@ -1,0 +1,56 @@
+{"q": "Mate 80 系列的发布时间是多久？", "a": "2025年11月25日", "entity": "Mate 80 系列", "relation": "发布时间", "档": 0}
+{"q": "Mate 80 系列的开售时间多长时间？", "a": "2025年11月28日", "entity": "Mate 80 系列", "relation": "开售时间", "档": 0}
+{"q": "Mate 80 系列的操作系统是什么？", "a": "HarmonyOS 6", "entity": "Mate 80 系列", "relation": "操作系统", "档": 0}
+{"q": "Mate 80的搭载芯片是啥？", "a": "麒麟9020", "entity": "Mate 80", "relation": "搭载芯片", "档": 0}
+{"q": "Mate 80的屏幕呢？", "a": "6.75英寸OLED", "entity": "Mate 80", "relation": "屏幕", "档": 0}
+{"q": "Mate 80的屏幕分辨率是什么？", "a": "2832x1280", "entity": "Mate 80", "relation": "屏幕分辨率", "档": 0}
+{"q": "Mate 80的电池是啥？", "a": "5750mAh", "entity": "Mate 80", "relation": "电池", "档": 0}
+{"q": "Mate 80的有线快充呢？", "a": "66W", "entity": "Mate 80", "relation": "有线快充", "档": 0}
+{"q": "Mate 80的无线快充是什么？", "a": "50W", "entity": "Mate 80", "relation": "无线快充", "档": 0}
+{"q": "Mate 80的后置主摄是啥？", "a": "5000万像素超光变主摄", "entity": "Mate 80", "relation": "后置主摄", "档": 0}
+{"q": "Mate 80的主摄光圈呢？", "a": "F1.4-F4.0十档可变光圈", "entity": "Mate 80", "relation": "主摄光圈", "档": 0}
+{"q": "Mate 80的长焦是什么？", "a": "1200万像素潜望式长焦", "entity": "Mate 80", "relation": "长焦", "档": 0}
+{"q": "Mate 80的光学变焦是啥？", "a": "5.5X", "entity": "Mate 80", "relation": "光学变焦", "档": 0}
+{"q": "Mate 80的超广角呢？", "a": "4000万像素", "entity": "Mate 80", "relation": "超广角", "档": 0}
+{"q": "Mate 80的前置摄像头是什么？", "a": "1300万像素超广角", "entity": "Mate 80", "relation": "前置摄像头", "档": 0}
+{"q": "Mate 80的售价是多少？", "a": "4699元起", "entity": "Mate 80", "relation": "售价", "档": 0}
+{"q": "Mate 80的机身设计是啥？", "a": "背部双环", "entity": "Mate 80", "relation": "机身设计", "档": 0}
+{"q": "Mate 80的材质呢？", "a": "锦纤后盖", "entity": "Mate 80", "relation": "材质", "档": 0}
+{"q": "Mate 80的中框是什么？", "a": "磨砂铝合金", "entity": "Mate 80", "relation": "中框", "档": 0}
+{"q": "Mate 80的重量大概多少？", "a": "约217克", "entity": "Mate 80", "relation": "重量", "档": 0}
+{"q": "Mate 80的厚度是啥？", "a": "7.95mm", "entity": "Mate 80", "relation": "厚度", "档": 0}
+{"q": "Mate 80 Pro的搭载芯片呢？", "a": "麒麟9030", "entity": "Mate 80 Pro", "relation": "搭载芯片", "档": 0}
+{"q": "Mate 80 Pro的屏幕是什么？", "a": "6.75英寸OLED", "entity": "Mate 80 Pro", "relation": "屏幕", "档": 0}
+{"q": "Mate 80 Pro的电池是啥？", "a": "5750mAh", "entity": "Mate 80 Pro", "relation": "电池", "档": 0}
+{"q": "Mate 80 Pro的有线快充呢？", "a": "100W", "entity": "Mate 80 Pro", "relation": "有线快充", "档": 0}
+{"q": "Mate 80 Pro的无线快充是什么？", "a": "80W", "entity": "Mate 80 Pro", "relation": "无线快充", "档": 0}
+{"q": "Mate 80 Pro的极限续航能撑多久？", "a": "13天", "entity": "Mate 80 Pro", "relation": "极限续航", "档": 0}
+{"q": "Mate 80 Pro的后置主摄是啥？", "a": "5000万像素超聚光主摄", "entity": "Mate 80 Pro", "relation": "后置主摄", "档": 0}
+{"q": "Mate 80 Pro的传感器呢？", "a": "1/1.28英寸", "entity": "Mate 80 Pro", "relation": "传感器", "档": 0}
+{"q": "Mate 80 Pro的微距长焦是什么？", "a": "4800万像素超聚光微距长焦", "entity": "Mate 80 Pro", "relation": "微距长焦", "档": 0}
+{"q": "Mate 80 Pro的微距长焦变焦是啥？", "a": "4X/8X", "entity": "Mate 80 Pro", "relation": "微距长焦变焦", "档": 0}
+{"q": "Mate 80 Pro的超广角呢？", "a": "4000万像素", "entity": "Mate 80 Pro", "relation": "超广角", "档": 0}
+{"q": "Mate 80 Pro的影像芯片是什么？", "a": "第九代ISP", "entity": "Mate 80 Pro", "relation": "影像芯片", "档": 0}
+{"q": "Mate 80 Pro的售价有多少？", "a": "5999元起", "entity": "Mate 80 Pro", "relation": "售价", "档": 0}
+{"q": "Mate 80 Pro的中框是啥？", "a": "亮面铝合金", "entity": "Mate 80 Pro", "relation": "中框", "档": 0}
+{"q": "Mate 80 Pro的重量是多少？", "a": "约219克", "entity": "Mate 80 Pro", "relation": "重量", "档": 0}
+{"q": "Mate 80 Pro Max的搭载芯片呢？", "a": "麒麟9030 Pro", "entity": "Mate 80 Pro Max", "relation": "搭载芯片", "档": 0}
+{"q": "Mate 80 Pro Max的屏幕是什么？", "a": "6.9英寸超透亮灵珑屏", "entity": "Mate 80 Pro Max", "relation": "屏幕", "档": 0}
+{"q": "Mate 80 Pro Max的屏幕类型是啥？", "a": "1.5K双层OLED", "entity": "Mate 80 Pro Max", "relation": "屏幕类型", "档": 0}
+{"q": "Mate 80 Pro Max的峰值亮度大概多少？", "a": "8000nits", "entity": "Mate 80 Pro Max", "relation": "峰值亮度", "档": 0}
+{"q": "Mate 80 Pro Max的电池呢？", "a": "6000mAh", "entity": "Mate 80 Pro Max", "relation": "电池", "档": 0}
+{"q": "Mate 80 Pro Max的散热是什么？", "a": "超冷双相变散热系统", "entity": "Mate 80 Pro Max", "relation": "散热", "档": 0}
+{"q": "Mate 80 Pro Max的后置主摄是啥？", "a": "5000万像素超高动态主摄", "entity": "Mate 80 Pro Max", "relation": "后置主摄", "档": 0}
+{"q": "Mate 80 Pro Max的潜望长焦_4X呢？", "a": "4800万像素", "entity": "Mate 80 Pro Max", "relation": "潜望长焦_4X", "档": 0}
+{"q": "Mate 80 Pro Max的潜望长焦_6.2X是什么？", "a": "5000万像素", "entity": "Mate 80 Pro Max", "relation": "潜望长焦_6.2X", "档": 0}
+{"q": "Mate 80 Pro Max的极限续航是多久？", "a": "14天", "entity": "Mate 80 Pro Max", "relation": "极限续航", "档": 0}
+{"q": "Mate 80 Pro Max的售价有多少？", "a": "7999元起", "entity": "Mate 80 Pro Max", "relation": "售价", "档": 0}
+{"q": "Mate 80 RS 非凡大师的搭载芯片是啥？", "a": "麒麟9030 Pro", "entity": "Mate 80 RS 非凡大师", "relation": "搭载芯片", "档": 0}
+{"q": "Mate 80 RS 非凡大师的内存呢？", "a": "20GB", "entity": "Mate 80 RS 非凡大师", "relation": "内存", "档": 0}
+{"q": "Mate 80 RS 非凡大师的屏幕是什么？", "a": "6.9英寸第三代玄武钢化昆仑玻璃", "entity": "Mate 80 RS 非凡大师", "relation": "屏幕", "档": 0}
+{"q": "Mate 80 RS 非凡大师的电池是啥？", "a": "6000mAh", "entity": "Mate 80 RS 非凡大师", "relation": "电池", "档": 0}
+{"q": "Mate 80 RS 非凡大师的机身呢？", "a": "全金属", "entity": "Mate 80 RS 非凡大师", "relation": "机身", "档": 0}
+{"q": "Mate 80 RS 非凡大师的配色是什么？", "a": "槿紫", "entity": "Mate 80 RS 非凡大师", "relation": "配色", "档": 0}
+{"q": "Mate 80 RS 非凡大师的售价是多少？", "a": "11999元起", "entity": "Mate 80 RS 非凡大师", "relation": "售价", "档": 0}
+{"q": "Mate 80 Pro Max 风驰版的发布时间多长时间？", "a": "2026年3月23日", "entity": "Mate 80 Pro Max 风驰版", "relation": "发布时间", "档": 0}
+{"q": "Mate 80 Pro Max 风驰版的搭载芯片是啥？", "a": "麒麟9030 Pro", "entity": "Mate 80 Pro Max 风驰版", "relation": "搭载芯片", "档": 0}
